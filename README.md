@@ -4,8 +4,6 @@ An open-source breakbeat workstation for creating, analyzing and remixing classi
 
 BreakbeatTracker combines automatic drum slicing, intelligent sample recognition and tracker-style sequencing to help producers build authentic Jungle, Drum & Bass and Breakcore rhythms faster than ever.
 
-![Screenshot](docs/screenshot.png)
-
 ---
 
 ## Features
