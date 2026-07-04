@@ -1,0 +1,12 @@
+{
+  "version": "main_role_locks_v87",
+  "updated_at": "2026-07-02 10:41:45",
+  "breaks": {
+    "Dispatch_Break_2_-_2A": {
+      "main_roles": {
+        "kick": 0
+      },
+      "updated_at": "2026-07-02 10:40:50"
+    }
+  }
+}

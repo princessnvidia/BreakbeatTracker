@@ -1,0 +1,29 @@
+M8-style slicer v10: Roll_On_Roll_2_-_10A
+Source: breaks/Roll On Roll 2 - 10A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Roll_On_Roll_2_-_10A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Roll_On_Roll_2_-_10A/Roll_On_Roll_2_-_10A_source_loop_preview_v10.wav
+
+slice 00 |     15.24 ->    193.74 ms | dur    178.50 ms | hybrid_snap_auto | score 0.246753
+slice 01 |    193.74 ->    348.30 ms | dur    154.56 ms | hybrid_snap_auto | score 0.301728
+slice 02 |    348.30 ->    383.31 ms | dur     35.01 ms | hat_rescue | score 0.784546
+slice 03 |    364.26 ->    535.33 ms | dur    171.07 ms | hybrid_snap_hat | score 0.717423
+slice 04 |    535.33 ->    698.78 ms | dur    163.45 ms | grid | score 1.0
+slice 05 |    698.78 ->    882.36 ms | dur    183.58 ms | hybrid_snap_auto | score 0.225101
+slice 06 |    882.36 ->    917.37 ms | dur     35.01 ms | hat_rescue | score 0.99177
+slice 07 |    901.22 ->    936.24 ms | dur     35.01 ms | hybrid_snap_hat | score 0.908737
+slice 08 |    914.29 ->   1070.68 ms | dur    156.39 ms | hat_rescue | score 0.636273
+slice 09 |   1070.68 ->   1234.29 ms | dur    163.61 ms | grid | score 1.0
+slice 10 |   1234.29 ->   1419.32 ms | dur    185.03 ms | hybrid_snap_auto | score 0.222786
+slice 11 |   1419.32 ->   1587.66 ms | dur    168.34 ms | hybrid_snap_auto | score 0.275143
+slice 12 |   1587.66 ->   1622.68 ms | dur     35.01 ms | hat_rescue | score 0.655044
+slice 13 |   1603.63 ->   1774.15 ms | dur    170.52 ms | hybrid_snap_hat | score 0.806796
+slice 14 |   1774.15 ->   1959.18 ms | dur    185.03 ms | hybrid_snap_auto | score 0.255736
+slice 15 |   1959.18 ->   2128.98 ms | dur    169.80 ms | hybrid_snap_hat | score 0.65082
+slice 16 |   2128.98 ->   2305.31 ms | dur    176.33 ms | hybrid_snap_auto | score 0.164584
+slice 17 |   2305.31 ->   2485.99 ms | dur    180.68 ms | hybrid_snap_auto | score 0.433209
+slice 18 |   2485.99 ->   2677.55 ms | dur    191.56 ms | hybrid_snap_auto | score 0.270017
+slice 19 |   2677.55 ->   2855.15 ms | dur    177.60 ms | hybrid_snap_auto | score 0.210718

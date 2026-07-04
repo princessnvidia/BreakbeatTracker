@@ -1,0 +1,13 @@
+{
+  "version": "rejected_variants_v97",
+  "updated_at": "2026-07-02 10:58:26",
+  "breaks": {
+    "Connected_Break_-_7B": {
+      "rejected_variant_ids": [
+        "A_same"
+      ],
+      "updated_at": "2026-07-02 10:58:26",
+      "last_rejected": "A_same"
+    }
+  }
+}

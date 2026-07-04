@@ -1,0 +1,36 @@
+{
+  "version": "find_good_cuts_v01",
+  "source": "breaks/Camo Break - 3A.wav",
+  "target_cuts": 16,
+  "min_ms": 45.0,
+  "methods": [
+    {
+      "method": "01_onset_backtrack",
+      "slice_count": 23,
+      "reconstruction": "exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/01_onset_backtrack_reconstruction.wav",
+      "report": "exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/cuts_report.txt",
+      "dir": "exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack"
+    },
+    {
+      "method": "02_onset_strong",
+      "slice_count": 16,
+      "reconstruction": "exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/02_onset_strong_reconstruction.wav",
+      "report": "exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/cuts_report.txt",
+      "dir": "exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong"
+    },
+    {
+      "method": "03_grid_snap",
+      "slice_count": 17,
+      "reconstruction": "exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/03_grid_snap_reconstruction.wav",
+      "report": "exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/cuts_report.txt",
+      "dir": "exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap"
+    },
+    {
+      "method": "04_hybrid",
+      "slice_count": 16,
+      "reconstruction": "exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/04_hybrid_reconstruction.wav",
+      "report": "exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/cuts_report.txt",
+      "dir": "exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+METHOD: 02_onset_strong
+SLICE COUNT: 16
+
+IDX | START_MS | END_MS | DUR | FILE
+-----------------------------------
+000 |      0.0 |    371.5 | 0.372s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_000_0ms.wav
+001 |    371.5 |    557.3 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_001_371ms.wav
+002 |    557.3 |    743.0 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_002_557ms.wav
+003 |    743.0 |    835.9 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_003_743ms.wav
+004 |    835.9 |    928.8 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_004_835ms.wav
+005 |    928.8 |   1114.6 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_005_928ms.wav
+006 |   1114.6 |   1300.3 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_006_1114ms.wav
+007 |   1300.3 |   1846.0 | 0.546s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_007_1300ms.wav
+008 |   1846.0 |   2031.7 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_008_1845ms.wav
+009 |   2031.7 |   2124.6 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_009_2031ms.wav
+010 |   2124.6 |   2310.4 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_010_2124ms.wav
+011 |   2310.4 |   2403.3 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_011_2310ms.wav
+012 |   2403.3 |   2577.4 | 0.174s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_012_2403ms.wav
+013 |   2577.4 |   2763.2 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_013_2577ms.wav
+014 |   2763.2 |   2856.1 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_014_2763ms.wav
+015 |   2856.1 |   2941.0 | 0.085s | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/slices/slice_015_2856ms.wav

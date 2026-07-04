@@ -1,0 +1,22 @@
+METHOD: 03_grid_snap
+SLICE COUNT: 17
+
+IDX | START_MS | END_MS | DUR | FILE
+-----------------------------------
+000 |      0.0 |     15.0 | 0.015s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_000_0ms.wav
+001 |     15.0 |    197.8 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_001_14ms.wav
+002 |    197.8 |    380.7 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_002_197ms.wav
+003 |    380.7 |    563.6 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_003_380ms.wav
+004 |    563.6 |    746.5 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_004_563ms.wav
+005 |    746.5 |    929.3 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_005_746ms.wav
+006 |    929.3 |   1112.2 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_006_929ms.wav
+007 |   1112.2 |   1295.1 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_007_1112ms.wav
+008 |   1295.1 |   1478.0 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_008_1295ms.wav
+009 |   1478.0 |   1660.9 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_009_1477ms.wav
+010 |   1660.9 |   1843.7 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_010_1660ms.wav
+011 |   1843.7 |   2026.6 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_011_1843ms.wav
+012 |   2026.6 |   2209.5 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_012_2026ms.wav
+013 |   2209.5 |   2392.4 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_013_2209ms.wav
+014 |   2392.4 |   2575.3 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_014_2392ms.wav
+015 |   2575.3 |   2758.1 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_015_2575ms.wav
+016 |   2758.1 |   2941.0 | 0.183s | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/slices/slice_016_2758ms.wav

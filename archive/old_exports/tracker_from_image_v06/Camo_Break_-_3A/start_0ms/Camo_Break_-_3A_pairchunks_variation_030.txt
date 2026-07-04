@@ -1,0 +1,12 @@
+PAIR ORDER:
+1 1 2 3 3 6 6 7
+
+BLOCK DETAILS:
+POS 00 -> PAIR 1 | dur=0.364s | indices=7 8 9 10 11 12 13 14 | roles=snare hat kick snare kick hat kick snare
+POS 01 -> PAIR 1 | dur=0.364s | indices=7 8 9 10 11 12 13 14 | roles=snare hat kick snare kick hat kick snare
+POS 02 -> PAIR 2 | dur=0.392s | indices=15 16 17 18 19 20 21 22 23 | roles=hat snare kick hat snare hat hat kick snare
+POS 03 -> PAIR 3 | dur=0.417s | indices=24 25 26 27 28 29 30 31 32 | roles=hat kick hat snare kick hat hat snare hat
+POS 04 -> PAIR 3 | dur=0.417s | indices=24 25 26 27 28 29 30 31 32 | roles=hat kick hat snare kick hat hat snare hat
+POS 05 -> PAIR 6 | dur=0.414s | indices=50 51 52 53 54 55 56 57 58 | roles=hat snare hat hat kick snare hat kick hat
+POS 06 -> PAIR 6 | dur=0.414s | indices=50 51 52 53 54 55 56 57 58 | roles=hat snare hat hat kick snare hat kick hat
+POS 07 -> PAIR 7 | dur=0.275s | indices=59 60 61 62 63 64 | roles=snare kick hat hat snare hat

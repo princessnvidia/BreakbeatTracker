@@ -1,0 +1,21 @@
+METHOD: 04_hybrid
+SLICE COUNT: 16
+
+IDX | START_MS | END_MS | DUR | FILE
+-----------------------------------
+000 |      0.0 |    197.8 | 0.198s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_000_0ms.wav
+001 |    197.8 |    348.3 | 0.150s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_001_197ms.wav
+002 |    348.3 |    545.7 | 0.197s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_002_348ms.wav
+003 |    545.7 |    731.4 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_003_545ms.wav
+004 |    731.4 |    905.6 | 0.174s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_004_731ms.wav
+005 |    905.6 |   1091.3 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_005_905ms.wav
+006 |   1091.3 |   1277.1 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_006_1091ms.wav
+007 |   1277.1 |   1462.9 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_007_1277ms.wav
+008 |   1462.9 |   1660.9 | 0.198s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_008_1462ms.wav
+009 |   1660.9 |   1811.2 | 0.150s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_009_1660ms.wav
+010 |   1811.2 |   2008.5 | 0.197s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_010_1811ms.wav
+011 |   2008.5 |   2171.1 | 0.163s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_011_2008ms.wav
+012 |   2171.1 |   2380.0 | 0.209s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_012_2171ms.wav
+013 |   2380.0 |   2565.8 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_013_2380ms.wav
+014 |   2565.8 |   2751.6 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_014_2565ms.wav
+015 |   2751.6 |   2941.0 | 0.189s | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/slices/slice_015_2751ms.wav

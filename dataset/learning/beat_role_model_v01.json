@@ -1,0 +1,3196 @@
+{
+  "version": "beat_role_model_v01",
+  "created_at": "2026-07-02T13:50:07",
+  "grid_steps": 32,
+  "roles": [
+    "kick",
+    "snare",
+    "hat",
+    "other"
+  ],
+  "patterns_found": 10,
+  "patterns_used": 10,
+  "patterns_skipped_no_pair_project": 0,
+  "global": {
+    "step_role_counts": {
+      "0": {
+        "hat": 8.0,
+        "kick": 42.0
+      },
+      "1": {
+        "hat": 8.0
+      },
+      "2": {
+        "hat": 30.0,
+        "other": 8.0,
+        "snare": 12.0
+      },
+      "3": {
+        "hat": 8.0
+      },
+      "4": {
+        "hat": 34.0,
+        "snare": 16.0
+      },
+      "5": {
+        "kick": 8.0
+      },
+      "6": {
+        "hat": 42.0,
+        "kick": 4.0,
+        "other": 4.0
+      },
+      "7": {
+        "hat": 8.0
+      },
+      "8": {
+        "hat": 30.0,
+        "kick": 8.0,
+        "other": 8.0,
+        "snare": 4.0
+      },
+      "9": {
+        "hat": 8.0
+      },
+      "10": {
+        "hat": 8.0,
+        "kick": 34.0,
+        "snare": 8.0
+      },
+      "11": {
+        "hat": 8.0
+      },
+      "12": {
+        "hat": 34.0,
+        "snare": 16.0
+      },
+      "13": {
+        "kick": 8.0
+      },
+      "14": {
+        "hat": 38.0,
+        "other": 8.0,
+        "snare": 4.0
+      },
+      "15": {
+        "hat": 8.0
+      },
+      "16": {
+        "hat": 8.0,
+        "kick": 42.0
+      },
+      "17": {
+        "hat": 8.0
+      },
+      "18": {
+        "hat": 30.0,
+        "other": 8.0,
+        "snare": 12.0
+      },
+      "19": {
+        "hat": 8.0
+      },
+      "20": {
+        "hat": 34.0,
+        "snare": 16.0
+      },
+      "21": {
+        "kick": 8.0
+      },
+      "22": {
+        "hat": 42.0,
+        "other": 4.0,
+        "snare": 4.0
+      },
+      "23": {
+        "hat": 8.0
+      },
+      "24": {
+        "hat": 30.0,
+        "kick": 8.0,
+        "other": 8.0,
+        "snare": 4.0
+      },
+      "25": {
+        "hat": 8.0
+      },
+      "26": {
+        "hat": 8.0,
+        "kick": 34.0,
+        "snare": 8.0
+      },
+      "27": {
+        "hat": 8.0
+      },
+      "28": {
+        "hat": 34.0,
+        "snare": 16.0
+      },
+      "29": {
+        "kick": 8.0
+      },
+      "30": {
+        "hat": 38.0,
+        "other": 8.0,
+        "snare": 4.0
+      },
+      "31": {
+        "hat": 44.0,
+        "kick": 8.0,
+        "snare": 24.0
+      }
+    },
+    "role_counts": {
+      "hat": 580.0,
+      "kick": 212.0,
+      "other": 56.0,
+      "snare": 148.0
+    },
+    "role_transition_counts": {
+      "hat": {
+        "hat": 308.0,
+        "kick": 118.0,
+        "other": 48.0,
+        "snare": 72.0
+      },
+      "kick": {
+        "hat": 176.0,
+        "kick": 4.0,
+        "snare": 32.0
+      },
+      "other": {
+        "hat": 40.0,
+        "other": 8.0
+      },
+      "snare": {
+        "hat": 48.0,
+        "kick": 48.0,
+        "snare": 44.0
+      }
+    },
+    "step_role_length_counts": {
+      "0": {
+        "hat": {
+          "2": 8.0
+        },
+        "kick": {
+          "1": 8.0,
+          "2": 34.0
+        }
+      },
+      "1": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "2": {
+        "hat": {
+          "2": 30.0
+        },
+        "other": {
+          "2": 8.0
+        },
+        "snare": {
+          "1": 8.0,
+          "2": 4.0
+        }
+      },
+      "3": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "4": {
+        "hat": {
+          "2": 34.0
+        },
+        "snare": {
+          "1": 8.0,
+          "2": 8.0
+        }
+      },
+      "5": {
+        "kick": {
+          "1": 8.0
+        }
+      },
+      "6": {
+        "hat": {
+          "1": 8.0,
+          "2": 34.0
+        },
+        "kick": {
+          "2": 4.0
+        },
+        "other": {
+          "2": 4.0
+        }
+      },
+      "7": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "8": {
+        "hat": {
+          "2": 30.0
+        },
+        "kick": {
+          "1": 8.0
+        },
+        "other": {
+          "2": 8.0
+        },
+        "snare": {
+          "2": 4.0
+        }
+      },
+      "9": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "10": {
+        "hat": {
+          "2": 8.0
+        },
+        "kick": {
+          "2": 34.0
+        },
+        "snare": {
+          "1": 8.0
+        }
+      },
+      "11": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "12": {
+        "hat": {
+          "2": 34.0
+        },
+        "snare": {
+          "1": 8.0,
+          "2": 8.0
+        }
+      },
+      "13": {
+        "kick": {
+          "1": 8.0
+        }
+      },
+      "14": {
+        "hat": {
+          "1": 8.0,
+          "2": 30.0
+        },
+        "other": {
+          "2": 8.0
+        },
+        "snare": {
+          "2": 4.0
+        }
+      },
+      "15": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "16": {
+        "hat": {
+          "2": 8.0
+        },
+        "kick": {
+          "1": 8.0,
+          "2": 34.0
+        }
+      },
+      "17": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "18": {
+        "hat": {
+          "2": 30.0
+        },
+        "other": {
+          "2": 8.0
+        },
+        "snare": {
+          "1": 8.0,
+          "2": 4.0
+        }
+      },
+      "19": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "20": {
+        "hat": {
+          "2": 34.0
+        },
+        "snare": {
+          "1": 8.0,
+          "2": 8.0
+        }
+      },
+      "21": {
+        "kick": {
+          "1": 8.0
+        }
+      },
+      "22": {
+        "hat": {
+          "1": 8.0,
+          "2": 34.0
+        },
+        "other": {
+          "2": 4.0
+        },
+        "snare": {
+          "2": 4.0
+        }
+      },
+      "23": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "24": {
+        "hat": {
+          "2": 30.0
+        },
+        "kick": {
+          "1": 8.0
+        },
+        "other": {
+          "2": 8.0
+        },
+        "snare": {
+          "2": 4.0
+        }
+      },
+      "25": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "26": {
+        "hat": {
+          "2": 8.0
+        },
+        "kick": {
+          "2": 34.0
+        },
+        "snare": {
+          "1": 8.0
+        }
+      },
+      "27": {
+        "hat": {
+          "1": 8.0
+        }
+      },
+      "28": {
+        "hat": {
+          "2": 34.0
+        },
+        "snare": {
+          "1": 8.0,
+          "2": 8.0
+        }
+      },
+      "29": {
+        "kick": {
+          "1": 8.0
+        }
+      },
+      "30": {
+        "hat": {
+          "1": 8.0,
+          "2": 30.0
+        },
+        "other": {
+          "2": 8.0
+        },
+        "snare": {
+          "2": 4.0
+        }
+      },
+      "31": {
+        "hat": {
+          "1": 8.0,
+          "2": 36.0
+        },
+        "kick": {
+          "2": 8.0
+        },
+        "snare": {
+          "2": 24.0
+        }
+      }
+    }
+  },
+  "breaks": {
+    "Camo_Break_-_3A": {
+      "examples_count": 6,
+      "notes_count": 96,
+      "step_role_counts": {
+        "0": {
+          "hat": 8.0,
+          "kick": 26.0
+        },
+        "2": {
+          "hat": 26.0,
+          "other": 8.0
+        },
+        "4": {
+          "hat": 34.0
+        },
+        "6": {
+          "hat": 30.0,
+          "other": 4.0
+        },
+        "8": {
+          "hat": 26.0,
+          "other": 8.0
+        },
+        "10": {
+          "hat": 8.0,
+          "kick": 26.0
+        },
+        "12": {
+          "hat": 34.0
+        },
+        "14": {
+          "hat": 26.0,
+          "other": 8.0
+        },
+        "16": {
+          "hat": 8.0,
+          "kick": 26.0
+        },
+        "18": {
+          "hat": 26.0,
+          "other": 8.0
+        },
+        "20": {
+          "hat": 34.0
+        },
+        "22": {
+          "hat": 30.0,
+          "other": 4.0
+        },
+        "24": {
+          "hat": 26.0,
+          "other": 8.0
+        },
+        "26": {
+          "hat": 8.0,
+          "kick": 26.0
+        },
+        "28": {
+          "hat": 34.0
+        },
+        "30": {
+          "hat": 26.0,
+          "other": 8.0
+        }
+      },
+      "role_counts": {
+        "hat": 384.0,
+        "kick": 104.0,
+        "other": 56.0
+      },
+      "role_transition_counts": {
+        "hat": {
+          "hat": 232.0,
+          "kick": 78.0,
+          "other": 48.0
+        },
+        "kick": {
+          "hat": 104.0
+        },
+        "other": {
+          "hat": 40.0,
+          "other": 8.0
+        }
+      },
+      "step_role_length_counts": {
+        "0": {
+          "hat": {
+            "2": 8.0
+          },
+          "kick": {
+            "2": 26.0
+          }
+        },
+        "2": {
+          "hat": {
+            "2": 26.0
+          },
+          "other": {
+            "2": 8.0
+          }
+        },
+        "4": {
+          "hat": {
+            "2": 34.0
+          }
+        },
+        "6": {
+          "hat": {
+            "2": 30.0
+          },
+          "other": {
+            "2": 4.0
+          }
+        },
+        "8": {
+          "hat": {
+            "2": 26.0
+          },
+          "other": {
+            "2": 8.0
+          }
+        },
+        "10": {
+          "hat": {
+            "2": 8.0
+          },
+          "kick": {
+            "2": 26.0
+          }
+        },
+        "12": {
+          "hat": {
+            "2": 34.0
+          }
+        },
+        "14": {
+          "hat": {
+            "2": 26.0
+          },
+          "other": {
+            "2": 8.0
+          }
+        },
+        "16": {
+          "hat": {
+            "2": 8.0
+          },
+          "kick": {
+            "2": 26.0
+          }
+        },
+        "18": {
+          "hat": {
+            "2": 26.0
+          },
+          "other": {
+            "2": 8.0
+          }
+        },
+        "20": {
+          "hat": {
+            "2": 34.0
+          }
+        },
+        "22": {
+          "hat": {
+            "2": 30.0
+          },
+          "other": {
+            "2": 4.0
+          }
+        },
+        "24": {
+          "hat": {
+            "2": 26.0
+          },
+          "other": {
+            "2": 8.0
+          }
+        },
+        "26": {
+          "hat": {
+            "2": 8.0
+          },
+          "kick": {
+            "2": 26.0
+          }
+        },
+        "28": {
+          "hat": {
+            "2": 34.0
+          }
+        },
+        "30": {
+          "hat": {
+            "2": 26.0
+          },
+          "other": {
+            "2": 8.0
+          }
+        }
+      },
+      "pair_role_votes": {
+        "hat": {
+          "5": 16.0,
+          "6": 168.0,
+          "7": 104.0,
+          "12": 24.0,
+          "13": 72.0
+        },
+        "kick": {
+          "4": 16.0,
+          "11": 88.0
+        },
+        "other": {
+          "14": 56.0
+        }
+      },
+      "source_files": {
+        "dataset/learning/validated_patterns/Camo_Break_-_3A_human_validated_v67_20260702_085834.json": 1.0,
+        "dataset/learning/validated_patterns/Camo_Break_-_3A_human_validated_v67_20260702_090208.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v49.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v55.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v62.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v63.json": 1.0
+      }
+    },
+    "Alzir_Break_-_4A": {
+      "examples_count": 1,
+      "notes_count": 33,
+      "step_role_counts": {
+        "0": {
+          "kick": 4.0
+        },
+        "2": {
+          "hat": 4.0
+        },
+        "4": {
+          "snare": 4.0
+        },
+        "6": {
+          "hat": 4.0
+        },
+        "8": {
+          "hat": 4.0
+        },
+        "10": {
+          "kick": 4.0
+        },
+        "12": {
+          "snare": 4.0
+        },
+        "14": {
+          "hat": 4.0
+        },
+        "16": {
+          "kick": 4.0
+        },
+        "18": {
+          "hat": 4.0
+        },
+        "20": {
+          "snare": 4.0
+        },
+        "22": {
+          "hat": 4.0
+        },
+        "24": {
+          "hat": 4.0
+        },
+        "26": {
+          "kick": 4.0
+        },
+        "28": {
+          "snare": 4.0
+        },
+        "30": {
+          "hat": 4.0
+        },
+        "31": {
+          "hat": 36.0,
+          "kick": 8.0,
+          "snare": 24.0
+        }
+      },
+      "role_counts": {
+        "hat": 68.0,
+        "kick": 24.0,
+        "snare": 40.0
+      },
+      "role_transition_counts": {
+        "hat": {
+          "hat": 44.0,
+          "kick": 16.0,
+          "snare": 8.0
+        },
+        "kick": {
+          "hat": 8.0,
+          "kick": 4.0,
+          "snare": 12.0
+        },
+        "snare": {
+          "hat": 16.0,
+          "snare": 20.0
+        }
+      },
+      "step_role_length_counts": {
+        "0": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "2": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "4": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "6": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "8": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "10": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "12": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "14": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "16": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "18": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "20": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "22": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "24": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "26": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "28": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "30": {
+          "hat": {
+            "2": 4.0
+          }
+        },
+        "31": {
+          "hat": {
+            "2": 36.0
+          },
+          "kick": {
+            "2": 8.0
+          },
+          "snare": {
+            "2": 24.0
+          }
+        }
+      },
+      "pair_role_votes": {
+        "hat": {
+          "1": 8.0,
+          "3": 44.0,
+          "4": 4.0,
+          "11": 8.0,
+          "12": 4.0
+        },
+        "kick": {
+          "0": 20.0,
+          "7": 4.0
+        },
+        "snare": {
+          "6": 36.0,
+          "15": 4.0
+        }
+      },
+      "source_files": {
+        "dataset/tracker_edits/Alzir_Break_-_4A_tracker_app_edit_v102.json": 1.0
+      }
+    },
+    "Atlantis_Amen": {
+      "examples_count": 2,
+      "notes_count": 64,
+      "step_role_counts": {
+        "0": {
+          "kick": 8.0
+        },
+        "1": {
+          "hat": 8.0
+        },
+        "2": {
+          "snare": 8.0
+        },
+        "3": {
+          "hat": 8.0
+        },
+        "4": {
+          "snare": 8.0
+        },
+        "5": {
+          "kick": 8.0
+        },
+        "6": {
+          "hat": 8.0
+        },
+        "7": {
+          "hat": 8.0
+        },
+        "8": {
+          "kick": 8.0
+        },
+        "9": {
+          "hat": 8.0
+        },
+        "10": {
+          "snare": 8.0
+        },
+        "11": {
+          "hat": 8.0
+        },
+        "12": {
+          "snare": 8.0
+        },
+        "13": {
+          "kick": 8.0
+        },
+        "14": {
+          "hat": 8.0
+        },
+        "15": {
+          "hat": 8.0
+        },
+        "16": {
+          "kick": 8.0
+        },
+        "17": {
+          "hat": 8.0
+        },
+        "18": {
+          "snare": 8.0
+        },
+        "19": {
+          "hat": 8.0
+        },
+        "20": {
+          "snare": 8.0
+        },
+        "21": {
+          "kick": 8.0
+        },
+        "22": {
+          "hat": 8.0
+        },
+        "23": {
+          "hat": 8.0
+        },
+        "24": {
+          "kick": 8.0
+        },
+        "25": {
+          "hat": 8.0
+        },
+        "26": {
+          "snare": 8.0
+        },
+        "27": {
+          "hat": 8.0
+        },
+        "28": {
+          "snare": 8.0
+        },
+        "29": {
+          "kick": 8.0
+        },
+        "30": {
+          "hat": 8.0
+        },
+        "31": {
+          "hat": 8.0
+        }
+      },
+      "role_counts": {
+        "hat": 128.0,
+        "kick": 64.0,
+        "snare": 64.0
+      },
+      "role_transition_counts": {
+        "hat": {
+          "hat": 32.0,
+          "kick": 24.0,
+          "snare": 64.0
+        },
+        "kick": {
+          "hat": 64.0
+        },
+        "snare": {
+          "hat": 32.0,
+          "kick": 32.0
+        }
+      },
+      "step_role_length_counts": {
+        "0": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "1": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "2": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "3": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "4": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "5": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "6": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "7": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "8": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "9": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "10": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "11": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "12": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "13": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "14": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "15": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "16": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "17": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "18": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "19": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "20": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "21": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "22": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "23": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "24": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "25": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "26": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "27": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "28": {
+          "snare": {
+            "1": 8.0
+          }
+        },
+        "29": {
+          "kick": {
+            "1": 8.0
+          }
+        },
+        "30": {
+          "hat": {
+            "1": 8.0
+          }
+        },
+        "31": {
+          "hat": {
+            "1": 8.0
+          }
+        }
+      },
+      "pair_role_votes": {
+        "hat": {
+          "3": 96.0,
+          "7": 32.0
+        },
+        "kick": {
+          "0": 56.0,
+          "1": 8.0
+        },
+        "snare": {
+          "2": 32.0,
+          "4": 32.0
+        }
+      },
+      "source_files": {
+        "dataset/tracker_edits/Atlantis_Amen_tracker_app_edit_v29.json": 1.0,
+        "dataset/validated_patterns/Atlantis_Amen_validated_loop32_20260702_052537.json": 1.0
+      }
+    },
+    "Tear_Apache_-_4A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "step_role_counts": {
+        "0": {
+          "kick": 4.0
+        },
+        "2": {
+          "snare": 4.0
+        },
+        "4": {
+          "snare": 4.0
+        },
+        "6": {
+          "kick": 4.0
+        },
+        "8": {
+          "snare": 4.0
+        },
+        "10": {
+          "kick": 4.0
+        },
+        "12": {
+          "snare": 4.0
+        },
+        "14": {
+          "snare": 4.0
+        },
+        "16": {
+          "kick": 4.0
+        },
+        "18": {
+          "snare": 4.0
+        },
+        "20": {
+          "snare": 4.0
+        },
+        "22": {
+          "snare": 4.0
+        },
+        "24": {
+          "snare": 4.0
+        },
+        "26": {
+          "kick": 4.0
+        },
+        "28": {
+          "snare": 4.0
+        },
+        "30": {
+          "snare": 4.0
+        }
+      },
+      "role_counts": {
+        "kick": 20.0,
+        "snare": 44.0
+      },
+      "role_transition_counts": {
+        "kick": {
+          "snare": 20.0
+        },
+        "snare": {
+          "kick": 16.0,
+          "snare": 24.0
+        }
+      },
+      "step_role_length_counts": {
+        "0": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "2": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "4": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "6": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "8": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "10": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "12": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "14": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "16": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "18": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "20": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "22": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "24": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "26": {
+          "kick": {
+            "2": 4.0
+          }
+        },
+        "28": {
+          "snare": {
+            "2": 4.0
+          }
+        },
+        "30": {
+          "snare": {
+            "2": 4.0
+          }
+        }
+      },
+      "pair_role_votes": {
+        "kick": {
+          "11": 20.0
+        },
+        "snare": {
+          "4": 16.0,
+          "6": 8.0,
+          "10": 20.0
+        }
+      },
+      "source_files": {
+        "dataset/tracker_edits/Tear_Apache_-_4A_tracker_app_edit_v65.json": 1.0
+      }
+    }
+  },
+  "pair_role_cache": {
+    "Camo_Break_-_3A": {
+      "0": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.803707,
+          "snare": 1.559949,
+          "hat": 2.439287,
+          "other": 0.124695
+        }
+      },
+      "1": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.203592,
+          "snare": -0.391629,
+          "hat": -0.965414,
+          "other": 0.458516
+        }
+      },
+      "2": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.897124,
+          "snare": 1.592356,
+          "hat": 2.725286,
+          "other": 0.010326
+        }
+      },
+      "3": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.877531,
+          "snare": 1.549857,
+          "hat": 2.728138,
+          "other": 0.023907
+        }
+      },
+      "4": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.150708,
+          "snare": -0.371279,
+          "hat": -0.657794,
+          "other": 0.150079
+        }
+      },
+      "5": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.806362,
+          "snare": 1.580818,
+          "hat": 2.471458,
+          "other": 0.121233
+        }
+      },
+      "6": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.92695,
+          "snare": 1.601457,
+          "hat": 2.721444,
+          "other": 0.118789
+        }
+      },
+      "7": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.812255,
+          "snare": 1.555887,
+          "hat": 2.456322,
+          "other": 0.118197
+        }
+      },
+      "8": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.184782,
+          "snare": -0.378119,
+          "hat": -0.950893,
+          "other": 0.46102
+        }
+      },
+      "9": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.89381,
+          "snare": 1.592062,
+          "hat": 2.733865,
+          "other": 0.010358
+        }
+      },
+      "10": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.916114,
+          "snare": 1.579688,
+          "hat": 2.808613,
+          "other": 0.02381
+        }
+      },
+      "11": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.149359,
+          "snare": -0.372166,
+          "hat": -0.665315,
+          "other": 0.151588
+        }
+      },
+      "12": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.814412,
+          "snare": 1.596724,
+          "hat": 2.49127,
+          "other": 0.119256
+        }
+      },
+      "13": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.920709,
+          "snare": 1.608443,
+          "hat": 2.406378,
+          "other": 0.495967
+        }
+      }
+    },
+    "Alzir_Break_-_4A": {
+      "0": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.809391,
+          "snare": -0.821197,
+          "hat": -1.173177,
+          "other": 0.101155
+        }
+      },
+      "1": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.667728,
+          "snare": 1.40411,
+          "hat": 1.873462,
+          "other": 0.656378
+        }
+      },
+      "2": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.284654,
+          "snare": 1.257904,
+          "hat": 0.779024,
+          "other": 0.132988
+        }
+      },
+      "3": {
+        "role": "hat",
+        "scores": {
+          "kick": 0.101577,
+          "snare": 1.043566,
+          "hat": 1.341615,
+          "other": 0.166554
+        }
+      },
+      "4": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.828853,
+          "snare": 1.621202,
+          "hat": 2.035815,
+          "other": 0.432835
+        }
+      },
+      "5": {
+        "role": "kick",
+        "scores": {
+          "kick": 1.746928,
+          "snare": 0.004376,
+          "hat": -0.273636,
+          "other": 0.133039
+        }
+      },
+      "6": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.384104,
+          "snare": 1.115314,
+          "hat": 0.78846,
+          "other": 0.13705
+        }
+      },
+      "7": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.069447,
+          "snare": -0.253848,
+          "hat": -0.462309,
+          "other": 0.219366
+        }
+      },
+      "8": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.701744,
+          "snare": -0.724209,
+          "hat": -1.074683,
+          "other": 0.114411
+        }
+      },
+      "9": {
+        "role": "kick",
+        "scores": {
+          "kick": 1.923424,
+          "snare": -0.118889,
+          "hat": -0.500784,
+          "other": 0.128987
+        }
+      },
+      "10": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.365553,
+          "snare": 1.11991,
+          "hat": 0.793334,
+          "other": 0.148671
+        }
+      },
+      "11": {
+        "role": "hat",
+        "scores": {
+          "kick": 0.057074,
+          "snare": 1.065192,
+          "hat": 1.392095,
+          "other": 0.165518
+        }
+      },
+      "12": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.874499,
+          "snare": 1.454283,
+          "hat": 2.310824,
+          "other": 0.398012
+        }
+      },
+      "13": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.035206,
+          "snare": -0.216464,
+          "hat": -0.427857,
+          "other": 0.220674
+        }
+      },
+      "14": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.28669,
+          "snare": 1.319117,
+          "hat": 0.816169,
+          "other": 0.131364
+        }
+      },
+      "15": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.581775,
+          "snare": 1.729703,
+          "hat": 1.703066,
+          "other": 0.139008
+        }
+      }
+    },
+    "Atlantis_Amen": {
+      "0": {
+        "role": "kick",
+        "scores": {
+          "kick": 1.291319,
+          "snare": 0.363601,
+          "hat": -0.048946,
+          "other": 0.314528
+        }
+      },
+      "1": {
+        "role": "kick",
+        "scores": {
+          "kick": 1.067601,
+          "snare": 0.562723,
+          "hat": 0.089086,
+          "other": 0.339961
+        }
+      },
+      "2": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.034848,
+          "snare": 1.444458,
+          "hat": 0.993796,
+          "other": 0.438256
+        }
+      },
+      "3": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.664769,
+          "snare": 1.522281,
+          "hat": 1.914035,
+          "other": 0.569605
+        }
+      },
+      "4": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.357578,
+          "snare": 1.487609,
+          "hat": 1.366144,
+          "other": 0.604687
+        }
+      },
+      "5": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.370817,
+          "snare": 1.530111,
+          "hat": 1.328352,
+          "other": 0.635867
+        }
+      },
+      "6": {
+        "role": "hat",
+        "scores": {
+          "kick": 0.284138,
+          "snare": 0.883498,
+          "hat": 0.894623,
+          "other": 0.684936
+        }
+      },
+      "7": {
+        "role": "hat",
+        "scores": {
+          "kick": -0.647426,
+          "snare": 1.634162,
+          "hat": 1.995577,
+          "other": 0.234612
+        }
+      }
+    },
+    "Tear_Apache_-_4A": {
+      "0": {
+        "role": "kick",
+        "scores": {
+          "kick": 1.124604,
+          "snare": 0.637546,
+          "hat": 0.218211,
+          "other": 0.048512
+        }
+      },
+      "1": {
+        "role": "kick",
+        "scores": {
+          "kick": 2.639011,
+          "snare": -0.557699,
+          "hat": -1.085637,
+          "other": 0.274154
+        }
+      },
+      "2": {
+        "role": "kick",
+        "scores": {
+          "kick": 0.956274,
+          "snare": 0.885388,
+          "hat": -0.383925,
+          "other": 0.599226
+        }
+      },
+      "3": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.394408,
+          "snare": 0.951324,
+          "hat": 0.85651,
+          "other": 0.016249
+        }
+      },
+      "4": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.098278,
+          "snare": 1.700905,
+          "hat": 0.752264,
+          "other": 0.248047
+        }
+      },
+      "5": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.795769,
+          "snare": 0.909662,
+          "hat": 0.020297,
+          "other": 0.460568
+        }
+      },
+      "6": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.545855,
+          "snare": 1.233864,
+          "hat": 0.07379,
+          "other": 0.413415
+        }
+      },
+      "7": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.044866,
+          "snare": 1.514212,
+          "hat": 0.970871,
+          "other": 0.031081
+        }
+      },
+      "8": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.418051,
+          "snare": 1.271144,
+          "hat": 0.635902,
+          "other": 0.025227
+        }
+      },
+      "9": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.049834,
+          "snare": 1.655802,
+          "hat": 0.637867,
+          "other": 0.34826
+        }
+      },
+      "10": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.557377,
+          "snare": 1.248224,
+          "hat": 0.065378,
+          "other": 0.409025
+        }
+      },
+      "11": {
+        "role": "kick",
+        "scores": {
+          "kick": 1.452658,
+          "snare": 0.369455,
+          "hat": -0.363901,
+          "other": 0.291759
+        }
+      },
+      "12": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.780802,
+          "snare": 1.041109,
+          "hat": -0.268529,
+          "other": 0.574654
+        }
+      },
+      "13": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.078035,
+          "snare": 1.710935,
+          "hat": 0.663124,
+          "other": 0.238273
+        }
+      },
+      "14": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.792515,
+          "snare": 0.90031,
+          "hat": 0.037277,
+          "other": 0.46824
+        }
+      },
+      "15": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.254731,
+          "snare": 1.425149,
+          "hat": 1.072889,
+          "other": 0.683308
+        }
+      },
+      "16": {
+        "role": "snare",
+        "scores": {
+          "kick": -0.178275,
+          "snare": 1.772582,
+          "hat": 0.67937,
+          "other": 0.412469
+        }
+      },
+      "17": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.11984,
+          "snare": 1.602652,
+          "hat": 0.190947,
+          "other": 0.493155
+        }
+      },
+      "18": {
+        "role": "snare",
+        "scores": {
+          "kick": 0.293788,
+          "snare": 1.401867,
+          "hat": 0.215304,
+          "other": 0.46329
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/validated_patterns/Camo_Break_-_3A_human_validated_v67_20260702_085834.json",
+      "key": "pattern",
+      "reason": "human_validated_good_after_modifications",
+      "weight": 9.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 13,
+          "role": "hat",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/validated_patterns/Camo_Break_-_3A_human_validated_v67_20260702_090208.json",
+      "key": "pattern",
+      "reason": "human_validated_good_after_modifications",
+      "weight": 9.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Alzir_Break_-_4A",
+      "source_file": "dataset/tracker_edits/Alzir_Break_-_4A_tracker_app_edit_v102.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 0,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 0,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 0,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 0,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 1,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 1,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 3,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 4,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 11,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 11,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 12,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 0,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 7,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 31,
+          "pair": 15,
+          "role": "snare",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Atlantis_Amen",
+      "source_file": "dataset/tracker_edits/Atlantis_Amen_tracker_app_edit_v29.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 1,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 2,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 3,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 4,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 5,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 6,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 7,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 8,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 9,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 10,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 11,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 12,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 13,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 14,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 15,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 16,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 17,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 18,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 19,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 20,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 21,
+          "pair": 1,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 22,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 23,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 24,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 25,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 26,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 27,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 28,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 29,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 30,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 31,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        }
+      ]
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v49.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 5,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 5,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 5,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 5,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v55.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 12,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 12,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 12,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 12,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 12,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 12,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 14,
+          "role": "other",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v62.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v63.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 4,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 4,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 4,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 4,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 6,
+          "role": "hat",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 7,
+          "role": "hat",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/tracker_edits/Tear_Apache_-_4A_tracker_app_edit_v65.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 2,
+          "pair": 10,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 4,
+          "pair": 4,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 6,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 8,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 10,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 12,
+          "pair": 4,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 14,
+          "pair": 10,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 16,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 18,
+          "pair": 10,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 20,
+          "pair": 4,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 22,
+          "pair": 6,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 24,
+          "pair": 10,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 26,
+          "pair": 11,
+          "role": "kick",
+          "length": 2
+        },
+        {
+          "x_step": 28,
+          "pair": 4,
+          "role": "snare",
+          "length": 2
+        },
+        {
+          "x_step": 30,
+          "pair": 10,
+          "role": "snare",
+          "length": 2
+        }
+      ]
+    },
+    {
+      "safe": "Atlantis_Amen",
+      "source_file": "dataset/validated_patterns/Atlantis_Amen_validated_loop32_20260702_052537.json",
+      "key": "pattern",
+      "reason": "",
+      "weight": 4.0,
+      "notes": [
+        {
+          "x_step": 0,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 1,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 2,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 3,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 4,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 5,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 6,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 7,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 8,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 9,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 10,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 11,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 12,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 13,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 14,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 15,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 16,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 17,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 18,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 19,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 20,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 21,
+          "pair": 1,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 22,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 23,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 24,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 25,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 26,
+          "pair": 2,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 27,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 28,
+          "pair": 4,
+          "role": "snare",
+          "length": 1
+        },
+        {
+          "x_step": 29,
+          "pair": 0,
+          "role": "kick",
+          "length": 1
+        },
+        {
+          "x_step": 30,
+          "pair": 7,
+          "role": "hat",
+          "length": 1
+        },
+        {
+          "x_step": 31,
+          "pair": 3,
+          "role": "hat",
+          "length": 1
+        }
+      ]
+    }
+  ],
+  "training_policy": "strict_validated_only_v04",
+  "strict_created_at": "2026-07-02T13:50:07",
+  "patterns_found_before_strict_filter": 42,
+  "patterns_kept_after_strict_filter": 10,
+  "patterns_rejected_after_strict_filter": 32
+}

@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "break_0000",
+    "file": "breaks/Adrift Break.wav",
+    "estimated_bpm": 92.28515625,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0001",
+    "file": "breaks/Alzir Break - 4A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0002",
+    "file": "breaks/Angles Break.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0003",
+    "file": "breaks/Apollo - 4A.wav",
+    "estimated_bpm": 234.90767045454547,
+    "slice_count": 3
+  },
+  {
+    "id": "break_0004",
+    "file": "breaks/Arson Fill - 4A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0005",
+    "file": "breaks/Atlantis Amen.wav",
+    "estimated_bpm": 78.30255681818181,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0006",
+    "file": "breaks/Back Break 2 - 7B.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0007",
+    "file": "breaks/Back Break 3 - 7B.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0008",
+    "file": "breaks/Back Break.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0009",
+    "file": "breaks/Bad Break - 8A.wav",
+    "estimated_bpm": 117.45383522727273,
+    "slice_count": 6
+  },
+  {
+    "id": "break_0010",
+    "file": "breaks/Beep Break.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 42
+  },
+  {
+    "id": "break_0011",
+    "file": "breaks/Beta Break.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 17
+  },
+  {
+    "id": "break_0012",
+    "file": "breaks/Blaze Break - 11A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 4
+  },
+  {
+    "id": "break_0013",
+    "file": "breaks/Blaze Break 2.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 32
+  },
+  {
+    "id": "break_0014",
+    "file": "breaks/Blue Break - 4A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 24
+  },
+  {
+    "id": "break_0015",
+    "file": "breaks/Bonanza Break.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 36
+  },
+  {
+    "id": "break_0016",
+    "file": "breaks/Boo Break - 5A.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0017",
+    "file": "breaks/Boo Worm Break - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 27
+  },
+  {
+    "id": "break_0018",
+    "file": "breaks/Bouncer Break - 6A.wav",
+    "estimated_bpm": 135.99917763157896,
+    "slice_count": 26
+  },
+  {
+    "id": "break_0019",
+    "file": "breaks/Box Break - 6A.wav",
+    "estimated_bpm": 78.30255681818181,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0020",
+    "file": "breaks/Box Break 2 - 6B.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0021",
+    "file": "breaks/Box Break 3 - 2B.wav",
+    "estimated_bpm": 151.99908088235293,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0022",
+    "file": "breaks/Box Break 4 - 5A.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 21
+  },
+  {
+    "id": "break_0023",
+    "file": "breaks/Box Break 5.wav",
+    "estimated_bpm": 103.359375,
+    "slice_count": 23
+  },
+  {
+    "id": "break_0024",
+    "file": "breaks/Breeze Break - 2A.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0025",
+    "file": "breaks/Bringing Me Break - 7A.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0026",
+    "file": "breaks/Bronx Break.wav",
+    "estimated_bpm": 89.10290948275862,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0027",
+    "file": "breaks/Brut Force Break.wav",
+    "estimated_bpm": 84.72079918032787,
+    "slice_count": 5
+  },
+  {
+    "id": "break_0028",
+    "file": "breaks/Brut Force Fuller Break - 6A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0029",
+    "file": "breaks/Bulldozer Amen 2 - 2A.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0030",
+    "file": "breaks/Bulldozer Amen.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0031",
+    "file": "breaks/Calling Break - 10A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0032",
+    "file": "breaks/Calling Reverse Break - 7A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0033",
+    "file": "breaks/Camo Break - 3A.wav",
+    "estimated_bpm": 129.19921875,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0034",
+    "file": "breaks/Careless Break - 4A.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0035",
+    "file": "breaks/Centuries Break.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0036",
+    "file": "breaks/Champion Break - 7A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0037",
+    "file": "breaks/Change Break - 6A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0038",
+    "file": "breaks/Check Break - 11A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 17
+  },
+  {
+    "id": "break_0039",
+    "file": "breaks/Chopper Break - 6A.wav",
+    "estimated_bpm": 84.72079918032787,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0040",
+    "file": "breaks/Connected Break - 7B.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0041",
+    "file": "breaks/Control Amen 2.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0042",
+    "file": "breaks/Control Amen.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 24
+  },
+  {
+    "id": "break_0043",
+    "file": "breaks/Control Break - 9A.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 31
+  },
+  {
+    "id": "break_0044",
+    "file": "breaks/Control Break 2.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 25
+  },
+  {
+    "id": "break_0045",
+    "file": "breaks/Control Kick Break - 2A.wav",
+    "estimated_bpm": 103.359375,
+    "slice_count": 26
+  },
+  {
+    "id": "break_0046",
+    "file": "breaks/Control Kicks - 1A.wav",
+    "estimated_bpm": 129.19921875,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0047",
+    "file": "breaks/Control Stutter Break - 7A.wav",
+    "estimated_bpm": 129.19921875,
+    "slice_count": 45
+  },
+  {
+    "id": "break_0048",
+    "file": "breaks/Control Vocal Break - 1A.wav",
+    "estimated_bpm": 129.19921875,
+    "slice_count": 30
+  },
+  {
+    "id": "break_0049",
+    "file": "breaks/Cool Amen - 7A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 30
+  },
+  {
+    "id": "break_0050",
+    "file": "breaks/Cool Break - 7A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0051",
+    "file": "breaks/Cosmik Break - 11A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 7
+  },
+  {
+    "id": "break_0052",
+    "file": "breaks/Cumulus Break - 4A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0053",
+    "file": "breaks/Darkside Break - 7A.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0054",
+    "file": "breaks/Dayz Break - 9A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0055",
+    "file": "breaks/Desire Break - 4A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0056",
+    "file": "breaks/Detroit Break - 5A.wav",
+    "estimated_bpm": 78.30255681818181,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0057",
+    "file": "breaks/Detroit Percussion - 4A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 17
+  },
+  {
+    "id": "break_0058",
+    "file": "breaks/Difference Break 1 - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 7
+  },
+  {
+    "id": "break_0059",
+    "file": "breaks/Difference Break 2 - 6A.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0060",
+    "file": "breaks/Dispatch Break - 6B.wav",
+    "estimated_bpm": 83.35433467741936,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0061",
+    "file": "breaks/Dispatch Break 2 - 2A.wav",
+    "estimated_bpm": 83.35433467741936,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0062",
+    "file": "breaks/Drumz Amen Compound - 11A.wav",
+    "estimated_bpm": 99.38401442307692,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0063",
+    "file": "breaks/Drumz Amen.wav",
+    "estimated_bpm": 151.99908088235293,
+    "slice_count": 24
+  },
+  {
+    "id": "break_0064",
+    "file": "breaks/Effect Break - 7A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 38
+  },
+  {
+    "id": "break_0065",
+    "file": "breaks/Effect Break 2 - 12A.wav",
+    "estimated_bpm": 215.33203125,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0066",
+    "file": "breaks/Effect Break 3 - 7A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0067",
+    "file": "breaks/Enchanted Break - 5A.wav",
+    "estimated_bpm": 120.18531976744185,
+    "slice_count": 57
+  },
+  {
+    "id": "break_0068",
+    "file": "breaks/Essential Break - 8A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0069",
+    "file": "breaks/Fairlight Break - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 47
+  },
+  {
+    "id": "break_0070",
+    "file": "breaks/Firin Line Break - 3B.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 32
+  },
+  {
+    "id": "break_0071",
+    "file": "breaks/First Contact Amen.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0072",
+    "file": "breaks/Flutes Break - 12A.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0073",
+    "file": "breaks/Fountain Break - 4A.wav",
+    "estimated_bpm": 83.35433467741936,
+    "slice_count": 35
+  },
+  {
+    "id": "break_0074",
+    "file": "breaks/Friday Break - 9A.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 24
+  },
+  {
+    "id": "break_0075",
+    "file": "breaks/Futureproof Amen.wav",
+    "estimated_bpm": 83.35433467741936,
+    "slice_count": 46
+  },
+  {
+    "id": "break_0076",
+    "file": "breaks/Games Amen.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0077",
+    "file": "breaks/Gene Break - 12A.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0078",
+    "file": "breaks/Gene Break 2.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0079",
+    "file": "breaks/God Chord Break - 4A.wav",
+    "estimated_bpm": 126.04801829268293,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0080",
+    "file": "breaks/Good Times Break.wav",
+    "estimated_bpm": 79.50721153846153,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0081",
+    "file": "breaks/Gravitational Break.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0082",
+    "file": "breaks/Groove Therapy Break - 4A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0083",
+    "file": "breaks/Guess Break - 1A.wav",
+    "estimated_bpm": 84.72079918032787,
+    "slice_count": 42
+  },
+  {
+    "id": "break_0084",
+    "file": "breaks/Haze Break - 6A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0085",
+    "file": "breaks/Haze Hybrid Break.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0086",
+    "file": "breaks/Heaven Break - 5A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0087",
+    "file": "breaks/Heaven Carl Break - 5A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0088",
+    "file": "breaks/Heli Bongos.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0089",
+    "file": "breaks/Heli Break - 2A.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0090",
+    "file": "breaks/Horn Break.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0091",
+    "file": "breaks/Hurt U So Break - 1A.wav",
+    "estimated_bpm": 92.28515625,
+    "slice_count": 23
+  },
+  {
+    "id": "break_0092",
+    "file": "breaks/Imagine Break - 4A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 39
+  },
+  {
+    "id": "break_0093",
+    "file": "breaks/Inner Break - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0094",
+    "file": "breaks/Intro Amen.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0095",
+    "file": "breaks/Jazz Note Break - 10A.wav",
+    "estimated_bpm": 77.1338619402985,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0096",
+    "file": "breaks/Jazz Note Break 2.wav",
+    "estimated_bpm": 77.1338619402985,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0097",
+    "file": "breaks/Jazz Thing Break.wav",
+    "estimated_bpm": 103.359375,
+    "slice_count": 34
+  },
+  {
+    "id": "break_0098",
+    "file": "breaks/Jazzy Break - 9A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 24
+  },
+  {
+    "id": "break_0099",
+    "file": "breaks/Johnny Amen - 11A.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0100",
+    "file": "breaks/Killa Break - 4A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0101",
+    "file": "breaks/Let Roll Break.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0102",
+    "file": "breaks/Let There Break.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0103",
+    "file": "breaks/Let There Stutter Break - 6A.wav",
+    "estimated_bpm": 135.99917763157896,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0104",
+    "file": "breaks/Liberty Amen.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0105",
+    "file": "breaks/Lick Break - 1A.wav",
+    "estimated_bpm": 87.5926906779661,
+    "slice_count": 17
+  },
+  {
+    "id": "break_0106",
+    "file": "breaks/Lights Break.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0107",
+    "file": "breaks/Limb Break - 9A.wav",
+    "estimated_bpm": 117.45383522727273,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0108",
+    "file": "breaks/Links Break.wav",
+    "estimated_bpm": 123.046875,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0109",
+    "file": "breaks/Little Roller Amen - 7B.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0110",
+    "file": "breaks/London Break - 8A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0111",
+    "file": "breaks/Mach Break - 11A.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0112",
+    "file": "breaks/Machines Break - 11A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0113",
+    "file": "breaks/Maintain Break - 7A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0114",
+    "file": "breaks/Marbles Break - 6A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0115",
+    "file": "breaks/Massive Amen - 2A.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0116",
+    "file": "breaks/Massive Break.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0117",
+    "file": "breaks/Maximum Booty Break.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0118",
+    "file": "breaks/Metropolis Break - 7A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0119",
+    "file": "breaks/Moths Break - 4A.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 31
+  },
+  {
+    "id": "break_0120",
+    "file": "breaks/Mutant Break - 7B.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0121",
+    "file": "breaks/My Sound Break 1 - 2A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0122",
+    "file": "breaks/My Sound Break 2 - 8A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0123",
+    "file": "breaks/My Sound Break 3 - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 38
+  },
+  {
+    "id": "break_0124",
+    "file": "breaks/Mystical Break.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0125",
+    "file": "breaks/Mystique Break - 7A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0126",
+    "file": "breaks/Night Break - 7A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0127",
+    "file": "breaks/Night Compound Break - 7A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 21
+  },
+  {
+    "id": "break_0128",
+    "file": "breaks/Oh Break - 1A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0129",
+    "file": "breaks/Overcast Break - 4A.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 6
+  },
+  {
+    "id": "break_0130",
+    "file": "breaks/Parallel World Break - 12A.wav",
+    "estimated_bpm": 78.30255681818181,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0131",
+    "file": "breaks/Peace Sign Break - 2A.wav",
+    "estimated_bpm": 79.50721153846153,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0132",
+    "file": "breaks/Pesh Break - 7A.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 44
+  },
+  {
+    "id": "break_0133",
+    "file": "breaks/Physical Break - 4A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0134",
+    "file": "breaks/Physical Break 2.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0135",
+    "file": "breaks/Pin Up Break.wav",
+    "estimated_bpm": 123.046875,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0136",
+    "file": "breaks/Piper Break - 4A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0137",
+    "file": "breaks/Place Break - 5A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0138",
+    "file": "breaks/Playboy Break - 6B.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 34
+  },
+  {
+    "id": "break_0139",
+    "file": "breaks/Possible Worlds Break - 5A.wav",
+    "estimated_bpm": 132.51201923076923,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0140",
+    "file": "breaks/Pressin Break - 8A.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0141",
+    "file": "breaks/Prog Amen - 8A.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 42
+  },
+  {
+    "id": "break_0142",
+    "file": "breaks/Prog Break.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 24
+  },
+  {
+    "id": "break_0143",
+    "file": "breaks/Promenade Break.wav",
+    "estimated_bpm": 156.60511363636363,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0144",
+    "file": "breaks/Quest Break.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 6
+  },
+  {
+    "id": "break_0145",
+    "file": "breaks/Rainfall Lite Break.wav",
+    "estimated_bpm": 132.51201923076923,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0146",
+    "file": "breaks/Reach Break - 4A.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0147",
+    "file": "breaks/Reckon Break - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0148",
+    "file": "breaks/Reel Funk Amen - 2A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0149",
+    "file": "breaks/Reel Funk Roller - 12A.wav",
+    "estimated_bpm": 84.72079918032787,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0150",
+    "file": "breaks/Reflections Break - 7A.wav",
+    "estimated_bpm": 215.33203125,
+    "slice_count": 23
+  },
+  {
+    "id": "break_0151",
+    "file": "breaks/Repetoire Break - 6A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 36
+  },
+  {
+    "id": "break_0152",
+    "file": "breaks/Resolution Break - 5A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 24
+  },
+  {
+    "id": "break_0153",
+    "file": "breaks/Revelation Amen - 2A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0154",
+    "file": "breaks/Ricochet Break - 9A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0155",
+    "file": "breaks/Right Break - 6A.wav",
+    "estimated_bpm": 129.19921875,
+    "slice_count": 29
+  },
+  {
+    "id": "break_0156",
+    "file": "breaks/Rise Amen - 2A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 34
+  },
+  {
+    "id": "break_0157",
+    "file": "breaks/Rock Amen - 12A.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0158",
+    "file": "breaks/Rock Amen 2 - 12A.wav",
+    "estimated_bpm": 117.45383522727273,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0159",
+    "file": "breaks/Roll On Roll - 9A.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0160",
+    "file": "breaks/Roll On Roll 2 - 10A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0161",
+    "file": "breaks/Roll On Roll 3.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0162",
+    "file": "breaks/Rumble Break - 10A.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 7
+  },
+  {
+    "id": "break_0163",
+    "file": "breaks/Searchin Break - 5A.wav",
+    "estimated_bpm": 87.5926906779661,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0164",
+    "file": "breaks/Searchin Break 2 - 9A.wav",
+    "estimated_bpm": 87.5926906779661,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0165",
+    "file": "breaks/Searchin Break 3 - 9A.wav",
+    "estimated_bpm": 117.45383522727273,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0166",
+    "file": "breaks/Seatown Break - 6B.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 33
+  },
+  {
+    "id": "break_0167",
+    "file": "breaks/Secrets Amen - 7A.wav",
+    "estimated_bpm": 117.45383522727273,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0168",
+    "file": "breaks/Session Break - 8A.wav",
+    "estimated_bpm": 129.19921875,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0169",
+    "file": "breaks/Shock Break.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0170",
+    "file": "breaks/Shock Filter Break.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 33
+  },
+  {
+    "id": "break_0171",
+    "file": "breaks/Shoes Break - 4A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 31
+  },
+  {
+    "id": "break_0172",
+    "file": "breaks/Sight Break - 6A.wav",
+    "estimated_bpm": 84.72079918032787,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0173",
+    "file": "breaks/Sky Break - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0174",
+    "file": "breaks/Solar Break - 11A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0175",
+    "file": "breaks/Sonic Amen - 7A.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 12
+  },
+  {
+    "id": "break_0176",
+    "file": "breaks/Sonic Break - 4A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0177",
+    "file": "breaks/Sonic Break 2 - 4A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0178",
+    "file": "breaks/Sound Control Break.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0179",
+    "file": "breaks/Sound Murderer Amen - 9A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 23
+  },
+  {
+    "id": "break_0180",
+    "file": "breaks/Sovreign Break - 7B.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 19
+  },
+  {
+    "id": "break_0181",
+    "file": "breaks/Space Age Break - 5A.wav",
+    "estimated_bpm": 68.90625,
+    "slice_count": 4
+  },
+  {
+    "id": "break_0182",
+    "file": "breaks/Stepper Amen.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0183",
+    "file": "breaks/Stepper Break.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0184",
+    "file": "breaks/Still Break - 7A.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0185",
+    "file": "breaks/Stone Break.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0186",
+    "file": "breaks/Sunset Break - 6A.wav",
+    "estimated_bpm": 83.35433467741936,
+    "slice_count": 14
+  },
+  {
+    "id": "break_0187",
+    "file": "breaks/System Break.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0188",
+    "file": "breaks/Take You Break.wav",
+    "estimated_bpm": 139.6748310810811,
+    "slice_count": 26
+  },
+  {
+    "id": "break_0189",
+    "file": "breaks/Tear Apache - 4A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 23
+  },
+  {
+    "id": "break_0190",
+    "file": "breaks/Tear Break - 2A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 22
+  },
+  {
+    "id": "break_0191",
+    "file": "breaks/Tear Break 2.wav",
+    "estimated_bpm": 84.72079918032787,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0192",
+    "file": "breaks/Technology Break - 9A.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0193",
+    "file": "breaks/Ten Break - 7A.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0194",
+    "file": "breaks/Ten Break 2 - 7A.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 21
+  },
+  {
+    "id": "break_0195",
+    "file": "breaks/Terrain Break - 4A.wav",
+    "estimated_bpm": 86.1328125,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0196",
+    "file": "breaks/Terrain Break 2 - 2A.wav",
+    "estimated_bpm": 86.1328125,
+    "slice_count": 17
+  },
+  {
+    "id": "break_0197",
+    "file": "breaks/Terrorist Amen - 11A.wav",
+    "estimated_bpm": 147.65625,
+    "slice_count": 6
+  },
+  {
+    "id": "break_0198",
+    "file": "breaks/Travelling Break - 11A.wav",
+    "estimated_bpm": 161.4990234375,
+    "slice_count": 9
+  },
+  {
+    "id": "break_0199",
+    "file": "breaks/Trippin Break - 9A.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0200",
+    "file": "breaks/Trippin Break 2 - 7A.wav",
+    "estimated_bpm": 82.03125,
+    "slice_count": 18
+  },
+  {
+    "id": "break_0201",
+    "file": "breaks/Tronik Break - 4A.wav",
+    "estimated_bpm": 132.51201923076923,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0202",
+    "file": "breaks/True Break.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0203",
+    "file": "breaks/Vapour Break.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0204",
+    "file": "breaks/Voyage Break - 5A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 17
+  },
+  {
+    "id": "break_0205",
+    "file": "breaks/Walk Break - 8A.wav",
+    "estimated_bpm": 114.84375,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0206",
+    "file": "breaks/Walk Break 2 - 12A.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0207",
+    "file": "breaks/Walk Break 3 - 9A.wav",
+    "estimated_bpm": 172.265625,
+    "slice_count": 7
+  },
+  {
+    "id": "break_0208",
+    "file": "breaks/War Break - 5A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 20
+  },
+  {
+    "id": "break_0209",
+    "file": "breaks/WarPeace Break.wav",
+    "estimated_bpm": 84.72079918032787,
+    "slice_count": 10
+  },
+  {
+    "id": "break_0210",
+    "file": "breaks/Warhead Break - 2A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0211",
+    "file": "breaks/Warhead Break 2 - 9A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 16
+  },
+  {
+    "id": "break_0212",
+    "file": "breaks/Warned Break - 4A.wav",
+    "estimated_bpm": 86.1328125,
+    "slice_count": 15
+  },
+  {
+    "id": "break_0213",
+    "file": "breaks/Warning Compound - 11A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0214",
+    "file": "breaks/Warning Copter - 11A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0215",
+    "file": "breaks/Way Break.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0216",
+    "file": "breaks/Wheel Up 2 Bad.wav",
+    "estimated_bpm": 105.46875,
+    "slice_count": 21
+  },
+  {
+    "id": "break_0217",
+    "file": "breaks/Wheel Up Amen - 6A.wav",
+    "estimated_bpm": 107.666015625,
+    "slice_count": 23
+  },
+  {
+    "id": "break_0218",
+    "file": "breaks/Worries Break - 1A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 11
+  },
+  {
+    "id": "break_0219",
+    "file": "breaks/Your Amen - 4A.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 26
+  },
+  {
+    "id": "break_0220",
+    "file": "breaks/Your Amen 2 - 9A.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 13
+  },
+  {
+    "id": "break_0221",
+    "file": "breaks/Your Break - 8B.wav",
+    "estimated_bpm": 109.95678191489361,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0222",
+    "file": "breaks/Zone Break 2 - 5A.wav",
+    "estimated_bpm": 112.34714673913044,
+    "slice_count": 8
+  },
+  {
+    "id": "break_0223",
+    "file": "breaks/Zone Break.wav",
+    "estimated_bpm": 166.70866935483872,
+    "slice_count": 16
+  }
+]

@@ -1,0 +1,29 @@
+M8-style slicer v10: Johnny_Amen_-_11A
+Source: breaks/Johnny Amen - 11A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Johnny_Amen_-_11A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Johnny_Amen_-_11A/Johnny_Amen_-_11A_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     35.01 ms | dur     35.01 ms | start | score 1.0
+slice 01 |     21.77 ->    111.02 ms | dur     89.25 ms | hybrid_snap_auto | score 0.471706
+slice 02 |    111.02 ->    187.21 ms | dur     76.19 ms | hybrid_snap_auto | score 0.14934
+slice 03 |    187.21 ->    304.76 ms | dur    117.55 ms | hybrid_snap_auto | score 0.330083
+slice 04 |    304.76 ->    381.68 ms | dur     76.92 ms | hybrid_snap_auto | score 0.365999
+slice 05 |    381.68 ->    416.69 ms | dur     35.01 ms | hat_rescue | score 0.54533
+slice 06 |    394.74 ->    435.37 ms | dur     40.63 ms | hat_rescue | score 0.637227
+slice 07 |    435.37 ->    580.50 ms | dur    145.12 ms | hybrid_snap_auto | score 0.175485
+slice 08 |    580.50 ->    615.51 ms | dur     35.01 ms | hybrid_snap_hat | score 0.560919
+slice 09 |    596.46 ->    690.07 ms | dur     93.61 ms | hat_rescue | score 0.615449
+slice 10 |    690.07 ->    779.32 ms | dur     89.25 ms | hybrid_snap_auto | score 0.249562
+slice 11 |    779.32 ->    881.63 ms | dur    102.31 ms | hat_rescue | score 0.602728
+slice 12 |    881.63 ->    975.24 ms | dur     93.61 ms | hybrid_snap_auto | score 0.287155
+slice 13 |    975.24 ->   1025.31 ms | dur     50.07 ms | hybrid_snap_auto | score 0.435004
+slice 14 |   1025.31 ->   1161.00 ms | dur    135.69 ms | hybrid_snap_auto | score 0.250082
+slice 15 |   1161.00 ->   1277.82 ms | dur    116.83 ms | hat_rescue | score 0.560529
+slice 16 |   1277.82 ->   1356.92 ms | dur     79.09 ms | hybrid_snap_auto | score 0.173374
+slice 17 |   1356.92 ->   1391.93 ms | dur     35.01 ms | hybrid_snap_hat | score 0.965951
+slice 18 |   1375.78 ->   1454.65 ms | dur     78.87 ms | hat_rescue | score 0.552015
+slice 19 |   1454.65 ->   1551.63 ms | dur     96.98 ms | grid | score 1.0

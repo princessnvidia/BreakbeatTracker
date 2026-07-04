@@ -1,0 +1,29 @@
+M8-style slicer v10: Moths_Break_-_4A
+Source: breaks/Moths Break - 4A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Moths_Break_-_4A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Moths_Break_-_4A/Moths_Break_-_4A_source_loop_preview_v10.wav
+
+slice 00 |     15.24 ->    349.75 ms | dur    334.51 ms | hybrid_snap_auto | score 0.409631
+slice 01 |    349.75 ->    711.84 ms | dur    362.09 ms | hat_rescue | score 0.832084
+slice 02 |    711.84 ->   1072.47 ms | dur    360.63 ms | hybrid_snap_auto | score 0.371209
+slice 03 |   1072.47 ->   1107.48 ms | dur     35.01 ms | hat_rescue | score 0.727792
+slice 04 |   1084.08 ->   1256.78 ms | dur    172.70 ms | hybrid_snap_auto | score 0.636951
+slice 05 |   1256.78 ->   1436.73 ms | dur    179.95 ms | hat_rescue | score 0.721343
+slice 06 |   1436.73 ->   1796.64 ms | dur    359.91 ms | hybrid_snap_auto | score 0.705282
+slice 07 |   1796.64 ->   2161.63 ms | dur    364.99 ms | hat_rescue | score 0.885178
+slice 08 |   2161.63 ->   2519.37 ms | dur    357.73 ms | hybrid_snap_auto | score 0.32269
+slice 09 |   2519.37 ->   2554.38 ms | dur     35.01 ms | hat_rescue | score 0.744745
+slice 10 |   2531.70 ->   2880.00 ms | dur    348.30 ms | hybrid_snap_auto | score 0.638978
+slice 11 |   2880.00 ->   3240.63 ms | dur    360.63 ms | hybrid_snap_auto | score 0.618967
+slice 12 |   3240.63 ->   3604.90 ms | dur    364.26 ms | hat_rescue | score 0.979361
+slice 13 |   3604.90 ->   3979.32 ms | dur    374.42 ms | hybrid_snap_auto | score 0.367621
+slice 14 |   3979.32 ->   4325.44 ms | dur    346.12 ms | hybrid_snap_auto | score 0.639007
+slice 15 |   4325.44 ->   4690.43 ms | dur    364.99 ms | hybrid_snap_auto | score 0.63032
+slice 16 |   4690.43 ->   5063.40 ms | dur    372.97 ms | hybrid_snap_hat | score 0.839964
+slice 17 |   5063.40 ->   5409.52 ms | dur    346.12 ms | hybrid_snap_auto | score 0.335807
+slice 18 |   5409.52 ->   5591.66 ms | dur    182.13 ms | hybrid_snap_auto | score 0.371278
+slice 19 |   5591.66 ->   5787.10 ms | dur    195.44 ms | hat_rescue | score 0.761656

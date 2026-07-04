@@ -1,0 +1,38 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# Audio / datasets / generated files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.aiff
+*.aif
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+*.joblib
+
+# Project generated data
+exports/
+output/
+outputs/
+renders/
+samples/
+datasets/
+models/
+checkpoints/
+cache/
+tmp/

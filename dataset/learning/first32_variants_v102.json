@@ -1,0 +1,48 @@
+{
+  "version": "first32_variants_v102",
+  "updated_at": "2026-07-03 17:17:58",
+  "breaks": {
+    "Camo_Break_-_3A": {
+      "first32_index": 1,
+      "reject_count": 12,
+      "last_variant": "B_first32_kick_forward",
+      "updated_at": "2026-07-03 17:11:11"
+    },
+    "Change_Break_-_6A": {
+      "first32_index": 2,
+      "reject_count": 0,
+      "last_variant": "C_first32_kick_late",
+      "updated_at": "2026-07-03 17:17:48"
+    },
+    "Centuries_Break": {
+      "first32_index": 1,
+      "reject_count": 0,
+      "last_variant": "B_first32_kick_forward",
+      "updated_at": "2026-07-03 17:16:19"
+    },
+    "Chopper_Break_-_6A": {
+      "first32_index": 3,
+      "reject_count": 3,
+      "last_variant": "D_first32_last_push",
+      "updated_at": "2026-07-02 12:32:08"
+    },
+    "Arson_Fill_-_4A": {
+      "first32_index": 0,
+      "reject_count": 0,
+      "last_variant": "A_original_first32",
+      "updated_at": "2026-07-02 13:44:41"
+    },
+    "Alzir_Break_-_4A": {
+      "first32_index": 0,
+      "reject_count": 0,
+      "last_variant": "A_original_first32",
+      "updated_at": "2026-07-02 13:46:29"
+    },
+    "Check_Break_-_11A": {
+      "first32_index": 0,
+      "reject_count": 0,
+      "last_variant": "A_original_first32",
+      "updated_at": "2026-07-03 17:17:58"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "version": "pair_blocks_v01",
+  "source": "breaks/Atlantis Amen.wav",
+  "sample_rate": 44100,
+  "rule": "grid16 split into 8 pair blocks, 2 cases per block",
+  "best": {
+    "score": 17.315446400554542,
+    "offset_samples": 0,
+    "block_samples": 9702,
+    "offset_ms": 0.0,
+    "block_ms": 220.0
+  },
+  "duplicates": [],
+  "duplicate_threshold": 0.985,
+  "reconstruction": "dataset/pair_blocks/Atlantis_Amen/pair_blocks_reconstruction.wav",
+  "blocks": [
+    {
+      "pair": 0,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_00_0ms.wav",
+      "start_sample": 0,
+      "end_sample": 9702,
+      "start_ms": 0.0,
+      "end_ms": 220.0,
+      "duration_ms": 220.0,
+      "rms": 0.18581902980804443
+    },
+    {
+      "pair": 1,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_01_220ms.wav",
+      "start_sample": 9702,
+      "end_sample": 19404,
+      "start_ms": 220.0,
+      "end_ms": 440.0,
+      "duration_ms": 220.0,
+      "rms": 0.1971319019794464
+    },
+    {
+      "pair": 2,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_02_440ms.wav",
+      "start_sample": 19404,
+      "end_sample": 29106,
+      "start_ms": 440.0,
+      "end_ms": 660.0,
+      "duration_ms": 220.0,
+      "rms": 0.13699650764465332
+    },
+    {
+      "pair": 3,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_03_660ms.wav",
+      "start_sample": 29106,
+      "end_sample": 38808,
+      "start_ms": 660.0,
+      "end_ms": 880.0,
+      "duration_ms": 220.0,
+      "rms": 0.15180912613868713
+    },
+    {
+      "pair": 4,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_04_880ms.wav",
+      "start_sample": 38808,
+      "end_sample": 48510,
+      "start_ms": 880.0,
+      "end_ms": 1100.0,
+      "duration_ms": 220.0,
+      "rms": 0.15542681515216827
+    },
+    {
+      "pair": 5,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_05_1100ms.wav",
+      "start_sample": 48510,
+      "end_sample": 58212,
+      "start_ms": 1100.0,
+      "end_ms": 1320.0,
+      "duration_ms": 220.0,
+      "rms": 0.21743318438529968
+    },
+    {
+      "pair": 6,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_06_1320ms.wav",
+      "start_sample": 58212,
+      "end_sample": 67914,
+      "start_ms": 1320.0,
+      "end_ms": 1540.0,
+      "duration_ms": 220.0,
+      "rms": 0.018698660656809807
+    },
+    {
+      "pair": 7,
+      "audio_path": "dataset/pair_blocks/Atlantis_Amen/pair_blocks/pair_07_1540ms.wav",
+      "start_sample": 67914,
+      "end_sample": 77616,
+      "start_ms": 1540.0,
+      "end_ms": 1760.0,
+      "duration_ms": 220.0,
+      "rms": 0.0
+    }
+  ]
+}

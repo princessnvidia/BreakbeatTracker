@@ -1,0 +1,26 @@
+M8-style slicer v10: Bulldozer_Amen_2_-_2A
+Source: breaks/Bulldozer Amen 2 - 2A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/Bulldozer_Amen_2_-_2A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Bulldozer_Amen_2_-_2A/Bulldozer_Amen_2_-_2A_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     35.01 ms | dur     35.01 ms | start | score 1.0
+slice 01 |     26.12 ->    172.70 ms | dur    146.58 ms | hybrid_snap_auto | score 0.361842
+slice 02 |    172.70 ->    341.04 ms | dur    168.34 ms | hat_rescue | score 0.765696
+slice 03 |    341.04 ->    532.61 ms | dur    191.56 ms | hat_rescue | score 0.766562
+slice 04 |    532.61 ->    705.31 ms | dur    172.70 ms | hybrid_snap_hat | score 0.850635
+slice 05 |    705.31 ->    872.93 ms | dur    167.62 ms | hybrid_snap_auto | score 0.644157
+slice 06 |    872.93 ->   1057.96 ms | dur    185.03 ms | hybrid_snap_auto | score 0.477436
+slice 07 |   1057.96 ->   1236.46 ms | dur    178.50 ms | hybrid_snap_auto | score 0.435895
+slice 08 |   1236.46 ->   1404.08 ms | dur    167.62 ms | hybrid_snap_auto | score 0.293304
+slice 09 |   1404.08 ->   1586.21 ms | dur    182.13 ms | hybrid_snap_auto | score 0.632968
+slice 10 |   1586.21 ->   1756.73 ms | dur    170.52 ms | hat_rescue | score 0.765275
+slice 11 |   1756.73 ->   1938.87 ms | dur    182.13 ms | hybrid_snap_auto | score 0.741795
+slice 12 |   1938.87 ->   2109.39 ms | dur    170.52 ms | hat_rescue | score 0.77998
+slice 13 |   2109.39 ->   2292.97 ms | dur    183.58 ms | hybrid_snap_auto | score 0.750727
+slice 14 |   2292.97 ->   2462.04 ms | dur    169.07 ms | hybrid_snap_hat | score 0.894249
+slice 15 |   2462.04 ->   2645.62 ms | dur    183.58 ms | hybrid_snap_auto | score 0.862831
+slice 16 |   2645.62 ->   2826.01 ms | dur    180.39 ms | hat_rescue | score 0.954404

@@ -1,0 +1,12 @@
+4-role index-only autoslice v05: Camo_Break_-_3A
+Source: breaks/Camo Break - 3A.wav
+Roles: snare, hat, kick, crash
+Storage: one source audio + JSON start/end indexes
+JSON: dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v05/Camo_Break_-_3A/Camo_Break_-_3A_source_loop_preview_v05.wav
+Backup old JSON: dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json.bak_20260702_060102
+
+pair 0 snare  |   2829.93 ->   2941.02 ms | dur    111.09 ms | scores {'kick': -0.074114, 'snare': 1.583743, 'hat': 2.198597, 'crash': 1.502235}
+pair 1 hat    |   2278.46 ->   2374.24 ms | dur     95.78 ms | scores {'kick': -0.348517, 'snare': 1.413768, 'hat': 2.506082, 'crash': 1.737697}
+pair 2 kick   |   2101.41 ->   2182.68 ms | dur     81.27 ms | scores {'kick': 2.551946, 'snare': -0.139082, 'hat': -0.220136, 'crash': -0.157524}
+pair 3 crash  |   1358.37 ->   1816.96 ms | dur    458.59 ms | scores {'kick': -0.549179, 'snare': 1.250707, 'hat': 2.238063, 'crash': 1.834596}

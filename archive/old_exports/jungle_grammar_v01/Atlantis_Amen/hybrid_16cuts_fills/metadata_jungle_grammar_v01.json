@@ -1,0 +1,1844 @@
+{
+  "version": "jungle_grammar_v01",
+  "phase": 2,
+  "source": "breaks/Atlantis Amen.wav",
+  "source_only": true,
+  "no_overlap": true,
+  "no_txt_variations": true,
+  "method": "hybrid",
+  "target_cuts": 16,
+  "min_ms": 45.0,
+  "grammar": "fills",
+  "block_size": 2,
+  "operations": 3,
+  "base_wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_base.wav",
+  "preview_dir": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/slices_preview",
+  "slices": [
+    {
+      "index": 0,
+      "start_ms": 0.0,
+      "end_ms": 83.37868480725625,
+      "duration": 0.08337868480725624
+    },
+    {
+      "index": 1,
+      "start_ms": 83.37868480725625,
+      "end_ms": 185.75963718820861,
+      "duration": 0.10238095238095238
+    },
+    {
+      "index": 2,
+      "start_ms": 185.75963718820861,
+      "end_ms": 250.1814058956916,
+      "duration": 0.064421768707483
+    },
+    {
+      "index": 3,
+      "start_ms": 250.1814058956916,
+      "end_ms": 333.5827664399093,
+      "duration": 0.08340136054421769
+    },
+    {
+      "index": 4,
+      "start_ms": 333.5827664399093,
+      "end_ms": 394.7392290249433,
+      "duration": 0.061156462585034016
+    },
+    {
+      "index": 5,
+      "start_ms": 394.7392290249433,
+      "end_ms": 500.38548752834464,
+      "duration": 0.10564625850340136
+    },
+    {
+      "index": 6,
+      "start_ms": 500.38548752834464,
+      "end_ms": 580.4988662131519,
+      "duration": 0.08011337868480725
+    },
+    {
+      "index": 7,
+      "start_ms": 580.4988662131519,
+      "end_ms": 638.5487528344671,
+      "duration": 0.058049886621315196
+    },
+    {
+      "index": 8,
+      "start_ms": 638.5487528344671,
+      "end_ms": 766.2585034013606,
+      "duration": 0.12770975056689343
+    },
+    {
+      "index": 9,
+      "start_ms": 766.2585034013606,
+      "end_ms": 835.9183673469388,
+      "duration": 0.06965986394557823
+    },
+    {
+      "index": 10,
+      "start_ms": 835.9183673469388,
+      "end_ms": 940.408163265306,
+      "duration": 0.10448979591836735
+    },
+    {
+      "index": 11,
+      "start_ms": 940.408163265306,
+      "end_ms": 1000.7936507936508,
+      "duration": 0.06038548752834467
+    },
+    {
+      "index": 12,
+      "start_ms": 1000.7936507936508,
+      "end_ms": 1079.7278911564624,
+      "duration": 0.0789342403628118
+    },
+    {
+      "index": 13,
+      "start_ms": 1079.7278911564624,
+      "end_ms": 1149.3877551020407,
+      "duration": 0.06965986394557823
+    },
+    {
+      "index": 14,
+      "start_ms": 1149.3877551020407,
+      "end_ms": 1250.9977324263039,
+      "duration": 0.10160997732426304
+    },
+    {
+      "index": 15,
+      "start_ms": 1250.9977324263039,
+      "end_ms": 1334.3990929705217,
+      "duration": 0.08340136054421769
+    }
+  ],
+  "renders": [
+    {
+      "index": 1,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_001.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        6,
+        7,
+        9,
+        7,
+        6,
+        9,
+        4
+      ],
+      "operations": [
+        "stutter",
+        "stutter",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 2,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_002.wav",
+      "sequence": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3,
+        6,
+        6,
+        8,
+        9,
+        10,
+        11,
+        10,
+        11,
+        8,
+        12
+      ],
+      "operations": [
+        "chop_fill",
+        "amen_switch",
+        "stutter"
+      ]
+    },
+    {
+      "index": 3,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_003.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        4,
+        5,
+        9,
+        9,
+        4,
+        9,
+        9,
+        10,
+        4,
+        9
+      ],
+      "operations": [
+        "amen_switch",
+        "stutter",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 4,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_004.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        6,
+        6,
+        7,
+        6,
+        6,
+        7,
+        6,
+        6
+      ],
+      "operations": [
+        "chop_fill",
+        "amen_switch",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 5,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_005.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        9,
+        15,
+        15,
+        12,
+        13,
+        10,
+        11
+      ],
+      "operations": [
+        "reverse_fill",
+        "stutter",
+        "stutter"
+      ]
+    },
+    {
+      "index": 6,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_006.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        4,
+        5,
+        9,
+        7,
+        6,
+        9,
+        5,
+        8,
+        7,
+        4
+      ],
+      "operations": [
+        "amen_switch",
+        "chop_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 7,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_007.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        13,
+        13
+      ],
+      "operations": [
+        "stutter",
+        "reverse_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 8,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_008.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        14,
+        12,
+        12,
+        6,
+        15,
+        15
+      ],
+      "operations": [
+        "stutter",
+        "reverse_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 9,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_009.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        8,
+        8,
+        11,
+        11,
+        8,
+        9
+      ],
+      "operations": [
+        "stutter",
+        "chop_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 10,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_010.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        4,
+        5,
+        7,
+        8,
+        8,
+        6,
+        8,
+        4
+      ],
+      "operations": [
+        "reverse_fill",
+        "reverse_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 11,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_011.wav",
+      "sequence": [
+        0,
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        10,
+        12,
+        8,
+        8
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "stutter"
+      ]
+    },
+    {
+      "index": 12,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_012.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        11,
+        14,
+        15,
+        12,
+        12
+      ],
+      "operations": [
+        "stutter",
+        "stutter",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 13,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_013.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        12,
+        7,
+        7,
+        15,
+        15,
+        14
+      ],
+      "operations": [
+        "reverse_fill",
+        "chop_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 14,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_014.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        14,
+        8,
+        9,
+        7,
+        8,
+        7
+      ],
+      "operations": [
+        "reverse_fill",
+        "chop_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 15,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_015.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        5,
+        7,
+        5,
+        7,
+        5,
+        7,
+        4
+      ],
+      "operations": [
+        "reverse_fill",
+        "stutter",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 16,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_016.wav",
+      "sequence": [
+        0,
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        12,
+        13,
+        8,
+        9,
+        10,
+        11
+      ],
+      "operations": [
+        "stutter",
+        "reverse_fill",
+        "amen_switch"
+      ]
+    },
+    {
+      "index": 17,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_017.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        4,
+        7,
+        8,
+        7,
+        4,
+        7,
+        6
+      ],
+      "operations": [
+        "chop_fill",
+        "amen_switch",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 18,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_018.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        12,
+        13,
+        10,
+        11,
+        8,
+        9
+      ],
+      "operations": [
+        "reverse_fill",
+        "reverse_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 19,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_019.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        6,
+        7,
+        8,
+        8,
+        8,
+        8,
+        6
+      ],
+      "operations": [
+        "chop_fill",
+        "chop_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 20,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_020.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        6,
+        4,
+        4,
+        6,
+        5,
+        7,
+        8,
+        4
+      ],
+      "operations": [
+        "chop_fill",
+        "reverse_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 21,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_021.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        8,
+        9,
+        8,
+        8,
+        8,
+        15
+      ],
+      "operations": [
+        "amen_switch",
+        "reverse_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 22,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_022.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        5,
+        6,
+        7,
+        14,
+        15,
+        12,
+        13,
+        8,
+        9,
+        10,
+        11
+      ],
+      "operations": [
+        "reverse_fill",
+        "stutter",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 23,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_023.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        3,
+        6,
+        7,
+        9,
+        9,
+        10,
+        11,
+        14,
+        15,
+        12,
+        13
+      ],
+      "operations": [
+        "amen_switch",
+        "reverse_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 24,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_024.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        8,
+        9,
+        4,
+        5,
+        14,
+        15,
+        12,
+        13,
+        10,
+        11,
+        6,
+        7
+      ],
+      "operations": [
+        "amen_switch",
+        "amen_switch",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 25,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_025.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        10,
+        11
+      ],
+      "operations": [
+        "reverse_fill",
+        "stutter",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 26,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_026.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        7,
+        4,
+        5,
+        9,
+        6,
+        5,
+        6,
+        5
+      ],
+      "operations": [
+        "chop_fill",
+        "reverse_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 27,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_027.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        9,
+        9,
+        4,
+        5,
+        6,
+        9,
+        4,
+        7
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "stutter"
+      ]
+    },
+    {
+      "index": 28,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_028.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        6,
+        7,
+        14,
+        15,
+        10,
+        11,
+        12,
+        13
+      ],
+      "operations": [
+        "amen_switch",
+        "amen_switch",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 29,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_029.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        7,
+        8,
+        9,
+        9,
+        7,
+        11,
+        6,
+        8,
+        7
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 30,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_030.wav",
+      "sequence": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        4,
+        4,
+        8,
+        9,
+        9,
+        9,
+        4,
+        4
+      ],
+      "operations": [
+        "chop_fill",
+        "chop_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 31,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_031.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        8,
+        7,
+        8,
+        9,
+        9,
+        10,
+        11,
+        8
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "amen_switch"
+      ]
+    },
+    {
+      "index": 32,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_032.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        7,
+        6,
+        9,
+        11,
+        6,
+        9
+      ],
+      "operations": [
+        "chop_fill",
+        "chop_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 33,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_033.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        8,
+        12,
+        12,
+        10
+      ],
+      "operations": [
+        "chop_fill",
+        "reverse_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 34,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_034.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        4,
+        5,
+        8,
+        9,
+        10,
+        4,
+        10,
+        10,
+        11,
+        9
+      ],
+      "operations": [
+        "amen_switch",
+        "reverse_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 35,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_035.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        6,
+        9,
+        6,
+        4,
+        6,
+        6,
+        5,
+        6,
+        9
+      ],
+      "operations": [
+        "chop_fill",
+        "amen_switch",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 36,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_036.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        6,
+        7,
+        6,
+        9,
+        6,
+        9,
+        9,
+        6
+      ],
+      "operations": [
+        "chop_fill",
+        "amen_switch",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 37,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_037.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        6,
+        7,
+        8,
+        7,
+        7
+      ],
+      "operations": [
+        "stutter",
+        "chop_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 38,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_038.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        4,
+        5,
+        8,
+        9,
+        4,
+        5,
+        9,
+        8,
+        5,
+        8
+      ],
+      "operations": [
+        "amen_switch",
+        "amen_switch",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 39,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_039.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        10,
+        9,
+        7,
+        11,
+        11
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 40,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_040.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        7,
+        6,
+        7,
+        8,
+        9,
+        4,
+        6,
+        6,
+        8
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "amen_switch"
+      ]
+    },
+    {
+      "index": 41,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_041.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        5,
+        6,
+        7,
+        10,
+        11,
+        13,
+        10,
+        10,
+        11,
+        8,
+        9
+      ],
+      "operations": [
+        "stutter",
+        "chop_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 42,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_042.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        7,
+        4,
+        6,
+        4,
+        7,
+        6,
+        6,
+        4
+      ],
+      "operations": [
+        "chop_fill",
+        "reverse_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 43,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_043.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        6,
+        6,
+        10,
+        10,
+        8,
+        6
+      ],
+      "operations": [
+        "stutter",
+        "chop_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 44,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_044.wav",
+      "sequence": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        7,
+        7,
+        8,
+        5,
+        5,
+        7,
+        9,
+        9
+      ],
+      "operations": [
+        "chop_fill",
+        "reverse_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 45,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_045.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        11,
+        12,
+        11
+      ],
+      "operations": [
+        "chop_fill",
+        "chop_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 46,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_046.wav",
+      "sequence": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3,
+        6,
+        7,
+        6,
+        9,
+        3,
+        8,
+        8,
+        9,
+        9,
+        3
+      ],
+      "operations": [
+        "amen_switch",
+        "stutter",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 47,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_047.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        9,
+        6,
+        11,
+        6,
+        9,
+        11
+      ],
+      "operations": [
+        "reverse_fill",
+        "chop_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 48,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_048.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "operations": [
+        "chop_fill",
+        "chop_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 49,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_049.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        4,
+        6,
+        7,
+        6,
+        4,
+        4,
+        9,
+        4
+      ],
+      "operations": [
+        "chop_fill",
+        "reverse_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 50,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_050.wav",
+      "sequence": [
+        2,
+        3,
+        0,
+        1,
+        4,
+        5,
+        6,
+        7,
+        9,
+        4,
+        4,
+        5,
+        9,
+        5,
+        6,
+        6
+      ],
+      "operations": [
+        "reverse_fill",
+        "amen_switch",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 51,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_051.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        8,
+        6,
+        8,
+        8,
+        8
+      ],
+      "operations": [
+        "chop_fill",
+        "reverse_fill",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 52,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_052.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        14,
+        15,
+        12,
+        13,
+        10,
+        11
+      ],
+      "operations": [
+        "reverse_fill",
+        "reverse_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 53,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_053.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        4,
+        4,
+        8,
+        5,
+        9,
+        9,
+        5,
+        6
+      ],
+      "operations": [
+        "stutter",
+        "stutter",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 54,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_054.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        8,
+        9,
+        8,
+        6,
+        6,
+        10,
+        8
+      ],
+      "operations": [
+        "reverse_fill",
+        "chop_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 55,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_055.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        5,
+        5,
+        6,
+        9,
+        7,
+        6
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "amen_switch"
+      ]
+    },
+    {
+      "index": 56,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_056.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        4,
+        5,
+        4,
+        5,
+        14,
+        15,
+        12,
+        13,
+        10,
+        11
+      ],
+      "operations": [
+        "reverse_fill",
+        "amen_switch",
+        "amen_switch"
+      ]
+    },
+    {
+      "index": 57,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_057.wav",
+      "sequence": [
+        0,
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        6,
+        7,
+        9,
+        7,
+        7,
+        8,
+        7
+      ],
+      "operations": [
+        "reverse_fill",
+        "chop_fill",
+        "stutter"
+      ]
+    },
+    {
+      "index": 58,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_058.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        12,
+        13
+      ],
+      "operations": [
+        "amen_switch",
+        "reverse_fill",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 59,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_059.wav",
+      "sequence": [
+        0,
+        1,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        9,
+        7,
+        8,
+        8,
+        9,
+        11
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "reverse_fill"
+      ]
+    },
+    {
+      "index": 60,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_060.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        7,
+        7,
+        5,
+        9,
+        9,
+        9,
+        6,
+        9
+      ],
+      "operations": [
+        "chop_fill",
+        "amen_switch",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 61,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_061.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        4,
+        6,
+        7,
+        8,
+        9,
+        14,
+        15,
+        13,
+        9,
+        8,
+        15
+      ],
+      "operations": [
+        "reverse_fill",
+        "stutter",
+        "chop_fill"
+      ]
+    },
+    {
+      "index": 62,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_062.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        5,
+        6,
+        7,
+        8,
+        9,
+        14,
+        15,
+        12,
+        13,
+        10,
+        10
+      ],
+      "operations": [
+        "reverse_fill",
+        "stutter",
+        "stutter"
+      ]
+    },
+    {
+      "index": 63,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_063.wav",
+      "sequence": [
+        1,
+        1,
+        4,
+        5,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        12,
+        14,
+        15
+      ],
+      "operations": [
+        "stutter",
+        "amen_switch",
+        "stutter"
+      ]
+    },
+    {
+      "index": 64,
+      "wav": "exports/jungle_grammar_v01/Atlantis_Amen/hybrid_16cuts_fills/Atlantis_Amen_jungle_grammar_064.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        11,
+        9,
+        8
+      ],
+      "operations": [
+        "chop_fill",
+        "stutter",
+        "chop_fill"
+      ]
+    }
+  ]
+}

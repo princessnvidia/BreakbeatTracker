@@ -1,0 +1,161 @@
+{
+  "version": "rejected_variants_v100",
+  "updated_at": "2026-07-02 12:08:55",
+  "breaks": {
+    "Camo_Break_-_3A": {
+      "reject_count": 2,
+      "rejected": [
+        {
+          "time": "2026-07-02 11:03:28",
+          "variant": "A_same",
+          "role_offset": 0
+        },
+        {
+          "time": "2026-07-02 11:03:34",
+          "variant": "C_kick_late",
+          "role_offset": 1
+        }
+      ]
+    },
+    "Chopper_Break_-_6A": {
+      "reject_count": 7,
+      "rejected": [
+        {
+          "time": "2026-07-02 11:06:15",
+          "variant": "A_same",
+          "role_offset": 0
+        },
+        {
+          "time": "2026-07-02 11:06:19",
+          "variant": "C_kick_late",
+          "role_offset": 1
+        },
+        {
+          "time": "2026-07-02 11:06:29",
+          "variant": "E_more_hats",
+          "role_offset": 2
+        },
+        {
+          "time": "2026-07-02 11:06:32",
+          "variant": "A_same",
+          "role_offset": 3
+        },
+        {
+          "time": "2026-07-02 11:06:36",
+          "variant": "C_kick_late",
+          "role_offset": 4
+        },
+        {
+          "time": "2026-07-02 11:06:39",
+          "variant": "E_more_hats",
+          "role_offset": 5
+        },
+        {
+          "time": "2026-07-02 11:06:43",
+          "variant": "A_same",
+          "role_offset": 6
+        }
+      ]
+    },
+    "London_Break_-_8A": {
+      "reject_count": 10,
+      "rejected": [
+        {
+          "time": "2026-07-02 11:07:58",
+          "variant": "C_kick_late",
+          "role_offset": 0
+        },
+        {
+          "time": "2026-07-02 11:08:01",
+          "variant": "E_more_hats",
+          "role_offset": 1
+        },
+        {
+          "time": "2026-07-02 11:08:03",
+          "variant": "A_same",
+          "role_offset": 2
+        },
+        {
+          "time": "2026-07-02 11:08:05",
+          "variant": "C_kick_late",
+          "role_offset": 3
+        },
+        {
+          "time": "2026-07-02 11:08:08",
+          "variant": "E_more_hats",
+          "role_offset": 4
+        },
+        {
+          "time": "2026-07-02 11:08:12",
+          "variant": "A_same",
+          "role_offset": 5
+        },
+        {
+          "time": "2026-07-02 11:08:15",
+          "variant": "C_kick_late",
+          "role_offset": 6
+        },
+        {
+          "time": "2026-07-02 11:08:19",
+          "variant": "E_more_hats",
+          "role_offset": 7
+        },
+        {
+          "time": "2026-07-02 11:08:22",
+          "variant": "A_same",
+          "role_offset": 8
+        },
+        {
+          "time": "2026-07-02 11:08:25",
+          "variant": "C_kick_late",
+          "role_offset": 9
+        }
+      ]
+    },
+    "Fairlight_Break_-_9A": {
+      "reject_count": 4,
+      "rejected": [
+        {
+          "time": "2026-07-02 11:08:36",
+          "variant": "B_kick_forward",
+          "role_offset": 0
+        },
+        {
+          "time": "2026-07-02 11:08:42",
+          "variant": "D_last_bar_push",
+          "role_offset": 1
+        },
+        {
+          "time": "2026-07-02 11:08:45",
+          "variant": "F_answer_kick",
+          "role_offset": 2
+        },
+        {
+          "time": "2026-07-02 11:08:58",
+          "variant": "B_kick_forward",
+          "role_offset": 3
+        }
+      ]
+    },
+    "Champion_Break_-_7A": {
+      "reject_count": 3,
+      "rejected": [
+        {
+          "time": "2026-07-02 12:08:48",
+          "variant": "A_same",
+          "role_offset": 0
+        },
+        {
+          "time": "2026-07-02 12:08:51",
+          "variant": "C_kick_late",
+          "role_offset": 1
+        },
+        {
+          "time": "2026-07-02 12:08:55",
+          "variant": "E_more_hats",
+          "role_offset": 2
+        }
+      ]
+    }
+  }
+}

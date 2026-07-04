@@ -1,0 +1,26 @@
+M8-style slicer v10: Sonic_Amen_-_7A
+Source: breaks/Sonic Amen - 7A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/Sonic_Amen_-_7A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Sonic_Amen_-_7A/Sonic_Amen_-_7A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     76.19 ms | dur     69.66 ms | hybrid_snap_auto | score 0.642521
+slice 01 |     76.19 ->    169.80 ms | dur     93.61 ms | hybrid_snap_auto | score 0.201899
+slice 02 |    169.80 ->    278.73 ms | dur    108.93 ms | hat_rescue | score 0.741083
+slice 03 |    278.73 ->    361.36 ms | dur     82.63 ms | grid | score 1.0
+slice 04 |    361.36 ->    446.26 ms | dur     84.90 ms | hat_rescue | score 0.947996
+slice 05 |    446.26 ->    560.18 ms | dur    113.92 ms | hybrid_snap_auto | score 0.140763
+slice 06 |    560.18 ->    659.59 ms | dur     99.41 ms | hat_rescue | score 0.904892
+slice 07 |    659.59 ->    747.39 ms | dur     87.80 ms | hybrid_snap_auto | score 0.428763
+slice 08 |    747.39 ->    833.74 ms | dur     86.35 ms | hybrid_snap_hat | score 0.911888
+slice 09 |    833.74 ->    924.44 ms | dur     90.70 ms | hybrid_snap_auto | score 0.452486
+slice 10 |    924.44 ->   1047.07 ms | dur    122.63 ms | hat_rescue | score 0.887741
+slice 11 |   1047.07 ->   1105.85 ms | dur     58.78 ms | hybrid_snap_auto | score 0.387321
+slice 12 |   1105.85 ->   1140.86 ms | dur     35.01 ms | hat_rescue | score 0.865025
+slice 13 |   1134.88 ->   1223.40 ms | dur     88.53 ms | hat_rescue | score 0.725956
+slice 14 |   1223.40 ->   1301.77 ms | dur     78.37 ms | hybrid_snap_auto | score 0.135013
+slice 15 |   1301.77 ->   1401.90 ms | dur    100.14 ms | hat_rescue | score 0.960914
+slice 16 |   1401.90 ->   1486.58 ms | dur     84.67 ms | hybrid_snap_auto | score 0.345103

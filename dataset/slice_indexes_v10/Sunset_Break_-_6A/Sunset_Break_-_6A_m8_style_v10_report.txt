@@ -1,0 +1,29 @@
+M8-style slicer v10: Sunset_Break_-_6A
+Source: breaks/Sunset Break - 6A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Sunset_Break_-_6A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Sunset_Break_-_6A/Sunset_Break_-_6A_source_loop_preview_v10.wav
+
+slice 00 |     17.41 ->    179.57 ms | dur    162.15 ms | hybrid_snap_auto | score 0.346568
+slice 01 |    179.57 ->    346.85 ms | dur    167.28 ms | grid | score 1.0
+slice 02 |    346.85 ->    538.71 ms | dur    191.86 ms | hat_rescue | score 0.653017
+slice 03 |    538.71 ->    709.66 ms | dur    170.95 ms | grid | score 1.0
+slice 04 |    709.66 ->    885.99 ms | dur    176.33 ms | hybrid_snap_auto | score 0.148772
+slice 05 |    885.99 ->   1063.76 ms | dur    177.78 ms | hybrid_snap_auto | score 0.372199
+slice 06 |   1063.76 ->   1256.96 ms | dur    193.20 ms | hat_rescue | score 0.655785
+slice 07 |   1256.96 ->   1423.67 ms | dur    166.71 ms | grid | score 1.0
+slice 08 |   1423.67 ->   1602.18 ms | dur    178.50 ms | hybrid_snap_auto | score 0.639144
+slice 09 |   1602.18 ->   1779.23 ms | dur    177.05 ms | hybrid_snap_auto | score 0.238638
+slice 10 |   1779.23 ->   1814.24 ms | dur     35.01 ms | hat_rescue | score 0.964255
+slice 11 |   1808.98 ->   1959.18 ms | dur    150.20 ms | hybrid_snap_auto | score 0.250576
+slice 12 |   1959.18 ->   2049.16 ms | dur     89.98 ms | hat_rescue | score 0.736885
+slice 13 |   2049.16 ->   2084.17 ms | dur     35.01 ms | hat_rescue | score 0.604052
+slice 14 |   2063.67 ->   2098.68 ms | dur     35.01 ms | hat_rescue | score 0.565009
+slice 15 |   2082.54 ->   2146.39 ms | dur     63.85 ms | hat_rescue | score 0.602499
+slice 16 |   2146.39 ->   2322.72 ms | dur    176.33 ms | hybrid_snap_auto | score 0.251285
+slice 17 |   2322.72 ->   2497.60 ms | dur    174.88 ms | hybrid_snap_auto | score 0.601917
+slice 18 |   2497.60 ->   2679.73 ms | dur    182.13 ms | hat_rescue | score 0.715474
+slice 19 |   2679.73 ->   2873.06 ms | dur    193.33 ms | hybrid_snap_auto | score 0.177187

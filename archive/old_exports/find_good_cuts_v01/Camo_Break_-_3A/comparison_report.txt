@@ -1,0 +1,13 @@
+SOURCE: breaks/Camo Break - 3A.wav
+TARGET_CUTS: 16
+MIN_MS: 45.0
+
+Écoute d'abord les reconstructions :
+
+01_onset_backtrack | slices=23 | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/01_onset_backtrack_reconstruction.wav
+02_onset_strong | slices=16 | exports/find_good_cuts_v01/Camo_Break_-_3A/02_onset_strong/02_onset_strong_reconstruction.wav
+03_grid_snap | slices=17 | exports/find_good_cuts_v01/Camo_Break_-_3A/03_grid_snap/03_grid_snap_reconstruction.wav
+04_hybrid | slices=16 | exports/find_good_cuts_v01/Camo_Break_-_3A/04_hybrid/04_hybrid_reconstruction.wav
+
+Puis écoute les slices individuelles dans chaque dossier /slices.
+La meilleure méthode sera celle où les slices commencent naturellement sur les coups.

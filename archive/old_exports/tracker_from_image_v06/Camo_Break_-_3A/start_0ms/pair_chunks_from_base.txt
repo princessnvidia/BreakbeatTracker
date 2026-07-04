@@ -1,0 +1,14 @@
+PAIR CHUNKS FROM BASE
+PAIR | DUR | SLICE INDICES | ROLES
+-----------------------------------
+0000 | 0.302s | 0 1 2 3 4 5 6 | kick hat snare hat hat hat kick
+0001 | 0.364s | 7 8 9 10 11 12 13 14 | snare hat kick snare kick hat kick snare
+0002 | 0.392s | 15 16 17 18 19 20 21 22 23 | hat snare kick hat snare hat hat kick snare
+0003 | 0.417s | 24 25 26 27 28 29 30 31 32 | hat kick hat snare kick hat hat snare hat
+0004 | 0.407s | 33 34 35 36 37 38 39 40 41 | kick hat snare hat hat kick snare hat kick
+0005 | 0.347s | 42 43 44 45 46 47 48 49 | snare kick hat kick snare hat snare kick
+0006 | 0.414s | 50 51 52 53 54 55 56 57 58 | hat snare hat hat kick snare hat kick hat
+0007 | 0.275s | 59 60 61 62 63 64 | snare kick hat hat snare hat
+
+GRID 16 PAIRS:
+PAIR : 11|22|33|44|55|66|77|88

@@ -1,0 +1,35 @@
+{
+  "version": "role_grid_template_v01",
+  "grid_steps": 32,
+  "description": "Grille universelle cross-break : positions de roles, pas numeros de slices.",
+  "roles": {
+    "snare": [
+      { "step": 6,  "length": 1, "strength": "anchor" },
+      { "step": 14, "length": 1, "strength": "anchor" },
+      { "step": 22, "length": 1, "strength": "anchor" },
+      { "step": 30, "length": 1, "strength": "anchor" }
+    ],
+    "kick": [
+      { "step": 7,  "length": 1, "strength": "anchor" },
+      { "step": 15, "length": 1, "strength": "anchor" },
+      { "step": 23, "length": 1, "strength": "anchor" },
+      { "step": 31, "length": 1, "strength": "anchor" }
+    ],
+    "hat": [
+      { "step": 2,  "length": 1, "strength": "fill" },
+      { "step": 4,  "length": 1, "strength": "fill" },
+      { "step": 10, "length": 1, "strength": "fill" },
+      { "step": 12, "length": 1, "strength": "fill" },
+      { "step": 18, "length": 1, "strength": "fill" },
+      { "step": 20, "length": 1, "strength": "fill" },
+      { "step": 26, "length": 1, "strength": "fill" },
+      { "step": 28, "length": 1, "strength": "fill" }
+    ],
+    "ghost_snare": [
+      { "step": 5,  "length": 1, "strength": "ghost" },
+      { "step": 13, "length": 1, "strength": "ghost" },
+      { "step": 21, "length": 1, "strength": "ghost" },
+      { "step": 29, "length": 1, "strength": "ghost" }
+    ]
+  }
+}

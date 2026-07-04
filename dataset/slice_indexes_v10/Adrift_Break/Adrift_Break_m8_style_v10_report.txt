@@ -1,0 +1,29 @@
+M8-style slicer v10: Adrift_Break
+Source: breaks/Adrift Break.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Adrift_Break_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Adrift_Break/Adrift_Break_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     35.01 ms | dur     35.01 ms | start | score 1.0
+slice 01 |     28.30 ->    181.81 ms | dur    153.51 ms | hybrid_snap_auto | score 0.247241
+slice 02 |    181.81 ->    375.87 ms | dur    194.06 ms | grid | score 1.0
+slice 03 |    375.87 ->    545.42 ms | dur    169.55 ms | hat_rescue | score 0.746908
+slice 04 |    545.42 ->    727.21 ms | dur    181.79 ms | grid | score 1.0
+slice 05 |    727.21 ->    909.93 ms | dur    182.72 ms | grid | score 1.0
+slice 06 |    909.93 ->    944.94 ms | dur     35.01 ms | hybrid_snap_auto | score 0.740501
+slice 07 |    927.35 ->   1030.39 ms | dur    103.04 ms | hat_rescue | score 0.618171
+slice 08 |   1030.39 ->   1251.70 ms | dur    221.32 ms | hat_rescue | score 0.691005
+slice 09 |   1251.70 ->   1445.44 ms | dur    193.74 ms | hybrid_snap_auto | score 0.216193
+slice 10 |   1445.44 ->   1630.48 ms | dur    185.03 ms | hybrid_snap_auto | score 0.854958
+slice 11 |   1630.48 ->   1832.93 ms | dur    202.45 ms | hybrid_snap_auto | score 0.580606
+slice 12 |   1832.93 ->   1952.65 ms | dur    119.73 ms | hat_rescue | score 0.746172
+slice 13 |   1952.65 ->   2209.52 ms | dur    256.87 ms | hybrid_snap_auto | score 0.222125
+slice 14 |   2209.52 ->   2316.19 ms | dur    106.67 ms | hybrid_snap_auto | score 0.219989
+slice 15 |   2316.19 ->   2485.99 ms | dur    169.80 ms | hybrid_snap_auto | score 0.327431
+slice 16 |   2485.99 ->   2529.52 ms | dur     43.54 ms | hat_rescue | score 0.979753
+slice 17 |   2529.52 ->   2577.41 ms | dur     47.89 ms | hat_rescue | score 0.736959
+slice 18 |   2577.41 ->   2741.41 ms | dur    163.99 ms | hat_rescue | score 0.615786
+slice 19 |   2741.41 ->   2908.87 ms | dur    167.46 ms | hat_rescue | score 0.837982

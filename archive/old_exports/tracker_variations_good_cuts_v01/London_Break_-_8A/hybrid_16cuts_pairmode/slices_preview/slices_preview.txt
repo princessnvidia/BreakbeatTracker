@@ -1,0 +1,18 @@
+IDX | START_MS | END_MS | DUR | FILE
+-----------------------------------
+000 |      0.0 |     92.9 | 0.093s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_000_0ms.wav
+001 |     92.9 |    185.8 | 0.093s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_001_92ms.wav
+002 |    185.8 |    348.3 | 0.163s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_002_185ms.wav
+003 |    348.3 |    441.2 | 0.093s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_003_348ms.wav
+004 |    441.2 |    489.0 | 0.048s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_004_441ms.wav
+005 |    489.0 |    545.7 | 0.057s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_005_488ms.wav
+006 |    545.7 |    696.6 | 0.151s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_006_545ms.wav
+007 |    696.6 |    743.0 | 0.046s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_007_696ms.wav
+008 |    743.0 |    856.2 | 0.113s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_008_743ms.wav
+009 |    856.2 |    940.4 | 0.084s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_009_856ms.wav
+010 |    940.4 |   1044.9 | 0.104s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_010_940ms.wav
+011 |   1044.9 |   1126.2 | 0.081s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_011_1044ms.wav
+012 |   1126.2 |   1230.7 | 0.104s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_012_1126ms.wav
+013 |   1230.7 |   1311.9 | 0.081s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_013_1230ms.wav
+014 |   1311.9 |   1404.8 | 0.093s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_014_1311ms.wav
+015 |   1404.8 |   1498.8 | 0.094s | exports/tracker_variations_good_cuts_v01/London_Break_-_8A/hybrid_16cuts_pairmode/slices_preview/slice_015_1404ms.wav

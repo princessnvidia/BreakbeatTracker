@@ -1,0 +1,16 @@
+{
+  "version": "rejected_variants_v95",
+  "updated_at": "2026-07-02 10:55:22",
+  "breaks": {
+    "Camo_Break_-_3A": {
+      "rejected_variant_ids": [
+        "A_same",
+        "B_kick_forward",
+        "C_kick_late",
+        "D_last_bar_push"
+      ],
+      "updated_at": "2026-07-02 10:55:22",
+      "last_rejected": "D_last_bar_push"
+    }
+  }
+}

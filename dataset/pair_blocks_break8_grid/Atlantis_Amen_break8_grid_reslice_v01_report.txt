@@ -1,0 +1,18 @@
+Break8 grid reslice: Atlantis_Amen
+Source: breaks/Atlantis Amen.wav
+Source duration: 1334.40 ms
+Step ms: 83.3999
+Pattern: kick hat snare hat hat kick snare hat
+Trim onset: True
+Shift ms: 0.0
+Output JSON: dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json
+Backup old JSON: dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json.bak_20260702_050348
+
+pair 00 kick  | start     0.00 ms | dur   166.80 ms | trim   0.00 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_000_kick.wav
+pair 01 hat   | start   196.87 ms | dur   136.73 ms | trim  30.07 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_001_hat.wav
+pair 02 snare | start   333.61 ms | dur   166.80 ms | trim   0.00 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_002_snare.wav
+pair 03 hat   | start   500.41 ms | dur   166.80 ms | trim   0.00 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_003_hat.wav
+pair 04 hat   | start   697.64 ms | dur   136.35 ms | trim  30.43 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_004_hat.wav
+pair 05 kick  | start   833.99 ms | dur   166.80 ms | trim   0.00 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_005_kick.wav
+pair 06 snare | start  1000.79 ms | dur   166.80 ms | trim   0.00 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_006_snare.wav
+pair 07 hat   | start  1167.60 ms | dur   166.80 ms | trim   0.00 ms | dataset/pair_blocks_break8_grid/Atlantis_Amen/Atlantis_Amen_pair_007_hat.wav

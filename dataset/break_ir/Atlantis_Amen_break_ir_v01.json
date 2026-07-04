@@ -1,0 +1,371 @@
+{
+  "version": "break_ir_v01",
+  "source": "breaks/Atlantis Amen.wav",
+  "sample_rate": 44100,
+  "duration": 1.3343990929705216,
+  "steps_per_bar": 16,
+  "counts": {
+    "kick": 2,
+    "snare": 2,
+    "hat": 5,
+    "other": 1
+  },
+  "reconstruction": "dataset/break_ir/Atlantis_Amen/reconstruction_from_hits.wav",
+  "hits": [
+    {
+      "id": "hit_000",
+      "index": 0,
+      "instrument": "other",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/other/hit_000_other_23ms.wav",
+      "start_sample": 1024,
+      "end_sample": 8192,
+      "start_ms": 23.219954648526077,
+      "end_ms": 185.75963718820861,
+      "duration": 0.16253968253968254,
+      "features": {
+        "rms": 0.13885965943336487,
+        "peak": 0.753941535949707,
+        "centroid": 4252.043145029833,
+        "zcr": 0.1248046875,
+        "low": 0.08692710846662521,
+        "lowmid": 0.1691293567419052,
+        "mid": 0.1113283634185791,
+        "high": 0.615580677986145,
+        "duration": 0.16253968253968254
+      },
+      "scores": {
+        "kick": 2.1999600872397425,
+        "snare": 3.9851659372448927,
+        "hat": 3.6119656839650154
+      }
+    },
+    {
+      "id": "hit_001",
+      "index": 1,
+      "instrument": "kick",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/kick/hit_001_kick_185ms.wav",
+      "start_sample": 8192,
+      "end_sample": 17408,
+      "start_ms": 185.75963718820861,
+      "end_ms": 394.7392290249433,
+      "duration": 0.2089795918367347,
+      "features": {
+        "rms": 0.14132274687290192,
+        "peak": 0.9265909194946289,
+        "centroid": 4569.533402755791,
+        "zcr": 0.16079872532894737,
+        "low": 0.07229126989841461,
+        "lowmid": 0.165472611784935,
+        "mid": 0.10879894345998764,
+        "high": 0.6316699385643005,
+        "duration": 0.2089795918367347
+      },
+      "scores": {
+        "kick": 2.4383133160440544,
+        "snare": 4.316341312229634,
+        "hat": 3.8180493246716347
+      }
+    },
+    {
+      "id": "hit_002",
+      "index": 2,
+      "instrument": "snare",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/snare/hit_002_snare_394ms.wav",
+      "start_sample": 17408,
+      "end_sample": 25600,
+      "start_ms": 394.7392290249433,
+      "end_ms": 580.4988662131519,
+      "duration": 0.18575963718820862,
+      "features": {
+        "rms": 0.22472026944160461,
+        "peak": 0.9214211106300354,
+        "centroid": 4727.332263077403,
+        "zcr": 0.19272748161764705,
+        "low": 0.011413482017815113,
+        "lowmid": 0.1037534698843956,
+        "mid": 0.21091629564762115,
+        "high": 0.6510186195373535,
+        "duration": 0.18575963718820862
+      },
+      "scores": {
+        "kick": 2.344988574580673,
+        "snare": 4.914511490054428,
+        "hat": 4.2296069334327715
+      }
+    },
+    {
+      "id": "hit_003",
+      "index": 3,
+      "instrument": "hat",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/hat/hit_003_hat_580ms.wav",
+      "start_sample": 25600,
+      "end_sample": 28160,
+      "start_ms": 580.4988662131519,
+      "end_ms": 638.5487528344671,
+      "duration": 0.058049886621315196,
+      "features": {
+        "rms": 0.11363131552934647,
+        "peak": 0.8792789578437805,
+        "centroid": 5407.4685033231935,
+        "zcr": 0.1865234375,
+        "low": 0.010718461126089096,
+        "lowmid": 0.035008806735277176,
+        "mid": 0.11996740102767944,
+        "high": 0.8107008934020996,
+        "duration": 0.058049886621315196
+      },
+      "scores": {
+        "kick": 1.37355397567153,
+        "snare": 4.169341646134853,
+        "hat": 5.037150616919819
+      }
+    },
+    {
+      "id": "hit_004",
+      "index": 4,
+      "instrument": "hat",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/hat/hit_004_hat_638ms.wav",
+      "start_sample": 28160,
+      "end_sample": 33792,
+      "start_ms": 638.5487528344671,
+      "end_ms": 766.2585034013606,
+      "duration": 0.12770975056689343,
+      "features": {
+        "rms": 0.1492958813905716,
+        "peak": 0.7662124037742615,
+        "centroid": 5023.542882769957,
+        "zcr": 0.19144694010416666,
+        "low": 0.019544409587979317,
+        "lowmid": 0.09162862598896027,
+        "mid": 0.13953350484371185,
+        "high": 0.7306241393089294,
+        "duration": 0.12770975056689343
+      },
+      "scores": {
+        "kick": 1.5492066178470854,
+        "snare": 4.169081522896886,
+        "hat": 4.577363175754997
+      }
+    },
+    {
+      "id": "hit_005",
+      "index": 5,
+      "instrument": "hat",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/hat/hit_005_hat_766ms.wav",
+      "start_sample": 33792,
+      "end_sample": 36864,
+      "start_ms": 766.2585034013606,
+      "end_ms": 835.9183673469388,
+      "duration": 0.06965986394557823,
+      "features": {
+        "rms": 0.16357839107513428,
+        "peak": 0.9457886815071106,
+        "centroid": 5543.748965920938,
+        "zcr": 0.19022042410714285,
+        "low": 0.007639121264219284,
+        "lowmid": 0.030989443883299828,
+        "mid": 0.10125955194234848,
+        "high": 0.8265135288238525,
+        "duration": 0.06965986394557823
+      },
+      "scores": {
+        "kick": 1.7216546780296733,
+        "snare": 4.443175771459938,
+        "hat": 5.196711578804944
+      }
+    },
+    {
+      "id": "hit_006",
+      "index": 6,
+      "instrument": "hat",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/hat/hit_006_hat_835ms.wav",
+      "start_sample": 36864,
+      "end_sample": 41472,
+      "start_ms": 835.9183673469388,
+      "end_ms": 940.408163265306,
+      "duration": 0.10448979591836735,
+      "features": {
+        "rms": 0.13620364665985107,
+        "peak": 0.5946086049079895,
+        "centroid": 5042.263526384117,
+        "zcr": 0.187353515625,
+        "low": 0.006926462985575199,
+        "lowmid": 0.09246673434972763,
+        "mid": 0.12789954245090485,
+        "high": 0.7525562644004822,
+        "duration": 0.10448979591836735
+      },
+      "scores": {
+        "kick": 1.0246251570060854,
+        "snare": 3.8014068910852075,
+        "hat": 4.694643075776051
+      }
+    },
+    {
+      "id": "hit_007",
+      "index": 7,
+      "instrument": "hat",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/hat/hit_007_hat_940ms.wav",
+      "start_sample": 41472,
+      "end_sample": 47616,
+      "start_ms": 940.408163265306,
+      "end_ms": 1079.7278911564624,
+      "duration": 0.13931972789115646,
+      "features": {
+        "rms": 0.13096551597118378,
+        "peak": 0.9486640095710754,
+        "centroid": 4953.36024475507,
+        "zcr": 0.17987530048076922,
+        "low": 0.05018026381731033,
+        "lowmid": 0.0891493633389473,
+        "mid": 0.10046953707933426,
+        "high": 0.733323872089386,
+        "duration": 0.13931972789115646
+      },
+      "scores": {
+        "kick": 2.0212868494483143,
+        "snare": 4.287558327615261,
+        "hat": 4.487381009256215
+      }
+    },
+    {
+      "id": "hit_008",
+      "index": 8,
+      "instrument": "kick",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/kick/hit_008_kick_1079ms.wav",
+      "start_sample": 47616,
+      "end_sample": 50688,
+      "start_ms": 1079.7278911564624,
+      "end_ms": 1149.3877551020407,
+      "duration": 0.06965986394557823,
+      "features": {
+        "rms": 0.18915575742721558,
+        "peak": 0.7334657907485962,
+        "centroid": 3390.13607950726,
+        "zcr": 0.08489118303571429,
+        "low": 0.09563349187374115,
+        "lowmid": 0.2906177043914795,
+        "mid": 0.134237602353096,
+        "high": 0.4675830006599426,
+        "duration": 0.06965986394557823
+      },
+      "scores": {
+        "kick": 2.930370019589151,
+        "snare": 4.249883651733398,
+        "hat": 2.658547697224542
+      }
+    },
+    {
+      "id": "hit_009",
+      "index": 9,
+      "instrument": "snare",
+      "audio_path": "dataset/break_ir/Atlantis_Amen/hits/snare/hit_009_snare_1149ms.wav",
+      "start_sample": 50688,
+      "end_sample": 58847,
+      "start_ms": 1149.3877551020407,
+      "end_ms": 1334.3990929705217,
+      "duration": 0.18501133786848073,
+      "features": {
+        "rms": 0.22916120290756226,
+        "peak": 0.9495933651924133,
+        "centroid": 4702.57926896358,
+        "zcr": 0.18511962890625,
+        "low": 0.011468172073364258,
+        "lowmid": 0.08917717635631561,
+        "mid": 0.23247644305229187,
+        "high": 0.6432000994682312,
+        "duration": 0.18501133786848073
+      },
+      "scores": {
+        "kick": 2.421087068319321,
+        "snare": 5.0201894313097,
+        "hat": 4.190725395890012
+      }
+    }
+  ],
+  "pattern": {
+    "steps": 16,
+    "events": [
+      {
+        "step": 0,
+        "instrument": "other",
+        "hit_id": "hit_000",
+        "velocity": 1.0,
+        "length": 0.16253968253968254,
+        "start_ms": 23.219954648526077
+      },
+      {
+        "step": 2,
+        "instrument": "kick",
+        "hit_id": "hit_001",
+        "velocity": 1.0,
+        "length": 0.2089795918367347,
+        "start_ms": 185.75963718820861
+      },
+      {
+        "step": 4,
+        "instrument": "snare",
+        "hit_id": "hit_002",
+        "velocity": 1.0,
+        "length": 0.18575963718820862,
+        "start_ms": 394.7392290249433
+      },
+      {
+        "step": 7,
+        "instrument": "hat",
+        "hit_id": "hit_003",
+        "velocity": 0.9090505242347717,
+        "length": 0.058049886621315196,
+        "start_ms": 580.4988662131519
+      },
+      {
+        "step": 7,
+        "instrument": "hat",
+        "hit_id": "hit_004",
+        "velocity": 1.0,
+        "length": 0.12770975056689343,
+        "start_ms": 638.5487528344671
+      },
+      {
+        "step": 9,
+        "instrument": "hat",
+        "hit_id": "hit_005",
+        "velocity": 1.0,
+        "length": 0.06965986394557823,
+        "start_ms": 766.2585034013606
+      },
+      {
+        "step": 9,
+        "instrument": "hat",
+        "hit_id": "hit_006",
+        "velocity": 1.0,
+        "length": 0.10448979591836735,
+        "start_ms": 835.9183673469388
+      },
+      {
+        "step": 11,
+        "instrument": "hat",
+        "hit_id": "hit_007",
+        "velocity": 1.0,
+        "length": 0.13931972789115646,
+        "start_ms": 940.408163265306
+      },
+      {
+        "step": 12,
+        "instrument": "kick",
+        "hit_id": "hit_008",
+        "velocity": 1.0,
+        "length": 0.06965986394557823,
+        "start_ms": 1079.7278911564624
+      },
+      {
+        "step": 13,
+        "instrument": "snare",
+        "hit_id": "hit_009",
+        "velocity": 1.0,
+        "length": 0.18501133786848073,
+        "start_ms": 1149.3877551020407
+      }
+    ]
+  }
+}

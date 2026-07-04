@@ -1,0 +1,10 @@
+PAIR | DUR | FILE
+-----------------
+0000 | 0.302s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_00.wav
+0001 | 0.364s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_01.wav
+0002 | 0.392s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_02.wav
+0003 | 0.417s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_03.wav
+0004 | 0.407s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_04.wav
+0005 | 0.347s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_05.wav
+0006 | 0.414s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_06.wav
+0007 | 0.275s | exports/tracker_from_image_v06/Camo_Break_-_3A/start_0ms/preview_pair_chunks/pair_chunk_07.wav

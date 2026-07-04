@@ -1,0 +1,28 @@
+METHOD: 01_onset_backtrack
+SLICE COUNT: 23
+
+IDX | START_MS | END_MS | DUR | FILE
+-----------------------------------
+000 |      0.0 |    348.3 | 0.348s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_000_0ms.wav
+001 |    348.3 |    545.7 | 0.197s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_001_348ms.wav
+002 |    545.7 |    626.9 | 0.081s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_002_545ms.wav
+003 |    626.9 |    731.4 | 0.104s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_003_626ms.wav
+004 |    731.4 |    812.7 | 0.081s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_004_731ms.wav
+005 |    812.7 |    905.6 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_005_812ms.wav
+006 |    905.6 |    998.5 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_006_905ms.wav
+007 |    998.5 |   1091.3 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_007_998ms.wav
+008 |   1091.3 |   1277.1 | 0.186s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_008_1091ms.wav
+009 |   1277.1 |   1370.0 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_009_1277ms.wav
+010 |   1370.0 |   1462.9 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_010_1369ms.wav
+011 |   1462.9 |   1811.2 | 0.348s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_011_1462ms.wav
+012 |   1811.2 |   2008.5 | 0.197s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_012_1811ms.wav
+013 |   2008.5 |   2078.2 | 0.070s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_013_2008ms.wav
+014 |   2078.2 |   2171.1 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_014_2078ms.wav
+015 |   2171.1 |   2287.2 | 0.116s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_015_2171ms.wav
+016 |   2287.2 |   2380.0 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_016_2287ms.wav
+017 |   2380.0 |   2461.3 | 0.081s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_017_2380ms.wav
+018 |   2461.3 |   2565.8 | 0.104s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_018_2461ms.wav
+019 |   2565.8 |   2647.1 | 0.081s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_019_2565ms.wav
+020 |   2647.1 |   2751.6 | 0.104s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_020_2647ms.wav
+021 |   2751.6 |   2844.4 | 0.093s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_021_2751ms.wav
+022 |   2844.4 |   2941.0 | 0.097s | exports/find_good_cuts_v01/Camo_Break_-_3A/01_onset_backtrack/slices/slice_022_2844ms.wav

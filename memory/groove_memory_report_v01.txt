@@ -1,0 +1,45 @@
+GROOVE MEMORY v01
+=================
+
+Grooves mémorisés : 502
+Noeuds graphe     : 502
+Liens graphe      : 1155
+
+Sources :
+  transcription        224
+  selected             120
+  self_improve_best    120
+  generated            38
+
+Tags :
+  syncopated           342
+  medium               306
+  free                 243
+  broken_base          158
+  groovy               155
+  dense                154
+  base                 101
+  sparse               42
+  straight             5
+
+Exemples mémoire :
+Adrift Break.wav | medium/syncopated/free | K=0 S=4 g=0 H=7 | S...H...|..HH...S|SSHH....|..H..H..
+Alzir Break - 4A.wav | dense/syncopated/free | K=0 S=10 g=0 H=9 | S.HSS.HH|S.S.HH.S|.S.S.S.H|HH.H.S..
+Angles Break.wav | medium/syncopated/free | K=0 S=0 g=0 H=12 | H...HH.H|....HH.H|.H.H...H|...H.H..
+Apollo - 4A.wav | sparse/straight/free | K=0 S=1 g=0 H=2 | S.......|..H.....|....H...|........
+Arson Fill - 4A.wav | medium/syncopated/broken_base | K=0 S=18 g=0 H=0 | S...S.S.|..S.S..S|.SSS.SSS|.SSSSSS.
+Atlantis Amen.wav | medium/syncopated/free | K=0 S=8 g=0 H=2 | S...S...|.S...H.S|..HS..S.|.S.S....
+Back Break 2 - 7B.wav | medium/syncopated/free | K=0 S=9 g=0 H=9 | S.H.S.H.|H.SS.HHS|S.HS.H.H|.S.H.S..
+Back Break 3 - 7B.wav | medium/syncopated/free | K=0 S=11 g=0 H=7 | S.H.S.S.|H.SS.HHS|S.HS.S.H|.S.H.S..
+Back Break.wav | medium/syncopated/free | K=0 S=2 g=0 H=15 | HSH.H.H.|H.H.H.H.|SH.H.H.H|.H.H.H..
+Bad Break - 8A.wav | sparse/groovy/free | K=0 S=0 g=0 H=6 | H.......|H...H..H|...H...H|........
+Beep Break.wav | dense/syncopated/free | K=0 S=26 g=0 H=0 | S.SSSSSS|SSpSSS.S|SSSSSS.S|SS.SSSS.
+Beta Break.wav | medium/syncopated/free | K=0 S=0 g=1 H=16 | H.H.H.H.|H.H.HHHH|...H.H.H|gH.H.H..
+Blaze Break - 11A.wav | sparse/groovy/free | K=0 S=0 g=0 H=4 | H.......|H..H....|...H....|........
+Blaze Break 2.wav | dense/syncopated/free | K=0 S=8 g=0 H=23 | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+Blue Break - 4A.wav | dense/syncopated/broken_base | K=0 S=21 g=0 H=1 | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+Bonanza Break.wav | dense/syncopated/free | K=0 S=8 g=0 H=20 | SHSSSHHH|SHSH.HHH|.SHHH.HS|HHHHHH.H
+Boo Break - 5A.wav | dense/syncopated/free | K=0 S=3 g=0 H=16 | S.S.S..H|HHHH..HH|..HH..HH|HH.H.HH.
+Boo Worm Break - 9A.wav | dense/syncopated/free | K=0 S=20 g=0 H=3 | S.SSSSHS|SSSHSS..|SS.SS.SS|SS.SH...
+Bouncer Break - 6A.wav | dense/syncopated/free | K=0 S=21 g=0 H=2 | SSSSS.SS|SS.S..HS|.SSS.SSS|SH.S.SS.
+Box Break - 6A.wav | medium/syncopated/free | K=0 S=15 g=0 H=3 | H.S.S.S.|SS.S..SH|.H.S.SSS|SS.S.S..

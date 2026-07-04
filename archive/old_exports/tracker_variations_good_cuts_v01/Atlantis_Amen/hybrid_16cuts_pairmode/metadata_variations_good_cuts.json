@@ -1,0 +1,816 @@
+{
+  "version": "tracker_variations_good_cuts_v01",
+  "source": "breaks/Atlantis Amen.wav",
+  "source_only": true,
+  "no_overlap": true,
+  "method": "hybrid",
+  "target_cuts": 16,
+  "min_ms": 45.0,
+  "pair_mode": true,
+  "base_wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_base.wav",
+  "preview_dir": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview",
+  "slices": [
+    {
+      "index": 0,
+      "start_ms": 0.0,
+      "end_ms": 83.37868480725625,
+      "duration": 0.08337868480725624
+    },
+    {
+      "index": 1,
+      "start_ms": 83.37868480725625,
+      "end_ms": 185.75963718820861,
+      "duration": 0.10238095238095238
+    },
+    {
+      "index": 2,
+      "start_ms": 185.75963718820861,
+      "end_ms": 250.1814058956916,
+      "duration": 0.064421768707483
+    },
+    {
+      "index": 3,
+      "start_ms": 250.1814058956916,
+      "end_ms": 333.5827664399093,
+      "duration": 0.08340136054421769
+    },
+    {
+      "index": 4,
+      "start_ms": 333.5827664399093,
+      "end_ms": 394.7392290249433,
+      "duration": 0.061156462585034016
+    },
+    {
+      "index": 5,
+      "start_ms": 394.7392290249433,
+      "end_ms": 500.38548752834464,
+      "duration": 0.10564625850340136
+    },
+    {
+      "index": 6,
+      "start_ms": 500.38548752834464,
+      "end_ms": 580.4988662131519,
+      "duration": 0.08011337868480725
+    },
+    {
+      "index": 7,
+      "start_ms": 580.4988662131519,
+      "end_ms": 638.5487528344671,
+      "duration": 0.058049886621315196
+    },
+    {
+      "index": 8,
+      "start_ms": 638.5487528344671,
+      "end_ms": 766.2585034013606,
+      "duration": 0.12770975056689343
+    },
+    {
+      "index": 9,
+      "start_ms": 766.2585034013606,
+      "end_ms": 835.9183673469388,
+      "duration": 0.06965986394557823
+    },
+    {
+      "index": 10,
+      "start_ms": 835.9183673469388,
+      "end_ms": 940.408163265306,
+      "duration": 0.10448979591836735
+    },
+    {
+      "index": 11,
+      "start_ms": 940.408163265306,
+      "end_ms": 1000.7936507936508,
+      "duration": 0.06038548752834467
+    },
+    {
+      "index": 12,
+      "start_ms": 1000.7936507936508,
+      "end_ms": 1079.7278911564624,
+      "duration": 0.0789342403628118
+    },
+    {
+      "index": 13,
+      "start_ms": 1079.7278911564624,
+      "end_ms": 1149.3877551020407,
+      "duration": 0.06965986394557823
+    },
+    {
+      "index": 14,
+      "start_ms": 1149.3877551020407,
+      "end_ms": 1250.9977324263039,
+      "duration": 0.10160997732426304
+    },
+    {
+      "index": 15,
+      "start_ms": 1250.9977324263039,
+      "end_ms": 1334.3990929705217,
+      "duration": 0.08340136054421769
+    }
+  ],
+  "renders": [
+    {
+      "index": 1,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_001.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        4,
+        5,
+        8,
+        9,
+        11,
+        10,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 2,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_002.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 3,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_003.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        3,
+        6,
+        7,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 4,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_004.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 5,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_005.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        12,
+        13
+      ]
+    },
+    {
+      "index": 6,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_006.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 7,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_007.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 8,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_008.wav",
+      "sequence": [
+        0,
+        1,
+        0,
+        1,
+        4,
+        5,
+        8,
+        9,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        14
+      ]
+    },
+    {
+      "index": 9,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_009.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 10,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_010.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 11,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_011.wav",
+      "sequence": [
+        0,
+        1,
+        3,
+        2,
+        4,
+        5,
+        7,
+        6,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        13,
+        12
+      ]
+    },
+    {
+      "index": 12,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_012.wav",
+      "sequence": [
+        2,
+        3,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 13,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_013.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 14,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_014.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 15,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_015.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        12,
+        13
+      ]
+    },
+    {
+      "index": 16,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_016.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 17,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_017.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        15,
+        14,
+        12,
+        13
+      ]
+    },
+    {
+      "index": 18,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_018.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 19,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_019.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        10,
+        11,
+        12,
+        13,
+        15,
+        14
+      ]
+    },
+    {
+      "index": 20,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_020.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 21,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_021.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 22,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_022.wav",
+      "sequence": [
+        0,
+        1,
+        4,
+        5,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 23,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_023.wav",
+      "sequence": [
+        2,
+        3,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 24,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_024.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        13,
+        12,
+        15,
+        14
+      ]
+    },
+    {
+      "index": 25,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_025.wav",
+      "sequence": [
+        1,
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 26,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_026.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        10,
+        11,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 27,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_027.wav",
+      "sequence": [
+        2,
+        3,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 28,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_028.wav",
+      "sequence": [
+        0,
+        1,
+        3,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        10,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 29,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_029.wav",
+      "sequence": [
+        0,
+        1,
+        4,
+        5,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        12,
+        13
+      ]
+    },
+    {
+      "index": 30,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_030.wav",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        12,
+        13
+      ]
+    },
+    {
+      "index": 31,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_031.wav",
+      "sequence": [
+        0,
+        1,
+        3,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index": 32,
+      "wav": "exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/Atlantis_Amen_hybrid_variation_032.wav",
+      "sequence": [
+        0,
+        1,
+        4,
+        5,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ]
+}

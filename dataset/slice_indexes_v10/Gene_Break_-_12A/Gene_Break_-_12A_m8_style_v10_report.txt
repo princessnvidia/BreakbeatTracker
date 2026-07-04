@@ -1,0 +1,26 @@
+M8-style slicer v10: Gene_Break_-_12A
+Source: breaks/Gene Break - 12A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/Gene_Break_-_12A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Gene_Break_-_12A/Gene_Break_-_12A_source_loop_preview_v10.wav
+
+slice 00 |      8.71 ->     88.07 ms | dur     79.37 ms | hybrid_snap_auto | score 0.288343
+slice 01 |     88.07 ->    161.09 ms | dur     73.02 ms | grid | score 1.0
+slice 02 |    161.09 ->    264.24 ms | dur    103.15 ms | hat_rescue | score 0.723021
+slice 03 |    264.24 ->    336.69 ms | dur     72.45 ms | grid | score 1.0
+slice 04 |    336.69 ->    371.70 ms | dur     35.01 ms | hat_rescue | score 0.620155
+slice 05 |    355.56 ->    431.02 ms | dur     75.46 ms | hybrid_snap_hat | score 0.519441
+slice 06 |    431.02 ->    515.92 ms | dur     84.90 ms | hybrid_snap_auto | score 0.144775
+slice 07 |    515.92 ->    616.58 ms | dur    100.66 ms | hybrid_snap_auto | score 0.659877
+slice 08 |    616.58 ->    692.24 ms | dur     75.67 ms | grid | score 1.0
+slice 09 |    692.24 ->    792.74 ms | dur    100.50 ms | hat_rescue | score 0.718536
+slice 10 |    792.74 ->    866.39 ms | dur     73.65 ms | grid | score 1.0
+slice 11 |    866.39 ->    968.91 ms | dur    102.52 ms | hybrid_snap_auto | score 0.815539
+slice 12 |    968.91 ->   1044.90 ms | dur     75.99 ms | grid | score 1.0
+slice 13 |   1044.90 ->   1136.33 ms | dur     91.43 ms | hybrid_snap_auto | score 0.804689
+slice 14 |   1136.33 ->   1219.05 ms | dur     82.72 ms | hybrid_snap_auto | score 0.142935
+slice 15 |   1219.05 ->   1321.25 ms | dur    102.20 ms | hat_rescue | score 0.971929
+slice 16 |   1321.25 ->   1409.32 ms | dur     88.07 ms | grid | score 1.0

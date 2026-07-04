@@ -1,0 +1,29 @@
+M8-style slicer v10: Flutes_Break_-_12A
+Source: breaks/Flutes Break - 12A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Flutes_Break_-_12A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Flutes_Break_-_12A/Flutes_Break_-_12A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     93.40 ms | dur     86.87 ms | hybrid_snap_auto | score 0.183892
+slice 01 |     93.40 ->    177.05 ms | dur     83.65 ms | grid | score 1.0
+slice 02 |    177.05 ->    269.93 ms | dur     92.88 ms | hat_rescue | score 0.453334
+slice 03 |    269.93 ->    359.18 ms | dur     89.25 ms | hybrid_snap_auto | score 0.562264
+slice 04 |    359.18 ->    467.03 ms | dur    107.85 ms | hybrid_snap_auto | score 0.670406
+slice 05 |    467.03 ->    557.28 ms | dur     90.25 ms | grid | score 1.0
+slice 06 |    557.28 ->    653.83 ms | dur     96.55 ms | hybrid_snap_auto | score 0.454892
+slice 07 |    653.83 ->    735.78 ms | dur     81.95 ms | grid | score 1.0
+slice 08 |    735.78 ->    770.79 ms | dur     35.01 ms | hat_rescue | score 0.488882
+slice 09 |    760.45 ->    795.46 ms | dur     35.01 ms | hat_rescue | score 0.460018
+slice 10 |    789.48 ->    824.49 ms | dur     35.01 ms | hat_rescue | score 0.452176
+slice 11 |    801.09 ->    928.80 ms | dur    127.71 ms | hybrid_snap_auto | score 0.14705
+slice 12 |    928.80 ->    963.81 ms | dur     35.01 ms | hat_rescue | score 0.963728
+slice 13 |    946.21 ->    981.22 ms | dur     35.01 ms | hat_rescue | score 0.666455
+slice 14 |    960.73 ->   1027.44 ms | dur     66.71 ms | hat_rescue | score 0.440219
+slice 15 |   1027.44 ->   1124.72 ms | dur     97.28 ms | grid | score 1.0
+slice 16 |   1124.72 ->   1214.26 ms | dur     89.55 ms | hat_rescue | score 0.48283
+slice 17 |   1214.26 ->   1303.95 ms | dur     89.68 ms | grid | score 1.0
+slice 18 |   1303.95 ->   1397.55 ms | dur     93.61 ms | hybrid_snap_auto | score 0.144867
+slice 19 |   1397.55 ->   1494.47 ms | dur     96.92 ms | hybrid_snap_auto | score 0.545933

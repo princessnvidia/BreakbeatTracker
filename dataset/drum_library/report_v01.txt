@@ -1,0 +1,104 @@
+DRUM LIBRARY v01
+================
+
+Slices analysées : 3936
+Fichiers manquants : 0
+
+Répartition :
+  kick     94
+  snare    1189
+  ghost    0
+  hat      2585
+  perc     68
+
+Exemples par label :
+
+[kick]
+  kick_00001_hard_medium_short.wav conf=0.700 rms=0.4118 centroid=3272 low=0.47 high=0.29 tags=hard/medium/short
+  kick_00002_hard_medium_short.wav conf=0.700 rms=0.4397 centroid=3221 low=0.43 high=0.28 tags=hard/medium/short
+  kick_00003_hard_bright_short.wav conf=0.700 rms=0.3723 centroid=4026 low=0.40 high=0.37 tags=hard/bright/short
+  kick_00004_hard_medium_medium.wav conf=0.650 rms=0.4355 centroid=3248 low=0.39 high=0.36 tags=hard/medium/medium
+  kick_00005_hard_medium_medium.wav conf=0.750 rms=0.3003 centroid=2897 low=0.37 high=0.30 tags=hard/medium/medium
+  kick_00006_hard_bright_medium.wav conf=0.750 rms=0.2504 centroid=3803 low=0.33 high=0.37 tags=hard/bright/medium
+  kick_00007_hard_bright_long.wav conf=0.750 rms=0.1909 centroid=6058 low=0.36 high=0.24 tags=hard/bright/long
+  kick_00008_hard_bright_medium.wav conf=0.750 rms=0.3327 centroid=3702 low=0.48 high=0.20 tags=hard/bright/medium
+  kick_00009_hard_medium_medium.wav conf=0.750 rms=0.3622 centroid=2885 low=0.56 high=0.18 tags=hard/medium/medium
+  kick_00010_hard_medium_medium.wav conf=0.650 rms=0.2997 centroid=3017 low=0.52 high=0.16 tags=hard/medium/medium
+  kick_00011_hard_medium_medium.wav conf=0.750 rms=0.3494 centroid=2518 low=0.46 high=0.15 tags=hard/medium/medium
+  kick_00012_hard_medium_long.wav conf=0.650 rms=0.2711 centroid=3009 low=0.50 high=0.16 tags=hard/medium/long
+
+[snare]
+  snare_00001_hard_medium_medium.wav conf=0.760 rms=0.3218 centroid=3372 low=0.25 high=0.48 tags=hard/medium/medium
+  snare_00002_hard_bright_medium.wav conf=1.000 rms=0.1699 centroid=4908 low=0.02 high=0.58 tags=hard/bright/medium
+  snare_00003_hard_bright_medium.wav conf=1.000 rms=0.1222 centroid=4998 low=0.01 high=0.60 tags=hard/bright/medium
+  snare_00004_hard_bright_medium.wav conf=0.760 rms=0.1716 centroid=4286 low=0.19 high=0.40 tags=hard/bright/medium
+  snare_00005_hard_bright_medium.wav conf=0.760 rms=0.1736 centroid=4192 low=0.11 high=0.59 tags=hard/bright/medium
+  snare_00006_hard_bright_medium.wav conf=1.000 rms=0.1909 centroid=4239 low=0.01 high=0.59 tags=hard/bright/medium
+  snare_00007_hard_bright_medium.wav conf=1.000 rms=0.2077 centroid=4305 low=0.01 high=0.60 tags=hard/bright/medium
+  snare_00008_hard_bright_long.wav conf=1.000 rms=0.2487 centroid=3882 low=0.07 high=0.42 tags=hard/bright/long
+  snare_00009_hard_bright_medium.wav conf=1.000 rms=0.1933 centroid=4099 low=0.01 high=0.56 tags=hard/bright/medium
+  snare_00010_hard_bright_medium.wav conf=1.000 rms=0.2243 centroid=4166 low=0.01 high=0.57 tags=hard/bright/medium
+  snare_00011_hard_bright_medium.wav conf=1.000 rms=0.2173 centroid=4022 low=0.01 high=0.57 tags=hard/bright/medium
+  snare_00012_hard_bright_medium.wav conf=1.000 rms=0.2103 centroid=4002 low=0.01 high=0.56 tags=hard/bright/medium
+
+[ghost]
+
+[hat]
+  hat_00001_hard_bright_long.wav conf=0.850 rms=0.1801 centroid=5584 low=0.14 high=0.55 tags=hard/bright/long
+  hat_00002_hard_bright_long.wav conf=0.850 rms=0.1302 centroid=5972 low=0.04 high=0.64 tags=hard/bright/long
+  hat_00003_hard_bright_medium.wav conf=0.950 rms=0.2016 centroid=5799 low=0.03 high=0.62 tags=hard/bright/medium
+  hat_00004_hard_bright_long.wav conf=0.850 rms=0.1563 centroid=6227 low=0.04 high=0.66 tags=hard/bright/long
+  hat_00005_hard_bright_medium.wav conf=0.700 rms=0.2249 centroid=5208 low=0.19 high=0.49 tags=hard/bright/medium
+  hat_00006_hard_bright_medium.wav conf=0.950 rms=0.2307 centroid=5535 low=0.17 high=0.53 tags=hard/bright/medium
+  hat_00007_hard_bright_long.wav conf=0.850 rms=0.1314 centroid=5849 low=0.04 high=0.63 tags=hard/bright/long
+  hat_00008_hard_bright_short.wav conf=0.950 rms=0.0961 centroid=6187 low=0.07 high=0.62 tags=hard/bright/short
+  hat_00009_hard_bright_long.wav conf=0.850 rms=0.1750 centroid=5837 low=0.02 high=0.67 tags=hard/bright/long
+  hat_00010_hard_bright_medium.wav conf=0.950 rms=0.1738 centroid=5688 low=0.03 high=0.65 tags=hard/bright/medium
+  hat_00011_hard_bright_medium.wav conf=0.950 rms=0.1798 centroid=6215 low=0.03 high=0.74 tags=hard/bright/medium
+  hat_00012_hard_bright_medium.wav conf=0.950 rms=0.0926 centroid=5204 low=0.04 high=0.60 tags=hard/bright/medium
+
+[perc]
+  perc_00001_hard_bright_medium.wav conf=0.700 rms=0.2156 centroid=3645 low=0.22 high=0.39 tags=hard/bright/medium
+  perc_00002_hard_bright_medium.wav conf=0.700 rms=0.3236 centroid=4044 low=0.15 high=0.48 tags=hard/bright/medium
+  perc_00003_hard_bright_medium.wav conf=0.700 rms=0.3403 centroid=3999 low=0.11 high=0.51 tags=hard/bright/medium
+  perc_00004_hard_medium_medium.wav conf=0.700 rms=0.2836 centroid=2866 low=0.35 high=0.31 tags=hard/medium/medium
+  perc_00005_hard_bright_medium.wav conf=0.550 rms=0.4009 centroid=6161 low=0.27 high=0.41 tags=hard/bright/medium
+  perc_00006_hard_medium_medium.wav conf=0.700 rms=0.2906 centroid=3257 low=0.27 high=0.44 tags=hard/medium/medium
+  perc_00007_hard_medium_medium.wav conf=0.700 rms=0.2549 centroid=3365 low=0.23 high=0.46 tags=hard/medium/medium
+  perc_00008_hard_bright_medium.wav conf=0.550 rms=0.3420 centroid=5510 low=0.21 high=0.40 tags=hard/bright/medium
+  perc_00009_hard_bright_medium.wav conf=0.550 rms=0.3329 centroid=5716 low=0.20 high=0.40 tags=hard/bright/medium
+  perc_00010_hard_medium_medium.wav conf=0.700 rms=0.3216 centroid=2840 low=0.46 high=0.15 tags=hard/medium/medium
+  perc_00011_hard_medium_medium.wav conf=0.700 rms=0.2795 centroid=2939 low=0.43 high=0.14 tags=hard/medium/medium
+  perc_00012_hard_medium_medium.wav conf=0.700 rms=0.3411 centroid=2563 low=0.46 high=0.15 tags=hard/medium/medium
+
+Top sources par quantité :
+  Adrift Break.wav total=13 {'kick': 3, 'hat': 10}
+  Alzir Break - 4A.wav total=19 {'perc': 1, 'hat': 13, 'snare': 5}
+  Angles Break.wav total=12 {'hat': 12}
+  Apollo - 4A.wav total=3 {'hat': 3}
+  Arson Fill - 4A.wav total=18 {'hat': 2, 'snare': 16}
+  Atlantis Amen.wav total=10 {'snare': 2, 'hat': 8}
+  Back Break 2 - 7B.wav total=18 {'snare': 6, 'hat': 12}
+  Back Break 3 - 7B.wav total=18 {'snare': 5, 'hat': 13}
+  Back Break.wav total=19 {'hat': 19}
+  Bad Break - 8A.wav total=6 {'hat': 6}
+  Beep Break.wav total=42 {'snare': 40, 'hat': 2}
+  Beta Break.wav total=17 {'hat': 17}
+  Blaze Break - 11A.wav total=4 {'hat': 4}
+  Blaze Break 2.wav total=32 {'hat': 31, 'snare': 1}
+  Blue Break - 4A.wav total=24 {'snare': 14, 'hat': 8, 'perc': 2}
+  Bonanza Break.wav total=36 {'snare': 3, 'hat': 33}
+  Boo Break - 5A.wav total=20 {'kick': 1, 'hat': 18, 'snare': 1}
+  Boo Worm Break - 9A.wav total=27 {'snare': 18, 'hat': 9}
+  Bouncer Break - 6A.wav total=26 {'kick': 2, 'snare': 9, 'hat': 14, 'perc': 1}
+  Box Break - 6A.wav total=20 {'hat': 4, 'snare': 16}
+  Box Break 2 - 6B.wav total=19 {'snare': 14, 'hat': 5}
+  Box Break 3 - 2B.wav total=12 {'snare': 1, 'hat': 11}
+  Box Break 4 - 5A.wav total=21 {'snare': 13, 'hat': 8}
+  Box Break 5.wav total=23 {'hat': 23}
+  Breeze Break - 2A.wav total=13 {'snare': 7, 'hat': 6}
+  Bringing Me Break - 7A.wav total=20 {'hat': 20}
+  Bronx Break.wav total=9 {'hat': 7, 'snare': 1, 'perc': 1}
+  Brut Force Break.wav total=5 {'kick': 1, 'hat': 3, 'snare': 1}
+  Brut Force Fuller Break - 6A.wav total=9 {'hat': 9}
+  Bulldozer Amen 2 - 2A.wav total=20 {'hat': 16, 'snare': 3, 'perc': 1}

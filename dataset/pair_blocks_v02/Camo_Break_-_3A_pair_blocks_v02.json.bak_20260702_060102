@@ -1,0 +1,175 @@
+{
+  "version": "pair_blocks_v02_index_only_autoslice_v04",
+  "storage": "index_only_single_source_audio",
+  "source_audio": "breaks/Camo Break - 3A.wav",
+  "safe": "Camo_Break_-_3A",
+  "sample_rate": 44100,
+  "source_duration_ms": 2941.0204,
+  "loop_start_sample": 0,
+  "loop_end_sample": 129699,
+  "loop_start_ms": 0.0,
+  "loop_end_ms": 2941.0204,
+  "loop_duration_ms": 2941.0204,
+  "slices": 8,
+  "step_ms": 272.8345,
+  "slice_method": "onset",
+  "threshold": 0.24,
+  "min_sep_ms": 40.0,
+  "mode": "onset",
+  "auto_trim": false,
+  "shift_ms": 0.0,
+  "old_pair_json": "dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json",
+  "backup_pair_json": "dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json.bak_20260702_055424",
+  "preview_wav": "dataset/slice_indexes_v04/Camo_Break_-_3A/Camo_Break_-_3A_source_loop_preview_v04.wav",
+  "chosen_onsets": [
+    {
+      "source_sample": 23680,
+      "source_ms": 536.9615,
+      "score": 0.715174
+    },
+    {
+      "source_sample": 27904,
+      "source_ms": 632.7438,
+      "score": 0.729161
+    },
+    {
+      "source_sample": 39936,
+      "source_ms": 905.5782,
+      "score": 0.696623
+    },
+    {
+      "source_sample": 88576,
+      "source_ms": 2008.5261,
+      "score": 0.720715
+    },
+    {
+      "source_sample": 92672,
+      "source_ms": 2101.4059,
+      "score": 0.725572
+    },
+    {
+      "source_sample": 104704,
+      "source_ms": 2374.2404,
+      "score": 0.716217
+    },
+    {
+      "source_sample": 124800,
+      "source_ms": 2829.932,
+      "score": 0.66044
+    }
+  ],
+  "blocks": [
+    {
+      "pair": 0,
+      "name": "slice 0",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 0,
+      "source_end_sample": 23680,
+      "source_start_ms": 0.0,
+      "source_end_ms": 536.9615,
+      "duration_ms": 536.9615,
+      "cell_index": 0,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    },
+    {
+      "pair": 1,
+      "name": "slice 1",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 23680,
+      "source_end_sample": 27904,
+      "source_start_ms": 536.9615,
+      "source_end_ms": 632.7438,
+      "duration_ms": 95.7823,
+      "cell_index": 1,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    },
+    {
+      "pair": 2,
+      "name": "slice 2",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 27904,
+      "source_end_sample": 39936,
+      "source_start_ms": 632.7438,
+      "source_end_ms": 905.5782,
+      "duration_ms": 272.8345,
+      "cell_index": 2,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    },
+    {
+      "pair": 3,
+      "name": "slice 3",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 39936,
+      "source_end_sample": 88576,
+      "source_start_ms": 905.5782,
+      "source_end_ms": 2008.5261,
+      "duration_ms": 1102.9478,
+      "cell_index": 3,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    },
+    {
+      "pair": 4,
+      "name": "slice 4",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 88576,
+      "source_end_sample": 92672,
+      "source_start_ms": 2008.5261,
+      "source_end_ms": 2101.4059,
+      "duration_ms": 92.8798,
+      "cell_index": 4,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    },
+    {
+      "pair": 5,
+      "name": "slice 5",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 92672,
+      "source_end_sample": 104704,
+      "source_start_ms": 2101.4059,
+      "source_end_ms": 2374.2404,
+      "duration_ms": 272.8345,
+      "cell_index": 5,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    },
+    {
+      "pair": 6,
+      "name": "slice 6",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 104704,
+      "source_end_sample": 124800,
+      "source_start_ms": 2374.2404,
+      "source_end_ms": 2829.932,
+      "duration_ms": 455.6916,
+      "cell_index": 6,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    },
+    {
+      "pair": 7,
+      "name": "slice 7",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 124800,
+      "source_end_sample": 129699,
+      "source_start_ms": 2829.932,
+      "source_end_ms": 2941.0204,
+      "duration_ms": 111.0884,
+      "cell_index": 7,
+      "cell_count": 8,
+      "slice_storage": "index_only",
+      "audio_path": null
+    }
+  ]
+}

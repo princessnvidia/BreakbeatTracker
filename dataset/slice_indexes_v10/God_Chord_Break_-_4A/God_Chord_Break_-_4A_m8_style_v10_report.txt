@@ -1,0 +1,26 @@
+M8-style slicer v10: God_Chord_Break_-_4A
+Source: breaks/God Chord Break - 4A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/God_Chord_Break_-_4A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/God_Chord_Break_-_4A/God_Chord_Break_-_4A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     80.54 ms | dur     74.01 ms | hybrid_snap_auto | score 0.347568
+slice 01 |     80.54 ->    191.56 ms | dur    111.02 ms | hybrid_snap_auto | score 0.161937
+slice 02 |    191.56 ->    291.70 ms | dur    100.14 ms | hybrid_snap_hat | score 0.567022
+slice 03 |    291.70 ->    371.52 ms | dur     79.82 ms | hybrid_snap_auto | score 0.137501
+slice 04 |    371.52 ->    469.41 ms | dur     97.89 ms | hat_rescue | score 0.851931
+slice 05 |    469.41 ->    570.34 ms | dur    100.93 ms | grid | score 1.0
+slice 06 |    570.34 ->    657.41 ms | dur     87.07 ms | hat_rescue | score 0.653611
+slice 07 |    657.41 ->    757.55 ms | dur    100.14 ms | hybrid_snap_auto | score 0.153405
+slice 08 |    757.55 ->    842.45 ms | dur     84.90 ms | hat_rescue | score 0.663368
+slice 09 |    842.45 ->    921.54 ms | dur     79.09 ms | hybrid_snap_auto | score 0.577419
+slice 10 |    921.54 ->   1032.72 ms | dur    111.18 ms | hat_rescue | score 0.610881
+slice 11 |   1032.72 ->   1133.42 ms | dur    100.70 ms | grid | score 1.0
+slice 12 |   1133.42 ->   1232.11 ms | dur     98.68 ms | hat_rescue | score 0.596695
+slice 13 |   1232.11 ->   1310.48 ms | dur     78.37 ms | hybrid_snap_auto | score 0.153281
+slice 14 |   1310.48 ->   1345.49 ms | dur     35.01 ms | hat_rescue | score 0.961719
+slice 15 |   1332.24 ->   1408.25 ms | dur     76.01 ms | hat_rescue | score 0.527821
+slice 16 |   1408.25 ->   1502.13 ms | dur     93.88 ms | grid | score 1.0

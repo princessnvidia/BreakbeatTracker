@@ -1,0 +1,20 @@
+M8-style slicer v10: Apollo_-_4A
+Source: breaks/Apollo - 4A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 11
+JSON: dataset/pair_blocks_v02/Apollo_-_4A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Apollo_-_4A/Apollo_-_4A_source_loop_preview_v10.wav
+
+slice 00 |     13.06 ->     54.42 ms | dur     41.36 ms | hybrid_snap_auto | score 0.393561
+slice 01 |     54.42 ->     89.43 ms | dur     35.01 ms | hybrid_snap_auto | score 0.292593
+slice 02 |     82.72 ->    163.27 ms | dur     80.54 ms | hat_rescue | score 0.644514
+slice 03 |    163.27 ->    224.22 ms | dur     60.95 ms | hybrid_snap_auto | score 0.632948
+slice 04 |    224.22 ->    259.77 ms | dur     35.56 ms | hybrid_snap_auto | score 0.24887
+slice 05 |    259.77 ->    336.69 ms | dur     76.92 ms | hat_rescue | score 0.691775
+slice 06 |    336.69 ->    371.70 ms | dur     35.01 ms | hybrid_snap_hat | score 0.967422
+slice 07 |    357.01 ->    392.02 ms | dur     35.01 ms | hybrid_snap_hat | score 0.693484
+slice 08 |    371.52 ->    433.92 ms | dur     62.40 ms | hybrid_snap_hat | score 0.547672
+slice 09 |    433.92 ->    468.93 ms | dur     35.01 ms | hybrid_snap_hat | score 0.759894
+slice 10 |    446.98 ->    527.76 ms | dur     80.77 ms | hybrid_snap_hat | score 0.561393

@@ -1,0 +1,14 @@
+Formal break8 roles for Atlantis_Amen
+Pattern: kick hat snare hat hat kick snare hat
+Rule: role = pattern[pair_order_index % 8]
+Updated JSON: dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json
+Backup: dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json.formal_break8_backup_20260702_045802
+
+pair 00 | order 00 | pos 0 -> kick
+pair 01 | order 01 | pos 1 -> hat
+pair 02 | order 02 | pos 2 -> snare
+pair 03 | order 03 | pos 3 -> hat
+pair 04 | order 04 | pos 4 -> hat
+pair 05 | order 05 | pos 5 -> kick
+pair 06 | order 06 | pos 6 -> snare
+pair 07 | order 07 | pos 7 -> hat

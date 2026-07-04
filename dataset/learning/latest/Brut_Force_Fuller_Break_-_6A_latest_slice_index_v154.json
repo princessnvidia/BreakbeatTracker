@@ -1,0 +1,23 @@
+{
+  "version": "breakbeatai_latest_slice_index_v154",
+  "reason": "switch_break",
+  "updated_at": "2026-07-04 00:43:12",
+  "safe": "Brut_Force_Fuller_Break_-_6A",
+  "source_pair_json": "dataset/pair_blocks_v02/Brut_Force_Fuller_Break_-_6A_pair_blocks_v02.json",
+  "source_audio": "breaks/Brut Force Fuller Break - 6A.wav",
+  "step_count": 64,
+  "locked_bpm": 155.0,
+  "locked_step_ms": 96.7741935483871,
+  "locked_grid_steps": 64,
+  "locked_hit_slots": 16,
+  "hit_length_steps": 2,
+  "hit_spacing_steps": 2,
+  "hit_slots": 16,
+  "step_ms": 96.7742,
+  "target_bpm": 155.0,
+  "target_step_ms": 96.7741935483871,
+  "storage": "index_only_preferred",
+  "warp_exact": true,
+  "warp_mode": "pitch_preserve_rubberband_or_ffmpeg_v44",
+  "pattern": []
+}

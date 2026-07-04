@@ -1,0 +1,42 @@
+{
+  "version": "first32_variants_v110",
+  "updated_at": "2026-07-03 22:24:49",
+  "breaks": {
+    "Camo_Break_-_3A": {
+      "first32_index": 2,
+      "reject_count": 5,
+      "last_variant": "C_first32_kick_late",
+      "updated_at": "2026-07-03 22:24:49"
+    },
+    "Change_Break_-_6A": {
+      "first32_index": 3,
+      "reject_count": 0,
+      "last_variant": "D_first32_last_push",
+      "updated_at": "2026-07-03 18:22:48"
+    },
+    "Champion_Break_-_7A": {
+      "first32_index": 3,
+      "reject_count": 0,
+      "last_variant": "D_first32_last_push",
+      "updated_at": "2026-07-03 18:16:50"
+    },
+    "Check_Break_-_11A": {
+      "first32_index": 0,
+      "reject_count": 1,
+      "last_variant": "A_original_first32",
+      "updated_at": "2026-07-03 18:15:01"
+    },
+    "Connected_Break_-_7B": {
+      "first32_index": 1,
+      "reject_count": 7,
+      "last_variant": "B_first32_kick_forward",
+      "updated_at": "2026-07-03 17:52:44"
+    },
+    "Chopper_Break_-_6A": {
+      "first32_index": 2,
+      "reject_count": 2,
+      "last_variant": "C_first32_kick_late",
+      "updated_at": "2026-07-03 18:00:50"
+    }
+  }
+}

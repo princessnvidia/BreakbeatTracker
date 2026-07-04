@@ -1,0 +1,98 @@
+{
+  "version": "pair_blocks_v01",
+  "source": "breaks/Massive Amen - 2A.wav",
+  "sample_rate": 44100,
+  "rule": "grid16 split into 8 pair blocks, 2 cases per block",
+  "best": {
+    "score": 51.633555971086025,
+    "offset_samples": 7920,
+    "block_samples": 9702,
+    "offset_ms": 179.59183673469386,
+    "block_ms": 220.0
+  },
+  "duplicates": [],
+  "duplicate_threshold": 0.985,
+  "reconstruction": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks_reconstruction.wav",
+  "blocks": [
+    {
+      "pair": 0,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_00_179ms.wav",
+      "start_sample": 7920,
+      "end_sample": 17622,
+      "start_ms": 179.59183673469386,
+      "end_ms": 399.5918367346939,
+      "duration_ms": 220.0,
+      "rms": 0.15557292103767395
+    },
+    {
+      "pair": 1,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_01_399ms.wav",
+      "start_sample": 17622,
+      "end_sample": 27324,
+      "start_ms": 399.5918367346939,
+      "end_ms": 619.5918367346939,
+      "duration_ms": 220.0,
+      "rms": 0.12200301885604858
+    },
+    {
+      "pair": 2,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_02_619ms.wav",
+      "start_sample": 27324,
+      "end_sample": 37026,
+      "start_ms": 619.5918367346939,
+      "end_ms": 839.5918367346939,
+      "duration_ms": 220.0,
+      "rms": 0.15636545419692993
+    },
+    {
+      "pair": 3,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_03_839ms.wav",
+      "start_sample": 37026,
+      "end_sample": 46728,
+      "start_ms": 839.5918367346939,
+      "end_ms": 1059.591836734694,
+      "duration_ms": 220.0,
+      "rms": 0.12204067409038544
+    },
+    {
+      "pair": 4,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_04_1059ms.wav",
+      "start_sample": 46728,
+      "end_sample": 56430,
+      "start_ms": 1059.591836734694,
+      "end_ms": 1279.591836734694,
+      "duration_ms": 220.0,
+      "rms": 0.2145060896873474
+    },
+    {
+      "pair": 5,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_05_1279ms.wav",
+      "start_sample": 56430,
+      "end_sample": 66132,
+      "start_ms": 1279.591836734694,
+      "end_ms": 1499.591836734694,
+      "duration_ms": 220.0,
+      "rms": 0.08881032466888428
+    },
+    {
+      "pair": 6,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_06_1499ms.wav",
+      "start_sample": 66132,
+      "end_sample": 75834,
+      "start_ms": 1499.591836734694,
+      "end_ms": 1719.5918367346937,
+      "duration_ms": 220.0,
+      "rms": 0.15927566587924957
+    },
+    {
+      "pair": 7,
+      "audio_path": "dataset/pair_blocks/Massive_Amen_-_2A/pair_blocks/pair_07_1719ms.wav",
+      "start_sample": 75834,
+      "end_sample": 85536,
+      "start_ms": 1719.5918367346937,
+      "end_ms": 1939.5918367346937,
+      "duration_ms": 220.0,
+      "rms": 0.17042089998722076
+    }
+  ]
+}

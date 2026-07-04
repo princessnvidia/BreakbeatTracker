@@ -1,0 +1,23 @@
+{
+  "version": "role_sequence_model_v01",
+  "updated_at": "2026-07-03 22:26:36",
+  "global_sequence": [
+    "kick",
+    "hat",
+    "snare",
+    "hat",
+    "hat",
+    "kick",
+    "snare",
+    "hat",
+    "kick",
+    "hat",
+    "snare",
+    "hat",
+    "hat",
+    "kick",
+    "snare",
+    "hat"
+  ],
+  "note": "Restauré par v131 : Generate Candidate force kick hat snare hat | hat kick snare hat."
+}

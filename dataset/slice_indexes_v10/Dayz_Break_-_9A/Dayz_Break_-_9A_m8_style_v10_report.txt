@@ -1,0 +1,26 @@
+M8-style slicer v10: Dayz_Break_-_9A
+Source: breaks/Dayz Break - 9A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/Dayz_Break_-_9A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Dayz_Break_-_9A/Dayz_Break_-_9A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     41.54 ms | dur     35.01 ms | hybrid_snap_auto | score 0.226046
+slice 01 |     37.01 ->    168.34 ms | dur    131.34 ms | hybrid_snap_auto | score 0.305426
+slice 02 |    168.34 ->    280.82 ms | dur    112.47 ms | hybrid_snap_hat | score 0.953933
+slice 03 |    280.82 ->    345.40 ms | dur     64.58 ms | hybrid_snap_auto | score 0.143408
+slice 04 |    345.40 ->    457.14 ms | dur    111.75 ms | hybrid_snap_hat | score 0.91732
+slice 05 |    457.14 ->    516.64 ms | dur     59.50 ms | hybrid_snap_auto | score 0.140122
+slice 06 |    516.64 ->    579.05 ms | dur     62.40 ms | hat_rescue | score 0.807317
+slice 07 |    579.05 ->    698.05 ms | dur    119.00 ms | hybrid_snap_auto | score 0.33728
+slice 08 |    698.05 ->    809.80 ms | dur    111.75 ms | hat_rescue | score 0.966891
+slice 09 |    809.80 ->    873.65 ms | dur     63.85 ms | hybrid_snap_auto | score 0.143694
+slice 10 |    873.65 ->    988.30 ms | dur    114.65 ms | hat_rescue | score 0.968689
+slice 11 |    988.30 ->   1050.70 ms | dur     62.40 ms | hybrid_snap_auto | score 0.142665
+slice 12 |   1050.70 ->   1153.74 ms | dur    103.04 ms | hat_rescue | score 0.864315
+slice 13 |   1153.74 ->   1188.75 ms | dur     35.01 ms | hybrid_snap_auto | score 0.331145
+slice 14 |   1165.35 ->   1227.76 ms | dur     62.40 ms | hat_rescue | score 0.705572
+slice 15 |   1227.76 ->   1343.13 ms | dur    115.37 ms | hat_rescue | score 0.862684
+slice 16 |   1343.13 ->   1412.49 ms | dur     69.37 ms | hybrid_snap_auto | score 0.131784

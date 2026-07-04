@@ -1,0 +1,28 @@
+M8-style slicer v10: Warning_Copter_-_11A
+Source: breaks/Warning Copter - 11A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 19
+JSON: dataset/pair_blocks_v02/Warning_Copter_-_11A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Warning_Copter_-_11A/Warning_Copter_-_11A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     93.61 ms | dur     87.07 ms | hybrid_snap_auto | score 0.653161
+slice 01 |     93.61 ->    185.03 ms | dur     91.43 ms | hybrid_snap_auto | score 0.142411
+slice 02 |    185.03 ->    232.93 ms | dur     47.89 ms | hybrid_snap_auto | score 0.530212
+slice 03 |    232.93 ->    362.81 ms | dur    129.89 ms | hybrid_snap_auto | score 0.138519
+slice 04 |    362.81 ->    397.82 ms | dur     35.01 ms | hat_rescue | score 0.974534
+slice 05 |    378.78 ->    422.31 ms | dur     43.54 ms | hat_rescue | score 0.719915
+slice 06 |    422.31 ->    551.47 ms | dur    129.16 ms | hybrid_snap_auto | score 0.205658
+slice 07 |    551.47 ->    644.35 ms | dur     92.88 ms | hat_rescue | score 0.850509
+slice 08 |    644.35 ->    744.49 ms | dur    100.14 ms | hybrid_snap_auto | score 0.218505
+slice 09 |    744.49 ->    779.50 ms | dur     35.01 ms | hybrid_snap_auto | score 0.578975
+slice 10 |    779.32 ->    907.03 ms | dur    127.71 ms | hybrid_snap_auto | score 0.149744
+slice 11 |    907.03 ->    942.04 ms | dur     35.01 ms | hat_rescue | score 0.77769
+slice 12 |    925.90 ->    960.91 ms | dur     35.01 ms | hat_rescue | score 0.734425
+slice 13 |    957.82 ->   1100.05 ms | dur    142.22 ms | hybrid_snap_auto | score 0.251691
+slice 14 |   1100.05 ->   1192.93 ms | dur     92.88 ms | hybrid_snap_hat | score 0.712354
+slice 15 |   1192.93 ->   1274.19 ms | dur     81.27 ms | hybrid_snap_auto | score 0.243857
+slice 16 |   1274.19 ->   1309.21 ms | dur     35.01 ms | hat_rescue | score 0.679685
+slice 17 |   1287.26 ->   1386.67 ms | dur     99.41 ms | hat_rescue | score 0.647179
+slice 18 |   1386.67 ->   1464.54 ms | dur     77.87 ms | hybrid_snap_auto | score 0.17354

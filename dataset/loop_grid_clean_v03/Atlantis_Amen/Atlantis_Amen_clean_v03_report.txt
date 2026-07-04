@@ -1,0 +1,20 @@
+Clean grid slice v03: Atlantis_Amen
+Source: breaks/Atlantis Amen.wav
+Source duration: 1334.40 ms
+Loop start: 0.00 ms
+Loop end: 1334.40 ms
+Loop duration: 1334.40 ms
+Cells: 8
+Cell ms: 166.7999
+Preview: dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_loop_preview_clean_v03.wav
+Pair JSON: dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json
+Backup old JSON: dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json.bak_20260702_053917
+
+sample 00 |      0.00 ->    166.80 ms | dur    166.80 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_000.wav
+sample 01 |    166.80 ->    333.61 ms | dur    166.80 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_001.wav
+sample 02 |    333.61 ->    500.41 ms | dur    166.80 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_002.wav
+sample 03 |    500.41 ->    667.21 ms | dur    166.80 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_003.wav
+sample 04 |    667.21 ->    833.99 ms | dur    166.78 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_004.wav
+sample 05 |    833.99 ->   1000.79 ms | dur    166.80 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_005.wav
+sample 06 |   1000.79 ->   1167.60 ms | dur    166.80 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_006.wav
+sample 07 |   1167.60 ->   1334.40 ms | dur    166.80 ms | dataset/loop_grid_clean_v03/Atlantis_Amen/Atlantis_Amen_sample_007.wav

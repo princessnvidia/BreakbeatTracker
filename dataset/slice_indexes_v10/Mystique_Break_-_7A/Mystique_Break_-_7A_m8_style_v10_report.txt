@@ -1,0 +1,28 @@
+M8-style slicer v10: Mystique_Break_-_7A
+Source: breaks/Mystique Break - 7A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 19
+JSON: dataset/pair_blocks_v02/Mystique_Break_-_7A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Mystique_Break_-_7A/Mystique_Break_-_7A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    171.97 ms | dur    165.44 ms | hybrid_snap_auto | score 0.482477
+slice 01 |    171.97 ->    351.20 ms | dur    179.23 ms | hybrid_snap_auto | score 0.147082
+slice 02 |    351.20 ->    537.69 ms | dur    186.49 ms | hat_rescue | score 0.962107
+slice 03 |    537.69 ->    721.27 ms | dur    183.58 ms | hybrid_snap_auto | score 0.17774
+slice 04 |    721.27 ->    905.58 ms | dur    184.31 ms | hybrid_snap_hat | score 0.561993
+slice 05 |    905.58 ->   1082.63 ms | dur    177.05 ms | hybrid_snap_auto | score 0.677167
+slice 06 |   1082.63 ->   1117.64 ms | dur     35.01 ms | hat_rescue | score 0.944136
+slice 07 |   1097.14 ->   1271.29 ms | dur    174.15 ms | hybrid_snap_hat | score 0.789775
+slice 08 |   1271.29 ->   1456.33 ms | dur    185.03 ms | hybrid_snap_auto | score 0.177799
+slice 09 |   1456.33 ->   1637.01 ms | dur    180.68 ms | hybrid_snap_auto | score 0.684295
+slice 10 |   1637.01 ->   1815.51 ms | dur    178.50 ms | hybrid_snap_auto | score 0.159353
+slice 11 |   1815.51 ->   1850.52 ms | dur     35.01 ms | hat_rescue | score 0.990098
+slice 12 |   1830.02 ->   2002.72 ms | dur    172.70 ms | hybrid_snap_hat | score 0.790893
+slice 13 |   2002.72 ->   2185.58 ms | dur    182.86 ms | hybrid_snap_auto | score 0.171315
+slice 14 |   2185.58 ->   2372.79 ms | dur    187.21 ms | hybrid_snap_auto | score 0.239947
+slice 15 |   2372.79 ->   2548.39 ms | dur    175.60 ms | hybrid_snap_auto | score 0.67707
+slice 16 |   2548.39 ->   2583.40 ms | dur     35.01 ms | hat_rescue | score 0.952
+slice 17 |   2562.90 ->   2734.15 ms | dur    171.25 ms | hybrid_snap_hat | score 0.788704
+slice 18 |   2734.15 ->   2926.73 ms | dur    192.59 ms | hybrid_snap_auto | score 0.177252

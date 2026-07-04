@@ -1,0 +1,105 @@
+{
+  "version": "pair_blocks_v02",
+  "source": "breaks/London Break - 8A.wav",
+  "sample_rate": 44100,
+  "rule": "trim active region, then split into 8 pair blocks for grid16",
+  "active_region": {
+    "start_sample": 0,
+    "end_sample": 66098,
+    "start_ms": 0.0,
+    "end_ms": 1498.8208616780046,
+    "duration_ms": 1498.8208616780046,
+    "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/active_region.wav",
+    "info": {
+      "peak_env": 0.3046307861804962,
+      "threshold_abs": 0.006092615723609925,
+      "reason": "ok"
+    }
+  },
+  "block_ms": 187.3469387755102,
+  "duplicates": [],
+  "duplicate_threshold": 0.985,
+  "reconstruction": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks_reconstruction.wav",
+  "blocks": [
+    {
+      "pair": 0,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_00_0ms.wav",
+      "start_sample": 0,
+      "end_sample": 8262,
+      "start_ms": 0.0,
+      "end_ms": 187.3469387755102,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.11158328503370285
+    },
+    {
+      "pair": 1,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_01_187ms.wav",
+      "start_sample": 8262,
+      "end_sample": 16524,
+      "start_ms": 187.3469387755102,
+      "end_ms": 374.6938775510204,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.08576872944831848
+    },
+    {
+      "pair": 2,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_02_374ms.wav",
+      "start_sample": 16524,
+      "end_sample": 24786,
+      "start_ms": 374.6938775510204,
+      "end_ms": 562.0408163265306,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.10369141399860382
+    },
+    {
+      "pair": 3,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_03_562ms.wav",
+      "start_sample": 24786,
+      "end_sample": 33048,
+      "start_ms": 562.0408163265306,
+      "end_ms": 749.3877551020408,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.10256533324718475
+    },
+    {
+      "pair": 4,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_04_749ms.wav",
+      "start_sample": 33048,
+      "end_sample": 41310,
+      "start_ms": 749.3877551020408,
+      "end_ms": 936.7346938775511,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.09079263359308243
+    },
+    {
+      "pair": 5,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_05_936ms.wav",
+      "start_sample": 41310,
+      "end_sample": 49572,
+      "start_ms": 936.7346938775511,
+      "end_ms": 1124.0816326530612,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.1080889105796814
+    },
+    {
+      "pair": 6,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_06_1124ms.wav",
+      "start_sample": 49572,
+      "end_sample": 57834,
+      "start_ms": 1124.0816326530612,
+      "end_ms": 1311.4285714285713,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.09702848643064499
+    },
+    {
+      "pair": 7,
+      "audio_path": "dataset/pair_blocks_v02/London_Break_-_8A/pair_blocks/pair_07_1311ms.wav",
+      "start_sample": 57834,
+      "end_sample": 66096,
+      "start_ms": 1311.4285714285713,
+      "end_ms": 1498.7755102040817,
+      "duration_ms": 187.3469387755102,
+      "rms": 0.016036543995141983
+    }
+  ]
+}

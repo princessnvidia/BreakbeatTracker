@@ -1,0 +1,26 @@
+M8-style slicer v10: Detroit_Percussion_-_4A
+Source: breaks/Detroit Percussion - 4A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/Detroit_Percussion_-_4A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Detroit_Percussion_-_4A/Detroit_Percussion_-_4A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    171.25 ms | dur    164.72 ms | hybrid_snap_auto | score 0.238462
+slice 01 |    171.25 ->    357.01 ms | dur    185.76 ms | hat_rescue | score 0.814643
+slice 02 |    357.01 ->    542.77 ms | dur    185.76 ms | hybrid_snap_auto | score 0.338271
+slice 03 |    542.77 ->    577.78 ms | dur     35.01 ms | hat_rescue | score 0.84289
+slice 04 |    552.93 ->    731.43 ms | dur    178.50 ms | hybrid_snap_auto | score 0.404137
+slice 05 |    731.43 ->    920.09 ms | dur    188.66 ms | hat_rescue | score 0.899423
+slice 06 |    920.09 ->   1110.20 ms | dur    190.11 ms | hat_rescue | score 0.919572
+slice 07 |   1110.20 ->   1300.32 ms | dur    190.11 ms | hybrid_snap_auto | score 0.315191
+slice 08 |   1300.32 ->   1486.08 ms | dur    185.76 ms | hat_rescue | score 0.870839
+slice 09 |   1486.08 ->   1674.01 ms | dur    187.94 ms | hat_rescue | score 0.946525
+slice 10 |   1674.01 ->   1861.95 ms | dur    187.94 ms | hybrid_snap_auto | score 0.316028
+slice 11 |   1861.95 ->   2049.16 ms | dur    187.21 ms | hat_rescue | score 0.813899
+slice 12 |   2049.16 ->   2237.82 ms | dur    188.66 ms | hat_rescue | score 0.954549
+slice 13 |   2237.82 ->   2433.74 ms | dur    195.92 ms | hybrid_snap_auto | score 0.307445
+slice 14 |   2433.74 ->   2620.95 ms | dur    187.21 ms | hybrid_snap_auto | score 0.760339
+slice 15 |   2620.95 ->   2810.34 ms | dur    189.39 ms | hybrid_snap_auto | score 0.672746
+slice 16 |   2810.34 ->   2997.41 ms | dur    187.07 ms | hybrid_snap_auto | score 0.337239

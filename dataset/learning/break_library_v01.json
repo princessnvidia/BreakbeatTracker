@@ -1,0 +1,1326 @@
+{
+  "version": "break_library_v01",
+  "count": 220,
+  "entries": [
+    {
+      "safe": "Adrift_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Adrift_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Adrift Break.wav"
+    },
+    {
+      "safe": "Alzir_Break_-_4A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Alzir_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Alzir Break - 4A.wav"
+    },
+    {
+      "safe": "Angles_Break",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Angles_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Angles Break.wav"
+    },
+    {
+      "safe": "Apollo_-_4A",
+      "slices": 11,
+      "path": "dataset/pair_blocks_v02/Apollo_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Apollo - 4A.wav"
+    },
+    {
+      "safe": "Arson_Fill_-_4A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Arson_Fill_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Arson Fill - 4A.wav"
+    },
+    {
+      "safe": "Atlantis_Amen",
+      "slices": 8,
+      "path": "dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json",
+      "source_audio": "breaks/Atlantis Amen.wav"
+    },
+    {
+      "safe": "Back_Break_2_-_7B",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Back_Break_2_-_7B_pair_blocks_v02.json",
+      "source_audio": "breaks/Back Break 2 - 7B.wav"
+    },
+    {
+      "safe": "Back_Break_3_-_7B",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Back_Break_3_-_7B_pair_blocks_v02.json",
+      "source_audio": "breaks/Back Break 3 - 7B.wav"
+    },
+    {
+      "safe": "Bad_Break_-_8A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Bad_Break_-_8A_pair_blocks_v02.json",
+      "source_audio": "breaks/Bad Break - 8A.wav"
+    },
+    {
+      "safe": "Beep_Break",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Beep_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Beep Break.wav"
+    },
+    {
+      "safe": "Beta_Break",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Beta_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Beta Break.wav"
+    },
+    {
+      "safe": "Blaze_Break_-_11A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Blaze_Break_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Blaze Break - 11A.wav"
+    },
+    {
+      "safe": "Blaze_Break_2",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Blaze_Break_2_pair_blocks_v02.json",
+      "source_audio": "breaks/Blaze Break 2.wav"
+    },
+    {
+      "safe": "Blue_Break_-_4A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Blue_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Blue Break - 4A.wav"
+    },
+    {
+      "safe": "Bonanza_Break",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Bonanza_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Bonanza Break.wav"
+    },
+    {
+      "safe": "Boo_Break_-_5A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Boo_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Boo Break - 5A.wav"
+    },
+    {
+      "safe": "Boo_Worm_Break_-_9A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Boo_Worm_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Boo Worm Break - 9A.wav"
+    },
+    {
+      "safe": "Bouncer_Break_-_6A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Bouncer_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Bouncer Break - 6A.wav"
+    },
+    {
+      "safe": "Box_Break_-_6A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Box_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Box Break - 6A.wav"
+    },
+    {
+      "safe": "Box_Break_2_-_6B",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Box_Break_2_-_6B_pair_blocks_v02.json",
+      "source_audio": "breaks/Box Break 2 - 6B.wav"
+    },
+    {
+      "safe": "Box_Break_3_-_2B",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Box_Break_3_-_2B_pair_blocks_v02.json",
+      "source_audio": "breaks/Box Break 3 - 2B.wav"
+    },
+    {
+      "safe": "Box_Break_4_-_5A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Box_Break_4_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Box Break 4 - 5A.wav"
+    },
+    {
+      "safe": "Box_Break_5",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Box_Break_5_pair_blocks_v02.json",
+      "source_audio": "breaks/Box Break 5.wav"
+    },
+    {
+      "safe": "Breeze_Break_-_2A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Breeze_Break_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Breeze Break - 2A.wav"
+    },
+    {
+      "safe": "Bringing_Me_Break_-_7A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Bringing_Me_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Bringing Me Break - 7A.wav"
+    },
+    {
+      "safe": "Bronx_Break",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Bronx_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Bronx Break.wav"
+    },
+    {
+      "safe": "Brut_Force_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Brut_Force_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Brut Force Break.wav"
+    },
+    {
+      "safe": "Brut_Force_Fuller_Break_-_6A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Brut_Force_Fuller_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Brut Force Fuller Break - 6A.wav"
+    },
+    {
+      "safe": "Bulldozer_Amen_2_-_2A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Bulldozer_Amen_2_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Bulldozer Amen 2 - 2A.wav"
+    },
+    {
+      "safe": "Calling_Break_-_10A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Calling_Break_-_10A_pair_blocks_v02.json",
+      "source_audio": "breaks/Calling Break - 10A.wav"
+    },
+    {
+      "safe": "Calling_Reverse_Break_-_7A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Calling_Reverse_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Calling Reverse Break - 7A.wav"
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "slices": 14,
+      "path": "dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json",
+      "source_audio": "breaks/Camo Break - 3A.wav"
+    },
+    {
+      "safe": "Careless_Break_-_4A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Careless_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Careless Break - 4A.wav"
+    },
+    {
+      "safe": "Centuries_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Centuries_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Centuries Break.wav"
+    },
+    {
+      "safe": "Champion_Break_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Champion_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Champion Break - 7A.wav"
+    },
+    {
+      "safe": "Change_Break_-_6A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Change_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Change Break - 6A.wav"
+    },
+    {
+      "safe": "Check_Break_-_11A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Check_Break_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Check Break - 11A.wav"
+    },
+    {
+      "safe": "Chopper_Break_-_6A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Chopper_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Chopper Break - 6A.wav"
+    },
+    {
+      "safe": "Connected_Break_-_7B",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Connected_Break_-_7B_pair_blocks_v02.json",
+      "source_audio": "breaks/Connected Break - 7B.wav"
+    },
+    {
+      "safe": "Control_Amen_2",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Control_Amen_2_pair_blocks_v02.json",
+      "source_audio": "breaks/Control Amen 2.wav"
+    },
+    {
+      "safe": "Control_Break_-_9A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Control_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Control Break - 9A.wav"
+    },
+    {
+      "safe": "Control_Break_2",
+      "slices": 22,
+      "path": "dataset/pair_blocks_v02/Control_Break_2_pair_blocks_v02.json",
+      "source_audio": "breaks/Control Break 2.wav"
+    },
+    {
+      "safe": "Control_Kick_Break_-_2A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Control_Kick_Break_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Control Kick Break - 2A.wav"
+    },
+    {
+      "safe": "Control_Kicks_-_1A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Control_Kicks_-_1A_pair_blocks_v02.json",
+      "source_audio": "breaks/Control Kicks - 1A.wav"
+    },
+    {
+      "safe": "Control_Stutter_Break_-_7A",
+      "slices": 24,
+      "path": "dataset/pair_blocks_v02/Control_Stutter_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Control Stutter Break - 7A.wav"
+    },
+    {
+      "safe": "Control_Vocal_Break_-_1A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Control_Vocal_Break_-_1A_pair_blocks_v02.json",
+      "source_audio": "breaks/Control Vocal Break - 1A.wav"
+    },
+    {
+      "safe": "Cool_Amen_-_7A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Cool_Amen_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Cool Amen - 7A.wav"
+    },
+    {
+      "safe": "Cool_Break_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Cool_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Cool Break - 7A.wav"
+    },
+    {
+      "safe": "Cosmik_Break_-_11A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Cosmik_Break_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Cosmik Break - 11A.wav"
+    },
+    {
+      "safe": "Cumulus_Break_-_4A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Cumulus_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Cumulus Break - 4A.wav"
+    },
+    {
+      "safe": "Darkside_Break_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Darkside_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Darkside Break - 7A.wav"
+    },
+    {
+      "safe": "Dayz_Break_-_9A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Dayz_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Dayz Break - 9A.wav"
+    },
+    {
+      "safe": "Desire_Break_-_4A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Desire_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Desire Break - 4A.wav"
+    },
+    {
+      "safe": "Detroit_Break_-_5A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Detroit_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Detroit Break - 5A.wav"
+    },
+    {
+      "safe": "Detroit_Percussion_-_4A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Detroit_Percussion_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Detroit Percussion - 4A.wav"
+    },
+    {
+      "safe": "Difference_Break_1_-_9A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Difference_Break_1_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Difference Break 1 - 9A.wav"
+    },
+    {
+      "safe": "Difference_Break_2_-_6A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Difference_Break_2_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Difference Break 2 - 6A.wav"
+    },
+    {
+      "safe": "Dispatch_Break_-_6B",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Dispatch_Break_-_6B_pair_blocks_v02.json",
+      "source_audio": "breaks/Dispatch Break - 6B.wav"
+    },
+    {
+      "safe": "Dispatch_Break_2_-_2A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Dispatch_Break_2_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Dispatch Break 2 - 2A.wav"
+    },
+    {
+      "safe": "Drumz_Amen_Compound_-_11A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Drumz_Amen_Compound_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Drumz Amen Compound - 11A.wav"
+    },
+    {
+      "safe": "Effect_Break_-_7A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Effect_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Effect Break - 7A.wav"
+    },
+    {
+      "safe": "Effect_Break_2_-_12A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Effect_Break_2_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Effect Break 2 - 12A.wav"
+    },
+    {
+      "safe": "Effect_Break_3_-_7A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Effect_Break_3_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Effect Break 3 - 7A.wav"
+    },
+    {
+      "safe": "Enchanted_Break_-_5A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Enchanted_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Enchanted Break - 5A.wav"
+    },
+    {
+      "safe": "Essential_Break_-_8A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Essential_Break_-_8A_pair_blocks_v02.json",
+      "source_audio": "breaks/Essential Break - 8A.wav"
+    },
+    {
+      "safe": "Fairlight_Break_-_9A",
+      "slices": 23,
+      "path": "dataset/pair_blocks_v02/Fairlight_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Fairlight Break - 9A.wav"
+    },
+    {
+      "safe": "Firin_Line_Break_-_3B",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Firin_Line_Break_-_3B_pair_blocks_v02.json",
+      "source_audio": "breaks/Firin Line Break - 3B.wav"
+    },
+    {
+      "safe": "First_Contact_Amen",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/First_Contact_Amen_pair_blocks_v02.json",
+      "source_audio": "breaks/First Contact Amen.wav"
+    },
+    {
+      "safe": "Flutes_Break_-_12A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Flutes_Break_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Flutes Break - 12A.wav"
+    },
+    {
+      "safe": "Fountain_Break_-_4A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Fountain_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Fountain Break - 4A.wav"
+    },
+    {
+      "safe": "Friday_Break_-_9A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Friday_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Friday Break - 9A.wav"
+    },
+    {
+      "safe": "Futureproof_Amen",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Futureproof_Amen_pair_blocks_v02.json",
+      "source_audio": "breaks/Futureproof Amen.wav"
+    },
+    {
+      "safe": "Games_Amen",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Games_Amen_pair_blocks_v02.json",
+      "source_audio": "breaks/Games Amen.wav"
+    },
+    {
+      "safe": "Gene_Break_-_12A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Gene_Break_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Gene Break - 12A.wav"
+    },
+    {
+      "safe": "Gene_Break_2",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Gene_Break_2_pair_blocks_v02.json",
+      "source_audio": "breaks/Gene Break 2.wav"
+    },
+    {
+      "safe": "God_Chord_Break_-_4A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/God_Chord_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/God Chord Break - 4A.wav"
+    },
+    {
+      "safe": "Good_Times_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Good_Times_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Good Times Break.wav"
+    },
+    {
+      "safe": "Gravitational_Break",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Gravitational_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Gravitational Break.wav"
+    },
+    {
+      "safe": "Groove_Therapy_Break_-_4A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Groove_Therapy_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Groove Therapy Break - 4A.wav"
+    },
+    {
+      "safe": "Guess_Break_-_1A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Guess_Break_-_1A_pair_blocks_v02.json",
+      "source_audio": "breaks/Guess Break - 1A.wav"
+    },
+    {
+      "safe": "Haze_Break_-_6A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Haze_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Haze Break - 6A.wav"
+    },
+    {
+      "safe": "Haze_Hybrid_Break",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Haze_Hybrid_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Haze Hybrid Break.wav"
+    },
+    {
+      "safe": "Heaven_Break_-_5A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Heaven_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Heaven Break - 5A.wav"
+    },
+    {
+      "safe": "Heaven_Carl_Break_-_5A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Heaven_Carl_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Heaven Carl Break - 5A.wav"
+    },
+    {
+      "safe": "Heli_Bongos",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Heli_Bongos_pair_blocks_v02.json",
+      "source_audio": "breaks/Heli Bongos.wav"
+    },
+    {
+      "safe": "Heli_Break_-_2A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Heli_Break_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Heli Break - 2A.wav"
+    },
+    {
+      "safe": "Horn_Break",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Horn_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Horn Break.wav"
+    },
+    {
+      "safe": "Hurt_U_So_Break_-_1A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Hurt_U_So_Break_-_1A_pair_blocks_v02.json",
+      "source_audio": "breaks/Hurt U So Break - 1A.wav"
+    },
+    {
+      "safe": "Imagine_Break_-_4A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Imagine_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Imagine Break - 4A.wav"
+    },
+    {
+      "safe": "Inner_Break_-_9A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Inner_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Inner Break - 9A.wav"
+    },
+    {
+      "safe": "Intro_Amen",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Intro_Amen_pair_blocks_v02.json",
+      "source_audio": "breaks/Intro Amen.wav"
+    },
+    {
+      "safe": "Jazz_Note_Break_-_10A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Jazz_Note_Break_-_10A_pair_blocks_v02.json",
+      "source_audio": "breaks/Jazz Note Break - 10A.wav"
+    },
+    {
+      "safe": "Jazz_Note_Break_2",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Jazz_Note_Break_2_pair_blocks_v02.json",
+      "source_audio": "breaks/Jazz Note Break 2.wav"
+    },
+    {
+      "safe": "Jazz_Thing_Break",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Jazz_Thing_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Jazz Thing Break.wav"
+    },
+    {
+      "safe": "Jazzy_Break_-_9A",
+      "slices": 23,
+      "path": "dataset/pair_blocks_v02/Jazzy_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Jazzy Break - 9A.wav"
+    },
+    {
+      "safe": "Johnny_Amen_-_11A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Johnny_Amen_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Johnny Amen - 11A.wav"
+    },
+    {
+      "safe": "Killa_Break_-_4A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Killa_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Killa Break - 4A.wav"
+    },
+    {
+      "safe": "Let_Roll_Break",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Let_Roll_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Let Roll Break.wav"
+    },
+    {
+      "safe": "Let_There_Break",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Let_There_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Let There Break.wav"
+    },
+    {
+      "safe": "Let_There_Stutter_Break_-_6A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Let_There_Stutter_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Let There Stutter Break - 6A.wav"
+    },
+    {
+      "safe": "Liberty_Amen",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Liberty_Amen_pair_blocks_v02.json",
+      "source_audio": "breaks/Liberty Amen.wav"
+    },
+    {
+      "safe": "Lick_Break_-_1A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Lick_Break_-_1A_pair_blocks_v02.json",
+      "source_audio": "breaks/Lick Break - 1A.wav"
+    },
+    {
+      "safe": "Lights_Break",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Lights_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Lights Break.wav"
+    },
+    {
+      "safe": "Limb_Break_-_9A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Limb_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Limb Break - 9A.wav"
+    },
+    {
+      "safe": "Links_Break",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Links_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Links Break.wav"
+    },
+    {
+      "safe": "Little_Roller_Amen_-_7B",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Little_Roller_Amen_-_7B_pair_blocks_v02.json",
+      "source_audio": "breaks/Little Roller Amen - 7B.wav"
+    },
+    {
+      "safe": "London_Break_-_8A",
+      "slices": 8,
+      "path": "dataset/pair_blocks_v02/London_Break_-_8A_pair_blocks_v02.json",
+      "source_audio": ""
+    },
+    {
+      "safe": "Mach_Break_-_11A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Mach_Break_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Mach Break - 11A.wav"
+    },
+    {
+      "safe": "Machines_Break_-_11A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Machines_Break_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Machines Break - 11A.wav"
+    },
+    {
+      "safe": "Maintain_Break_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Maintain_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Maintain Break - 7A.wav"
+    },
+    {
+      "safe": "Marbles_Break_-_6A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Marbles_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Marbles Break - 6A.wav"
+    },
+    {
+      "safe": "Massive_Amen_-_2A",
+      "slices": 8,
+      "path": "dataset/pair_blocks_v02/Massive_Amen_-_2A_pair_blocks_v02.json",
+      "source_audio": ""
+    },
+    {
+      "safe": "Massive_Break",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Massive_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Massive Break.wav"
+    },
+    {
+      "safe": "Maximum_Booty_Break",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Maximum_Booty_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Maximum Booty Break.wav"
+    },
+    {
+      "safe": "Metropolis_Break_-_7A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Metropolis_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Metropolis Break - 7A.wav"
+    },
+    {
+      "safe": "Moths_Break_-_4A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Moths_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Moths Break - 4A.wav"
+    },
+    {
+      "safe": "Mutant_Break_-_7B",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Mutant_Break_-_7B_pair_blocks_v02.json",
+      "source_audio": "breaks/Mutant Break - 7B.wav"
+    },
+    {
+      "safe": "My_Sound_Break_1_-_2A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/My_Sound_Break_1_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/My Sound Break 1 - 2A.wav"
+    },
+    {
+      "safe": "My_Sound_Break_2_-_8A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/My_Sound_Break_2_-_8A_pair_blocks_v02.json",
+      "source_audio": "breaks/My Sound Break 2 - 8A.wav"
+    },
+    {
+      "safe": "My_Sound_Break_3_-_9A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/My_Sound_Break_3_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/My Sound Break 3 - 9A.wav"
+    },
+    {
+      "safe": "Mystical_Break",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Mystical_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Mystical Break.wav"
+    },
+    {
+      "safe": "Mystique_Break_-_7A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Mystique_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Mystique Break - 7A.wav"
+    },
+    {
+      "safe": "Night_Break_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Night_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Night Break - 7A.wav"
+    },
+    {
+      "safe": "Night_Compound_Break_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Night_Compound_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Night Compound Break - 7A.wav"
+    },
+    {
+      "safe": "Oh_Break_-_1A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Oh_Break_-_1A_pair_blocks_v02.json",
+      "source_audio": "breaks/Oh Break - 1A.wav"
+    },
+    {
+      "safe": "Overcast_Break_-_4A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Overcast_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Overcast Break - 4A.wav"
+    },
+    {
+      "safe": "Parallel_World_Break_-_12A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Parallel_World_Break_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Parallel World Break - 12A.wav"
+    },
+    {
+      "safe": "Peace_Sign_Break_-_2A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Peace_Sign_Break_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Peace Sign Break - 2A.wav"
+    },
+    {
+      "safe": "Pesh_Break_-_7A",
+      "slices": 24,
+      "path": "dataset/pair_blocks_v02/Pesh_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Pesh Break - 7A.wav"
+    },
+    {
+      "safe": "Physical_Break_-_4A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Physical_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Physical Break - 4A.wav"
+    },
+    {
+      "safe": "Physical_Break_2",
+      "slices": 22,
+      "path": "dataset/pair_blocks_v02/Physical_Break_2_pair_blocks_v02.json",
+      "source_audio": "breaks/Physical Break 2.wav"
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Pin_Up_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Pin Up Break.wav"
+    },
+    {
+      "safe": "Piper_Break_-_4A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Piper_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Piper Break - 4A.wav"
+    },
+    {
+      "safe": "Place_Break_-_5A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Place_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Place Break - 5A.wav"
+    },
+    {
+      "safe": "Playboy_Break_-_6B",
+      "slices": 22,
+      "path": "dataset/pair_blocks_v02/Playboy_Break_-_6B_pair_blocks_v02.json",
+      "source_audio": "breaks/Playboy Break - 6B.wav"
+    },
+    {
+      "safe": "Possible_Worlds_Break_-_5A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Possible_Worlds_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Possible Worlds Break - 5A.wav"
+    },
+    {
+      "safe": "Pressin_Break_-_8A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Pressin_Break_-_8A_pair_blocks_v02.json",
+      "source_audio": "breaks/Pressin Break - 8A.wav"
+    },
+    {
+      "safe": "Prog_Amen_-_8A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Prog_Amen_-_8A_pair_blocks_v02.json",
+      "source_audio": "breaks/Prog Amen - 8A.wav"
+    },
+    {
+      "safe": "Prog_Break",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Prog_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Prog Break.wav"
+    },
+    {
+      "safe": "Promenade_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Promenade_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Promenade Break.wav"
+    },
+    {
+      "safe": "Quest_Break",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Quest_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Quest Break.wav"
+    },
+    {
+      "safe": "Rainfall_Lite_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Rainfall_Lite_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Rainfall Lite Break.wav"
+    },
+    {
+      "safe": "Reach_Break_-_4A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Reach_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Reach Break - 4A.wav"
+    },
+    {
+      "safe": "Reckon_Break_-_9A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Reckon_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Reckon Break - 9A.wav"
+    },
+    {
+      "safe": "Reel_Funk_Amen_-_2A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Reel_Funk_Amen_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Reel Funk Amen - 2A.wav"
+    },
+    {
+      "safe": "Reel_Funk_Roller_-_12A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Reel_Funk_Roller_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Reel Funk Roller - 12A.wav"
+    },
+    {
+      "safe": "Reflections_Break_-_7A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Reflections_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Reflections Break - 7A.wav"
+    },
+    {
+      "safe": "Repetoire_Break_-_6A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Repetoire_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Repetoire Break - 6A.wav"
+    },
+    {
+      "safe": "Resolution_Break_-_5A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Resolution_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Resolution Break - 5A.wav"
+    },
+    {
+      "safe": "Revelation_Amen_-_2A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Revelation_Amen_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Revelation Amen - 2A.wav"
+    },
+    {
+      "safe": "Ricochet_Break_-_9A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Ricochet_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Ricochet Break - 9A.wav"
+    },
+    {
+      "safe": "Right_Break_-_6A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Right_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Right Break - 6A.wav"
+    },
+    {
+      "safe": "Rise_Amen_-_2A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Rise_Amen_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Rise Amen - 2A.wav"
+    },
+    {
+      "safe": "Rock_Amen_-_12A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Rock_Amen_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Rock Amen - 12A.wav"
+    },
+    {
+      "safe": "Rock_Amen_2_-_12A",
+      "slices": 22,
+      "path": "dataset/pair_blocks_v02/Rock_Amen_2_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Rock Amen 2 - 12A.wav"
+    },
+    {
+      "safe": "Roll_On_Roll_-_9A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Roll_On_Roll_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Roll On Roll - 9A.wav"
+    },
+    {
+      "safe": "Roll_On_Roll_2_-_10A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Roll_On_Roll_2_-_10A_pair_blocks_v02.json",
+      "source_audio": "breaks/Roll On Roll 2 - 10A.wav"
+    },
+    {
+      "safe": "Roll_On_Roll_3",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Roll_On_Roll_3_pair_blocks_v02.json",
+      "source_audio": "breaks/Roll On Roll 3.wav"
+    },
+    {
+      "safe": "Rumble_Break_-_10A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Rumble_Break_-_10A_pair_blocks_v02.json",
+      "source_audio": "breaks/Rumble Break - 10A.wav"
+    },
+    {
+      "safe": "Searchin_Break_-_5A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Searchin_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Searchin Break - 5A.wav"
+    },
+    {
+      "safe": "Searchin_Break_2_-_9A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Searchin_Break_2_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Searchin Break 2 - 9A.wav"
+    },
+    {
+      "safe": "Searchin_Break_3_-_9A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Searchin_Break_3_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Searchin Break 3 - 9A.wav"
+    },
+    {
+      "safe": "Seatown_Break_-_6B",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Seatown_Break_-_6B_pair_blocks_v02.json",
+      "source_audio": "breaks/Seatown Break - 6B.wav"
+    },
+    {
+      "safe": "Secrets_Amen_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Secrets_Amen_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Secrets Amen - 7A.wav"
+    },
+    {
+      "safe": "Session_Break_-_8A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Session_Break_-_8A_pair_blocks_v02.json",
+      "source_audio": "breaks/Session Break - 8A.wav"
+    },
+    {
+      "safe": "Shock_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Shock_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Shock Break.wav"
+    },
+    {
+      "safe": "Shock_Filter_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Shock_Filter_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Shock Filter Break.wav"
+    },
+    {
+      "safe": "Shoes_Break_-_4A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Shoes_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Shoes Break - 4A.wav"
+    },
+    {
+      "safe": "Sight_Break_-_6A",
+      "slices": 22,
+      "path": "dataset/pair_blocks_v02/Sight_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Sight Break - 6A.wav"
+    },
+    {
+      "safe": "Sky_Break_-_9A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Sky_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Sky Break - 9A.wav"
+    },
+    {
+      "safe": "Solar_Break_-_11A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Solar_Break_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Solar Break - 11A.wav"
+    },
+    {
+      "safe": "Sonic_Amen_-_7A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Sonic_Amen_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Sonic Amen - 7A.wav"
+    },
+    {
+      "safe": "Sonic_Break_-_4A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Sonic_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Sonic Break - 4A.wav"
+    },
+    {
+      "safe": "Sonic_Break_2_-_4A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Sonic_Break_2_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Sonic Break 2 - 4A.wav"
+    },
+    {
+      "safe": "Sound_Control_Break",
+      "slices": 22,
+      "path": "dataset/pair_blocks_v02/Sound_Control_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Sound Control Break.wav"
+    },
+    {
+      "safe": "Sound_Murderer_Amen_-_9A",
+      "slices": 23,
+      "path": "dataset/pair_blocks_v02/Sound_Murderer_Amen_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Sound Murderer Amen - 9A.wav"
+    },
+    {
+      "safe": "Sovreign_Break_-_7B",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Sovreign_Break_-_7B_pair_blocks_v02.json",
+      "source_audio": "breaks/Sovreign Break - 7B.wav"
+    },
+    {
+      "safe": "Space_Age_Break_-_5A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Space_Age_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Space Age Break - 5A.wav"
+    },
+    {
+      "safe": "Stepper_Amen",
+      "slices": 8,
+      "path": "dataset/pair_blocks_v02/Stepper_Amen_pair_blocks_v02.json",
+      "source_audio": ""
+    },
+    {
+      "safe": "Stepper_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Stepper_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Stepper Break.wav"
+    },
+    {
+      "safe": "Still_Break_-_7A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Still_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Still Break - 7A.wav"
+    },
+    {
+      "safe": "Stone_Break",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Stone_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Stone Break.wav"
+    },
+    {
+      "safe": "Sunset_Break_-_6A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Sunset_Break_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Sunset Break - 6A.wav"
+    },
+    {
+      "safe": "System_Break",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/System_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/System Break.wav"
+    },
+    {
+      "safe": "Take_You_Break",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Take_You_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Take You Break.wav"
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Tear_Apache_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Tear Apache - 4A.wav"
+    },
+    {
+      "safe": "Tear_Break_-_2A",
+      "slices": 21,
+      "path": "dataset/pair_blocks_v02/Tear_Break_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Tear Break - 2A.wav"
+    },
+    {
+      "safe": "Tear_Break_2",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Tear_Break_2_pair_blocks_v02.json",
+      "source_audio": "breaks/Tear Break 2.wav"
+    },
+    {
+      "safe": "Technology_Break_-_9A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Technology_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Technology Break - 9A.wav"
+    },
+    {
+      "safe": "Ten_Break_-_7A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Ten_Break_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Ten Break - 7A.wav"
+    },
+    {
+      "safe": "Ten_Break_2_-_7A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Ten_Break_2_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Ten Break 2 - 7A.wav"
+    },
+    {
+      "safe": "Terrain_Break_-_4A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Terrain_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Terrain Break - 4A.wav"
+    },
+    {
+      "safe": "Terrain_Break_2_-_2A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Terrain_Break_2_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Terrain Break 2 - 2A.wav"
+    },
+    {
+      "safe": "Terrorist_Amen_-_11A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Terrorist_Amen_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Terrorist Amen - 11A.wav"
+    },
+    {
+      "safe": "Travelling_Break_-_11A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Travelling_Break_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Travelling Break - 11A.wav"
+    },
+    {
+      "safe": "Trippin_Break_-_9A",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Trippin_Break_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Trippin Break - 9A.wav"
+    },
+    {
+      "safe": "Trippin_Break_2_-_7A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Trippin_Break_2_-_7A_pair_blocks_v02.json",
+      "source_audio": "breaks/Trippin Break 2 - 7A.wav"
+    },
+    {
+      "safe": "Tronik_Break_-_4A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Tronik_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Tronik Break - 4A.wav"
+    },
+    {
+      "safe": "True_Break",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/True_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/True Break.wav"
+    },
+    {
+      "safe": "Vapour_Break",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Vapour_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Vapour Break.wav"
+    },
+    {
+      "safe": "Voyage_Break_-_5A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Voyage_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Voyage Break - 5A.wav"
+    },
+    {
+      "safe": "Walk_Break_-_8A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Walk_Break_-_8A_pair_blocks_v02.json",
+      "source_audio": "breaks/Walk Break - 8A.wav"
+    },
+    {
+      "safe": "Walk_Break_2_-_12A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Walk_Break_2_-_12A_pair_blocks_v02.json",
+      "source_audio": "breaks/Walk Break 2 - 12A.wav"
+    },
+    {
+      "safe": "Walk_Break_3_-_9A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Walk_Break_3_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Walk Break 3 - 9A.wav"
+    },
+    {
+      "safe": "WarPeace_Break",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/WarPeace_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/WarPeace Break.wav"
+    },
+    {
+      "safe": "War_Break_-_5A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/War_Break_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/War Break - 5A.wav"
+    },
+    {
+      "safe": "Warhead_Break_-_2A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Warhead_Break_-_2A_pair_blocks_v02.json",
+      "source_audio": "breaks/Warhead Break - 2A.wav"
+    },
+    {
+      "safe": "Warhead_Break_2_-_9A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Warhead_Break_2_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Warhead Break 2 - 9A.wav"
+    },
+    {
+      "safe": "Warned_Break_-_4A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Warned_Break_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Warned Break - 4A.wav"
+    },
+    {
+      "safe": "Warning_Compound_-_11A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Warning_Compound_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Warning Compound - 11A.wav"
+    },
+    {
+      "safe": "Warning_Copter_-_11A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Warning_Copter_-_11A_pair_blocks_v02.json",
+      "source_audio": "breaks/Warning Copter - 11A.wav"
+    },
+    {
+      "safe": "Way_Break",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Way_Break_pair_blocks_v02.json",
+      "source_audio": "breaks/Way Break.wav"
+    },
+    {
+      "safe": "Wheel_Up_2_Bad",
+      "slices": 22,
+      "path": "dataset/pair_blocks_v02/Wheel_Up_2_Bad_pair_blocks_v02.json",
+      "source_audio": "breaks/Wheel Up 2 Bad.wav"
+    },
+    {
+      "safe": "Wheel_Up_Amen_-_6A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Wheel_Up_Amen_-_6A_pair_blocks_v02.json",
+      "source_audio": "breaks/Wheel Up Amen - 6A.wav"
+    },
+    {
+      "safe": "Worries_Break_-_1A",
+      "slices": 19,
+      "path": "dataset/pair_blocks_v02/Worries_Break_-_1A_pair_blocks_v02.json",
+      "source_audio": "breaks/Worries Break - 1A.wav"
+    },
+    {
+      "safe": "Your_Amen_-_4A",
+      "slices": 17,
+      "path": "dataset/pair_blocks_v02/Your_Amen_-_4A_pair_blocks_v02.json",
+      "source_audio": "breaks/Your Amen - 4A.wav"
+    },
+    {
+      "safe": "Your_Amen_2_-_9A",
+      "slices": 16,
+      "path": "dataset/pair_blocks_v02/Your_Amen_2_-_9A_pair_blocks_v02.json",
+      "source_audio": "breaks/Your Amen 2 - 9A.wav"
+    },
+    {
+      "safe": "Your_Break_-_8B",
+      "slices": 20,
+      "path": "dataset/pair_blocks_v02/Your_Break_-_8B_pair_blocks_v02.json",
+      "source_audio": "breaks/Your Break - 8B.wav"
+    },
+    {
+      "safe": "Zone_Break_2_-_5A",
+      "slices": 18,
+      "path": "dataset/pair_blocks_v02/Zone_Break_2_-_5A_pair_blocks_v02.json",
+      "source_audio": "breaks/Zone Break 2 - 5A.wav"
+    },
+    {
+      "safe": "atlantis_amen",
+      "slices": 11,
+      "path": "dataset/pair_blocks_v02/atlantis_amen_pair_blocks_v02.json",
+      "source_audio": "breaks/Atlantis Amen.wav"
+    }
+  ]
+}

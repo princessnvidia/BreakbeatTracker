@@ -1,0 +1,152 @@
+{
+  "source": "breaks/London Break - 8A.wav",
+  "sr": 44100,
+  "duration_sec": 1.4988208616780045,
+  "event_count": 12,
+  "events": [
+    {
+      "index": 0,
+      "start_sample": 1024,
+      "end_sample": 4096,
+      "start_sec": 0.023219954648526078,
+      "duration_sec": 0.06965986394557823,
+      "gap_to_next_sec": 0.06965986394557823,
+      "rms": 0.078127920627594,
+      "centroid": 6485.930186486404,
+      "zcr": 0.17494419642857142,
+      "label": "hat"
+    },
+    {
+      "index": 1,
+      "start_sample": 4096,
+      "end_sample": 8192,
+      "start_sec": 0.09287981859410431,
+      "duration_sec": 0.09287981859410431,
+      "gap_to_next_sec": 0.09287981859410431,
+      "rms": 0.06311915814876556,
+      "centroid": 5102.698018609295,
+      "zcr": 0.1535915798611111,
+      "label": "hat"
+    },
+    {
+      "index": 2,
+      "start_sample": 8192,
+      "end_sample": 15360,
+      "start_sec": 0.18575963718820862,
+      "duration_sec": 0.16253968253968254,
+      "gap_to_next_sec": 0.1625396825396825,
+      "rms": 0.08930645883083344,
+      "centroid": 5472.623821723494,
+      "zcr": 0.16604817708333333,
+      "label": "hat"
+    },
+    {
+      "index": 3,
+      "start_sample": 15360,
+      "end_sample": 19456,
+      "start_sec": 0.34829931972789113,
+      "duration_sec": 0.09287981859410431,
+      "gap_to_next_sec": 0.09287981859410432,
+      "rms": 0.1340949982404709,
+      "centroid": 6319.212184593657,
+      "zcr": 0.1914605034722222,
+      "label": "hat"
+    },
+    {
+      "index": 4,
+      "start_sample": 19456,
+      "end_sample": 24064,
+      "start_sec": 0.44117913832199546,
+      "duration_sec": 0.10448979591836735,
+      "gap_to_next_sec": 0.10448979591836732,
+      "rms": 0.050898462533950806,
+      "centroid": 5200.019318416601,
+      "zcr": 0.154345703125,
+      "label": "hat"
+    },
+    {
+      "index": 5,
+      "start_sample": 24064,
+      "end_sample": 32768,
+      "start_sec": 0.5456689342403628,
+      "duration_sec": 0.19736961451247165,
+      "gap_to_next_sec": 0.1973696145124717,
+      "rms": 0.10025671124458313,
+      "centroid": 6055.770021024491,
+      "zcr": 0.1769748263888889,
+      "label": "hat"
+    },
+    {
+      "index": 6,
+      "start_sample": 32768,
+      "end_sample": 41472,
+      "start_sec": 0.7430385487528345,
+      "duration_sec": 0.19736961451247165,
+      "gap_to_next_sec": 0.1973696145124716,
+      "rms": 0.08687107264995575,
+      "centroid": 5524.256068703537,
+      "zcr": 0.174560546875,
+      "label": "hat"
+    },
+    {
+      "index": 7,
+      "start_sample": 41472,
+      "end_sample": 46080,
+      "start_sec": 0.9404081632653061,
+      "duration_sec": 0.10448979591836735,
+      "gap_to_next_sec": 0.10448979591836749,
+      "rms": 0.11864341050386429,
+      "centroid": 4907.246922859393,
+      "zcr": 0.152197265625,
+      "label": "hat"
+    },
+    {
+      "index": 8,
+      "start_sample": 46080,
+      "end_sample": 49664,
+      "start_sec": 1.0448979591836736,
+      "duration_sec": 0.08126984126984127,
+      "gap_to_next_sec": 0.08126984126984116,
+      "rms": 0.08881132304668427,
+      "centroid": 5825.563267054899,
+      "zcr": 0.16650390625,
+      "label": "hat"
+    },
+    {
+      "index": 9,
+      "start_sample": 49664,
+      "end_sample": 57856,
+      "start_sec": 1.1261678004535147,
+      "duration_sec": 0.18575963718820862,
+      "gap_to_next_sec": 0.18575963718820865,
+      "rms": 0.08938149362802505,
+      "centroid": 6143.948102094303,
+      "zcr": 0.14478975183823528,
+      "label": "hat"
+    },
+    {
+      "index": 10,
+      "start_sample": 57856,
+      "end_sample": 61952,
+      "start_sec": 1.3119274376417234,
+      "duration_sec": 0.09287981859410431,
+      "gap_to_next_sec": 0.09287981859410421,
+      "rms": 0.016073141247034073,
+      "centroid": 7373.190041817421,
+      "zcr": 0.1851128472222222,
+      "label": "ghost"
+    },
+    {
+      "index": 11,
+      "start_sample": 61952,
+      "end_sample": 66098,
+      "start_sec": 1.4048072562358276,
+      "duration_sec": 0.09401360544217686,
+      "gap_to_next_sec": 0,
+      "rms": 0.014441912062466145,
+      "centroid": 6621.008149543021,
+      "zcr": 0.13134765625,
+      "label": "ghost"
+    }
+  ]
+}

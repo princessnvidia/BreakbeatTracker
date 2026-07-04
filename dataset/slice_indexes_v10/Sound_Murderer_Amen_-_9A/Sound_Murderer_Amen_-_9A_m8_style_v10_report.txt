@@ -1,0 +1,32 @@
+M8-style slicer v10: Sound_Murderer_Amen_-_9A
+Source: breaks/Sound Murderer Amen - 9A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 23
+JSON: dataset/pair_blocks_v02/Sound_Murderer_Amen_-_9A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Sound_Murderer_Amen_-_9A/Sound_Murderer_Amen_-_9A_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     41.36 ms | dur     41.36 ms | start | score 1.0
+slice 01 |     41.36 ->    172.70 ms | dur    131.34 ms | hybrid_snap_auto | score 0.534579
+slice 02 |    172.70 ->    350.48 ms | dur    177.78 ms | hat_rescue | score 0.970236
+slice 03 |    350.48 ->    727.85 ms | dur    377.37 ms | hybrid_snap_auto | score 0.822136
+slice 04 |    727.85 ->    957.82 ms | dur    229.98 ms | grid | score 1.0
+slice 05 |    957.82 ->    999.91 ms | dur     42.09 ms | hat_rescue | score 0.718027
+slice 06 |    999.91 ->   1081.90 ms | dur     82.00 ms | hat_rescue | score 0.781767
+slice 07 |   1081.90 ->   1445.44 ms | dur    363.54 ms | hybrid_snap_auto | score 0.580354
+slice 08 |   1445.44 ->   1819.61 ms | dur    374.17 ms | hybrid_snap_auto | score 0.614005
+slice 09 |   1819.61 ->   2183.54 ms | dur    363.92 ms | grid | score 1.0
+slice 10 |   2183.54 ->   2547.46 ms | dur    363.92 ms | grid | score 1.0
+slice 11 |   2547.46 ->   2899.59 ms | dur    352.13 ms | grid | score 1.0
+slice 12 |   2899.59 ->   3083.90 ms | dur    184.31 ms | hybrid_snap_auto | score 0.522503
+slice 13 |   3083.90 ->   3263.13 ms | dur    179.23 ms | hat_rescue | score 0.782671
+slice 14 |   3263.13 ->   3639.21 ms | dur    376.08 ms | hybrid_snap_auto | score 0.778207
+slice 15 |   3639.21 ->   3869.02 ms | dur    229.82 ms | grid | score 1.0
+slice 16 |   3869.02 ->   3911.11 ms | dur     42.09 ms | hat_rescue | score 0.717426
+slice 17 |   3911.11 ->   3986.58 ms | dur     75.46 ms | hat_rescue | score 0.784202
+slice 18 |   3986.58 ->   4362.45 ms | dur    375.87 ms | hat_rescue | score 0.740087
+slice 19 |   4362.45 ->   4721.63 ms | dur    359.18 ms | hybrid_snap_auto | score 0.562027
+slice 20 |   4721.63 ->   5094.90 ms | dur    373.27 ms | hybrid_snap_auto | score 0.605539
+slice 21 |   5094.90 ->   5458.82 ms | dur    363.92 ms | grid | score 1.0
+slice 22 |   5458.82 ->   5822.74 ms | dur    363.92 ms | grid | score 1.0

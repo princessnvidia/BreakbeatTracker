@@ -1,0 +1,28 @@
+M8-style slicer v10: Walk_Break_3_-_9A
+Source: breaks/Walk Break 3 - 9A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 19
+JSON: dataset/pair_blocks_v02/Walk_Break_3_-_9A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Walk_Break_3_-_9A/Walk_Break_3_-_9A_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     35.01 ms | dur     35.01 ms | start | score 1.0
+slice 01 |     28.30 ->     82.72 ms | dur     54.42 ms | hybrid_snap_auto | score 0.413521
+slice 02 |     82.72 ->    162.54 ms | dur     79.82 ms | hybrid_snap_auto | score 0.22952
+slice 03 |    162.54 ->    197.55 ms | dur     35.01 ms | hat_rescue | score 0.641573
+slice 04 |    184.31 ->    285.90 ms | dur    101.59 ms | hybrid_snap_hat | score 0.567763
+slice 05 |    285.90 ->    333.79 ms | dur     47.89 ms | hybrid_snap_hat | score 0.524989
+slice 06 |    333.79 ->    368.80 ms | dur     35.01 ms | hat_rescue | score 0.964389
+slice 07 |    354.10 ->    420.14 ms | dur     66.03 ms | hybrid_snap_hat | score 0.721805
+slice 08 |    420.14 ->    512.29 ms | dur     92.15 ms | hybrid_snap_auto | score 0.139109
+slice 09 |    512.29 ->    602.99 ms | dur     90.70 ms | hybrid_snap_hat | score 0.689331
+slice 10 |    602.99 ->    720.54 ms | dur    117.55 ms | hybrid_snap_auto | score 0.144056
+slice 11 |    720.54 ->    796.73 ms | dur     76.19 ms | hybrid_snap_auto | score 0.144259
+slice 12 |    796.73 ->    857.69 ms | dur     60.95 ms | hybrid_snap_auto | score 0.134868
+slice 13 |    857.69 ->    975.24 ms | dur    117.55 ms | hybrid_snap_auto | score 0.653838
+slice 14 |    975.24 ->   1055.78 ms | dur     80.54 ms | hybrid_snap_auto | score 0.22303
+slice 15 |   1055.78 ->   1116.73 ms | dur     60.95 ms | hybrid_snap_auto | score 0.141764
+slice 16 |   1116.73 ->   1208.89 ms | dur     92.15 ms | hybrid_snap_auto | score 0.148889
+slice 17 |   1208.89 ->   1330.07 ms | dur    121.18 ms | hybrid_snap_hat | score 0.867942
+slice 18 |   1330.07 ->   1404.69 ms | dur     74.63 ms | hybrid_snap_auto | score 0.131705

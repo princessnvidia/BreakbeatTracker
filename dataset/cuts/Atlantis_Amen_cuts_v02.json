@@ -1,0 +1,109 @@
+{
+  "version": "cuts_v02",
+  "source": "breaks/Atlantis Amen.wav",
+  "sample_rate": 44100,
+  "duration": 1.3343990929705216,
+  "parameters": {
+    "delta": 0.035,
+    "dedupe_ms": 18.0,
+    "merge_ms": 25.0,
+    "min_ms": 80.0,
+    "max_ms": 900.0,
+    "min_energy_ratio": 0.18
+  },
+  "counts": {
+    "raw_points": 30,
+    "deduped_points": 29,
+    "initial_segments": 14,
+    "final_segments": 6
+  },
+  "cuts_samples": [
+    0,
+    9728,
+    13312,
+    18432,
+    28160,
+    43520,
+    51712,
+    58847
+  ],
+  "cuts_ms": [
+    0.0,
+    220.58956916099774,
+    301.85941043083903,
+    417.9591836734694,
+    638.5487528344671,
+    986.8480725623583,
+    1172.607709750567,
+    1334.3990929705217
+  ],
+  "reconstruction": "dataset/cuts/Atlantis_Amen/reconstruction_cuts_v02.wav",
+  "slices": [
+    {
+      "index": 0,
+      "audio_path": "dataset/cuts/Atlantis_Amen/preview_slices/slice_000_81ms.wav",
+      "start_sample": 9728,
+      "end_sample": 13312,
+      "start_ms": 220.58956916099774,
+      "end_ms": 301.85941043083903,
+      "duration_ms": 81.26984126984127,
+      "rms": 0.14792874455451965,
+      "peak": 0.6300417184829712
+    },
+    {
+      "index": 1,
+      "audio_path": "dataset/cuts/Atlantis_Amen/preview_slices/slice_001_92ms.wav",
+      "start_sample": 13312,
+      "end_sample": 17408,
+      "start_ms": 301.85941043083903,
+      "end_ms": 394.7392290249433,
+      "duration_ms": 92.87981859410431,
+      "rms": 0.07955725491046906,
+      "peak": 0.38620659708976746
+    },
+    {
+      "index": 2,
+      "audio_path": "dataset/cuts/Atlantis_Amen/preview_slices/slice_002_162ms.wav",
+      "start_sample": 18432,
+      "end_sample": 25600,
+      "start_ms": 417.9591836734694,
+      "end_ms": 580.4988662131519,
+      "duration_ms": 162.53968253968253,
+      "rms": 0.18890780210494995,
+      "peak": 0.9179794788360596
+    },
+    {
+      "index": 3,
+      "audio_path": "dataset/cuts/Atlantis_Amen/preview_slices/slice_003_348ms.wav",
+      "start_sample": 28160,
+      "end_sample": 43520,
+      "start_ms": 638.5487528344671,
+      "end_ms": 986.8480725623583,
+      "duration_ms": 348.29931972789115,
+      "rms": 0.1523400992155075,
+      "peak": 0.9486640095710754
+    },
+    {
+      "index": 4,
+      "audio_path": "dataset/cuts/Atlantis_Amen/preview_slices/slice_004_162ms.wav",
+      "start_sample": 43520,
+      "end_sample": 50688,
+      "start_ms": 986.8480725623583,
+      "end_ms": 1149.3877551020407,
+      "duration_ms": 162.53968253968253,
+      "rms": 0.14912006258964539,
+      "peak": 0.7334657907485962
+    },
+    {
+      "index": 5,
+      "audio_path": "dataset/cuts/Atlantis_Amen/preview_slices/slice_005_104ms.wav",
+      "start_sample": 51712,
+      "end_sample": 56320,
+      "start_ms": 1172.607709750567,
+      "end_ms": 1277.0975056689342,
+      "duration_ms": 104.48979591836735,
+      "rms": 0.2429433912038803,
+      "peak": 0.9190395474433899
+    }
+  ]
+}

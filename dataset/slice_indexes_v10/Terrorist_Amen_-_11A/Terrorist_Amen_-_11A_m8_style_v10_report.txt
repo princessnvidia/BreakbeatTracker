@@ -1,0 +1,25 @@
+M8-style slicer v10: Terrorist_Amen_-_11A
+Source: breaks/Terrorist Amen - 11A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 16
+JSON: dataset/pair_blocks_v02/Terrorist_Amen_-_11A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Terrorist_Amen_-_11A/Terrorist_Amen_-_11A_source_loop_preview_v10.wav
+
+slice 00 |     10.88 ->    198.82 ms | dur    187.94 ms | hybrid_snap_auto | score 0.380409
+slice 01 |    198.82 ->    400.54 ms | dur    201.72 ms | hat_rescue | score 0.936736
+slice 02 |    400.54 ->    602.27 ms | dur    201.72 ms | hybrid_snap_auto | score 0.648095
+slice 03 |    602.27 ->    795.28 ms | dur    193.02 ms | hybrid_snap_hat | score 0.970396
+slice 04 |    795.28 ->    992.65 ms | dur    197.37 ms | hat_rescue | score 0.893556
+slice 05 |    992.65 ->   1201.63 ms | dur    208.98 ms | hybrid_snap_auto | score 0.687247
+slice 06 |   1201.63 ->   1404.08 ms | dur    202.45 ms | hat_rescue | score 0.903061
+slice 07 |   1404.08 ->   1591.29 ms | dur    187.21 ms | hybrid_snap_auto | score 0.378327
+slice 08 |   1591.29 ->   1806.80 ms | dur    215.51 ms | hybrid_snap_auto | score 0.67726
+slice 09 |   1806.80 ->   1994.01 ms | dur    187.21 ms | hybrid_snap_auto | score 0.403042
+slice 10 |   1994.01 ->   2194.29 ms | dur    200.27 ms | hybrid_snap_auto | score 0.870351
+slice 11 |   2194.29 ->   2388.75 ms | dur    194.47 ms | hybrid_snap_auto | score 0.563388
+slice 12 |   2388.75 ->   2602.09 ms | dur    213.33 ms | hat_rescue | score 0.904574
+slice 13 |   2602.09 ->   2789.30 ms | dur    187.21 ms | hybrid_snap_hat | score 0.929976
+slice 14 |   2789.30 ->   3001.18 ms | dur    211.88 ms | hat_rescue | score 0.932455
+slice 15 |   3001.18 ->   3203.63 ms | dur    202.45 ms | hat_rescue | score 0.932135

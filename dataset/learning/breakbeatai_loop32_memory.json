@@ -1,0 +1,62 @@
+{
+  "version": "breakbeatai_loop32_memory_v01",
+  "description": "Mémoire des corrections humaines. Randomize utilise ces scores.",
+  "breaks": {
+    "Camo_Break_-_3A": {
+      "kick": {
+        "0": {
+          "positive_pair_counts": {
+            "5": 2,
+            "2": 2,
+            "6": 1,
+            "0": 2,
+            "7": 2,
+            "4": 2,
+            "3": 2,
+            "1": 1
+          },
+          "negative_pair_counts": {
+            "0": 2,
+            "5": 2,
+            "2": 2,
+            "6": 1,
+            "7": 2,
+            "4": 2,
+            "3": 2,
+            "1": 1
+          },
+          "events": 14
+        }
+      }
+    }
+  },
+  "global": {
+    "kick": {
+      "0": {
+        "positive_pair_counts": {
+          "5": 2,
+          "2": 2,
+          "6": 1,
+          "0": 2,
+          "7": 2,
+          "4": 2,
+          "3": 2,
+          "1": 1
+        },
+        "negative_pair_counts": {
+          "0": 2,
+          "5": 2,
+          "2": 2,
+          "6": 1,
+          "7": 2,
+          "4": 2,
+          "3": 2,
+          "1": 1
+        },
+        "events": 14
+      }
+    }
+  },
+  "events_total": 14,
+  "updated_at": "2026-07-02 05:33:27"
+}

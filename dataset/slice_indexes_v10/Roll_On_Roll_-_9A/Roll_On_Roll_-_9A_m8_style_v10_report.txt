@@ -1,0 +1,29 @@
+M8-style slicer v10: Roll_On_Roll_-_9A
+Source: breaks/Roll On Roll - 9A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Roll_On_Roll_-_9A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Roll_On_Roll_-_9A/Roll_On_Roll_-_9A_source_loop_preview_v10.wav
+
+slice 00 |     15.24 ->    104.49 ms | dur     89.25 ms | hybrid_snap_auto | score 0.3168
+slice 01 |    104.49 ->    165.44 ms | dur     60.95 ms | hybrid_snap_auto | score 0.158588
+slice 02 |    165.44 ->    200.45 ms | dur     35.01 ms | hat_rescue | score 0.49381
+slice 03 |    181.41 ->    245.99 ms | dur     64.58 ms | hat_rescue | score 0.591905
+slice 04 |    245.99 ->    354.83 ms | dur    108.84 ms | hybrid_snap_auto | score 0.143372
+slice 05 |    354.83 ->    443.47 ms | dur     88.64 ms | hybrid_snap_auto | score 0.258176
+slice 06 |    443.47 ->    542.04 ms | dur     98.57 ms | grid | score 1.0
+slice 07 |    542.04 ->    635.65 ms | dur     93.61 ms | hybrid_snap_auto | score 0.385682
+slice 08 |    635.65 ->    707.48 ms | dur     71.84 ms | hybrid_snap_auto | score 0.144685
+slice 09 |    707.48 ->    792.38 ms | dur     84.90 ms | hybrid_snap_auto | score 0.390902
+slice 10 |    792.38 ->    896.87 ms | dur    104.49 ms | hybrid_snap_auto | score 0.143028
+slice 11 |    896.87 ->    931.88 ms | dur     35.01 ms | hat_rescue | score 0.860347
+slice 12 |    911.38 ->    946.39 ms | dur     35.01 ms | hat_rescue | score 0.705602
+slice 13 |    930.25 ->    990.48 ms | dur     60.23 ms | hat_rescue | score 0.487279
+slice 14 |    990.48 ->   1068.12 ms | dur     77.64 ms | hybrid_snap_auto | score 0.141794
+slice 15 |   1068.12 ->   1103.13 ms | dur     35.01 ms | hat_rescue | score 0.968448
+slice 16 |   1088.44 ->   1123.45 ms | dur     35.01 ms | hat_rescue | score 0.75343
+slice 17 |   1102.95 ->   1241.72 ms | dur    138.78 ms | hybrid_snap_hat | score 0.678811
+slice 18 |   1241.72 ->   1330.43 ms | dur     88.71 ms | grid | score 1.0
+slice 19 |   1330.43 ->   1419.12 ms | dur     88.68 ms | grid | score 1.0

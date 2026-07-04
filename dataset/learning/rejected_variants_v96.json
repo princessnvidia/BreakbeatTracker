@@ -1,0 +1,18 @@
+{
+  "version": "rejected_variants_v96",
+  "updated_at": "2026-07-02 10:56:28",
+  "breaks": {
+    "Arson_Fill_-_4A": {
+      "rejected_variant_ids": [
+        "A_same",
+        "B_kick_forward",
+        "C_kick_late",
+        "D_last_bar_push",
+        "E_more_hats",
+        "F_answer_kick"
+      ],
+      "updated_at": "2026-07-02 10:56:28",
+      "last_rejected": "B_kick_forward"
+    }
+  }
+}

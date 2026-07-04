@@ -1,0 +1,799 @@
+Adrift Break.wav | S...H...|..HH...S|SSHH....|..H..H..
+  -> 0.5199 | Terrain Break - 4A.wav | S.S.H..H|.S..H..H|SS.H.H.H|.HHS.H..
+  -> 0.4969 | Shock Break.wav | S.H.H...|HS.H...S|.H.H.S..|.H...H..
+  -> 0.4925 | Bronx Break.wav | H...H...|H..H..HH|.S.H...H|........
+  -> 0.4553 | Good Times Break.wav | H.H.H..H|..HH..HH|..HH...H|HH.H.H..
+  -> 0.4537 | Sonic Break - 4A.wav | S...H...|..S.HH..|.S.H....|.S.HSH..
+  -> 0.4532 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+  -> 0.4366 | Groove Therapy Break - 4A.wav | H.H.H.H.|HHH.H.S.|S..HH..S|.HHH.H..
+  -> 0.4364 | Sky Break - 9A.wav | S...H.HH|...H..HH|..HS...H|...HH...
+
+Alzir Break - 4A.wav | S.HSS.HH|S.S.HH.S|.S.S.S.H|HH.H.S..
+  -> 0.5174 | Connected Break - 7B.wav | H...S.S.|S.S.HH.S|.H.H.S.S|.H.H.S..
+  -> 0.4901 | Night Break - 7A.wav | S.H.S.HH|HHHH..SS|...H.HHH|HHHH.S..
+  -> 0.4792 | Back Break 3 - 7B.wav | S.H.S.S.|H.SS.HHS|S.HS.S.H|.S.H.S..
+  -> 0.4652 | Back Break 2 - 7B.wav | S.H.S.H.|H.SS.HHS|S.HS.H.H|.S.H.S..
+  -> 0.4630 | Let Roll Break.wav | S.S.S.HH|HH.H..HS|.S.S.HH.|HHHH.H..
+  -> 0.4537 | Bulldozer Amen.wav | S.H.S.HS|S.SH.SSS|.H.S.S..|.HHS....
+  -> 0.4488 | My Sound Break 3 - 9A.wav | SSSSSHHH|S.HHHHHH|SSSSHHHS|.HHHHSS.
+  -> 0.4354 | Vapour Break.wav | S.H.H.H.|H.HH.S.S|.S.S.S.S|.S...S..
+
+Angles Break.wav | H...HH.H|....HH.H|.H.H...H|...H.H..
+  -> 0.8466 | Brut Force Fuller Break - 6A.wav | H...H..H|.....H.H|...H...H|...H.H..
+  -> 0.8380 | Let There Stutter Break - 6A.wav | S...HH.H|.H..HH.H|.H.H.H.H|.H.H.H..
+  -> 0.7561 | Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+  -> 0.7346 | Sonic Amen - 7A.wav | S...H..H|....H.HH|.H.H..SH|...H.H..
+  -> 0.7041 | Cumulus Break - 4A.wav | H...H.H.|H..H.H.H|.H.H...H|.H.H.H..
+  -> 0.6818 | Maximum Booty Break.wav | S...H..H|....HH..|H..H...H|...H....
+  -> 0.6805 | Place Break - 5A.wav | H.H.HH..|H.HH.H.H|...H...H|.H.H....
+  -> 0.6700 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+
+Apollo - 4A.wav | S.......|..H.....|....H...|........
+  -> 0.7362 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+  -> 0.7057 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+  -> 0.6993 | Quest Break.wav | S...H...|H......H|...S...H|........
+  -> 0.6879 | Heli Bongos.wav | H...S...|S...H...|H...H..S|...H....
+  -> 0.6838 | Brut Force Break.wav | H.......|H.....H.|....S...|.H......
+  -> 0.6495 | Walk Break 3 - 9A.wav | S...H...|S...S.S.|...S....|...S....
+  -> 0.6401 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.6387 | Overcast Break - 4A.wav | S..H....|H.......|H..S...H|........
+
+Arson Fill - 4A.wav | S...S.S.|..S.S..S|.SSS.SSS|.SSSSSS.
+  -> 0.7245 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+  -> 0.7232 | Searchin Break 3 - 9A.wav | S.S.S.S.|S.S.SS.S|.S.S.S.S|.S.SS...
+  -> 0.7199 | Stepper Amen.wav | S.S.S...|S...SS.S|..SS.S.S|SS.S.SS.
+  -> 0.6891 | Searchin Break - 5A.wav | S.S.S.SS|S.S.S.SS|.S.S.S.S|.S.S.S..
+  -> 0.6590 | Box Break 4 - 5A.wav | S.HS..SS|..S.SS.S|.S.S.SSS|SS.SS.H.
+  -> 0.6533 | Essential Break - 8A.wav | S.S.S..S|..SS..SS|...S.SSS|.S.S.SS.
+  -> 0.6453 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.6363 | Hurt U So Break - 1A.wav | S.S.S..S|.S..SS.S|..SS.SSS|SH.SHSS.
+
+Atlantis Amen.wav | S...S...|.S...H.S|..HS..S.|.S.S....
+  -> 0.6593 | WarPeace Break.wav | S...S...|.SS.S...|S..S..S.|.S.S....
+  -> 0.6322 | Mach Break - 11A.wav | S...S.S.|.S...S.S|.S.S.S.S|.S.S....
+  -> 0.6212 | Gene Break 2.wav | S...S..S|..S....S|...S...S|...S....
+  -> 0.6105 | Revelation Amen - 2A.wav | S...S..S|....S.SS|...S.S..|.S.S....
+  -> 0.6048 | Stone Break.wav | S...S.S.|..S...SS|..SS....|.S.S..S.
+  -> 0.5890 | Terrorist Amen - 11A.wav | S...S...|........|...S.S.S|...S....
+  -> 0.5858 | Walk Break - 8A.wav | S...S.S.|..S.S..S|...S.S.S|.S.S....
+  -> 0.5708 | Travelling Break - 11A.wav | S...S.SS|.......S|...S...S|..SS....
+
+Back Break 2 - 7B.wav | S.H.S.H.|H.SS.HHS|S.HS.H.H|.S.H.S..
+  -> 0.8892 | Back Break 3 - 7B.wav | S.H.S.S.|H.SS.HHS|S.HS.S.H|.S.H.S..
+  -> 0.6475 | Warhead Break - 2A.wav | S.H.H.H.|H.S.HH.S|..HH.H.H|.S.H.H..
+  -> 0.5846 | War Break - 5A.wav | S...S.H.|HSS.SHSH|SS.S.HSH|SS.S.S..
+  -> 0.5577 | Darkside Break - 7A.wav | S.H.S.S.|HS..H.HS|..HH.H.S|.S.H.H..
+  -> 0.5368 | Marbles Break - 6A.wav | S.HHH.S.|HHH.HHH.|H.HH.H.H|.S.HHS..
+  -> 0.5334 | Terrain Break 2 - 2A.wav | S.H.H.H.|HHS.HH.S|.H.H.H.H|.S.H.H..
+  -> 0.5180 | Check Break - 11A.wav | S.H.S.H.|H.SS.S.S|.H.S.H.S|.H.HHH..
+  -> 0.5157 | Control Vocal Break - 1A.wav | SSHSH.HS|HS.SSH.S|SHHSHHHH|HSHHHH..
+
+Back Break 3 - 7B.wav | S.H.S.S.|H.SS.HHS|S.HS.S.H|.S.H.S..
+  -> 0.8892 | Back Break 2 - 7B.wav | S.H.S.H.|H.SS.HHS|S.HS.H.H|.S.H.S..
+  -> 0.5702 | First Contact Amen.wav | S.H.H.S.|H.H.H.H.|SS.H.S.S|.S.H.S..
+  -> 0.5680 | Desire Break - 4A.wav | S.HSS.S.|HSSS..HS|.HSS.S.H|SSSS.H..
+  -> 0.5447 | Calling Break - 10A.wav | S.H.S.S.|..S..HHS|.H.S.S.S|.S.S..H.
+  -> 0.5389 | My Sound Break 2 - 8A.wav | S...S.S.|S.SS.SSS|.HH.HS.H|.S.H.HS.
+  -> 0.5275 | Darkside Break - 7A.wav | S.H.S.S.|HS..H.HS|..HH.H.S|.S.H.H..
+  -> 0.5234 | Horn Break.wav | H.H.S.S.|SH..S.SS|..HS.S.S|.S.S.S..
+  -> 0.4989 | Haze Hybrid Break.wav | S...S.S.|S.S.S.S.|SS.S.SS.|.S...S..
+
+Back Break.wav | HSH.H.H.|H.H.H.H.|SH.H.H.H|.H.H.H..
+  -> 0.7098 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+  -> 0.6355 | Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.6355 | Groove Therapy Break - 4A.wav | H.H.H.H.|HHH.H.S.|S..HH..S|.HHH.H..
+  -> 0.6332 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.6259 | Detroit Percussion - 4A.wav | H.S.H.H.|H.H.HS.H|.H.HHH.H|.H.S.H..
+  -> 0.6253 | Peace Sign Break - 2A.wav | H.HHH.H.|HH.HH.HH|SH.HHH.H|.S......
+  -> 0.6030 | Ricochet Break - 9A.wav | H.H.H.S.|HHH.HHHH|.HHH.H.H|HS.H.H..
+  -> 0.6010 | True Break.wav | H.H.S.H.|H.S.SH.H|.H.H.H.H|.H.H.H..
+
+Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.8619 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+  -> 0.8463 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+  -> 0.8067 | Little Roller Amen - 7B.wav | H...H...|H.H.H..H|...H.H.S|........
+  -> 0.7933 | Quest Break.wav | S...H...|H......H|...S...H|........
+  -> 0.7817 | Bronx Break.wav | H...H...|H..H..HH|.S.H...H|........
+  -> 0.7658 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+  -> 0.7641 | Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+  -> 0.7556 | Technology Break - 9A.wav | .H..H...|S...H..H|...H...H|...H....
+
+Beep Break.wav | S.SSSSSS|SSpSSS.S|SSSSSS.S|SS.SSSS.
+  -> 0.3829 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.3634 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.3587 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.3385 | Drumz Amen.wav | S.SSS.SS|SSS.S.SS|S.S.S.S.|SSSSSS..
+  -> 0.3339 | Boo Worm Break - 9A.wav | S.SSSSHS|SSSHSS..|SS.SS.SS|SS.SH...
+  -> 0.3292 | Jazz Thing Break.wav | SHSSHSSS|SS.SHSSS|HSSHSSHS|HSSHSSS.
+  -> 0.3271 | Repetoire Break - 6A.wav | SSSSSSSS|SSSSSSSS|SSSSSSSS|HHSSHS.H
+  -> 0.3177 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+
+Beta Break.wav | H.H.H.H.|H.H.HHHH|...H.H.H|gH.H.H..
+  -> 0.5815 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+  -> 0.5337 | Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.5321 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.5165 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+  -> 0.4865 | Cumulus Break - 4A.wav | H...H.H.|H..H.H.H|.H.H...H|.H.H.H..
+  -> 0.4862 | Ricochet Break - 9A.wav | H.H.H.S.|HHH.HHHH|.HHH.H.H|HS.H.H..
+  -> 0.4832 | Box Break 5.wav | H.H.H.H.|HHH.HHHH|.H.H.HHH|HS.S.HS.
+  -> 0.4814 | Back Break.wav | HSH.H.H.|H.H.H.H.|SH.H.H.H|.H.H.H..
+
+Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+  -> 0.8463 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.7596 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+  -> 0.7561 | Bronx Break.wav | H...H...|H..H..HH|.S.H...H|........
+  -> 0.7415 | Brut Force Break.wav | H.......|H.....H.|....S...|.H......
+  -> 0.7299 | Rumble Break - 10A.wav | H..H...H|...H....|H..H....|...H....
+  -> 0.7151 | Quest Break.wav | S...H...|H......H|...S...H|........
+  -> 0.7057 | Apollo - 4A.wav | S.......|..H.....|....H...|........
+  -> 0.6955 | Little Roller Amen - 7B.wav | H...H...|H.H.H..H|...H.H.S|........
+
+Blaze Break 2.wav | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+  -> 0.8114 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.7944 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.7559 | Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+  -> 0.7422 | Prog Break.wav | HHH.HHH.|HHH.HHHH|HH.HHH.H|HH.HHH..
+  -> 0.7341 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.6720 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.6591 | Imagine Break - 4A.wav | H.HHHSHH|SHHHHSHS|HHHHSHHS|HHHHSHH.
+  -> 0.6513 | Cool Break - 7A.wav | S.HHHH.H|.HH.HH.S|.H.H.HHH|HHH.HH..
+
+Blue Break - 4A.wav | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+  -> 0.7931 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.7764 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+  -> 0.7629 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+  -> 0.7261 | Bouncer Break - 6A.wav | SSSSS.SS|SS.S..HS|.SSS.SSS|SH.S.SS.
+  -> 0.7094 | Essential Break - 8A.wav | S.S.S..S|..SS..SS|...S.SSS|.S.S.SS.
+  -> 0.6925 | Hurt U So Break - 1A.wav | S.S.S..S|.S..SS.S|..SS.SSS|SH.SHSS.
+  -> 0.6904 | Stepper Amen.wav | S.S.S...|S...SS.S|..SS.S.S|SS.S.SS.
+  -> 0.6800 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+
+Bonanza Break.wav | SHSSSHHH|SHSH.HHH|.SHHH.HS|HHHHHH.H
+  -> 0.6828 | Futureproof Amen.wav | HHHHHSHH|HHHHHSHH|HHHHHHHH|HHHHSHHH
+  -> 0.6502 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.6488 | Cool Amen - 7A.wav | SHSHHHHH|SHHHS.SS|.S.H.HH.|HHHHHH..
+  -> 0.6478 | Blaze Break 2.wav | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+  -> 0.6314 | My Sound Break 3 - 9A.wav | SSSSSHHH|S.HHHHHH|SSSSHHHS|.HHHHSS.
+  -> 0.6285 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.6217 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.5788 | Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+
+Boo Break - 5A.wav | S.S.S..H|HHHH..HH|..HH..HH|HH.H.HH.
+  -> 0.6958 | Good Times Break.wav | H.H.H..H|..HH..HH|..HH...H|HH.H.H..
+  -> 0.6875 | Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.6846 | Resolution Break - 5A.wav | H.HH..HH|HH.H.HHH|.H.H.HHH|HH.HHHH.
+  -> 0.6555 | Wheel Up 2 Bad.wav | S.H.S.HH|.HH.H.HH|.SHH.H.H|.H.HHH..
+  -> 0.6460 | Let Roll Break.wav | S.S.S.HH|HH.H..HS|.S.S.HH.|HHHH.H..
+  -> 0.6397 | Tear Break - 2A.wav | H.H.H.SH|HHH.H..H|.H.H.HHH|.HHH.HH.
+  -> 0.6327 | Night Break - 7A.wav | S.H.S.HH|HHHH..SS|...H.HHH|HHHH.S..
+  -> 0.6195 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+
+Boo Worm Break - 9A.wav | S.SSSSHS|SSSHSS..|SS.SS.SS|SS.SH...
+  -> 0.6951 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.6878 | Repetoire Break - 6A.wav | SSSSSSSS|SSSSSSSS|SSSSSSSS|HHSSHS.H
+  -> 0.6754 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.6415 | Drumz Amen.wav | S.SSS.SS|SSS.S.SS|S.S.S.S.|SSSSSS..
+  -> 0.5988 | Drumz Amen Compound - 11A.wav | S.S.S.SS|.SS.S.SS|S.S.S.SS|SSS.S...
+  -> 0.5692 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.5596 | Playboy Break - 6B.wav | SHHSSSHS|HSHHSSHS|HHSSSHSH|SHHHSHS.
+  -> 0.5395 | Fairlight Break - 9A.wav | SSSSSSSS|SSSSSSS.|SSSHSSSS|SSSHSHSS
+
+Bouncer Break - 6A.wav | SSSSS.SS|SS.S..HS|.SSS.SSS|SH.S.SS.
+  -> 0.7886 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.7532 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.7261 | Blue Break - 4A.wav | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+  -> 0.6903 | Repetoire Break - 6A.wav | SSSSSSSS|SSSSSSSS|SSSSSSSS|HHSSHS.H
+  -> 0.6586 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.6456 | Hurt U So Break - 1A.wav | S.S.S..S|.S..SS.S|..SS.SSS|SH.SHSS.
+  -> 0.6331 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+  -> 0.6222 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+
+Box Break - 6A.wav | H.S.S.S.|SS.S..SH|.H.S.SSS|SS.S.S..
+  -> 0.6619 | Essential Break - 8A.wav | S.S.S..S|..SS..SS|...S.SSS|.S.S.SS.
+  -> 0.6599 | Blue Break - 4A.wav | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+  -> 0.5999 | Machines Break - 11A.wav | S.S.S.S.|SS.S.S.S|.H.S.HHS|SS.S.HS.
+  -> 0.5913 | Horn Break.wav | H.H.S.S.|SH..S.SS|..HS.S.S|.S.S.S..
+  -> 0.5874 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+  -> 0.5849 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+  -> 0.5786 | Bouncer Break - 6A.wav | SSSSS.SS|SS.S..HS|.SSS.SSS|SH.S.SS.
+  -> 0.5689 | Searchin Break - 5A.wav | S.S.S.SS|S.S.S.SS|.S.S.S.S|.S.S.S..
+
+Box Break 2 - 6B.wav | S.H.S.SS|HH..SS..|SH.S.HSH|HH.S....
+  -> 0.5077 | Lights Break.wav | S.HH.H..|H.S.SS..|SH.H.H.H|.S.S.S..
+  -> 0.5034 | Bulldozer Amen 2 - 2A.wav | S.H.S.HS|S.SH.SSS|.H.S.H.S|.H.S.H..
+  -> 0.4898 | Night Compound Break - 7A.wav | S.S.S.HH|SHS.SS.S|.H.S.HHH|SH.S.SS.
+  -> 0.4773 | Roll On Roll 2 - 10A.wav | S.S.S..S|S.S..S..|SH.S.S.S|.S......
+  -> 0.4705 | Control Amen 2.wav | S.S.S.S.|.HSH.S.S|.HSSH.SH|...H....
+  -> 0.4507 | War Break - 5A.wav | S...S.H.|HSS.SHSH|SS.S.HSH|SS.S.S..
+  -> 0.4382 | Bulldozer Amen.wav | S.H.S.HS|S.SH.SSS|.H.S.S..|.HHS....
+  -> 0.4349 | Games Amen.wav | S.H.SS..|S.S.HS..|SH.S.S.S|.S.S.S..
+
+Box Break 3 - 2B.wav | S..HH..S|...H..HS|.H.S...H|.H.S....
+  -> 0.7454 | Tronik Break - 4A.wav | S..H.S.S|...H..HS|.S.S...S|...S....
+  -> 0.5555 | Gene Break 2.wav | S...S..S|..S....S|...S...S|...S....
+  -> 0.5382 | System Break.wav | S..S...S|...H...H|...S...S|...H....
+  -> 0.5357 | Overcast Break - 4A.wav | S..H....|H.......|H..S...H|........
+  -> 0.5224 | Travelling Break - 11A.wav | S...S.SS|.......S|...S...S|..SS....
+  -> 0.5086 | Sky Break - 9A.wav | S...H.HH|...H..HH|..HS...H|...HH...
+  -> 0.5073 | Effect Break 2 - 12A.wav | S..S...S|....S.SS|.S.S...H|........
+  -> 0.5018 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+
+Box Break 4 - 5A.wav | S.HS..SS|..S.SS.S|.S.S.SSS|SS.SS.H.
+  -> 0.7275 | Searchin Break 3 - 9A.wav | S.S.S.S.|S.S.SS.S|.S.S.S.S|.S.SS...
+  -> 0.7086 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+  -> 0.6590 | Arson Fill - 4A.wav | S...S.S.|..S.S..S|.SSS.SSS|.SSSSSS.
+  -> 0.6505 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.6245 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+  -> 0.6056 | Searchin Break - 5A.wav | S.S.S.SS|S.S.S.SS|.S.S.S.S|.S.S.S..
+  -> 0.5962 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.5889 | Hurt U So Break - 1A.wav | S.S.S..S|.S..SS.S|..SS.SSS|SH.SHSS.
+
+Box Break 5.wav | H.H.H.H.|HHH.HHHH|.H.H.HHH|HS.S.HS.
+  -> 0.8135 | Ricochet Break - 9A.wav | H.H.H.S.|HHH.HHHH|.HHH.H.H|HS.H.H..
+  -> 0.7704 | Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.7594 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.7572 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+  -> 0.7379 | Chopper Break - 6A.wav | H.H.H.HH|.HH.HH.H|HH.H.HH.|HH.H.H..
+  -> 0.7084 | Prog Break.wav | HHH.HHH.|HHH.HHHH|HH.HHH.H|HH.HHH..
+  -> 0.6935 | Resolution Break - 5A.wav | H.HH..HH|HH.H.HHH|.H.H.HHH|HH.HHHH.
+  -> 0.6872 | Careless Break - 4A.wav | H.H.H.HH|HH..H.HH|.H.H.HH.|HH.HH.H.
+
+Breeze Break - 2A.wav | S...H.SS|.S..H.SS|...H.SS.|S..H....
+  -> 0.5343 | Revelation Amen - 2A.wav | S...S..S|....S.SS|...S.S..|.S.S....
+  -> 0.5009 | Mutant Break - 7B.wav | S.H.H.S.|H.H...SS|...H.S..|.H....H.
+  -> 0.4959 | Zone Break.wav | S.H.H.H.|HS..SS.S|.S.H..SH|S..H....
+  -> 0.4695 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+  -> 0.4565 | Ten Break - 7A.wav | S....HSH|.S.H....|.H...S.S|...H....
+  -> 0.4508 | Travelling Break - 11A.wav | S...S.SS|.......S|...S...S|..SS....
+  -> 0.4477 | Mach Break - 11A.wav | S...S.S.|.S...S.S|.S.S.S.S|.S.S....
+  -> 0.4444 | Shock Break.wav | S.H.H...|HS.H...S|.H.H.S..|.H...H..
+
+Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.8273 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.8187 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+  -> 0.7887 | Ricochet Break - 9A.wav | H.H.H.S.|HHH.HHHH|.HHH.H.H|HS.H.H..
+  -> 0.7705 | Careless Break - 4A.wav | H.H.H.HH|HH..H.HH|.H.H.HH.|HH.HH.H.
+  -> 0.7704 | Box Break 5.wav | H.H.H.H.|HHH.HHHH|.H.H.HHH|HS.S.HS.
+  -> 0.7641 | Resolution Break - 5A.wav | H.HH..HH|HH.H.HHH|.H.H.HHH|HH.HHHH.
+  -> 0.7570 | Prog Break.wav | HHH.HHH.|HHH.HHHH|HH.HHH.H|HH.HHH..
+  -> 0.7327 | Chopper Break - 6A.wav | H.H.H.HH|.HH.HH.H|HH.H.HH.|HH.H.H..
+
+Bronx Break.wav | H...H...|H..H..HH|.S.H...H|........
+  -> 0.7817 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.7561 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+  -> 0.7306 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+  -> 0.7229 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+  -> 0.7133 | Quest Break.wav | S...H...|H......H|...S...H|........
+  -> 0.7096 | Little Roller Amen - 7B.wav | H...H...|H.H.H..H|...H.H.S|........
+  -> 0.6962 | Mystique Break - 7A.wav | H.H.H...|HH.H...H|.H.H...H|.H.H....
+  -> 0.6865 | Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+
+Brut Force Break.wav | H.......|H.....H.|....S...|.H......
+  -> 0.7415 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+  -> 0.6944 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.6838 | Apollo - 4A.wav | S.......|..H.....|....H...|........
+  -> 0.6505 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+  -> 0.6392 | Quest Break.wav | S...H...|H......H|...S...H|........
+  -> 0.6212 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+  -> 0.6204 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+  -> 0.6069 | Bronx Break.wav | H...H...|H..H..HH|.S.H...H|........
+
+Brut Force Fuller Break - 6A.wav | H...H..H|.....H.H|...H...H|...H.H..
+  -> 0.9167 | Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+  -> 0.8466 | Angles Break.wav | H...HH.H|....HH.H|.H.H...H|...H.H..
+  -> 0.7499 | Change Break - 6A.wav | H...H..H|....H..H|...H...S|...S....
+  -> 0.7496 | Cumulus Break - 4A.wav | H...H.H.|H..H.H.H|.H.H...H|.H.H.H..
+  -> 0.7451 | Maximum Booty Break.wav | S...H..H|....HH..|H..H...H|...H....
+  -> 0.7448 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+  -> 0.7269 | Sonic Amen - 7A.wav | S...H..H|....H.HH|.H.H..SH|...H.H..
+  -> 0.6953 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+
+Bulldozer Amen 2 - 2A.wav | S.H.S.HS|S.SH.SSS|.H.S.H.S|.H.S.H..
+  -> 0.8121 | Bulldozer Amen.wav | S.H.S.HS|S.SH.SSS|.H.S.S..|.HHS....
+  -> 0.6997 | Check Break - 11A.wav | S.H.S.H.|H.SS.S.S|.H.S.H.S|.H.HHH..
+  -> 0.5422 | Night Compound Break - 7A.wav | S.S.S.HH|SHS.SS.S|.H.S.HHH|SH.S.SS.
+  -> 0.5294 | Wheel Up Amen - 6A.wav | S.S.S.HS|SSS.HSHS|...S.HSS|SS.HSHS.
+  -> 0.5282 | Machines Break - 11A.wav | S.S.S.S.|SS.S.S.S|.H.S.HHS|SS.S.HS.
+  -> 0.5137 | Inner Break - 9A.wav | S.H.H.HS|H.SH.H.S|HH.H.HH.|HH.H.H..
+  -> 0.5034 | Box Break 2 - 6B.wav | S.H.S.SS|HH..SS..|SH.S.HSH|HH.S....
+  -> 0.4996 | Searchin Break 2 - 9A.wav | S.H.H...|S.SH..SS|.H.H...S|.S.H....
+
+Bulldozer Amen.wav | S.H.S.HS|S.SH.SSS|.H.S.S..|.HHS....
+  -> 0.8121 | Bulldozer Amen 2 - 2A.wav | S.H.S.HS|S.SH.SSS|.H.S.H.S|.H.S.H..
+  -> 0.5151 | Check Break - 11A.wav | S.H.S.H.|H.SS.S.S|.H.S.H.S|.H.HHH..
+  -> 0.5063 | Roll On Roll 2 - 10A.wav | S.S.S..S|S.S..S..|SH.S.S.S|.S......
+  -> 0.4892 | Revelation Amen - 2A.wav | S...S..S|....S.SS|...S.S..|.S.S....
+  -> 0.4782 | Searchin Break - 5A.wav | S.S.S.SS|S.S.S.SS|.S.S.S.S|.S.S.S..
+  -> 0.4755 | Games Amen.wav | S.H.SS..|S.S.HS..|SH.S.S.S|.S.S.S..
+  -> 0.4716 | Box Break 3 - 2B.wav | S..HH..S|...H..HS|.H.S...H|.H.S....
+  -> 0.4651 | Searchin Break 2 - 9A.wav | S.H.H...|S.SH..SS|.H.H...S|.S.H....
+
+Calling Break - 10A.wav | S.H.S.S.|..S..HHS|.H.S.S.S|.S.S..H.
+  -> 0.6622 | Metropolis Break - 7A.wav | S.S.S.S.|S.S.HH.S|..SS.S.S|.S.HH.H.
+  -> 0.6621 | Walk Break - 8A.wav | S...S.S.|..S.S..S|...S.S.S|.S.S....
+  -> 0.5901 | Mach Break - 11A.wav | S...S.S.|.S...S.S|.S.S.S.S|.S.S....
+  -> 0.5606 | Box Break 4 - 5A.wav | S.HS..SS|..S.SS.S|.S.S.SSS|SS.SS.H.
+  -> 0.5447 | Back Break 3 - 7B.wav | S.H.S.S.|H.SS.HHS|S.HS.S.H|.S.H.S..
+  -> 0.5316 | Games Amen.wav | S.H.SS..|S.S.HS..|SH.S.S.S|.S.S.S..
+  -> 0.5283 | Revelation Amen - 2A.wav | S...S..S|....S.SS|...S.S..|.S.S....
+  -> 0.5244 | Atlantis Amen.wav | S...S...|.S...H.S|..HS..S.|.S.S....
+
+Calling Reverse Break - 7A.wav | .SS..S..|.S..HS..|.H.H..S.|.H...S..
+  -> 0.4455 | Worries Break - 1A.wav | .S..S...|H...H.HH|.H.H....|H.HH....
+  -> 0.4400 | Games Amen.wav | S.H.SS..|S.S.HS..|SH.S.S.S|.S.S.S..
+  -> 0.4369 | Zone Break 2 - 5A.wav | .S..S..S|...S...S|...S...S|...S....
+  -> 0.4226 | Flutes Break - 12A.wav | S...SS.S|....S..S|...S...S|...S.S..
+  -> 0.4225 | Rock Amen - 12A.wav | .S..S...|S..S...S|...S...S|...S....
+  -> 0.4042 | Reckon Break - 9A.wav | .S..S...|S...SS..|S...S..S|...H....
+  -> 0.3888 | Shock Break.wav | S.H.H...|HS.H...S|.H.H.S..|.H...H..
+  -> 0.3845 | Connected Break - 7B.wav | H...S.S.|S.S.HH.S|.H.H.S.S|.H.H.S..
+
+Camo Break - 3A.wav | p...H.SS|HHH.HHH.|...H.SSH|HH.H.HH.
+  -> 0.2426 | Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.2007 | Boo Break - 5A.wav | S.S.S..H|HHHH..HH|..HH..HH|HH.H.HH.
+  -> 0.1993 | Ricochet Break - 9A.wav | H.H.H.S.|HHH.HHHH|.HHH.H.H|HS.H.H..
+  -> 0.1924 | Reel Funk Amen - 2A.wav | H.H.H.S.|H.H.HHHH|.H.H.S.H|.HH.HHS.
+  -> 0.1902 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.1884 | Tear Break - 2A.wav | H.H.H.SH|HHH.H..H|.H.H.HHH|.HHH.HH.
+  -> 0.1795 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+  -> 0.1754 | Resolution Break - 5A.wav | H.HH..HH|HH.H.HHH|.H.H.HHH|HH.HHHH.
+
+Careless Break - 4A.wav | H.H.H.HH|HH..H.HH|.H.H.HH.|HH.HH.H.
+  -> 0.8395 | Resolution Break - 5A.wav | H.HH..HH|HH.H.HHH|.H.H.HHH|HH.HHHH.
+  -> 0.7824 | Chopper Break - 6A.wav | H.H.H.HH|.HH.HH.H|HH.H.HH.|HH.H.H..
+  -> 0.7705 | Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.7614 | Tear Break - 2A.wav | H.H.H.SH|HHH.H..H|.H.H.HHH|.HHH.HH.
+  -> 0.7429 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.7398 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.7285 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.7207 | Trippin Break 2 - 7A.wav | H.H.H.HH|HH..HH..|HH.H...H|.H.H.HH.
+
+Centuries Break.wav | S.H.S...|SH..H.S.|.S..S.H.|HS.S.H..
+  -> 0.4459 | Control Break 2.wav | S.HS.HSH|.HS.HSS.|SS.HSHHS|H.HH.HH.
+  -> 0.3898 | Box Break 5.wav | H.H.H.H.|HHH.HHHH|.H.H.HHH|HS.S.HS.
+  -> 0.3887 | Let Roll Break.wav | S.S.S.HH|HH.H..HS|.S.S.HH.|HHHH.H..
+  -> 0.3745 | Sonic Break - 4A.wav | S...H...|..S.HH..|.S.H....|.S.HSH..
+  -> 0.3668 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+  -> 0.3631 | Session Break - 8A.wav | S...S...|S....S.H|.S.S...S|...SS...
+  -> 0.3612 | Sight Break - 6A.wav | H...H...|....H..H|...S..H.|.S.H....
+  -> 0.3604 | Brut Force Break.wav | H.......|H.....H.|....S...|.H......
+
+Champion Break - 7A.wav | S...H...|H...H.H.|HH.H...H|...H.H..
+  -> 0.7630 | Sonic Amen - 7A.wav | S...H..H|....H.HH|.H.H..SH|...H.H..
+  -> 0.7469 | Maximum Booty Break.wav | S...H..H|....HH..|H..H...H|...H....
+  -> 0.7305 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+  -> 0.6709 | Warning Compound - 11A.wav | S.H.H...|HH..H.HH|.H.H...S|.H...H..
+  -> 0.6323 | Sonic Break 2 - 4A.wav | H...H...|HHS.HH..|HH.H...H|HS.HHH..
+  -> 0.6323 | Effect Break 3 - 7A.wav | S...S..H|...H.H..|HH.H...H|........
+  -> 0.6282 | Maintain Break - 7A.wav | S...H...|H...S..H|...H...H|.H.H....
+  -> 0.6225 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+
+Change Break - 6A.wav | H...H..H|....H..H|...H...S|...S....
+  -> 0.8278 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+  -> 0.8264 | Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+  -> 0.7499 | Brut Force Fuller Break - 6A.wav | H...H..H|.....H.H|...H...H|...H.H..
+  -> 0.7399 | Little Roller Amen - 7B.wav | H...H...|H.H.H..H|...H.H.S|........
+  -> 0.7359 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.7036 | Sight Break - 6A.wav | H...H...|....H..H|...S..H.|.S.H....
+  -> 0.6847 | Secrets Amen - 7A.wav | .H..H..H|....H.H.|..SH...H|........
+  -> 0.6806 | Technology Break - 9A.wav | .H..H...|S...H..H|...H...H|...H....
+
+Check Break - 11A.wav | S.H.S.H.|H.SS.S.S|.H.S.H.S|.H.HHH..
+  -> 0.6997 | Bulldozer Amen 2 - 2A.wav | S.H.S.HS|S.SH.SSS|.H.S.H.S|.H.S.H..
+  -> 0.5401 | Mystical Break.wav | S.S.SH..|HS..HS.S|.H.S.H.H|.S.H.H..
+  -> 0.5394 | True Break.wav | H.H.S.H.|H.S.SH.H|.H.H.H.H|.H.H.H..
+  -> 0.5180 | Back Break 2 - 7B.wav | S.H.S.H.|H.SS.HHS|S.HS.H.H|.S.H.S..
+  -> 0.5151 | Bulldozer Amen.wav | S.H.S.HS|S.SH.SSS|.H.S.S..|.HHS....
+  -> 0.5122 | Terrain Break 2 - 2A.wav | S.H.H.H.|HHS.HH.S|.H.H.H.H|.S.H.H..
+  -> 0.5042 | Inner Break - 9A.wav | S.H.H.HS|H.SH.H.S|HH.H.HH.|HH.H.H..
+  -> 0.5030 | Machines Break - 11A.wav | S.S.S.S.|SS.S.S.S|.H.S.HHS|SS.S.HS.
+
+Chopper Break - 6A.wav | H.H.H.HH|.HH.HH.H|HH.H.HH.|HH.H.H..
+  -> 0.8470 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.7824 | Careless Break - 4A.wav | H.H.H.HH|HH..H.HH|.H.H.HH.|HH.HH.H.
+  -> 0.7649 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.7621 | Trippin Break 2 - 7A.wav | H.H.H.HH|HH..HH..|HH.H...H|.H.H.HH.
+  -> 0.7606 | Reflections Break - 7A.wav | H.H.H.HH|.HS.H..H|HH.HHHHH|HHHSHH..
+  -> 0.7560 | Prog Break.wav | HHH.HHH.|HHH.HHHH|HH.HHH.H|HH.HHH..
+  -> 0.7468 | Dispatch Break 2 - 2A.wav | H...H..H|HHH.H...|H..H..HH|HH.H....
+  -> 0.7388 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+
+Connected Break - 7B.wav | H...S.S.|S.S.HH.S|.H.H.S.S|.H.H.S..
+  -> 0.6281 | Heaven Carl Break - 5A.wav | H.H.H.S.|S.H.H..H|.H.H.S.S|.H.H....
+  -> 0.5300 | God Chord Break - 4A.wav | H...S...|S..S...H|.H.H...S|...H....
+  -> 0.5245 | Metropolis Break - 7A.wav | S.S.S.S.|S.S.HH.S|..SS.S.S|.S.HH.H.
+  -> 0.5174 | Alzir Break - 4A.wav | S.HSS.HH|S.S.HH.S|.S.S.S.H|HH.H.S..
+  -> 0.4845 | Horn Break.wav | H.H.S.S.|SH..S.SS|..HS.S.S|.S.S.S..
+  -> 0.4783 | Calling Break - 10A.wav | S.H.S.S.|..S..HHS|.H.S.S.S|.S.S..H.
+  -> 0.4629 | True Break.wav | H.H.S.H.|H.S.SH.H|.H.H.H.H|.H.H.H..
+  -> 0.4486 | Intro Amen.wav | H...H...|H..S...H|...H...H|.H.H.S..
+
+Control Amen 2.wav | S.S.S.S.|.HSH.S.S|.HSSH.SH|...H....
+  -> 0.5001 | My Sound Break 2 - 8A.wav | S...S.S.|S.SS.SSS|.HH.HS.H|.S.H.HS.
+  -> 0.4705 | Box Break 2 - 6B.wav | S.H.S.SS|HH..SS..|SH.S.HSH|HH.S....
+  -> 0.4685 | Roll On Roll 2 - 10A.wav | S.S.S..S|S.S..S..|SH.S.S.S|.S......
+  -> 0.4634 | Mystical Break.wav | S.S.SH..|HS..HS.S|.H.S.H.H|.S.H.H..
+  -> 0.4308 | Bulldozer Amen 2 - 2A.wav | S.H.S.HS|S.SH.SSS|.H.S.H.S|.H.S.H..
+  -> 0.4133 | Roll On Roll - 9A.wav | S.S.S..S|...S...S|....H..H|........
+  -> 0.4052 | Bulldozer Amen.wav | S.H.S.HS|S.SH.SSS|.H.S.S..|.HHS....
+  -> 0.3926 | Night Compound Break - 7A.wav | S.S.S.HH|SHS.SS.S|.H.S.HHH|SH.S.SS.
+
+Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+  -> 0.8204 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.7764 | Blue Break - 4A.wav | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+  -> 0.7086 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+  -> 0.7039 | Machines Break - 11A.wav | S.S.S.S.|SS.S.S.S|.H.S.HHS|SS.S.HS.
+  -> 0.6889 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.6760 | Desire Break - 4A.wav | S.HSS.S.|HSSS..HS|.HSS.S.H|SSSS.H..
+  -> 0.6657 | Searchin Break 3 - 9A.wav | S.S.S.S.|S.S.SS.S|.S.S.S.S|.S.SS...
+  -> 0.6555 | Wheel Up Amen - 6A.wav | S.S.S.HS|SSS.HSHS|...S.HSS|SS.HSHS.
+
+Control Break - 9A.wav | H.HHHSSH|S.S.SS.S|HSHHSSHS|HSHSSSH.
+  -> 0.7217 | Imagine Break - 4A.wav | H.HHHSHH|SHHHHSHS|HHHHSHHS|HHHHSHH.
+  -> 0.6445 | Jazz Thing Break.wav | SHSSHSSS|SS.SHSSS|HSSHSSHS|HSSHSSS.
+  -> 0.6205 | Prog Amen - 8A.wav | HHSHSSSH|HHSSHHSS|HSHSHSHH|HSHHHSS.
+  -> 0.5880 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.5716 | Control Kick Break - 2A.wav | SSHHS..H|SS.HSSSS|SSHS.HHS|S.HSSH..
+  -> 0.5556 | Effect Break - 7A.wav | SHHSHHHH|SSHHSSSS|HHHHHHSS|SHHSSSS.
+  -> 0.5500 | Jazzy Break - 9A.wav | H.HH.SHH|H.HH.SHH|.HH.SHHH|.SH.HHH.
+  -> 0.5464 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+
+Control Break 2.wav | S.HS.HSH|.HS.HSS.|SS.HSHHS|H.HH.HH.
+  -> 0.5674 | Imagine Break - 4A.wav | H.HHHSHH|SHHHHSHS|HHHHSHHS|HHHHSHH.
+  -> 0.5667 | Blaze Break 2.wav | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+  -> 0.5420 | Cool Break - 7A.wav | S.HHHH.H|.HH.HH.S|.H.H.HHH|HHH.HH..
+  -> 0.5343 | Friday Break - 9A.wav | S.HHH.HH|HHS.HH.H|SHHH.HHH|HS.H.HH.
+  -> 0.5341 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.5341 | Firin Line Break - 3B.wav | S.SSHSS.|SS...SSS|HSSHSSHH|.H.HHHH.
+  -> 0.5195 | Cool Amen - 7A.wav | SHSHHHHH|SHHHS.SS|.S.H.HH.|HHHHHH..
+  -> 0.5123 | Control Break - 9A.wav | H.HHHSSH|S.S.SS.S|HSHHSSHS|HSHSSSH.
+
+Control Kick Break - 2A.wav | SSHHS..H|SS.HSSSS|SSHS.HHS|S.HSSH..
+  -> 0.5802 | Effect Break - 7A.wav | SHHSHHHH|SSHHSSSS|HHHHHHSS|SHHSSSS.
+  -> 0.5716 | Control Break - 9A.wav | H.HHHSSH|S.S.SS.S|HSHHSSHS|HSHSSSH.
+  -> 0.5627 | Control Vocal Break - 1A.wav | SSHSH.HS|HS.SSH.S|SHHSHHHH|HSHHHH..
+  -> 0.5477 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.5075 | Imagine Break - 4A.wav | H.HHHSHH|SHHHHSHS|HHHHSHHS|HHHHSHH.
+  -> 0.4881 | Machines Break - 11A.wav | S.S.S.S.|SS.S.S.S|.H.S.HHS|SS.S.HS.
+  -> 0.4876 | My Sound Break 3 - 9A.wav | SSSSSHHH|S.HHHHHH|SSSSHHHS|.HHHHSS.
+  -> 0.4858 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+
+Control Kicks - 1A.wav | K...K...|K...K.SK|...K...K|...K....
+  -> 0.3153 | groovegpt_generated_v01_0013 | K.S.S.H.|K.HS.H.K|KHSS.K.K|.HS.HK..
+  -> 0.2962 | best_grooves_v01_0024 | K.H.SKS.|K.Sg.HSK|KHSS.KSK|.HS.H.S.
+  -> 0.2962 | best_for_training_v01_0024 | K.H.SKS.|K.Sg.HSK|KHSS.KSK|.HS.H.S.
+  -> 0.0960 | Apollo - 4A.wav | S.......|..H.....|....H...|........
+  -> 0.0959 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+  -> 0.0926 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+  -> 0.0900 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.0836 | Brut Force Break.wav | H.......|H.....H.|....S...|.H......
+
+Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.8675 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.8309 | Jazz Thing Break.wav | SHSSHSSS|SS.SHSSS|HSSHSSHS|HSSHSSS.
+  -> 0.7425 | Repetoire Break - 6A.wav | SSSSSSSS|SSSSSSSS|SSSSSSSS|HHSSHS.H
+  -> 0.7372 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.7049 | Drumz Amen.wav | S.SSS.SS|SSS.S.SS|S.S.S.S.|SSSSSS..
+  -> 0.6754 | Boo Worm Break - 9A.wav | S.SSSSHS|SSSHSS..|SS.SS.SS|SS.SH...
+  -> 0.6586 | Bouncer Break - 6A.wav | SSSSS.SS|SS.S..HS|.SSS.SSS|SH.S.SS.
+  -> 0.6251 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+
+Control Vocal Break - 1A.wav | SSHSH.HS|HS.SSH.S|SHHSHHHH|HSHHHH..
+  -> 0.6515 | Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+  -> 0.5833 | Shoes Break - 4A.wav | SSHHHHHS|HHHSS.SS|SHSSSSHS|SSSHH.H.
+  -> 0.5808 | Friday Break - 9A.wav | S.HHH.HH|HHS.HH.H|SHHH.HHH|HS.H.HH.
+  -> 0.5627 | Control Kick Break - 2A.wav | SSHHS..H|SS.HSSSS|SSHS.HHS|S.HSSH..
+  -> 0.5613 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.5548 | Blaze Break 2.wav | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+  -> 0.5491 | My Sound Break 3 - 9A.wav | SSSSSHHH|S.HHHHHH|SSSSHHHS|.HHHHSS.
+  -> 0.5235 | Prog Amen - 8A.wav | HHSHSSSH|HHSSHHSS|HSHSHSHH|HSHHHSS.
+
+Cool Amen - 7A.wav | SHSHHHHH|SHHHS.SS|.S.H.HH.|HHHHHH..
+  -> 0.7345 | Cool Break - 7A.wav | S.HHHH.H|.HH.HH.S|.H.H.HHH|HHH.HH..
+  -> 0.7134 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.7118 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.6832 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.6490 | Blaze Break 2.wav | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+  -> 0.6488 | Bonanza Break.wav | SHSSSHHH|SHSH.HHH|.SHHH.HS|HHHHHH.H
+  -> 0.6409 | Let Roll Break.wav | S.S.S.HH|HH.H..HS|.S.S.HH.|HHHH.H..
+  -> 0.6339 | Night Break - 7A.wav | S.H.S.HH|HHHH..SS|...H.HHH|HHHH.S..
+
+Cool Break - 7A.wav | S.HHHH.H|.HH.HH.S|.H.H.HHH|HHH.HH..
+  -> 0.7882 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.7654 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.7461 | Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+  -> 0.7458 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.7345 | Cool Amen - 7A.wav | SHSHHHHH|SHHHS.SS|.S.H.HH.|HHHHHH..
+  -> 0.7226 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.6809 | Reflections Break - 7A.wav | H.H.H.HH|.HS.H..H|HH.HHHHH|HHHSHH..
+  -> 0.6800 | Tear Break - 2A.wav | H.H.H.SH|HHH.H..H|.H.H.HHH|.HHH.HH.
+
+Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+  -> 0.9167 | Brut Force Fuller Break - 6A.wav | H...H..H|.....H.H|...H...H|...H.H..
+  -> 0.8264 | Change Break - 6A.wav | H...H..H|....H..H|...H...S|...S....
+  -> 0.7697 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+  -> 0.7641 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.7598 | Technology Break - 9A.wav | .H..H...|S...H..H|...H...H|...H....
+  -> 0.7561 | Angles Break.wav | H...HH.H|....HH.H|.H.H...H|...H.H..
+  -> 0.7488 | Maximum Booty Break.wav | S...H..H|....HH..|H..H...H|...H....
+  -> 0.7410 | Rumble Break - 10A.wav | H..H...H|...H....|H..H....|...H....
+
+Cumulus Break - 4A.wav | H...H.H.|H..H.H.H|.H.H...H|.H.H.H..
+  -> 0.8063 | Mystique Break - 7A.wav | H.H.H...|HH.H...H|.H.H...H|.H.H....
+  -> 0.7650 | Warning Copter - 11A.wav | H...H...|H...H.HH|...H...H|.H.H.H..
+  -> 0.7496 | Brut Force Fuller Break - 6A.wav | H...H..H|.....H.H|...H...H|...H.H..
+  -> 0.7458 | True Break.wav | H.H.S.H.|H.S.SH.H|.H.H.H.H|.H.H.H..
+  -> 0.7455 | Place Break - 5A.wav | H.H.HH..|H.HH.H.H|...H...H|.H.H....
+  -> 0.7438 | Let There Break.wav | H.H.H.H.|HH.H..HH|.H.H.S..|SH.H.H..
+  -> 0.7383 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.7178 | Lick Break - 1A.wav | H...H.H.|H.SH...H|..SH.HHH|.H.HHH..
+
+Darkside Break - 7A.wav | S.H.S.S.|HS..H.HS|..HH.H.S|.S.H.H..
+  -> 0.6877 | Warhead Break - 2A.wav | S.H.H.H.|H.S.HH.S|..HH.H.H|.S.H.H..
+  -> 0.5892 | Oh Break - 1A.wav | S.H.S.S.|HS..H..S|..HS.S.H|.S.H.H.H
+  -> 0.5745 | Ricochet Break - 9A.wav | H.H.H.S.|HHH.HHHH|.HHH.H.H|HS.H.H..
+  -> 0.5577 | Back Break 2 - 7B.wav | S.H.S.H.|H.SS.HHS|S.HS.H.H|.S.H.S..
+  -> 0.5571 | Mystical Break.wav | S.S.SH..|HS..HS.S|.H.S.H.H|.S.H.H..
+  -> 0.5472 | Wheel Up 2 Bad.wav | S.H.S.HH|.HH.H.HH|.SHH.H.H|.H.HHH..
+  -> 0.5432 | Terrain Break 2 - 2A.wav | S.H.H.H.|HHS.HH.S|.H.H.H.H|.S.H.H..
+  -> 0.5341 | Marbles Break - 6A.wav | S.HHH.S.|HHH.HHH.|H.HH.H.H|.S.HHS..
+
+Dayz Break - 9A.wav | H..H...H|...H....|H..H...H|H..H....
+  -> 0.9169 | Rumble Break - 10A.wav | H..H...H|...H....|H..H....|...H....
+  -> 0.7158 | Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+  -> 0.6620 | Maximum Booty Break.wav | S...H..H|....HH..|H..H...H|...H....
+  -> 0.6604 | Overcast Break - 4A.wav | S..H....|H.......|H..S...H|........
+  -> 0.6546 | Effect Break 3 - 7A.wav | S...S..H|...H.H..|HH.H...H|........
+  -> 0.6433 | Brut Force Fuller Break - 6A.wav | H...H..H|.....H.H|...H...H|...H.H..
+  -> 0.6332 | Jazz Note Break 2.wav | H..H..HH|...H..HH|..HH.H.H|....H...
+  -> 0.6296 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........
+
+Desire Break - 4A.wav | S.HSS.S.|HSSS..HS|.HSS.S.H|SSSS.H..
+  -> 0.6760 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+  -> 0.6608 | Blue Break - 4A.wav | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+  -> 0.5840 | Bouncer Break - 6A.wav | SSSSS.SS|SS.S..HS|.SSS.SSS|SH.S.SS.
+  -> 0.5680 | Back Break 3 - 7B.wav | S.H.S.S.|H.SS.HHS|S.HS.S.H|.S.H.S..
+  -> 0.5652 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.5629 | Machines Break - 11A.wav | S.S.S.S.|SS.S.S.S|.H.S.HHS|SS.S.HS.
+  -> 0.5239 | Box Break - 6A.wav | H.S.S.S.|SS.S..SH|.H.S.SSS|SS.S.S..
+  -> 0.5217 | Calling Break - 10A.wav | S.H.S.S.|..S..HHS|.H.S.S.S|.S.S..H.
+
+Detroit Break - 5A.wav | S...S...|H..S....|H.S....S|...S....
+  -> 0.9409 | Gene Break - 12A.wav | S...S...|S..S....|H.S....S|...S....
+  -> 0.6996 | Difference Break 1 - 9A.wav | S...S..S|....H...|H..S...S|........
+  -> 0.6623 | Overcast Break - 4A.wav | S..H....|H.......|H..S...H|........
+  -> 0.6582 | Terrorist Amen - 11A.wav | S...S...|........|...S.S.S|...S....
+  -> 0.6270 | Liberty Amen.wav | S...S...|S...S...|S..S...S|...S....
+  -> 0.6140 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+  -> 0.6131 | Heli Bongos.wav | H...S...|S...H...|H...H..S|...H....
+  -> 0.6084 | Piper Break - 4A.wav | S...H...|S...H.S.|H..S...S|...H....
+
+Detroit Percussion - 4A.wav | H.S.H.H.|H.H.HS.H|.H.HHH.H|.H.S.H..
+  -> 0.6604 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+  -> 0.6404 | Box Break 5.wav | H.H.H.H.|HHH.HHHH|.H.H.HHH|HS.S.HS.
+  -> 0.6389 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.6259 | Back Break.wav | HSH.H.H.|H.H.H.H.|SH.H.H.H|.H.H.H..
+  -> 0.6150 | Cumulus Break - 4A.wav | H...H.H.|H..H.H.H|.H.H...H|.H.H.H..
+  -> 0.6123 | True Break.wav | H.H.S.H.|H.S.SH.H|.H.H.H.H|.H.H.H..
+  -> 0.6098 | Prog Break.wav | HHH.HHH.|HHH.HHHH|HH.HHH.H|HH.HHH..
+  -> 0.6018 | Reflections Break - 7A.wav | H.H.H.HH|.HS.H..H|HH.HHHHH|HHHSHH..
+
+Difference Break 1 - 9A.wav | S...S..S|....H...|H..S...S|........
+  -> 0.7733 | Piper Break - 4A.wav | S...H...|S...H.S.|H..S...S|...H....
+  -> 0.7516 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+  -> 0.7241 | Gene Break 2.wav | S...S..S|..S....S|...S...S|...S....
+  -> 0.7168 | Johnny Amen - 11A.wav | S...S..S|....HS.H|.S.S...S|...S....
+  -> 0.7137 | Heli Bongos.wav | H...S...|S...H...|H...H..S|...H....
+  -> 0.7073 | Terrorist Amen - 11A.wav | S...S...|........|...S.S.S|...S....
+  -> 0.6996 | Detroit Break - 5A.wav | S...S...|H..S....|H.S....S|...S....
+  -> 0.6983 | Overcast Break - 4A.wav | S..H....|H.......|H..S...H|........
+
+Difference Break 2 - 6A.wav | S.S.S.S.|SS.....S|.S.S.H.S|.S.H.S..
+  -> 0.6772 | Haze Break - 6A.wav | S.S.S.S.|.S...S..|SS.S.S.S|.S.S.S..
+  -> 0.6552 | Mach Break - 11A.wav | S...S.S.|.S...S.S|.S.S.S.S|.S.S....
+  -> 0.6320 | Searchin Break - 5A.wav | S.S.S.SS|S.S.S.SS|.S.S.S.S|.S.S.S..
+  -> 0.5459 | Machines Break - 11A.wav | S.S.S.S.|SS.S.S.S|.H.S.HHS|SS.S.HS.
+  -> 0.5409 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+  -> 0.5249 | Searchin Break 3 - 9A.wav | S.S.S.S.|S.S.SS.S|.S.S.S.S|.S.SS...
+  -> 0.5201 | Box Break - 6A.wav | H.S.S.S.|SS.S..SH|.H.S.SSS|SS.S.S..
+  -> 0.5201 | Haze Hybrid Break.wav | S...S.S.|S.S.S.S.|SS.S.SS.|.S...S..
+
+Dispatch Break - 6B.wav | H.HHHHH.|H.HHHH..|HH.HHH..|...HH..H
+  -> 0.6497 | Prog Break.wav | HHH.HHH.|HHH.HHHH|HH.HHH.H|HH.HHH..
+  -> 0.6312 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.6281 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.6251 | Futureproof Amen.wav | HHHHHSHH|HHHHHSHH|HHHHHHHH|HHHHSHHH
+  -> 0.5898 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.5868 | Sovreign Break - 7B.wav | H.HHH.H.|HHH..HH.|H.HH.H.H|.H..H.H.
+  -> 0.5830 | Gravitational Break.wav | H.HHH.H.|HHH.HHHH|.H.H.H.H|.H.H.H..
+  -> 0.5780 | Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+
+Dispatch Break 2 - 2A.wav | H...H..H|HHH.H...|H..H..HH|HH.H....
+  -> 0.7468 | Chopper Break - 6A.wav | H.H.H.HH|.HH.HH.H|HH.H.HH.|HH.H.H..
+  -> 0.6763 | Heaven Break - 5A.wav | H.H.H.HH|HHHHHH.H|.H.H.H.H|HH.H.H..
+  -> 0.6603 | Sonic Break 2 - 4A.wav | H...H...|HHS.HH..|HH.H...H|HS.HHH..
+  -> 0.6586 | Trippin Break 2 - 7A.wav | H.H.H.HH|HH..HH..|HH.H...H|.H.H.HH.
+  -> 0.6486 | Tear Break - 2A.wav | H.H.H.SH|HHH.H..H|.H.H.HHH|.HHH.HH.
+  -> 0.6462 | Careless Break - 4A.wav | H.H.H.HH|HH..H.HH|.H.H.HH.|HH.HH.H.
+  -> 0.6221 | Mystique Break - 7A.wav | H.H.H...|HH.H...H|.H.H...H|.H.H....
+  -> 0.6221 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+
+Drumz Amen Compound - 11A.wav | S.S.S.SS|.SS.S.SS|S.S.S.SS|SSS.S...
+  -> 0.8527 | Drumz Amen.wav | S.SSS.SS|SSS.S.SS|S.S.S.S.|SSSSSS..
+  -> 0.8359 | Tear Break 2.wav | S...S..S|.SS.S..S|S...S..S|.SS.S...
+  -> 0.6282 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.6033 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.5988 | Boo Worm Break - 9A.wav | S.SSSSHS|SSSHSS..|SS.SS.SS|SS.SH...
+  -> 0.5896 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.5654 | Arson Fill - 4A.wav | S...S.S.|..S.S..S|.SSS.SSS|.SSSSSS.
+  -> 0.5436 | Searchin Break 3 - 9A.wav | S.S.S.S.|S.S.SS.S|.S.S.S.S|.S.SS...
+
+Drumz Amen.wav | S.SSS.SS|SSS.S.SS|S.S.S.S.|SSSSSS..
+  -> 0.8527 | Drumz Amen Compound - 11A.wav | S.S.S.SS|.SS.S.SS|S.S.S.SS|SSS.S...
+  -> 0.7428 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.7049 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.7015 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.6750 | Tear Break 2.wav | S...S..S|.SS.S..S|S...S..S|.SS.S...
+  -> 0.6415 | Boo Worm Break - 9A.wav | S.SSSSHS|SSSHSS..|SS.SS.SS|SS.SH...
+  -> 0.6371 | Control Amen.wav | S.SSS.S.|SSSS.SSS|..SS.S.S|SS.SSHS.
+  -> 0.6130 | Blue Break - 4A.wav | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+
+Effect Break - 7A.wav | SHHSHHHH|SSHHSSSS|HHHHHHSS|SHHSSSS.
+  -> 0.6713 | Playboy Break - 6B.wav | SHHSSSHS|HSHHSSHS|HHSSSHSH|SHHHSHS.
+  -> 0.6058 | Blaze Break 2.wav | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+  -> 0.5812 | Imagine Break - 4A.wav | H.HHHSHH|SHHHHSHS|HHHHSHHS|HHHHSHH.
+  -> 0.5802 | Control Kick Break - 2A.wav | SSHHS..H|SS.HSSSS|SSHS.HHS|S.HSSH..
+  -> 0.5774 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.5615 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.5556 | Control Break - 9A.wav | H.HHHSSH|S.S.SS.S|HSHHSSHS|HSHSSSH.
+  -> 0.5464 | Futureproof Amen.wav | HHHHHSHH|HHHHHSHH|HHHHHHHH|HHHHSHHH
+
+Effect Break 2 - 12A.wav | S..S...S|....S.SS|.S.S...H|........
+  -> 0.7325 | Rainfall Lite Break.wav | S...S..S|....SS.S|.S.S...S|..S.....
+  -> 0.6691 | Revelation Amen - 2A.wav | S...S..S|....S.SS|...S.S..|.S.S....
+  -> 0.6624 | System Break.wav | S..S...S|...H...H|...S...S|...H....
+  -> 0.6543 | Walk Break 2 - 12A.wav | S..SS.S.|S...S..S|...S...S|..S..H..
+  -> 0.6135 | Gene Break 2.wav | S...S..S|..S....S|...S...S|...S....
+  -> 0.5998 | Johnny Amen - 11A.wav | S...S..S|....HS.H|.S.S...S|...S....
+  -> 0.5958 | Walk Break 3 - 9A.wav | S...H...|S...S.S.|...S....|...S....
+  -> 0.5844 | Roll On Roll - 9A.wav | S.S.S..S|...S...S|....H..H|........
+
+Effect Break 3 - 7A.wav | S...S..H|...H.H..|HH.H...H|........
+  -> 0.7953 | Maximum Booty Break.wav | S...H..H|....HH..|H..H...H|...H....
+  -> 0.7126 | Roll On Roll 3.wav | S.S.H..H|..H..H..|HH.H.H.H|.H.H....
+  -> 0.6785 | Rumble Break - 10A.wav | H..H...H|...H....|H..H....|...H....
+  -> 0.6774 | Massive Break.wav | S.S.S...|H..H.H..|H..H.H..|.H..H...
+  -> 0.6546 | Dayz Break - 9A.wav | H..H...H|...H....|H..H...H|H..H....
+  -> 0.6323 | Champion Break - 7A.wav | S...H...|H...H.H.|HH.H...H|...H.H..
+  -> 0.6245 | Overcast Break - 4A.wav | S..H....|H.......|H..S...H|........
+  -> 0.6134 | Difference Break 1 - 9A.wav | S...S..S|....H...|H..S...S|........
+
+Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+  -> 0.8804 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.8582 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.8558 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.8535 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.7599 | Prog Break.wav | HHH.HHH.|HHH.HHHH|HH.HHH.H|HH.HHH..
+  -> 0.7559 | Blaze Break 2.wav | SHHSHHHH|SHHSHHHS|HHSHHHHS|HHSHHHH.
+  -> 0.7473 | Futureproof Amen.wav | HHHHHSHH|HHHHHSHH|HHHHHHHH|HHHHSHHH
+  -> 0.7461 | Cool Break - 7A.wav | S.HHHH.H|.HH.HH.S|.H.H.HHH|HHH.HH..
+
+Essential Break - 8A.wav | S.S.S..S|..SS..SS|...S.SSS|.S.S.SS.
+  -> 0.7712 | Searchin Break - 5A.wav | S.S.S.SS|S.S.S.SS|.S.S.S.S|.S.S.S..
+  -> 0.7686 | Rock Amen 2 - 12A.wav | S.S.S.SS|..SS.S.S|.S.S.S.S|SS.SSS..
+  -> 0.7094 | Blue Break - 4A.wav | S.S.S.SS|SSSS.SHS|..SS.S.S|SSSS.SS.
+  -> 0.6788 | Stepper Amen.wav | S.S.S...|S...SS.S|..SS.S.S|SS.S.SS.
+  -> 0.6619 | Box Break - 6A.wav | H.S.S.S.|SS.S..SH|.H.S.SSS|SS.S.S..
+  -> 0.6533 | Arson Fill - 4A.wav | S...S.S.|..S.S..S|.SSS.SSS|.SSSSSS.
+  -> 0.6508 | Hurt U So Break - 1A.wav | S.S.S..S|.S..SS.S|..SS.SSS|SH.SHSS.
+  -> 0.6197 | Walk Break - 8A.wav | S...S.S.|..S.S..S|...S.S.S|.S.S....
+
+Fairlight Break - 9A.wav | SSSSSSSS|SSSSSSS.|SSSHSSSS|SSSHSHSS
+  -> 0.8718 | Sound Murderer Amen - 9A.wav | SSSSSSSS|SS......|SSS.SSS.|.SS.SS.S
+  -> 0.6833 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.6146 | Right Break - 6A.wav | SSSSS.SS|SSSSSSSS|.SSS.S.S|SSSSSSS.
+  -> 0.5917 | Repetoire Break - 6A.wav | SSSSSSSS|SSSSSSSS|SSSSSSSS|HHSSHS.H
+  -> 0.5826 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+  -> 0.5800 | Jazz Thing Break.wav | SHSSHSSS|SS.SHSSS|HSSHSSHS|HSSHSSS.
+  -> 0.5395 | Boo Worm Break - 9A.wav | S.SSSSHS|SSSHSS..|SS.SS.SS|SS.SH...
+  -> 0.5330 | Drumz Amen.wav | S.SSS.SS|SSS.S.SS|S.S.S.S.|SSSSSS..
+
+Firin Line Break - 3B.wav | S.SSHSS.|SS...SSS|HSSHSSHH|.H.HHHH.
+  -> 0.6727 | Jazz Thing Break.wav | SHSSHSSS|SS.SHSSS|HSSHSSHS|HSSHSSS.
+  -> 0.5532 | Jazz Note Break - 10A.wav | S.SSH.HH|HS.H.H.H|HSSH..HH|S..H.HH.
+  -> 0.5464 | Control Break - 9A.wav | H.HHHSSH|S.S.SS.S|HSHHSSHS|HSHSSSH.
+  -> 0.5414 | Repetoire Break - 6A.wav | SSSSSSSS|SSSSSSSS|SSSSSSSS|HHSSHS.H
+  -> 0.5341 | Control Break 2.wav | S.HS.HSH|.HS.HSS.|SS.HSHHS|H.HH.HH.
+  -> 0.5318 | Moths Break - 4A.wav | SSSSSSSS|SSSSSS.S|HSSSSSSS|SSS.SSS.
+  -> 0.5233 | Playboy Break - 6B.wav | SHHSSSHS|HSHHSSHS|HHSSSHSH|SHHHSHS.
+  -> 0.5162 | Take You Break.wav | S.SHHHSS|SS.S.SSS|.SSSSSSS|SHHH....
+
+First Contact Amen.wav | S.H.H.S.|H.H.H.H.|SS.H.S.S|.S.H.S..
+  -> 0.6252 | Vapour Break.wav | S.H.H.H.|H.HH.S.S|.S.S.S.S|.S...S..
+  -> 0.5702 | Back Break 3 - 7B.wav | S.H.S.S.|H.SS.HHS|S.HS.S.H|.S.H.S..
+  -> 0.5330 | Heaven Carl Break - 5A.wav | H.H.H.S.|S.H.H..H|.H.H.S.S|.H.H....
+  -> 0.5217 | Marbles Break - 6A.wav | S.HHH.S.|HHH.HHH.|H.HH.H.H|.S.HHS..
+  -> 0.5201 | Haze Break - 6A.wav | S.S.S.S.|.S...S..|SS.S.S.S|.S.S.S..
+  -> 0.5008 | Games Amen.wav | S.H.SS..|S.S.HS..|SH.S.S.S|.S.S.S..
+  -> 0.4877 | Back Break.wav | HSH.H.H.|H.H.H.H.|SH.H.H.H|.H.H.H..
+  -> 0.4838 | Darkside Break - 7A.wav | S.H.S.S.|HS..H.HS|..HH.H.S|.S.H.H..
+
+Flutes Break - 12A.wav | S...SS.S|....S..S|...S...S|...S.S..
+  -> 0.7714 | Gene Break 2.wav | S...S..S|..S....S|...S...S|...S....
+  -> 0.7611 | Travelling Break - 11A.wav | S...S.SS|.......S|...S...S|..SS....
+  -> 0.7348 | Revelation Amen - 2A.wav | S...S..S|....S.SS|...S.S..|.S.S....
+  -> 0.7022 | Rainfall Lite Break.wav | S...S..S|....SS.S|.S.S...S|..S.....
+  -> 0.6769 | Walk Break - 8A.wav | S...S.S.|..S.S..S|...S.S.S|.S.S....
+  -> 0.6660 | Tronik Break - 4A.wav | S..H.S.S|...H..HS|.S.S...S|...S....
+  -> 0.6472 | Zone Break 2 - 5A.wav | .S..S..S|...S...S|...S...S|...S....
+  -> 0.6338 | Terrorist Amen - 11A.wav | S...S...|........|...S.S.S|...S....
+
+Fountain Break - 4A.wav | SHHSHSS.|SHS.HS.H|SHSSSH.S|.HSHSH.H
+  -> 0.6154 | Repetoire Break - 6A.wav | SSSSSSSS|SSSSSSSS|SSSSSSSS|HHSSHS.H
+  -> 0.5804 | Futureproof Amen.wav | HHHHHSHH|HHHHHSHH|HHHHHHHH|HHHHSHHH
+  -> 0.5646 | Playboy Break - 6B.wav | SHHSSSHS|HSHHSSHS|HHSSSHSH|SHHHSHS.
+  -> 0.5285 | Jazz Thing Break.wav | SHSSHSSS|SS.SHSSS|HSSHSSHS|HSSHSSS.
+  -> 0.5135 | Bonanza Break.wav | SHSSSHHH|SHSH.HHH|.SHHH.HS|HHHHHH.H
+  -> 0.4861 | Control Break 2.wav | S.HS.HSH|.HS.HSS.|SS.HSHHS|H.HH.HH.
+  -> 0.4843 | Imagine Break - 4A.wav | H.HHHSHH|SHHHHSHS|HHHHSHHS|HHHHSHH.
+  -> 0.4714 | Control Stutter Break - 7A.wav | SHSSSSSS|SSSSSH.S|HSSSSSSS|HSSSSS..
+
+Friday Break - 9A.wav | S.HHH.HH|HHS.HH.H|SHHH.HHH|HS.H.HH.
+  -> 0.7427 | Resolution Break - 5A.wav | H.HH..HH|HH.H.HHH|.H.H.HHH|HH.HHHH.
+  -> 0.7365 | Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+  -> 0.7149 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.7085 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.6922 | Bringing Me Break - 7A.wav | S.H.H.H.|HHH.HHHH|.H.H.H.H|HH.H.HH.
+  -> 0.6919 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.6908 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.6807 | Ricochet Break - 9A.wav | H.H.H.S.|HHH.HHHH|.HHH.H.H|HS.H.H..
+
+Futureproof Amen.wav | HHHHHSHH|HHHHHSHH|HHHHHHHH|HHHHSHHH
+  -> 0.8168 | Imagine Break - 4A.wav | H.HHHSHH|SHHHHSHS|HHHHSHHS|HHHHSHH.
+  -> 0.7993 | Guess Break - 1A.wav | HHHHHHHH|HHHHHHHH|HH.HHHHH|HHHHHHH.
+  -> 0.7837 | Rise Amen - 2A.wav | HHHHHHHH|HHHHHHH.|HHHHHHHH|HHHH.H..
+  -> 0.7803 | Pesh Break - 7A.wav | SHHHHHSH|HHHHHHHS|HHHHHHHH|HHHHHHH.
+  -> 0.7659 | Seatown Break - 6B.wav | H.HHH.HH|HHHHHH.H|HH.HH.HH|HHHHHHH.
+  -> 0.7473 | Enchanted Break - 5A.wav | HSHHHHHH|HHHSHH.H|HHHHHHHH|HHHHHHH.
+  -> 0.7000 | Jazzy Break - 9A.wav | H.HH.SHH|H.HH.SHH|.HH.SHHH|.SH.HHH.
+  -> 0.6828 | Bonanza Break.wav | SHSSSHHH|SHSH.HHH|.SHHH.HS|HHHHHH.H
+
+Games Amen.wav | S.H.SS..|S.S.HS..|SH.S.S.S|.S.S.S..
+  -> 0.7032 | Roll On Roll 2 - 10A.wav | S.S.S..S|S.S..S..|SH.S.S.S|.S......
+  -> 0.6851 | Haze Break - 6A.wav | S.S.S.S.|.S...S..|SS.S.S.S|.S.S.S..
+  -> 0.5864 | Stepper Amen.wav | S.S.S...|S...SS.S|..SS.S.S|SS.S.SS.
+  -> 0.5829 | Reach Break - 4A.wav | S...SS..|S..S.S..|SS.S...S|..S.S...
+  -> 0.5715 | Haze Hybrid Break.wav | S...S.S.|S.S.S.S.|SS.S.SS.|.S...S..
+  -> 0.5372 | Mach Break - 11A.wav | S...S.S.|.S...S.S|.S.S.S.S|.S.S....
+  -> 0.5316 | Calling Break - 10A.wav | S.H.S.S.|..S..HHS|.H.S.S.S|.S.S..H.
+  -> 0.5264 | Flutes Break - 12A.wav | S...SS.S|....S..S|...S...S|...S.S..
+
+Gene Break - 12A.wav | S...S...|S..S....|H.S....S|...S....
+  -> 0.9409 | Detroit Break - 5A.wav | S...S...|H..S....|H.S....S|...S....
+  -> 0.6980 | Difference Break 1 - 9A.wav | S...S..S|....H...|H..S...S|........
+  -> 0.6797 | Liberty Amen.wav | S...S...|S...S...|S..S...S|...S....
+  -> 0.6593 | Piper Break - 4A.wav | S...H...|S...H.S.|H..S...S|...H....
+  -> 0.6592 | Terrorist Amen - 11A.wav | S...S...|........|...S.S.S|...S....
+  -> 0.6579 | Rock Amen - 12A.wav | .S..S...|S..S...S|...S...S|...S....
+  -> 0.6539 | Heli Bongos.wav | H...S...|S...H...|H...H..S|...H....
+  -> 0.6335 | God Chord Break - 4A.wav | H...S...|S..S...H|.H.H...S|...H....
+
+Gene Break 2.wav | S...S..S|..S....S|...S...S|...S....
+  -> 0.8939 | Travelling Break - 11A.wav | S...S.SS|.......S|...S...S|..SS....
+  -> 0.8030 | Terrorist Amen - 11A.wav | S...S...|........|...S.S.S|...S....
+  -> 0.7954 | Zone Break 2 - 5A.wav | .S..S..S|...S...S|...S...S|...S....
+  -> 0.7714 | Flutes Break - 12A.wav | S...SS.S|....S..S|...S...S|...S.S..
+  -> 0.7610 | Revelation Amen - 2A.wav | S...S..S|....S.SS|...S.S..|.S.S....
+  -> 0.7562 | Walk Break - 8A.wav | S...S.S.|..S.S..S|...S.S.S|.S.S....
+  -> 0.7348 | Rainfall Lite Break.wav | S...S..S|....SS.S|.S.S...S|..S.....
+  -> 0.7280 | Space Age Break - 5A.wav | S......S|....H...|........|...S....
+
+God Chord Break - 4A.wav | H...S...|S..S...H|.H.H...S|...H....
+  -> 0.7059 | Heli Break - 2A.wav | H...H...|H...H..H|...H...S|...H....
+  -> 0.6720 | Intro Amen.wav | H...H...|H..S...H|...H...H|.H.H.S..
+  -> 0.6450 | Cosmik Break - 11A.wav | H...H..H|.......H|...H...H|...H....
+  -> 0.6335 | Gene Break - 12A.wav | S...S...|S..S....|H.S....S|...S....
+  -> 0.6318 | Bad Break - 8A.wav | H.......|H...H..H|...H...H|........
+  -> 0.6206 | Technology Break - 9A.wav | .H..H...|S...H..H|...H...H|...H....
+  -> 0.6194 | Change Break - 6A.wav | H...H..H|....H..H|...H...S|...S....
+  -> 0.6147 | Blaze Break - 11A.wav | H.......|H..H....|...H....|........

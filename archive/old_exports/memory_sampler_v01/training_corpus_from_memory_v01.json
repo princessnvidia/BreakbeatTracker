@@ -1,0 +1,267 @@
+{
+  "version": "training_corpus_from_memory_v01",
+  "count": 9,
+  "grooves": [
+    {
+      "index": 1,
+      "full": "H.S.H..H.H.H...H...S..HH...H.H..",
+      "layers": {
+        "kick": "................................",
+        "snare": "..S................S............",
+        "ghost": "................................",
+        "hat": "H...H..H.H.H...H......HH...H.H..",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0111",
+      "source_name": "London Break - 8A.wav",
+      "summary": {
+        "density": 0.375,
+        "syncopation": 0.8333,
+        "base_match": 0.0625,
+        "kick_count": 0,
+        "snare_count": 2,
+        "ghost_count": 0,
+        "hat_count": 10,
+        "perc_count": 0,
+        "style_tags": [
+          "medium",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 2,
+      "full": "H...H..H.....H.H...H...H...H.H..",
+      "layers": {
+        "kick": "................................",
+        "snare": "................................",
+        "ghost": "................................",
+        "hat": "H...H..H.....H.H...H...H...H.H..",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0029",
+      "source_name": "Brut Force Fuller Break - 6A.wav",
+      "summary": {
+        "density": 0.2812,
+        "syncopation": 0.7778,
+        "base_match": 0.0,
+        "kick_count": 0,
+        "snare_count": 0,
+        "ghost_count": 0,
+        "hat_count": 9,
+        "perc_count": 0,
+        "style_tags": [
+          "sparse",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 3,
+      "full": "H...H..H.......H...H...H...H....",
+      "layers": {
+        "kick": "................................",
+        "snare": "................................",
+        "ghost": "................................",
+        "hat": "H...H..H.......H...H...H...H....",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0052",
+      "source_name": "Cosmik Break - 11A.wav",
+      "summary": {
+        "density": 0.2188,
+        "syncopation": 0.7143,
+        "base_match": 0.0,
+        "kick_count": 0,
+        "snare_count": 0,
+        "ghost_count": 0,
+        "hat_count": 7,
+        "perc_count": 0,
+        "style_tags": [
+          "sparse",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 4,
+      "full": "H...H.......H..H...S..H..S.H....",
+      "layers": {
+        "kick": "................................",
+        "snare": "...................S.....S......",
+        "ghost": "................................",
+        "hat": "H...H.......H..H......H....H....",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0173",
+      "source_name": "Sight Break - 6A.wav",
+      "summary": {
+        "density": 0.25,
+        "syncopation": 0.625,
+        "base_match": 0.0,
+        "kick_count": 0,
+        "snare_count": 2,
+        "ghost_count": 0,
+        "hat_count": 6,
+        "perc_count": 0,
+        "style_tags": [
+          "sparse",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 5,
+      "full": "H.H.H...HH.H...H.H.H...H.H.H....",
+      "layers": {
+        "kick": "................................",
+        "snare": "................................",
+        "ghost": "................................",
+        "hat": "H.H.H...HH.H...H.H.H...H.H.H....",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0126",
+      "source_name": "Mystique Break - 7A.wav",
+      "summary": {
+        "density": 0.375,
+        "syncopation": 0.75,
+        "base_match": 0.0,
+        "kick_count": 0,
+        "snare_count": 0,
+        "ghost_count": 0,
+        "hat_count": 12,
+        "perc_count": 0,
+        "style_tags": [
+          "medium",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 6,
+      "full": "H...H.H.H.SH...H..SH.HHH.H.HHH..",
+      "layers": {
+        "kick": "................................",
+        "snare": "..........S.......S.............",
+        "ghost": "................................",
+        "hat": "H...H.H.H..H...H...H.HHH.H.HHH..",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0106",
+      "source_name": "Lick Break - 1A.wav",
+      "summary": {
+        "density": 0.5,
+        "syncopation": 0.75,
+        "base_match": 0.125,
+        "kick_count": 0,
+        "snare_count": 2,
+        "ghost_count": 0,
+        "hat_count": 14,
+        "perc_count": 0,
+        "style_tags": [
+          "medium",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 7,
+      "full": "S...H.HH...H..HH..HS...H...HH...",
+      "layers": {
+        "kick": "................................",
+        "snare": "S..................S............",
+        "ghost": "................................",
+        "hat": "....H.HH...H..HH..H....H...HH...",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0174",
+      "source_name": "Sky Break - 9A.wav",
+      "summary": {
+        "density": 0.375,
+        "syncopation": 0.75,
+        "base_match": 0.0,
+        "kick_count": 0,
+        "snare_count": 2,
+        "ghost_count": 0,
+        "hat_count": 10,
+        "perc_count": 0,
+        "style_tags": [
+          "medium",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 8,
+      "full": "H...H.H.H..H.H.H.H.H...H.H.H.H..",
+      "layers": {
+        "kick": "................................",
+        "snare": "................................",
+        "ghost": "................................",
+        "hat": "H...H.H.H..H.H.H.H.H...H.H.H.H..",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0053",
+      "source_name": "Cumulus Break - 4A.wav",
+      "summary": {
+        "density": 0.4062,
+        "syncopation": 0.7692,
+        "base_match": 0.0,
+        "kick_count": 0,
+        "snare_count": 0,
+        "ghost_count": 0,
+        "hat_count": 13,
+        "perc_count": 0,
+        "style_tags": [
+          "medium",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    },
+    {
+      "index": 9,
+      "full": "H...HH.H....HH.H.H.H...H...H.H..",
+      "layers": {
+        "kick": "................................",
+        "snare": "................................",
+        "ghost": "................................",
+        "hat": "H...HH.H....HH.H.H.H...H...H.H..",
+        "perc": "................................"
+      },
+      "source_memory_id": "ascii_transcriptions_v01_0003",
+      "source_name": "Angles Break.wav",
+      "summary": {
+        "density": 0.375,
+        "syncopation": 0.75,
+        "base_match": 0.0,
+        "kick_count": 0,
+        "snare_count": 0,
+        "ghost_count": 0,
+        "hat_count": 12,
+        "perc_count": 0,
+        "style_tags": [
+          "medium",
+          "syncopated",
+          "free"
+        ]
+      },
+      "score": null
+    }
+  ]
+}

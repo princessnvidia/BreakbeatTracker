@@ -1,0 +1,30 @@
+M8-style slicer v10: Control_Kick_Break_-_2A
+Source: breaks/Control Kick Break - 2A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 21
+JSON: dataset/pair_blocks_v02/Control_Kick_Break_-_2A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Control_Kick_Break_-_2A/Control_Kick_Break_-_2A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    217.69 ms | dur    211.16 ms | hybrid_snap_auto | score 0.222733
+slice 01 |    217.69 ->    450.61 ms | dur    232.93 ms | hybrid_snap_auto | score 0.214464
+slice 02 |    450.61 ->    683.54 ms | dur    232.93 ms | hybrid_snap_auto | score 0.770238
+slice 03 |    683.54 ->    912.11 ms | dur    228.57 ms | hybrid_snap_auto | score 0.210991
+slice 04 |    912.11 ->   1154.58 ms | dur    242.47 ms | hybrid_snap_auto | score 0.687617
+slice 05 |   1154.58 ->   1255.33 ms | dur    100.75 ms | grid | score 1.0
+slice 06 |   1255.33 ->   1373.61 ms | dur    118.28 ms | hat_rescue | score 0.827723
+slice 07 |   1373.61 ->   1606.53 ms | dur    232.93 ms | hybrid_snap_auto | score 0.730409
+slice 08 |   1606.53 ->   1641.54 ms | dur     35.01 ms | hat_rescue | score 0.983067
+slice 09 |   1628.30 ->   1835.10 ms | dur    206.80 ms | hat_rescue | score 0.798938
+slice 10 |   1835.10 ->   2065.12 ms | dur    230.02 ms | hybrid_snap_auto | score 0.484327
+slice 11 |   2065.12 ->   2298.78 ms | dur    233.65 ms | hat_rescue | score 0.842818
+slice 12 |   2298.78 ->   2531.70 ms | dur    232.93 ms | hybrid_snap_auto | score 0.793427
+slice 13 |   2531.70 ->   2644.17 ms | dur    112.47 ms | hybrid_snap_auto | score 0.207142
+slice 14 |   2644.17 ->   2757.37 ms | dur    113.20 ms | hat_rescue | score 0.941915
+slice 15 |   2757.37 ->   2874.92 ms | dur    117.55 ms | hat_rescue | score 0.921181
+slice 16 |   2874.92 ->   3001.93 ms | dur    127.01 ms | hat_rescue | score 0.878694
+slice 17 |   3001.93 ->   3221.77 ms | dur    219.84 ms | grid | score 1.0
+slice 18 |   3221.77 ->   3334.97 ms | dur    113.20 ms | hybrid_snap_auto | score 0.713571
+slice 19 |   3334.97 ->   3454.69 ms | dur    119.73 ms | hat_rescue | score 0.82776
+slice 20 |   3454.69 ->   3694.67 ms | dur    239.98 ms | hybrid_snap_auto | score 0.181345

@@ -1,0 +1,98 @@
+{
+  "version": "pair_blocks_v01",
+  "source": "breaks/Stepper Amen.wav",
+  "sample_rate": 44100,
+  "rule": "grid16 split into 8 pair blocks, 2 cases per block",
+  "best": {
+    "score": 56.494972094893456,
+    "offset_samples": 8360,
+    "block_samples": 9702,
+    "offset_ms": 189.56916099773244,
+    "block_ms": 220.0
+  },
+  "duplicates": [],
+  "duplicate_threshold": 0.985,
+  "reconstruction": "dataset/pair_blocks/Stepper_Amen/pair_blocks_reconstruction.wav",
+  "blocks": [
+    {
+      "pair": 0,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_00_189ms.wav",
+      "start_sample": 8360,
+      "end_sample": 18062,
+      "start_ms": 189.56916099773244,
+      "end_ms": 409.56916099773247,
+      "duration_ms": 220.0,
+      "rms": 0.13830702006816864
+    },
+    {
+      "pair": 1,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_01_409ms.wav",
+      "start_sample": 18062,
+      "end_sample": 27764,
+      "start_ms": 409.56916099773247,
+      "end_ms": 629.5691609977324,
+      "duration_ms": 220.0,
+      "rms": 0.08040033280849457
+    },
+    {
+      "pair": 2,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_02_629ms.wav",
+      "start_sample": 27764,
+      "end_sample": 37466,
+      "start_ms": 629.5691609977324,
+      "end_ms": 849.5691609977324,
+      "duration_ms": 220.0,
+      "rms": 0.14186465740203857
+    },
+    {
+      "pair": 3,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_03_849ms.wav",
+      "start_sample": 37466,
+      "end_sample": 47168,
+      "start_ms": 849.5691609977324,
+      "end_ms": 1069.5691609977325,
+      "duration_ms": 220.0,
+      "rms": 0.071201391518116
+    },
+    {
+      "pair": 4,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_04_1069ms.wav",
+      "start_sample": 47168,
+      "end_sample": 56870,
+      "start_ms": 1069.5691609977325,
+      "end_ms": 1289.5691609977325,
+      "duration_ms": 220.0,
+      "rms": 0.08341048657894135
+    },
+    {
+      "pair": 5,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_05_1289ms.wav",
+      "start_sample": 56870,
+      "end_sample": 66572,
+      "start_ms": 1289.5691609977325,
+      "end_ms": 1509.5691609977325,
+      "duration_ms": 220.0,
+      "rms": 0.12088216096162796
+    },
+    {
+      "pair": 6,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_06_1509ms.wav",
+      "start_sample": 66572,
+      "end_sample": 76274,
+      "start_ms": 1509.5691609977325,
+      "end_ms": 1729.5691609977323,
+      "duration_ms": 220.0,
+      "rms": 0.12503404915332794
+    },
+    {
+      "pair": 7,
+      "audio_path": "dataset/pair_blocks/Stepper_Amen/pair_blocks/pair_07_1729ms.wav",
+      "start_sample": 76274,
+      "end_sample": 85976,
+      "start_ms": 1729.5691609977323,
+      "end_ms": 1949.5691609977323,
+      "duration_ms": 220.0,
+      "rms": 0.06693127006292343
+    }
+  ]
+}

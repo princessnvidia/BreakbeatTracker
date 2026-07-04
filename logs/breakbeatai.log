@@ -1,0 +1,2417 @@
+[v101] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v101] Backend audio : pw-play -> /usr/bin/pw-play
+[v101] boutons Charger break patchés : 2
+[v101] boutons training patchés : 8
+[v101] attr width step_width: 36 -> 33.0
+[v101] boutons patchés : Generate=2, Reject/Bad=2
+[v101] pattern initial forcé VIDE : aucun son ne doit jouer.
+
+[v101] GENERATE 64
+[v101] break: Champion_Break_-_7A
+[v101] variant: A_same
+[v101] role_offset: 0
+[v101] locks: {}
+[v101] kick  : pair=0 source=role_pool_offset_0 lane=0 pool=[0, 1, 2, 10, 16]
+[v101] snare : pair=4 source=role_pool_offset_0 lane=4 pool=[4, 9, 13, 14, 15]
+[v101] hat   : pair=6 source=role_pool_offset_0 lane=6 pool=[6, 7, 8, 9, 11, 12, 15, 17]
+
+
+[v101] GENERATED PATTERN 64
+[v101] step 00/01 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 02/03 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 04/05 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 06/07 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 08/09 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 10/11 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 12/13 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 14/15 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 16/17 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 18/19 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 20/21 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 22/23 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 24/25 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 26/27 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 28/29 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 30/31 role=hat    pair=6 lane=6 variant=A_same offset=0
+[v101] step 32/33 role=kick   pair=1 lane=1 variant=A_same offset=0
+[v101] step 34/35 role=hat    pair=7 lane=7 variant=A_same offset=0
+[v101] step 36/37 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 38/39 role=hat    pair=8 lane=8 variant=A_same offset=0
+[v101] step 40/41 role=hat    pair=9 lane=9 variant=A_same offset=0
+[v101] step 42/43 role=kick   pair=2 lane=2 variant=A_same offset=0
+[v101] step 44/45 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 46/47 role=hat    pair=11 lane=11 variant=A_same offset=0
+[v101] step 48/49 role=kick   pair=10 lane=10 variant=A_same offset=0
+[v101] step 50/51 role=hat    pair=12 lane=12 variant=A_same offset=0
+[v101] step 52/53 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 54/55 role=hat    pair=15 lane=15 variant=A_same offset=0
+[v101] step 56/57 role=hat    pair=17 lane=17 variant=A_same offset=0
+[v101] step 58/59 role=kick   pair=16 lane=16 variant=A_same offset=0
+[v101] step 60/61 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 62/63 role=hat    pair=7 lane=7 variant=A_same offset=0
+
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=6 | lane=6 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=6 | lane=6 | len=2
+[v101] id=4 | step 08/09 | pair=6 | lane=6 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=6 | lane=6 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=6 | lane=6 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=6 | lane=6 | len=2
+[v101] id=12 | step 24/25 | pair=6 | lane=6 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=6 | lane=6 | len=2
+[v101] id=16 | step 32/33 | pair=1 | lane=1 | len=2
+[v101] id=17 | step 34/35 | pair=7 | lane=7 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=8 | lane=8 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=2 | lane=2 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=11 | lane=11 | len=2
+[v101] id=24 | step 48/49 | pair=10 | lane=10 | len=2
+[v101] id=25 | step 50/51 | pair=12 | lane=12 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=15 | lane=15 | len=2
+[v101] id=28 | step 56/57 | pair=17 | lane=17 | len=2
+[v101] id=29 | step 58/59 | pair=16 | lane=16 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=7 | lane=7 | len=2
+
+[v101] global warp OK | source_len=65534 | target_len=273135 | bpm=155.0
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 6, 'x_step': 2, 'length': 2, 'lane': 6, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 6, 'x_step': 6, 'length': 2, 'lane': 6, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 6, 'x_step': 8, 'length': 2, 'lane': 6, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 6, 'x_step': 14, 'length': 2, 'lane': 6, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 6, 'x_step': 18, 'length': 2, 'lane': 6, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 6, 'x_step': 22, 'length': 2, 'lane': 6, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 6, 'x_step': 24, 'length': 2, 'lane': 6, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 6, 'x_step': 30, 'length': 2, 'lane': 6, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 1, 'x_step': 32, 'length': 2, 'lane': 1, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 7, 'x_step': 34, 'length': 2, 'lane': 7, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 8, 'x_step': 38, 'length': 2, 'lane': 8, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 2, 'x_step': 42, 'length': 2, 'lane': 2, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 11, 'x_step': 46, 'length': 2, 'lane': 11, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 10, 'x_step': 48, 'length': 2, 'lane': 10, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 12, 'x_step': 50, 'length': 2, 'lane': 12, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 15, 'x_step': 54, 'length': 2, 'lane': 15, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 17, 'x_step': 56, 'length': 2, 'lane': 17, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 16, 'x_step': 58, 'length': 2, 'lane': 16, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 7, 'x_step': 62, 'length': 2, 'lane': 7, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+
+[v101] REJECT/BAD → VARIATION + AUTRES LIGNES KICK/SNARE/HAT
+[v101] break: Champion_Break_-_7A
+[v101] variant: C_kick_late
+[v101] role_offset: 1
+[v101] locks: {}
+[v101] kick  : pair=1 source=role_pool_offset_1 lane=1 pool=[0, 1, 2, 10, 16]
+[v101] snare : pair=9 source=role_pool_offset_1 lane=9 pool=[4, 9, 13, 14, 15]
+[v101] hat   : pair=7 source=role_pool_offset_1 lane=7 pool=[6, 7, 8, 9, 11, 12, 15, 17]
+
+
+[v101] GENERATED PATTERN 64
+[v101] step 00/01 role=kick   pair=1 lane=1 variant=C_kick_late offset=1
+[v101] step 02/03 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 04/05 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 06/07 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 08/09 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 10/11 role=kick   pair=1 lane=1 variant=C_kick_late offset=1
+[v101] step 12/13 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 14/15 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 16/17 role=kick   pair=1 lane=1 variant=C_kick_late offset=1
+[v101] step 18/19 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 20/21 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 22/23 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 24/25 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 26/27 role=kick   pair=1 lane=1 variant=C_kick_late offset=1
+[v101] step 28/29 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 30/31 role=hat    pair=7 lane=7 variant=C_kick_late offset=1
+[v101] step 32/33 role=kick   pair=2 lane=2 variant=C_kick_late offset=1
+[v101] step 34/35 role=hat    pair=8 lane=8 variant=C_kick_late offset=1
+[v101] step 36/37 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 38/39 role=hat    pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 40/41 role=hat    pair=11 lane=11 variant=C_kick_late offset=1
+[v101] step 42/43 role=kick   pair=10 lane=10 variant=C_kick_late offset=1
+[v101] step 44/45 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 46/47 role=hat    pair=12 lane=12 variant=C_kick_late offset=1
+[v101] step 48/49 role=hat    pair=15 lane=15 variant=C_kick_late offset=1
+[v101] step 50/51 role=kick   pair=16 lane=16 variant=C_kick_late offset=1
+[v101] step 52/53 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 54/55 role=hat    pair=17 lane=17 variant=C_kick_late offset=1
+[v101] step 56/57 role=hat    pair=6 lane=6 variant=C_kick_late offset=1
+[v101] step 58/59 role=kick   pair=0 lane=0 variant=C_kick_late offset=1
+[v101] step 60/61 role=snare  pair=9 lane=9 variant=C_kick_late offset=1
+[v101] step 62/63 role=hat    pair=8 lane=8 variant=C_kick_late offset=1
+
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=1 | lane=1 | len=2
+[v101] id=1 | step 02/03 | pair=7 | lane=7 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=9 | lane=9 | len=2
+[v101] id=3 | step 06/07 | pair=7 | lane=7 | len=2
+[v101] id=4 | step 08/09 | pair=7 | lane=7 | len=2
+[v101] id=5 | step 10/11 | pair=1 | lane=1 | len=2
+[v101] id=6 | step 12/13 | pair=9 | lane=9 | len=2
+[v101] id=7 | step 14/15 | pair=7 | lane=7 | len=2
+[v101] id=8 | step 16/17 | pair=1 | lane=1 | len=2
+[v101] id=9 | step 18/19 | pair=7 | lane=7 | len=2
+[v101] id=10 | step 20/21 | pair=9 | lane=9 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=7 | lane=7 | len=2
+[v101] id=12 | step 24/25 | pair=7 | lane=7 | len=2
+[v101] id=13 | step 26/27 | pair=1 | lane=1 | len=2
+[v101] id=14 | step 28/29 | pair=9 | lane=9 | len=2
+[v101] id=15 | step 30/31 | pair=7 | lane=7 | len=2
+[v101] id=16 | step 32/33 | pair=2 | lane=2 | len=2
+[v101] id=17 | step 34/35 | pair=8 | lane=8 | len=2
+[v101] id=18 | step 36/37 | pair=9 | lane=9 | len=2
+[v101] id=19 | step 38/39 | pair=9 | lane=9 | len=2
+[v101] id=20 | step 40/41 | pair=11 | lane=11 | len=2
+[v101] id=21 | step 42/43 | pair=10 | lane=10 | len=2
+[v101] id=22 | step 44/45 | pair=9 | lane=9 | len=2
+[v101] id=23 | step 46/47 | pair=12 | lane=12 | len=2
+[v101] id=24 | step 48/49 | pair=15 | lane=15 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=9 | lane=9 | len=2
+[v101] id=27 | step 54/55 | pair=17 | lane=17 | len=2
+[v101] id=28 | step 56/57 | pair=6 | lane=6 | len=2
+[v101] id=29 | step 58/59 | pair=0 | lane=0 | len=2
+[v101] id=30 | step 60/61 | pair=9 | lane=9 | len=2
+[v101] id=31 | step 62/63 | pair=8 | lane=8 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 1, 'x_step': 0, 'length': 2, 'lane': 1, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 7, 'x_step': 2, 'length': 2, 'lane': 7, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 9, 'x_step': 4, 'length': 2, 'lane': 9, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 7, 'x_step': 6, 'length': 2, 'lane': 7, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 7, 'x_step': 8, 'length': 2, 'lane': 7, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 1, 'x_step': 10, 'length': 2, 'lane': 1, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 9, 'x_step': 12, 'length': 2, 'lane': 9, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 7, 'x_step': 14, 'length': 2, 'lane': 7, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 1, 'x_step': 16, 'length': 2, 'lane': 1, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 7, 'x_step': 18, 'length': 2, 'lane': 7, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 9, 'x_step': 20, 'length': 2, 'lane': 9, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 7, 'x_step': 22, 'length': 2, 'lane': 7, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 7, 'x_step': 24, 'length': 2, 'lane': 7, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 1, 'x_step': 26, 'length': 2, 'lane': 1, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 9, 'x_step': 28, 'length': 2, 'lane': 9, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 7, 'x_step': 30, 'length': 2, 'lane': 7, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 2, 'x_step': 32, 'length': 2, 'lane': 2, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 8, 'x_step': 34, 'length': 2, 'lane': 8, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 9, 'x_step': 36, 'length': 2, 'lane': 9, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 9, 'x_step': 38, 'length': 2, 'lane': 9, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 11, 'x_step': 40, 'length': 2, 'lane': 11, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 10, 'x_step': 42, 'length': 2, 'lane': 10, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 9, 'x_step': 44, 'length': 2, 'lane': 9, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 12, 'x_step': 46, 'length': 2, 'lane': 12, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 15, 'x_step': 48, 'length': 2, 'lane': 15, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 9, 'x_step': 52, 'length': 2, 'lane': 9, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 17, 'x_step': 54, 'length': 2, 'lane': 17, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 6, 'x_step': 56, 'length': 2, 'lane': 6, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 0, 'x_step': 58, 'length': 2, 'lane': 0, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 9, 'x_step': 60, 'length': 2, 'lane': 9, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 8, 'x_step': 62, 'length': 2, 'lane': 8, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+
+[v101] REJECT/BAD → VARIATION + AUTRES LIGNES KICK/SNARE/HAT
+[v101] break: Champion_Break_-_7A
+[v101] variant: E_more_hats
+[v101] role_offset: 2
+[v101] locks: {}
+[v101] kick  : pair=2 source=role_pool_offset_2 lane=2 pool=[0, 1, 2, 10, 16]
+[v101] snare : pair=13 source=role_pool_offset_2 lane=13 pool=[4, 9, 13, 14, 15]
+[v101] hat   : pair=8 source=role_pool_offset_2 lane=8 pool=[6, 7, 8, 9, 11, 12, 15, 17]
+
+
+[v101] GENERATED PATTERN 64
+[v101] step 00/01 role=kick   pair=2 lane=2 variant=E_more_hats offset=2
+[v101] step 02/03 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 04/05 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 06/07 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 08/09 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 10/11 role=kick   pair=2 lane=2 variant=E_more_hats offset=2
+[v101] step 12/13 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 14/15 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 16/17 role=kick   pair=2 lane=2 variant=E_more_hats offset=2
+[v101] step 18/19 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 20/21 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 22/23 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 24/25 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 26/27 role=kick   pair=2 lane=2 variant=E_more_hats offset=2
+[v101] step 28/29 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 30/31 role=hat    pair=8 lane=8 variant=E_more_hats offset=2
+[v101] step 32/33 role=kick   pair=10 lane=10 variant=E_more_hats offset=2
+[v101] step 34/35 role=hat    pair=9 lane=9 variant=E_more_hats offset=2
+[v101] step 36/37 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 38/39 role=hat    pair=11 lane=11 variant=E_more_hats offset=2
+[v101] step 40/41 role=hat    pair=12 lane=12 variant=E_more_hats offset=2
+[v101] step 42/43 role=hat    pair=15 lane=15 variant=E_more_hats offset=2
+[v101] step 44/45 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 46/47 role=kick   pair=16 lane=16 variant=E_more_hats offset=2
+[v101] step 48/49 role=kick   pair=0 lane=0 variant=E_more_hats offset=2
+[v101] step 50/51 role=hat    pair=17 lane=17 variant=E_more_hats offset=2
+[v101] step 52/53 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 54/55 role=hat    pair=6 lane=6 variant=E_more_hats offset=2
+[v101] step 56/57 role=hat    pair=7 lane=7 variant=E_more_hats offset=2
+[v101] step 58/59 role=kick   pair=1 lane=1 variant=E_more_hats offset=2
+[v101] step 60/61 role=snare  pair=13 lane=13 variant=E_more_hats offset=2
+[v101] step 62/63 role=hat    pair=9 lane=9 variant=E_more_hats offset=2
+
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=2 | lane=2 | len=2
+[v101] id=1 | step 02/03 | pair=8 | lane=8 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=13 | lane=13 | len=2
+[v101] id=3 | step 06/07 | pair=8 | lane=8 | len=2
+[v101] id=4 | step 08/09 | pair=8 | lane=8 | len=2
+[v101] id=5 | step 10/11 | pair=2 | lane=2 | len=2
+[v101] id=6 | step 12/13 | pair=13 | lane=13 | len=2
+[v101] id=7 | step 14/15 | pair=8 | lane=8 | len=2
+[v101] id=8 | step 16/17 | pair=2 | lane=2 | len=2
+[v101] id=9 | step 18/19 | pair=8 | lane=8 | len=2
+[v101] id=10 | step 20/21 | pair=13 | lane=13 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=8 | lane=8 | len=2
+[v101] id=12 | step 24/25 | pair=8 | lane=8 | len=2
+[v101] id=13 | step 26/27 | pair=2 | lane=2 | len=2
+[v101] id=14 | step 28/29 | pair=13 | lane=13 | len=2
+[v101] id=15 | step 30/31 | pair=8 | lane=8 | len=2
+[v101] id=16 | step 32/33 | pair=10 | lane=10 | len=2
+[v101] id=17 | step 34/35 | pair=9 | lane=9 | len=2
+[v101] id=18 | step 36/37 | pair=13 | lane=13 | len=2
+[v101] id=19 | step 38/39 | pair=11 | lane=11 | len=2
+[v101] id=20 | step 40/41 | pair=12 | lane=12 | len=2
+[v101] id=21 | step 42/43 | pair=15 | lane=15 | len=2
+[v101] id=22 | step 44/45 | pair=13 | lane=13 | len=2
+[v101] id=23 | step 46/47 | pair=16 | lane=16 | len=2
+[v101] id=24 | step 48/49 | pair=0 | lane=0 | len=2
+[v101] id=25 | step 50/51 | pair=17 | lane=17 | len=2
+[v101] id=26 | step 52/53 | pair=13 | lane=13 | len=2
+[v101] id=27 | step 54/55 | pair=6 | lane=6 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=1 | lane=1 | len=2
+[v101] id=30 | step 60/61 | pair=13 | lane=13 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 2, 'x_step': 0, 'length': 2, 'lane': 2, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 8, 'x_step': 2, 'length': 2, 'lane': 8, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 13, 'x_step': 4, 'length': 2, 'lane': 13, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 8, 'x_step': 6, 'length': 2, 'lane': 8, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 8, 'x_step': 8, 'length': 2, 'lane': 8, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 2, 'x_step': 10, 'length': 2, 'lane': 2, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 13, 'x_step': 12, 'length': 2, 'lane': 13, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 8, 'x_step': 14, 'length': 2, 'lane': 8, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 2, 'x_step': 16, 'length': 2, 'lane': 2, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 8, 'x_step': 18, 'length': 2, 'lane': 8, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 13, 'x_step': 20, 'length': 2, 'lane': 13, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 8, 'x_step': 22, 'length': 2, 'lane': 8, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 8, 'x_step': 24, 'length': 2, 'lane': 8, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 2, 'x_step': 26, 'length': 2, 'lane': 2, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 13, 'x_step': 28, 'length': 2, 'lane': 13, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 8, 'x_step': 30, 'length': 2, 'lane': 8, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 10, 'x_step': 32, 'length': 2, 'lane': 10, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 9, 'x_step': 34, 'length': 2, 'lane': 9, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 13, 'x_step': 36, 'length': 2, 'lane': 13, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 11, 'x_step': 38, 'length': 2, 'lane': 11, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 12, 'x_step': 40, 'length': 2, 'lane': 12, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 15, 'x_step': 42, 'length': 2, 'lane': 15, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 13, 'x_step': 44, 'length': 2, 'lane': 13, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 16, 'x_step': 46, 'length': 2, 'lane': 16, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 0, 'x_step': 48, 'length': 2, 'lane': 0, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 17, 'x_step': 50, 'length': 2, 'lane': 17, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 13, 'x_step': 52, 'length': 2, 'lane': 13, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 6, 'x_step': 54, 'length': 2, 'lane': 6, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 1, 'x_step': 58, 'length': 2, 'lane': 1, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 13, 'x_step': 60, 'length': 2, 'lane': 13, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+
+[v101] REJECT/BAD → VARIATION + AUTRES LIGNES KICK/SNARE/HAT
+[v101] break: Champion_Break_-_7A
+[v101] variant: A_same
+[v101] role_offset: 3
+[v101] locks: {}
+[v101] kick  : pair=10 source=role_pool_offset_3 lane=10 pool=[0, 1, 2, 10, 16]
+[v101] snare : pair=14 source=role_pool_offset_3 lane=14 pool=[4, 9, 13, 14, 15]
+[v101] hat   : pair=9 source=role_pool_offset_3 lane=9 pool=[6, 7, 8, 9, 11, 12, 15, 17]
+
+
+[v101] GENERATED PATTERN 64
+[v101] step 00/01 role=kick   pair=10 lane=10 variant=A_same offset=3
+[v101] step 02/03 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 04/05 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 06/07 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 08/09 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 10/11 role=kick   pair=10 lane=10 variant=A_same offset=3
+[v101] step 12/13 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 14/15 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 16/17 role=kick   pair=10 lane=10 variant=A_same offset=3
+[v101] step 18/19 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 20/21 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 22/23 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 24/25 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 26/27 role=kick   pair=10 lane=10 variant=A_same offset=3
+[v101] step 28/29 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 30/31 role=hat    pair=9 lane=9 variant=A_same offset=3
+[v101] step 32/33 role=kick   pair=16 lane=16 variant=A_same offset=3
+[v101] step 34/35 role=hat    pair=11 lane=11 variant=A_same offset=3
+[v101] step 36/37 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 38/39 role=hat    pair=12 lane=12 variant=A_same offset=3
+[v101] step 40/41 role=hat    pair=15 lane=15 variant=A_same offset=3
+[v101] step 42/43 role=kick   pair=0 lane=0 variant=A_same offset=3
+[v101] step 44/45 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 46/47 role=hat    pair=17 lane=17 variant=A_same offset=3
+[v101] step 48/49 role=kick   pair=1 lane=1 variant=A_same offset=3
+[v101] step 50/51 role=hat    pair=6 lane=6 variant=A_same offset=3
+[v101] step 52/53 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 54/55 role=hat    pair=7 lane=7 variant=A_same offset=3
+[v101] step 56/57 role=hat    pair=8 lane=8 variant=A_same offset=3
+[v101] step 58/59 role=kick   pair=2 lane=2 variant=A_same offset=3
+[v101] step 60/61 role=snare  pair=14 lane=14 variant=A_same offset=3
+[v101] step 62/63 role=hat    pair=11 lane=11 variant=A_same offset=3
+
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=10 | lane=10 | len=2
+[v101] id=1 | step 02/03 | pair=9 | lane=9 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=14 | lane=14 | len=2
+[v101] id=3 | step 06/07 | pair=9 | lane=9 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=10 | lane=10 | len=2
+[v101] id=6 | step 12/13 | pair=14 | lane=14 | len=2
+[v101] id=7 | step 14/15 | pair=9 | lane=9 | len=2
+[v101] id=8 | step 16/17 | pair=10 | lane=10 | len=2
+[v101] id=9 | step 18/19 | pair=9 | lane=9 | len=2
+[v101] id=10 | step 20/21 | pair=14 | lane=14 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=9 | lane=9 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=10 | lane=10 | len=2
+[v101] id=14 | step 28/29 | pair=14 | lane=14 | len=2
+[v101] id=15 | step 30/31 | pair=9 | lane=9 | len=2
+[v101] id=16 | step 32/33 | pair=16 | lane=16 | len=2
+[v101] id=17 | step 34/35 | pair=11 | lane=11 | len=2
+[v101] id=18 | step 36/37 | pair=14 | lane=14 | len=2
+[v101] id=19 | step 38/39 | pair=12 | lane=12 | len=2
+[v101] id=20 | step 40/41 | pair=15 | lane=15 | len=2
+[v101] id=21 | step 42/43 | pair=0 | lane=0 | len=2
+[v101] id=22 | step 44/45 | pair=14 | lane=14 | len=2
+[v101] id=23 | step 46/47 | pair=17 | lane=17 | len=2
+[v101] id=24 | step 48/49 | pair=1 | lane=1 | len=2
+[v101] id=25 | step 50/51 | pair=6 | lane=6 | len=2
+[v101] id=26 | step 52/53 | pair=14 | lane=14 | len=2
+[v101] id=27 | step 54/55 | pair=7 | lane=7 | len=2
+[v101] id=28 | step 56/57 | pair=8 | lane=8 | len=2
+[v101] id=29 | step 58/59 | pair=2 | lane=2 | len=2
+[v101] id=30 | step 60/61 | pair=14 | lane=14 | len=2
+[v101] id=31 | step 62/63 | pair=11 | lane=11 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 10, 'x_step': 0, 'length': 2, 'lane': 10, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 9, 'x_step': 2, 'length': 2, 'lane': 9, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 14, 'x_step': 4, 'length': 2, 'lane': 14, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 9, 'x_step': 6, 'length': 2, 'lane': 9, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 10, 'x_step': 10, 'length': 2, 'lane': 10, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 14, 'x_step': 12, 'length': 2, 'lane': 14, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 9, 'x_step': 14, 'length': 2, 'lane': 9, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 10, 'x_step': 16, 'length': 2, 'lane': 10, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 9, 'x_step': 18, 'length': 2, 'lane': 9, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 14, 'x_step': 20, 'length': 2, 'lane': 14, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 9, 'x_step': 22, 'length': 2, 'lane': 9, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 10, 'x_step': 26, 'length': 2, 'lane': 10, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 14, 'x_step': 28, 'length': 2, 'lane': 14, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 9, 'x_step': 30, 'length': 2, 'lane': 9, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 16, 'x_step': 32, 'length': 2, 'lane': 16, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 11, 'x_step': 34, 'length': 2, 'lane': 11, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 14, 'x_step': 36, 'length': 2, 'lane': 14, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 12, 'x_step': 38, 'length': 2, 'lane': 12, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 15, 'x_step': 40, 'length': 2, 'lane': 15, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 0, 'x_step': 42, 'length': 2, 'lane': 0, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 14, 'x_step': 44, 'length': 2, 'lane': 14, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 17, 'x_step': 46, 'length': 2, 'lane': 17, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 1, 'x_step': 48, 'length': 2, 'lane': 1, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 6, 'x_step': 50, 'length': 2, 'lane': 6, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 14, 'x_step': 52, 'length': 2, 'lane': 14, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 7, 'x_step': 54, 'length': 2, 'lane': 7, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 8, 'x_step': 56, 'length': 2, 'lane': 8, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 2, 'x_step': 58, 'length': 2, 'lane': 2, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 14, 'x_step': 60, 'length': 2, 'lane': 14, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 11, 'x_step': 62, 'length': 2, 'lane': 11, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=1 | step=2 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=3 | step=6 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=10 | lane=10 | len=2
+[v101] id=1 | step 02/03 | pair=8 | lane=8 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=14 | lane=14 | len=2
+[v101] id=3 | step 06/07 | pair=8 | lane=8 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=10 | lane=10 | len=2
+[v101] id=6 | step 12/13 | pair=14 | lane=14 | len=2
+[v101] id=7 | step 14/15 | pair=9 | lane=9 | len=2
+[v101] id=8 | step 16/17 | pair=10 | lane=10 | len=2
+[v101] id=9 | step 18/19 | pair=9 | lane=9 | len=2
+[v101] id=10 | step 20/21 | pair=14 | lane=14 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=9 | lane=9 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=10 | lane=10 | len=2
+[v101] id=14 | step 28/29 | pair=14 | lane=14 | len=2
+[v101] id=15 | step 30/31 | pair=9 | lane=9 | len=2
+[v101] id=16 | step 32/33 | pair=16 | lane=16 | len=2
+[v101] id=17 | step 34/35 | pair=11 | lane=11 | len=2
+[v101] id=18 | step 36/37 | pair=14 | lane=14 | len=2
+[v101] id=19 | step 38/39 | pair=12 | lane=12 | len=2
+[v101] id=20 | step 40/41 | pair=15 | lane=15 | len=2
+[v101] id=21 | step 42/43 | pair=0 | lane=0 | len=2
+[v101] id=22 | step 44/45 | pair=14 | lane=14 | len=2
+[v101] id=23 | step 46/47 | pair=17 | lane=17 | len=2
+[v101] id=24 | step 48/49 | pair=1 | lane=1 | len=2
+[v101] id=25 | step 50/51 | pair=6 | lane=6 | len=2
+[v101] id=26 | step 52/53 | pair=14 | lane=14 | len=2
+[v101] id=27 | step 54/55 | pair=7 | lane=7 | len=2
+[v101] id=28 | step 56/57 | pair=8 | lane=8 | len=2
+[v101] id=29 | step 58/59 | pair=2 | lane=2 | len=2
+[v101] id=30 | step 60/61 | pair=14 | lane=14 | len=2
+[v101] id=31 | step 62/63 | pair=11 | lane=11 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 10, 'x_step': 0, 'length': 2, 'lane': 10, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 8, 'x_step': 2, 'length': 2, 'lane': 8, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 14, 'x_step': 4, 'length': 2, 'lane': 14, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 8, 'x_step': 6, 'length': 2, 'lane': 8, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 10, 'x_step': 10, 'length': 2, 'lane': 10, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 14, 'x_step': 12, 'length': 2, 'lane': 14, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 9, 'x_step': 14, 'length': 2, 'lane': 9, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 10, 'x_step': 16, 'length': 2, 'lane': 10, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 9, 'x_step': 18, 'length': 2, 'lane': 9, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 14, 'x_step': 20, 'length': 2, 'lane': 14, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 9, 'x_step': 22, 'length': 2, 'lane': 9, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 10, 'x_step': 26, 'length': 2, 'lane': 10, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 14, 'x_step': 28, 'length': 2, 'lane': 14, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 9, 'x_step': 30, 'length': 2, 'lane': 9, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 16, 'x_step': 32, 'length': 2, 'lane': 16, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 11, 'x_step': 34, 'length': 2, 'lane': 11, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 14, 'x_step': 36, 'length': 2, 'lane': 14, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 12, 'x_step': 38, 'length': 2, 'lane': 12, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 15, 'x_step': 40, 'length': 2, 'lane': 15, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 0, 'x_step': 42, 'length': 2, 'lane': 0, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 14, 'x_step': 44, 'length': 2, 'lane': 14, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 17, 'x_step': 46, 'length': 2, 'lane': 17, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 1, 'x_step': 48, 'length': 2, 'lane': 1, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 6, 'x_step': 50, 'length': 2, 'lane': 6, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 14, 'x_step': 52, 'length': 2, 'lane': 14, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 7, 'x_step': 54, 'length': 2, 'lane': 7, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 8, 'x_step': 56, 'length': 2, 'lane': 8, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 2, 'x_step': 58, 'length': 2, 'lane': 2, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 14, 'x_step': 60, 'length': 2, 'lane': 14, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 11, 'x_step': 62, 'length': 2, 'lane': 11, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=4 | step=8 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=7 | step=14 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=9 | step=18 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=11 | step=22 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=12 | step=24 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=15 | step=30 | len=2 | pair=9
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=10 | lane=10 | len=2
+[v101] id=1 | step 02/03 | pair=8 | lane=8 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=14 | lane=14 | len=2
+[v101] id=3 | step 06/07 | pair=8 | lane=8 | len=2
+[v101] id=4 | step 08/09 | pair=8 | lane=8 | len=2
+[v101] id=5 | step 10/11 | pair=10 | lane=10 | len=2
+[v101] id=6 | step 12/13 | pair=14 | lane=14 | len=2
+[v101] id=7 | step 14/15 | pair=8 | lane=8 | len=2
+[v101] id=8 | step 16/17 | pair=10 | lane=10 | len=2
+[v101] id=9 | step 18/19 | pair=8 | lane=8 | len=2
+[v101] id=10 | step 20/21 | pair=14 | lane=14 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=8 | lane=8 | len=2
+[v101] id=12 | step 24/25 | pair=8 | lane=8 | len=2
+[v101] id=13 | step 26/27 | pair=10 | lane=10 | len=2
+[v101] id=14 | step 28/29 | pair=14 | lane=14 | len=2
+[v101] id=15 | step 30/31 | pair=8 | lane=8 | len=2
+[v101] id=16 | step 32/33 | pair=16 | lane=16 | len=2
+[v101] id=17 | step 34/35 | pair=11 | lane=11 | len=2
+[v101] id=18 | step 36/37 | pair=14 | lane=14 | len=2
+[v101] id=19 | step 38/39 | pair=12 | lane=12 | len=2
+[v101] id=20 | step 40/41 | pair=15 | lane=15 | len=2
+[v101] id=21 | step 42/43 | pair=0 | lane=0 | len=2
+[v101] id=22 | step 44/45 | pair=14 | lane=14 | len=2
+[v101] id=23 | step 46/47 | pair=17 | lane=17 | len=2
+[v101] id=24 | step 48/49 | pair=1 | lane=1 | len=2
+[v101] id=25 | step 50/51 | pair=6 | lane=6 | len=2
+[v101] id=26 | step 52/53 | pair=14 | lane=14 | len=2
+[v101] id=27 | step 54/55 | pair=7 | lane=7 | len=2
+[v101] id=28 | step 56/57 | pair=8 | lane=8 | len=2
+[v101] id=29 | step 58/59 | pair=2 | lane=2 | len=2
+[v101] id=30 | step 60/61 | pair=14 | lane=14 | len=2
+[v101] id=31 | step 62/63 | pair=11 | lane=11 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 10, 'x_step': 0, 'length': 2, 'lane': 10, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 8, 'x_step': 2, 'length': 2, 'lane': 8, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 14, 'x_step': 4, 'length': 2, 'lane': 14, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 8, 'x_step': 6, 'length': 2, 'lane': 8, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 8, 'x_step': 8, 'length': 2, 'lane': 8, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 10, 'x_step': 10, 'length': 2, 'lane': 10, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 14, 'x_step': 12, 'length': 2, 'lane': 14, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 8, 'x_step': 14, 'length': 2, 'lane': 8, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 10, 'x_step': 16, 'length': 2, 'lane': 10, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 8, 'x_step': 18, 'length': 2, 'lane': 8, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 14, 'x_step': 20, 'length': 2, 'lane': 14, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 8, 'x_step': 22, 'length': 2, 'lane': 8, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 8, 'x_step': 24, 'length': 2, 'lane': 8, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 10, 'x_step': 26, 'length': 2, 'lane': 10, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 14, 'x_step': 28, 'length': 2, 'lane': 14, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 8, 'x_step': 30, 'length': 2, 'lane': 8, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 16, 'x_step': 32, 'length': 2, 'lane': 16, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 11, 'x_step': 34, 'length': 2, 'lane': 11, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 14, 'x_step': 36, 'length': 2, 'lane': 14, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 12, 'x_step': 38, 'length': 2, 'lane': 12, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 15, 'x_step': 40, 'length': 2, 'lane': 15, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 0, 'x_step': 42, 'length': 2, 'lane': 0, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 14, 'x_step': 44, 'length': 2, 'lane': 14, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 17, 'x_step': 46, 'length': 2, 'lane': 17, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 1, 'x_step': 48, 'length': 2, 'lane': 1, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 6, 'x_step': 50, 'length': 2, 'lane': 6, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 14, 'x_step': 52, 'length': 2, 'lane': 14, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 7, 'x_step': 54, 'length': 2, 'lane': 7, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 8, 'x_step': 56, 'length': 2, 'lane': 8, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 2, 'x_step': 58, 'length': 2, 'lane': 2, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 14, 'x_step': 60, 'length': 2, 'lane': 14, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 11, 'x_step': 62, 'length': 2, 'lane': 11, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=24 | step=48 | len=2 | pair=1
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=10 | lane=10 | len=2
+[v101] id=1 | step 02/03 | pair=8 | lane=8 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=14 | lane=14 | len=2
+[v101] id=3 | step 06/07 | pair=8 | lane=8 | len=2
+[v101] id=4 | step 08/09 | pair=8 | lane=8 | len=2
+[v101] id=5 | step 10/11 | pair=10 | lane=10 | len=2
+[v101] id=6 | step 12/13 | pair=14 | lane=14 | len=2
+[v101] id=7 | step 14/15 | pair=8 | lane=8 | len=2
+[v101] id=8 | step 16/17 | pair=10 | lane=10 | len=2
+[v101] id=9 | step 18/19 | pair=8 | lane=8 | len=2
+[v101] id=10 | step 20/21 | pair=14 | lane=14 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=8 | lane=8 | len=2
+[v101] id=12 | step 24/25 | pair=8 | lane=8 | len=2
+[v101] id=13 | step 26/27 | pair=10 | lane=10 | len=2
+[v101] id=14 | step 28/29 | pair=14 | lane=14 | len=2
+[v101] id=15 | step 30/31 | pair=8 | lane=8 | len=2
+[v101] id=16 | step 32/33 | pair=16 | lane=16 | len=2
+[v101] id=17 | step 34/35 | pair=11 | lane=11 | len=2
+[v101] id=18 | step 36/37 | pair=14 | lane=14 | len=2
+[v101] id=19 | step 38/39 | pair=12 | lane=12 | len=2
+[v101] id=20 | step 40/41 | pair=15 | lane=15 | len=2
+[v101] id=21 | step 42/43 | pair=0 | lane=0 | len=2
+[v101] id=22 | step 44/45 | pair=14 | lane=14 | len=2
+[v101] id=23 | step 46/47 | pair=17 | lane=17 | len=2
+[v101] id=24 | step 48/49 | pair=4 | lane=4 | len=2
+[v101] id=25 | step 50/51 | pair=6 | lane=6 | len=2
+[v101] id=26 | step 52/53 | pair=14 | lane=14 | len=2
+[v101] id=27 | step 54/55 | pair=7 | lane=7 | len=2
+[v101] id=28 | step 56/57 | pair=8 | lane=8 | len=2
+[v101] id=29 | step 58/59 | pair=2 | lane=2 | len=2
+[v101] id=30 | step 60/61 | pair=14 | lane=14 | len=2
+[v101] id=31 | step 62/63 | pair=11 | lane=11 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 10, 'x_step': 0, 'length': 2, 'lane': 10, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 8, 'x_step': 2, 'length': 2, 'lane': 8, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 14, 'x_step': 4, 'length': 2, 'lane': 14, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 8, 'x_step': 6, 'length': 2, 'lane': 8, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 8, 'x_step': 8, 'length': 2, 'lane': 8, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 10, 'x_step': 10, 'length': 2, 'lane': 10, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 14, 'x_step': 12, 'length': 2, 'lane': 14, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 8, 'x_step': 14, 'length': 2, 'lane': 8, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 10, 'x_step': 16, 'length': 2, 'lane': 10, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 8, 'x_step': 18, 'length': 2, 'lane': 8, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 14, 'x_step': 20, 'length': 2, 'lane': 14, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 8, 'x_step': 22, 'length': 2, 'lane': 8, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 8, 'x_step': 24, 'length': 2, 'lane': 8, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 10, 'x_step': 26, 'length': 2, 'lane': 10, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 14, 'x_step': 28, 'length': 2, 'lane': 14, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 8, 'x_step': 30, 'length': 2, 'lane': 8, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 16, 'x_step': 32, 'length': 2, 'lane': 16, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 11, 'x_step': 34, 'length': 2, 'lane': 11, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 14, 'x_step': 36, 'length': 2, 'lane': 14, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 12, 'x_step': 38, 'length': 2, 'lane': 12, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 15, 'x_step': 40, 'length': 2, 'lane': 15, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 0, 'x_step': 42, 'length': 2, 'lane': 0, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 14, 'x_step': 44, 'length': 2, 'lane': 14, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 17, 'x_step': 46, 'length': 2, 'lane': 17, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 4, 'x_step': 48, 'length': 2, 'lane': 4, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 6, 'x_step': 50, 'length': 2, 'lane': 6, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 14, 'x_step': 52, 'length': 2, 'lane': 14, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 7, 'x_step': 54, 'length': 2, 'lane': 7, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 8, 'x_step': 56, 'length': 2, 'lane': 8, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 2, 'x_step': 58, 'length': 2, 'lane': 2, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 14, 'x_step': 60, 'length': 2, 'lane': 14, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 11, 'x_step': 62, 'length': 2, 'lane': 11, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=23 | step=46 | len=2 | pair=17
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=10 | lane=10 | len=2
+[v101] id=1 | step 02/03 | pair=8 | lane=8 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=14 | lane=14 | len=2
+[v101] id=3 | step 06/07 | pair=8 | lane=8 | len=2
+[v101] id=4 | step 08/09 | pair=8 | lane=8 | len=2
+[v101] id=5 | step 10/11 | pair=10 | lane=10 | len=2
+[v101] id=6 | step 12/13 | pair=14 | lane=14 | len=2
+[v101] id=7 | step 14/15 | pair=8 | lane=8 | len=2
+[v101] id=8 | step 16/17 | pair=10 | lane=10 | len=2
+[v101] id=9 | step 18/19 | pair=8 | lane=8 | len=2
+[v101] id=10 | step 20/21 | pair=14 | lane=14 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=8 | lane=8 | len=2
+[v101] id=12 | step 24/25 | pair=8 | lane=8 | len=2
+[v101] id=13 | step 26/27 | pair=10 | lane=10 | len=2
+[v101] id=14 | step 28/29 | pair=14 | lane=14 | len=2
+[v101] id=15 | step 30/31 | pair=8 | lane=8 | len=2
+[v101] id=16 | step 32/33 | pair=16 | lane=16 | len=2
+[v101] id=17 | step 34/35 | pair=11 | lane=11 | len=2
+[v101] id=18 | step 36/37 | pair=14 | lane=14 | len=2
+[v101] id=19 | step 38/39 | pair=12 | lane=12 | len=2
+[v101] id=20 | step 40/41 | pair=15 | lane=15 | len=2
+[v101] id=21 | step 42/43 | pair=0 | lane=0 | len=2
+[v101] id=22 | step 44/45 | pair=14 | lane=14 | len=2
+[v101] id=23 | step 46/47 | pair=16 | lane=16 | len=2
+[v101] id=24 | step 48/49 | pair=2 | lane=2 | len=2
+[v101] id=25 | step 50/51 | pair=6 | lane=6 | len=2
+[v101] id=26 | step 52/53 | pair=14 | lane=14 | len=2
+[v101] id=27 | step 54/55 | pair=7 | lane=7 | len=2
+[v101] id=28 | step 56/57 | pair=8 | lane=8 | len=2
+[v101] id=29 | step 58/59 | pair=2 | lane=2 | len=2
+[v101] id=30 | step 60/61 | pair=14 | lane=14 | len=2
+[v101] id=31 | step 62/63 | pair=11 | lane=11 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 10, 'x_step': 0, 'length': 2, 'lane': 10, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 8, 'x_step': 2, 'length': 2, 'lane': 8, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 14, 'x_step': 4, 'length': 2, 'lane': 14, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 8, 'x_step': 6, 'length': 2, 'lane': 8, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 8, 'x_step': 8, 'length': 2, 'lane': 8, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 10, 'x_step': 10, 'length': 2, 'lane': 10, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 14, 'x_step': 12, 'length': 2, 'lane': 14, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 8, 'x_step': 14, 'length': 2, 'lane': 8, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 10, 'x_step': 16, 'length': 2, 'lane': 10, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 8, 'x_step': 18, 'length': 2, 'lane': 8, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 14, 'x_step': 20, 'length': 2, 'lane': 14, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 8, 'x_step': 22, 'length': 2, 'lane': 8, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 8, 'x_step': 24, 'length': 2, 'lane': 8, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 10, 'x_step': 26, 'length': 2, 'lane': 10, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 14, 'x_step': 28, 'length': 2, 'lane': 14, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 8, 'x_step': 30, 'length': 2, 'lane': 8, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 16, 'x_step': 32, 'length': 2, 'lane': 16, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 11, 'x_step': 34, 'length': 2, 'lane': 11, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 14, 'x_step': 36, 'length': 2, 'lane': 14, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 12, 'x_step': 38, 'length': 2, 'lane': 12, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 15, 'x_step': 40, 'length': 2, 'lane': 15, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 0, 'x_step': 42, 'length': 2, 'lane': 0, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 14, 'x_step': 44, 'length': 2, 'lane': 14, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 16, 'x_step': 46, 'length': 2, 'lane': 16, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 2, 'x_step': 48, 'length': 2, 'lane': 2, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 6, 'x_step': 50, 'length': 2, 'lane': 6, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 14, 'x_step': 52, 'length': 2, 'lane': 14, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 7, 'x_step': 54, 'length': 2, 'lane': 7, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 8, 'x_step': 56, 'length': 2, 'lane': 8, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 2, 'x_step': 58, 'length': 2, 'lane': 2, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 14, 'x_step': 60, 'length': 2, 'lane': 14, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 11, 'x_step': 62, 'length': 2, 'lane': 11, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] mouse down move | id=24 | step=48 | len=2 | pair=2
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json
+[v101] Espace détecté
+[v101] Fermeture : arrêt audio + destruction fenêtre
+[v101] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v101] Backend audio : pw-play -> /usr/bin/pw-play
+[v101] boutons Charger break patchés : 2
+[v101] boutons training patchés : 8
+[v101] attr width step_width: 36 -> 33.0
+[v101] boutons patchés : Generate=2, Reject/Bad=2
+[v101] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v101] Espace détecté
+[v101] Space ignoré : pattern vide.
+[v101] Espace détecté
+[v101] Space ignoré : pattern vide.
+
+[v101] GENERATE 64
+[v101] break: Centuries_Break
+[v101] variant: A_same
+[v101] role_offset: 0
+[v101] locks: {}
+[v101] kick  : pair=0 source=role_pool_offset_0 lane=0 pool=[0, 6, 8, 13, 15]
+[v101] snare : pair=4 source=role_pool_offset_0 lane=4 pool=[4, 5, 11, 12, 17]
+[v101] hat   : pair=2 source=role_pool_offset_0 lane=2 pool=[2, 3, 7, 9, 10, 16]
+
+
+[v101] GENERATED PATTERN 64
+[v101] step 00/01 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 02/03 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 04/05 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 06/07 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 08/09 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 10/11 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 12/13 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 14/15 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 16/17 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 18/19 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 20/21 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 22/23 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 24/25 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 26/27 role=kick   pair=0 lane=0 variant=A_same offset=0
+[v101] step 28/29 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 30/31 role=hat    pair=2 lane=2 variant=A_same offset=0
+[v101] step 32/33 role=kick   pair=6 lane=6 variant=A_same offset=0
+[v101] step 34/35 role=hat    pair=3 lane=3 variant=A_same offset=0
+[v101] step 36/37 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 38/39 role=hat    pair=7 lane=7 variant=A_same offset=0
+[v101] step 40/41 role=hat    pair=9 lane=9 variant=A_same offset=0
+[v101] step 42/43 role=kick   pair=8 lane=8 variant=A_same offset=0
+[v101] step 44/45 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 46/47 role=hat    pair=10 lane=10 variant=A_same offset=0
+[v101] step 48/49 role=kick   pair=13 lane=13 variant=A_same offset=0
+[v101] step 50/51 role=hat    pair=16 lane=16 variant=A_same offset=0
+[v101] step 52/53 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 54/55 role=hat    pair=3 lane=3 variant=A_same offset=0
+[v101] step 56/57 role=hat    pair=7 lane=7 variant=A_same offset=0
+[v101] step 58/59 role=kick   pair=15 lane=15 variant=A_same offset=0
+[v101] step 60/61 role=snare  pair=4 lane=4 variant=A_same offset=0
+[v101] step 62/63 role=hat    pair=9 lane=9 variant=A_same offset=0
+
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=2 | lane=2 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=2 | lane=2 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] global warp OK | source_len=127472 | target_len=273135 | bpm=155.0
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 2, 'x_step': 8, 'length': 2, 'lane': 2, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 2, 'x_step': 24, 'length': 2, 'lane': 2, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=2 | lane=2 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=2 | lane=2 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 2, 'x_step': 8, 'length': 2, 'lane': 2, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 2, 'x_step': 24, 'length': 2, 'lane': 2, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=2 | lane=2 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=2 | lane=2 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 2, 'x_step': 8, 'length': 2, 'lane': 2, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 2, 'x_step': 24, 'length': 2, 'lane': 2, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=2 | lane=2 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=2 | lane=2 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 2, 'x_step': 8, 'length': 2, 'lane': 2, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 2, 'x_step': 24, 'length': 2, 'lane': 2, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=2 | lane=2 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=2 | lane=2 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 2, 'x_step': 8, 'length': 2, 'lane': 2, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 2, 'x_step': 24, 'length': 2, 'lane': 2, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=4 | step=8 | len=2 | pair=2
+[v101] correction sauvegardée : move_note_v62
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] move | id=4 | step 8 -> 8 | pair 2 -> 9
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=2 | lane=2 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 2, 'x_step': 24, 'length': 2, 'lane': 2, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=12 | step=24 | len=2 | pair=2
+[v101] correction sauvegardée : move_note_v62
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] move | id=12 | step 24 -> 24 | pair 2 -> 9
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=7 | lane=7 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 7, 'x_step': 56, 'length': 2, 'lane': 7, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=28 | step=56 | len=2 | pair=7
+[v101] correction sauvegardée : move_note_v62
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] move | id=28 | step 56 -> 56 | pair 7 -> 9
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=2 | lane=2 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 2, 'x_step': 30, 'length': 2, 'lane': 2, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=17 | step=34 | len=2 | pair=3
+[v101] mouse down move | id=15 | step=30 | len=2 | pair=2
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=2 | lane=2 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=3 | lane=3 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 2, 'x_step': 2, 'length': 2, 'lane': 2, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 3, 'x_step': 30, 'length': 2, 'lane': 3, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=1 | step=2 | len=2 | pair=2
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=3 | lane=3 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=2 | lane=2 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=2 | lane=2 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=2 | lane=2 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=2 | lane=2 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=3 | lane=3 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 3, 'x_step': 2, 'length': 2, 'lane': 3, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 2, 'x_step': 6, 'length': 2, 'lane': 2, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 2, 'x_step': 14, 'length': 2, 'lane': 2, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 2, 'x_step': 18, 'length': 2, 'lane': 2, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 2, 'x_step': 22, 'length': 2, 'lane': 2, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 3, 'x_step': 30, 'length': 2, 'lane': 3, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=3 | step=6 | len=2 | pair=2
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] mouse down move | id=7 | step=14 | len=2 | pair=2
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] mouse down move | id=9 | step=18 | len=2 | pair=2
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] mouse down move | id=11 | step=22 | len=2 | pair=2
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=3 | lane=3 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=3 | lane=3 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=3 | lane=3 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=3 | lane=3 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=3 | lane=3 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=3 | lane=3 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=7 | lane=7 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 3, 'x_step': 2, 'length': 2, 'lane': 3, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 3, 'x_step': 6, 'length': 2, 'lane': 3, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 3, 'x_step': 14, 'length': 2, 'lane': 3, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 3, 'x_step': 18, 'length': 2, 'lane': 3, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 3, 'x_step': 22, 'length': 2, 'lane': 3, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 3, 'x_step': 30, 'length': 2, 'lane': 3, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 7, 'x_step': 38, 'length': 2, 'lane': 7, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] mouse down move | id=19 | step=38 | len=2 | pair=7
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=3 | lane=3 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=3 | lane=3 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=3 | lane=3 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=3 | lane=3 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=3 | lane=3 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=3 | lane=3 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=6 | lane=6 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 3, 'x_step': 2, 'length': 2, 'lane': 3, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 3, 'x_step': 6, 'length': 2, 'lane': 3, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 3, 'x_step': 14, 'length': 2, 'lane': 3, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 3, 'x_step': 18, 'length': 2, 'lane': 3, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 3, 'x_step': 22, 'length': 2, 'lane': 3, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 3, 'x_step': 30, 'length': 2, 'lane': 3, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 6, 'x_step': 38, 'length': 2, 'lane': 6, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] correction sauvegardée : keyboard_move_case
+[v101] correction path : dataset/learning/corrections/Centuries_Break_slice_index_corrections_v44.jsonl
+[v101] latest path : dataset/learning/latest/Centuries_Break_latest_slice_index_v101.json
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=3 | lane=3 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=3 | lane=3 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=3 | lane=3 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=3 | lane=3 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=3 | lane=3 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=3 | lane=3 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=3 | lane=3 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 3, 'x_step': 2, 'length': 2, 'lane': 3, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 3, 'x_step': 6, 'length': 2, 'lane': 3, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 3, 'x_step': 14, 'length': 2, 'lane': 3, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 3, 'x_step': 18, 'length': 2, 'lane': 3, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 3, 'x_step': 22, 'length': 2, 'lane': 3, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 3, 'x_step': 30, 'length': 2, 'lane': 3, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 3, 'x_step': 38, 'length': 2, 'lane': 3, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=3 | lane=3 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=3 | lane=3 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=3 | lane=3 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=3 | lane=3 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=3 | lane=3 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=3 | lane=3 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=3 | lane=3 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 3, 'x_step': 2, 'length': 2, 'lane': 3, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 3, 'x_step': 6, 'length': 2, 'lane': 3, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 3, 'x_step': 14, 'length': 2, 'lane': 3, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 3, 'x_step': 18, 'length': 2, 'lane': 3, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 3, 'x_step': 22, 'length': 2, 'lane': 3, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 3, 'x_step': 30, 'length': 2, 'lane': 3, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 3, 'x_step': 38, 'length': 2, 'lane': 3, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v101] id=1 | step 02/03 | pair=3 | lane=3 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=4 | lane=4 | len=2
+[v101] id=3 | step 06/07 | pair=3 | lane=3 | len=2
+[v101] id=4 | step 08/09 | pair=9 | lane=9 | len=2
+[v101] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v101] id=6 | step 12/13 | pair=4 | lane=4 | len=2
+[v101] id=7 | step 14/15 | pair=3 | lane=3 | len=2
+[v101] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v101] id=9 | step 18/19 | pair=3 | lane=3 | len=2
+[v101] id=10 | step 20/21 | pair=4 | lane=4 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=3 | lane=3 | len=2
+[v101] id=12 | step 24/25 | pair=9 | lane=9 | len=2
+[v101] id=13 | step 26/27 | pair=0 | lane=0 | len=2
+[v101] id=14 | step 28/29 | pair=4 | lane=4 | len=2
+[v101] id=15 | step 30/31 | pair=3 | lane=3 | len=2
+[v101] id=16 | step 32/33 | pair=6 | lane=6 | len=2
+[v101] id=17 | step 34/35 | pair=3 | lane=3 | len=2
+[v101] id=18 | step 36/37 | pair=4 | lane=4 | len=2
+[v101] id=19 | step 38/39 | pair=3 | lane=3 | len=2
+[v101] id=20 | step 40/41 | pair=9 | lane=9 | len=2
+[v101] id=21 | step 42/43 | pair=8 | lane=8 | len=2
+[v101] id=22 | step 44/45 | pair=4 | lane=4 | len=2
+[v101] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v101] id=24 | step 48/49 | pair=13 | lane=13 | len=2
+[v101] id=25 | step 50/51 | pair=16 | lane=16 | len=2
+[v101] id=26 | step 52/53 | pair=4 | lane=4 | len=2
+[v101] id=27 | step 54/55 | pair=3 | lane=3 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=15 | lane=15 | len=2
+[v101] id=30 | step 60/61 | pair=4 | lane=4 | len=2
+[v101] id=31 | step 62/63 | pair=9 | lane=9 | len=2
+
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19356009070294786}
+[v101]   {'id': 1, 'pair': 3, 'x_step': 2, 'length': 2, 'lane': 3, 'start_sec': 0.19356009070294786, 'end_sec': 0.3871201814058957}
+[v101]   {'id': 2, 'pair': 4, 'x_step': 4, 'length': 2, 'lane': 4, 'start_sec': 0.3871201814058957, 'end_sec': 0.5806802721088435}
+[v101]   {'id': 3, 'pair': 3, 'x_step': 6, 'length': 2, 'lane': 3, 'start_sec': 0.5806802721088435, 'end_sec': 0.7742403628117914}
+[v101]   {'id': 4, 'pair': 9, 'x_step': 8, 'length': 2, 'lane': 9, 'start_sec': 0.7742403628117914, 'end_sec': 0.9678004535147392}
+[v101]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9678004535147392, 'end_sec': 1.161360544217687}
+[v101]   {'id': 6, 'pair': 4, 'x_step': 12, 'length': 2, 'lane': 4, 'start_sec': 1.161360544217687, 'end_sec': 1.3549206349206349}
+[v101]   {'id': 7, 'pair': 3, 'x_step': 14, 'length': 2, 'lane': 3, 'start_sec': 1.3549206349206349, 'end_sec': 1.5484807256235829}
+[v101]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.5484807256235829, 'end_sec': 1.7420408163265306}
+[v101]   {'id': 9, 'pair': 3, 'x_step': 18, 'length': 2, 'lane': 3, 'start_sec': 1.7420408163265306, 'end_sec': 1.9356009070294784}
+[v101]   {'id': 10, 'pair': 4, 'x_step': 20, 'length': 2, 'lane': 4, 'start_sec': 1.9356009070294784, 'end_sec': 2.129160997732426}
+[v101]   {'id': 11, 'pair': 3, 'x_step': 22, 'length': 2, 'lane': 3, 'start_sec': 2.129160997732426, 'end_sec': 2.322721088435374}
+[v101]   {'id': 12, 'pair': 9, 'x_step': 24, 'length': 2, 'lane': 9, 'start_sec': 2.322721088435374, 'end_sec': 2.516281179138322}
+[v101]   {'id': 13, 'pair': 0, 'x_step': 26, 'length': 2, 'lane': 0, 'start_sec': 2.516281179138322, 'end_sec': 2.7098412698412697}
+[v101]   {'id': 14, 'pair': 4, 'x_step': 28, 'length': 2, 'lane': 4, 'start_sec': 2.7098412698412697, 'end_sec': 2.9034013605442177}
+[v101]   {'id': 15, 'pair': 3, 'x_step': 30, 'length': 2, 'lane': 3, 'start_sec': 2.9034013605442177, 'end_sec': 3.0969614512471657}
+[v101]   {'id': 16, 'pair': 6, 'x_step': 32, 'length': 2, 'lane': 6, 'start_sec': 3.0969614512471657, 'end_sec': 3.2905215419501133}
+[v101]   {'id': 17, 'pair': 3, 'x_step': 34, 'length': 2, 'lane': 3, 'start_sec': 3.2905215419501133, 'end_sec': 3.4840816326530613}
+[v101]   {'id': 18, 'pair': 4, 'x_step': 36, 'length': 2, 'lane': 4, 'start_sec': 3.4840816326530613, 'end_sec': 3.6776417233560093}
+[v101]   {'id': 19, 'pair': 3, 'x_step': 38, 'length': 2, 'lane': 3, 'start_sec': 3.6776417233560093, 'end_sec': 3.871201814058957}
+[v101]   {'id': 20, 'pair': 9, 'x_step': 40, 'length': 2, 'lane': 9, 'start_sec': 3.871201814058957, 'end_sec': 4.064761904761904}
+[v101]   {'id': 21, 'pair': 8, 'x_step': 42, 'length': 2, 'lane': 8, 'start_sec': 4.064761904761904, 'end_sec': 4.258321995464852}
+[v101]   {'id': 22, 'pair': 4, 'x_step': 44, 'length': 2, 'lane': 4, 'start_sec': 4.258321995464852, 'end_sec': 4.4518820861678}
+[v101]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.4518820861678, 'end_sec': 4.645442176870748}
+[v101]   {'id': 24, 'pair': 13, 'x_step': 48, 'length': 2, 'lane': 13, 'start_sec': 4.645442176870748, 'end_sec': 4.839002267573696}
+[v101]   {'id': 25, 'pair': 16, 'x_step': 50, 'length': 2, 'lane': 16, 'start_sec': 4.839002267573696, 'end_sec': 5.032562358276644}
+[v101]   {'id': 26, 'pair': 4, 'x_step': 52, 'length': 2, 'lane': 4, 'start_sec': 5.032562358276644, 'end_sec': 5.226122448979591}
+[v101]   {'id': 27, 'pair': 3, 'x_step': 54, 'length': 2, 'lane': 3, 'start_sec': 5.226122448979591, 'end_sec': 5.419682539682539}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.419682539682539, 'end_sec': 5.613242630385487}
+[v101]   {'id': 29, 'pair': 15, 'x_step': 58, 'length': 2, 'lane': 15, 'start_sec': 5.613242630385487, 'end_sec': 5.806802721088435}
+[v101]   {'id': 30, 'pair': 4, 'x_step': 60, 'length': 2, 'lane': 4, 'start_sec': 5.806802721088435, 'end_sec': 6.000362811791383}
+[v101]   {'id': 31, 'pair': 9, 'x_step': 62, 'length': 2, 'lane': 9, 'start_sec': 6.000362811791383, 'end_sec': 6.193922902494331}
+[v101] Espace détecté
+[v101] Fermeture : arrêt audio + destruction fenêtre
+[v101] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v101] Backend audio : pw-play -> /usr/bin/pw-play
+[v101] boutons Charger break patchés : 2
+[v101] boutons training patchés : 8
+[v101] attr width step_width: 36 -> 33.0
+[v101] boutons patchés : Generate=2, Reject/Bad=2
+
+[v101] GENERATE 64
+[v101] break: Camo_Break_-_3A
+[v101] variant: C_kick_late
+[v101] role_offset: 2
+[v101] locks: {}
+[v101] kick  : pair=7 source=role_pool_offset_2 lane=7 pool=[1, 4, 7, 8, 11]
+[v101] snare : pair=12 source=role_pool_offset_2 lane=12 pool=[5, 7, 12, 13]
+[v101] hat   : pair=6 source=role_pool_offset_2 lane=6 pool=[2, 3, 6, 7, 9, 10]
+
+
+[v101] GENERATED PATTERN 64
+[v101] step 00/01 role=kick   pair=7 lane=7 variant=C_kick_late offset=2
+[v101] step 02/03 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 04/05 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 06/07 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 08/09 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 10/11 role=kick   pair=7 lane=7 variant=C_kick_late offset=2
+[v101] step 12/13 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 14/15 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 16/17 role=kick   pair=7 lane=7 variant=C_kick_late offset=2
+[v101] step 18/19 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 20/21 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 22/23 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 24/25 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 26/27 role=kick   pair=7 lane=7 variant=C_kick_late offset=2
+[v101] step 28/29 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 30/31 role=hat    pair=6 lane=6 variant=C_kick_late offset=2
+[v101] step 32/33 role=kick   pair=8 lane=8 variant=C_kick_late offset=2
+[v101] step 34/35 role=hat    pair=7 lane=7 variant=C_kick_late offset=2
+[v101] step 36/37 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 38/39 role=hat    pair=9 lane=9 variant=C_kick_late offset=2
+[v101] step 40/41 role=hat    pair=10 lane=10 variant=C_kick_late offset=2
+[v101] step 42/43 role=kick   pair=11 lane=11 variant=C_kick_late offset=2
+[v101] step 44/45 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 46/47 role=hat    pair=2 lane=2 variant=C_kick_late offset=2
+[v101] step 48/49 role=hat    pair=3 lane=3 variant=C_kick_late offset=2
+[v101] step 50/51 role=kick   pair=1 lane=1 variant=C_kick_late offset=2
+[v101] step 52/53 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 54/55 role=hat    pair=7 lane=7 variant=C_kick_late offset=2
+[v101] step 56/57 role=hat    pair=9 lane=9 variant=C_kick_late offset=2
+[v101] step 58/59 role=kick   pair=4 lane=4 variant=C_kick_late offset=2
+[v101] step 60/61 role=snare  pair=12 lane=12 variant=C_kick_late offset=2
+[v101] step 62/63 role=hat    pair=10 lane=10 variant=C_kick_late offset=2
+
+[v101] Espace détecté
+
+[v101] DEBUG PATTERN avant render_audio_with_timeline
+[v101] items = 32
+[v101] id=0 | step 00/01 | pair=7 | lane=7 | len=2
+[v101] id=1 | step 02/03 | pair=6 | lane=6 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=2 | step 04/05 | pair=12 | lane=12 | len=2
+[v101] id=3 | step 06/07 | pair=6 | lane=6 | len=2
+[v101] id=4 | step 08/09 | pair=6 | lane=6 | len=2
+[v101] id=5 | step 10/11 | pair=7 | lane=7 | len=2
+[v101] id=6 | step 12/13 | pair=12 | lane=12 | len=2
+[v101] id=7 | step 14/15 | pair=6 | lane=6 | len=2
+[v101] id=8 | step 16/17 | pair=7 | lane=7 | len=2
+[v101] id=9 | step 18/19 | pair=6 | lane=6 | len=2
+[v101] id=10 | step 20/21 | pair=12 | lane=12 | len=2  <<< ICI possiblement ton 'poinnn'
+[v101] id=11 | step 22/23 | pair=6 | lane=6 | len=2
+[v101] id=12 | step 24/25 | pair=6 | lane=6 | len=2
+[v101] id=13 | step 26/27 | pair=7 | lane=7 | len=2
+[v101] id=14 | step 28/29 | pair=12 | lane=12 | len=2
+[v101] id=15 | step 30/31 | pair=6 | lane=6 | len=2
+[v101] id=16 | step 32/33 | pair=8 | lane=8 | len=2
+[v101] id=17 | step 34/35 | pair=7 | lane=7 | len=2
+[v101] id=18 | step 36/37 | pair=12 | lane=12 | len=2
+[v101] id=19 | step 38/39 | pair=9 | lane=9 | len=2
+[v101] id=20 | step 40/41 | pair=10 | lane=10 | len=2
+[v101] id=21 | step 42/43 | pair=11 | lane=11 | len=2
+[v101] id=22 | step 44/45 | pair=12 | lane=12 | len=2
+[v101] id=23 | step 46/47 | pair=2 | lane=2 | len=2
+[v101] id=24 | step 48/49 | pair=3 | lane=3 | len=2
+[v101] id=25 | step 50/51 | pair=1 | lane=1 | len=2
+[v101] id=26 | step 52/53 | pair=12 | lane=12 | len=2
+[v101] id=27 | step 54/55 | pair=7 | lane=7 | len=2
+[v101] id=28 | step 56/57 | pair=9 | lane=9 | len=2
+[v101] id=29 | step 58/59 | pair=4 | lane=4 | len=2
+[v101] id=30 | step 60/61 | pair=12 | lane=12 | len=2
+[v101] id=31 | step 62/63 | pair=10 | lane=10 | len=2
+
+[v101] global warp OK | source_len=129699 | target_len=273135 | bpm=155.0
+[v101] rendu audio peak=0.94999999 | timeline_events=32
+[v101] timeline events:
+[v101]   {'id': 0, 'pair': 7, 'x_step': 0, 'length': 2, 'lane': 7, 'start_sec': 0.0, 'end_sec': 0.19401360544217688}
+[v101]   {'id': 1, 'pair': 6, 'x_step': 2, 'length': 2, 'lane': 6, 'start_sec': 0.19401360544217688, 'end_sec': 0.38802721088435377}
+[v101]   {'id': 2, 'pair': 12, 'x_step': 4, 'length': 2, 'lane': 12, 'start_sec': 0.38802721088435377, 'end_sec': 0.5820408163265306}
+[v101]   {'id': 3, 'pair': 6, 'x_step': 6, 'length': 2, 'lane': 6, 'start_sec': 0.5820408163265306, 'end_sec': 0.7760544217687075}
+[v101]   {'id': 4, 'pair': 6, 'x_step': 8, 'length': 2, 'lane': 6, 'start_sec': 0.7760544217687075, 'end_sec': 0.9700680272108844}
+[v101]   {'id': 5, 'pair': 7, 'x_step': 10, 'length': 2, 'lane': 7, 'start_sec': 0.9700680272108844, 'end_sec': 1.1640816326530612}
+[v101]   {'id': 6, 'pair': 12, 'x_step': 12, 'length': 2, 'lane': 12, 'start_sec': 1.1640816326530612, 'end_sec': 1.358095238095238}
+[v101]   {'id': 7, 'pair': 6, 'x_step': 14, 'length': 2, 'lane': 6, 'start_sec': 1.358095238095238, 'end_sec': 1.552108843537415}
+[v101]   {'id': 8, 'pair': 7, 'x_step': 16, 'length': 2, 'lane': 7, 'start_sec': 1.552108843537415, 'end_sec': 1.746122448979592}
+[v101]   {'id': 9, 'pair': 6, 'x_step': 18, 'length': 2, 'lane': 6, 'start_sec': 1.746122448979592, 'end_sec': 1.9401360544217687}
+[v101]   {'id': 10, 'pair': 12, 'x_step': 20, 'length': 2, 'lane': 12, 'start_sec': 1.9401360544217687, 'end_sec': 2.1341496598639456}
+[v101]   {'id': 11, 'pair': 6, 'x_step': 22, 'length': 2, 'lane': 6, 'start_sec': 2.1341496598639456, 'end_sec': 2.3281632653061224}
+[v101]   {'id': 12, 'pair': 6, 'x_step': 24, 'length': 2, 'lane': 6, 'start_sec': 2.3281632653061224, 'end_sec': 2.522176870748299}
+[v101]   {'id': 13, 'pair': 7, 'x_step': 26, 'length': 2, 'lane': 7, 'start_sec': 2.522176870748299, 'end_sec': 2.716190476190476}
+[v101]   {'id': 14, 'pair': 12, 'x_step': 28, 'length': 2, 'lane': 12, 'start_sec': 2.716190476190476, 'end_sec': 2.910204081632653}
+[v101]   {'id': 15, 'pair': 6, 'x_step': 30, 'length': 2, 'lane': 6, 'start_sec': 2.910204081632653, 'end_sec': 3.10421768707483}
+[v101]   {'id': 16, 'pair': 8, 'x_step': 32, 'length': 2, 'lane': 8, 'start_sec': 3.10421768707483, 'end_sec': 3.298231292517007}
+[v101]   {'id': 17, 'pair': 7, 'x_step': 34, 'length': 2, 'lane': 7, 'start_sec': 3.298231292517007, 'end_sec': 3.492244897959184}
+[v101]   {'id': 18, 'pair': 12, 'x_step': 36, 'length': 2, 'lane': 12, 'start_sec': 3.492244897959184, 'end_sec': 3.6862585034013606}
+[v101]   {'id': 19, 'pair': 9, 'x_step': 38, 'length': 2, 'lane': 9, 'start_sec': 3.6862585034013606, 'end_sec': 3.8802721088435375}
+[v101]   {'id': 20, 'pair': 10, 'x_step': 40, 'length': 2, 'lane': 10, 'start_sec': 3.8802721088435375, 'end_sec': 4.074285714285714}
+[v101]   {'id': 21, 'pair': 11, 'x_step': 42, 'length': 2, 'lane': 11, 'start_sec': 4.074285714285714, 'end_sec': 4.268299319727891}
+[v101]   {'id': 22, 'pair': 12, 'x_step': 44, 'length': 2, 'lane': 12, 'start_sec': 4.268299319727891, 'end_sec': 4.462312925170068}
+[v101]   {'id': 23, 'pair': 2, 'x_step': 46, 'length': 2, 'lane': 2, 'start_sec': 4.462312925170068, 'end_sec': 4.656326530612245}
+[v101]   {'id': 24, 'pair': 3, 'x_step': 48, 'length': 2, 'lane': 3, 'start_sec': 4.656326530612245, 'end_sec': 4.850340136054422}
+[v101]   {'id': 25, 'pair': 1, 'x_step': 50, 'length': 2, 'lane': 1, 'start_sec': 4.850340136054422, 'end_sec': 5.044353741496598}
+[v101]   {'id': 26, 'pair': 12, 'x_step': 52, 'length': 2, 'lane': 12, 'start_sec': 5.044353741496598, 'end_sec': 5.238367346938776}
+[v101]   {'id': 27, 'pair': 7, 'x_step': 54, 'length': 2, 'lane': 7, 'start_sec': 5.238367346938776, 'end_sec': 5.432380952380952}
+[v101]   {'id': 28, 'pair': 9, 'x_step': 56, 'length': 2, 'lane': 9, 'start_sec': 5.432380952380952, 'end_sec': 5.626394557823129}
+[v101]   {'id': 29, 'pair': 4, 'x_step': 58, 'length': 2, 'lane': 4, 'start_sec': 5.626394557823129, 'end_sec': 5.820408163265306}
+[v101]   {'id': 30, 'pair': 12, 'x_step': 60, 'length': 2, 'lane': 12, 'start_sec': 5.820408163265306, 'end_sec': 6.014421768707483}
+[v101]   {'id': 31, 'pair': 10, 'x_step': 62, 'length': 2, 'lane': 10, 'start_sec': 6.014421768707483, 'end_sec': 6.20843537414966}
+[v101] Espace détecté
+[v101] Fermeture : arrêt audio + destruction fenêtre
+[v124] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v124] Backend audio : pw-play -> /usr/bin/pw-play
+[v124] boutons Charger break patchés : 2
+[v124] boutons training patchés : 8
+[v124] boutons patchés : Generate=2, Reject/Bad=2
+[v124] Export WAV ajouté.
+[v124] espace installé.
+
+[v124] APPLICATION CASES -3.5px
+[v124] attr step_width: 36 -> 32.5
+
+[v124] bouton Export WAV visible ajouté.
+[v124] Fermeture : arrêt audio + destruction fenêtre
+[v124] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v124] Backend audio : pw-play -> /usr/bin/pw-play
+[v124] boutons Charger break patchés : 2
+[v124] boutons training patchés : 8
+[v124] boutons patchés : Generate=2, Reject/Bad=2
+[v124] Export WAV ajouté.
+[v124] espace installé.
+
+[v124] APPLICATION CASES -3.5px
+[v124] attr step_width: 36 -> 32.5
+
+[v124] bouton Export WAV visible ajouté.
+
+[v124] GENERATE 64
+[v124] break: Camo_Break_-_3A
+[v124] first32: D_first32_last_push
+[v124] response: strict_mirror_first32_no_sample_variation
+[v124] role_offset: 5
+[v124] kick  : pair=0 lane=0 source=fallback_distinct_offset_5
+[v124] snare : pair=1 lane=1 source=fallback_distinct_offset_5
+[v124] hat   : pair=10 lane=10 source=role_pool_offset_5
+
+[v124] SPACE -> Loop / Space
+
+[v124] DEBUG PATTERN avant render_audio_with_timeline
+[v124] items = 32
+[v124] id=0 | step 00/01 | pair=0 | lane=0 | len=2
+[v124] id=1 | step 02/03 | pair=10 | lane=10 | len=2  <<< ICI possiblement ton 'poinnn'
+[v124] id=2 | step 04/05 | pair=1 | lane=1 | len=2
+[v124] id=3 | step 06/07 | pair=10 | lane=10 | len=2
+[v124] id=4 | step 08/09 | pair=10 | lane=10 | len=2
+[v124] id=5 | step 10/11 | pair=0 | lane=0 | len=2
+[v124] id=6 | step 12/13 | pair=1 | lane=1 | len=2
+[v124] id=7 | step 14/15 | pair=10 | lane=10 | len=2
+[v124] id=8 | step 16/17 | pair=0 | lane=0 | len=2
+[v124] id=9 | step 18/19 | pair=10 | lane=10 | len=2
+[v124] id=10 | step 20/21 | pair=1 | lane=1 | len=2  <<< ICI possiblement ton 'poinnn'
+[v124] id=11 | step 22/23 | pair=10 | lane=10 | len=2
+[v124] id=12 | step 24/25 | pair=0 | lane=0 | len=2
+[v124] id=13 | step 26/27 | pair=10 | lane=10 | len=2
+[v124] id=14 | step 28/29 | pair=1 | lane=1 | len=2
+[v124] id=15 | step 30/31 | pair=10 | lane=10 | len=2
+[v124] id=16 | step 32/33 | pair=0 | lane=0 | len=2
+[v124] id=17 | step 34/35 | pair=10 | lane=10 | len=2
+[v124] id=18 | step 36/37 | pair=1 | lane=1 | len=2
+[v124] id=19 | step 38/39 | pair=10 | lane=10 | len=2
+[v124] id=20 | step 40/41 | pair=10 | lane=10 | len=2
+[v124] id=21 | step 42/43 | pair=0 | lane=0 | len=2
+[v124] id=22 | step 44/45 | pair=1 | lane=1 | len=2
+[v124] id=23 | step 46/47 | pair=10 | lane=10 | len=2
+[v124] id=24 | step 48/49 | pair=0 | lane=0 | len=2
+[v124] id=25 | step 50/51 | pair=10 | lane=10 | len=2
+[v124] id=26 | step 52/53 | pair=1 | lane=1 | len=2
+[v124] id=27 | step 54/55 | pair=10 | lane=10 | len=2
+[v124] id=28 | step 56/57 | pair=0 | lane=0 | len=2
+[v124] id=29 | step 58/59 | pair=10 | lane=10 | len=2
+[v124] id=30 | step 60/61 | pair=1 | lane=1 | len=2
+[v124] id=31 | step 62/63 | pair=10 | lane=10 | len=2
+
+[v124] global warp OK | source_len=129699 | target_len=273135 | bpm=155.0
+[v124] rendu audio peak=0.94999999 | timeline_events=32
+[v124] timeline events:
+[v124]   {'id': 0, 'pair': 0, 'x_step': 0, 'length': 2, 'lane': 0, 'start_sec': 0.0, 'end_sec': 0.19401360544217688}
+[v124]   {'id': 1, 'pair': 10, 'x_step': 2, 'length': 2, 'lane': 10, 'start_sec': 0.19401360544217688, 'end_sec': 0.38802721088435377}
+[v124]   {'id': 2, 'pair': 1, 'x_step': 4, 'length': 2, 'lane': 1, 'start_sec': 0.38802721088435377, 'end_sec': 0.5820408163265306}
+[v124]   {'id': 3, 'pair': 10, 'x_step': 6, 'length': 2, 'lane': 10, 'start_sec': 0.5820408163265306, 'end_sec': 0.7760544217687075}
+[v124]   {'id': 4, 'pair': 10, 'x_step': 8, 'length': 2, 'lane': 10, 'start_sec': 0.7760544217687075, 'end_sec': 0.9700680272108844}
+[v124]   {'id': 5, 'pair': 0, 'x_step': 10, 'length': 2, 'lane': 0, 'start_sec': 0.9700680272108844, 'end_sec': 1.1640816326530612}
+[v124]   {'id': 6, 'pair': 1, 'x_step': 12, 'length': 2, 'lane': 1, 'start_sec': 1.1640816326530612, 'end_sec': 1.358095238095238}
+[v124]   {'id': 7, 'pair': 10, 'x_step': 14, 'length': 2, 'lane': 10, 'start_sec': 1.358095238095238, 'end_sec': 1.552108843537415}
+[v124]   {'id': 8, 'pair': 0, 'x_step': 16, 'length': 2, 'lane': 0, 'start_sec': 1.552108843537415, 'end_sec': 1.746122448979592}
+[v124]   {'id': 9, 'pair': 10, 'x_step': 18, 'length': 2, 'lane': 10, 'start_sec': 1.746122448979592, 'end_sec': 1.9401360544217687}
+[v124]   {'id': 10, 'pair': 1, 'x_step': 20, 'length': 2, 'lane': 1, 'start_sec': 1.9401360544217687, 'end_sec': 2.1341496598639456}
+[v124]   {'id': 11, 'pair': 10, 'x_step': 22, 'length': 2, 'lane': 10, 'start_sec': 2.1341496598639456, 'end_sec': 2.3281632653061224}
+[v124]   {'id': 12, 'pair': 0, 'x_step': 24, 'length': 2, 'lane': 0, 'start_sec': 2.3281632653061224, 'end_sec': 2.522176870748299}
+[v124]   {'id': 13, 'pair': 10, 'x_step': 26, 'length': 2, 'lane': 10, 'start_sec': 2.522176870748299, 'end_sec': 2.716190476190476}
+[v124]   {'id': 14, 'pair': 1, 'x_step': 28, 'length': 2, 'lane': 1, 'start_sec': 2.716190476190476, 'end_sec': 2.910204081632653}
+[v124]   {'id': 15, 'pair': 10, 'x_step': 30, 'length': 2, 'lane': 10, 'start_sec': 2.910204081632653, 'end_sec': 3.10421768707483}
+[v124]   {'id': 16, 'pair': 0, 'x_step': 32, 'length': 2, 'lane': 0, 'start_sec': 3.10421768707483, 'end_sec': 3.298231292517007}
+[v124]   {'id': 17, 'pair': 10, 'x_step': 34, 'length': 2, 'lane': 10, 'start_sec': 3.298231292517007, 'end_sec': 3.492244897959184}
+[v124]   {'id': 18, 'pair': 1, 'x_step': 36, 'length': 2, 'lane': 1, 'start_sec': 3.492244897959184, 'end_sec': 3.6862585034013606}
+[v124]   {'id': 19, 'pair': 10, 'x_step': 38, 'length': 2, 'lane': 10, 'start_sec': 3.6862585034013606, 'end_sec': 3.8802721088435375}
+[v124]   {'id': 20, 'pair': 10, 'x_step': 40, 'length': 2, 'lane': 10, 'start_sec': 3.8802721088435375, 'end_sec': 4.074285714285714}
+[v124]   {'id': 21, 'pair': 0, 'x_step': 42, 'length': 2, 'lane': 0, 'start_sec': 4.074285714285714, 'end_sec': 4.268299319727891}
+[v124]   {'id': 22, 'pair': 1, 'x_step': 44, 'length': 2, 'lane': 1, 'start_sec': 4.268299319727891, 'end_sec': 4.462312925170068}
+[v124]   {'id': 23, 'pair': 10, 'x_step': 46, 'length': 2, 'lane': 10, 'start_sec': 4.462312925170068, 'end_sec': 4.656326530612245}
+[v124]   {'id': 24, 'pair': 0, 'x_step': 48, 'length': 2, 'lane': 0, 'start_sec': 4.656326530612245, 'end_sec': 4.850340136054422}
+[v124]   {'id': 25, 'pair': 10, 'x_step': 50, 'length': 2, 'lane': 10, 'start_sec': 4.850340136054422, 'end_sec': 5.044353741496598}
+[v124]   {'id': 26, 'pair': 1, 'x_step': 52, 'length': 2, 'lane': 1, 'start_sec': 5.044353741496598, 'end_sec': 5.238367346938776}
+[v124]   {'id': 27, 'pair': 10, 'x_step': 54, 'length': 2, 'lane': 10, 'start_sec': 5.238367346938776, 'end_sec': 5.432380952380952}
+[v124]   {'id': 28, 'pair': 0, 'x_step': 56, 'length': 2, 'lane': 0, 'start_sec': 5.432380952380952, 'end_sec': 5.626394557823129}
+[v124]   {'id': 29, 'pair': 10, 'x_step': 58, 'length': 2, 'lane': 10, 'start_sec': 5.626394557823129, 'end_sec': 5.820408163265306}
+[v124]   {'id': 30, 'pair': 1, 'x_step': 60, 'length': 2, 'lane': 1, 'start_sec': 5.820408163265306, 'end_sec': 6.014421768707483}
+[v124]   {'id': 31, 'pair': 10, 'x_step': 62, 'length': 2, 'lane': 10, 'start_sec': 6.014421768707483, 'end_sec': 6.20843537414966}
+[v124] SPACE -> Loop / Space
+[v124] Fermeture : arrêt audio + destruction fenêtre
+[v154] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v154] Backend audio : pw-play -> /usr/bin/pw-play
+[v154] boutons Charger break patchés : 2
+[v154] boutons training patchés : 8
+[v154] boutons patchés : Generate=2, Reject/Bad=2
+[v154] Export WAV ajouté.
+[v154] espace installé.
+
+[v154] APPLICATION CASES -3.5px
+[v154] attr step_width: 36 -> 32.5
+
+[v154] toolbar intégrée dans la ligne du haut.
+[v154] vieux widgets cachés : 53
+[v154] toolbar installée avec bouton Syncopé.
+[v154] doublons inline supprimés : 4
+[v154] bouton Syncopé patché vers ASCII : 1
+[v154] toolbar installée avec Reconnaître slices.
+[v154] sélecteurs de break patchés auto-rôles : 3
+[v154] bouton Charger break patché auto-rôles : 1
+[v154] boutons principaux repatchés auto-rôles : 2
+[v154] bouton Variations patché : 1
+[v154] bouton Random K/S/H patché : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] bouton Export WAV visible ajouté.
+[v154] bouton Random K/S/H plein patché : 1
+[v154] vieux widgets cachés : 56
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] vieux widgets cachés : 56
+[v154] break courant: Camo_Break_-_3A | source: widget.get:TCombobox | raw: Camo_Break_-_3A
+[v154] rôles déjà prêts pour Camo_Break_-_3A (startup)
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] vieux widgets cachés : 56
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] Fermeture : arrêt audio + destruction fenêtre
+[v154] pattern initial forcé VIDE : aucun son ne doit jouer.
+[v154] Backend audio : pw-play -> /usr/bin/pw-play
+[v154] boutons Charger break patchés : 2
+[v154] boutons training patchés : 8
+[v154] boutons patchés : Generate=2, Reject/Bad=2
+[v154] Export WAV ajouté.
+[v154] espace installé.
+
+[v154] APPLICATION CASES -3.5px
+[v154] attr step_width: 36 -> 32.5
+
+[v154] toolbar intégrée dans la ligne du haut.
+[v154] vieux widgets cachés : 53
+[v154] toolbar installée avec bouton Syncopé.
+[v154] doublons inline supprimés : 4
+[v154] bouton Syncopé patché vers ASCII : 1
+[v154] toolbar installée avec Reconnaître slices.
+[v154] sélecteurs de break patchés auto-rôles : 3
+[v154] bouton Charger break patché auto-rôles : 1
+[v154] boutons principaux repatchés auto-rôles : 2
+[v154] bouton Variations patché : 1
+[v154] bouton Random K/S/H patché : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] bouton Export WAV visible ajouté.
+[v154] bouton Random K/S/H plein patché : 1
+[v154] vieux widgets cachés : 56
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] vieux widgets cachés : 56
+[v154] break courant: Camo_Break_-_3A | source: widget.get:TCombobox | raw: Camo_Break_-_3A
+[v154] rôles déjà prêts pour Camo_Break_-_3A (startup)
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] vieux widgets cachés : 56
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] boutons principaux repatchés auto-rôles : 1
+[v154] bouton Random K/S/H plein patché : 1
+[v154] Fermeture : arrêt audio + destruction fenêtre

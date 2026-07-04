@@ -1,0 +1,158 @@
+SOURCE: breaks/Camo Break - 3A.wav
+CELL_MS: 400.0
+OFFSET_MS: 0.0
+HAT_BOOST: 0.55
+
+BASE
+exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_base.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : ....
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : K..S
+
+VARIATION 001 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_001.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 002 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_002.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 003 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_003.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 004 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_004.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 005 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_005.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .H..
+KICK : K...
+SNARE: ...S
+GHOST: ..g.
+FULL : KHgS
+
+VARIATION 006 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_006.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 007 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_007.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .H..
+KICK : K...
+SNARE: ...S
+GHOST: ..g.
+FULL : KHgS
+
+VARIATION 008 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_008.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 009 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_009.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 010 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_010.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .H..
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KH.S
+
+VARIATION 011 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_011.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 012 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_012.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 013 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_013.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : ..H.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : K.HS
+
+VARIATION 014 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_014.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 015 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_015.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS
+
+VARIATION 016 -> exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_016.wav
+GROUP: 1234
+BASE : K..S|..KS|K..S|..KS
+HAT  : .HH.
+KICK : K...
+SNARE: ...S
+GHOST: ....
+FULL : KHHS

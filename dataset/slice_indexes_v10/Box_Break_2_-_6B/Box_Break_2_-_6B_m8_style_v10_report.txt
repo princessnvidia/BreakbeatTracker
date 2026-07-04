@@ -1,0 +1,28 @@
+M8-style slicer v10: Box_Break_2_-_6B
+Source: breaks/Box Break 2 - 6B.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 19
+JSON: dataset/pair_blocks_v02/Box_Break_2_-_6B_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Box_Break_2_-_6B/Box_Break_2_-_6B_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    180.68 ms | dur    174.15 ms | hybrid_snap_auto | score 0.456527
+slice 01 |    180.68 ->    372.97 ms | dur    192.29 ms | hybrid_snap_auto | score 0.138268
+slice 02 |    372.97 ->    407.98 ms | dur     35.01 ms | hat_rescue | score 0.897005
+slice 03 |    390.39 ->    563.81 ms | dur    173.42 ms | hybrid_snap_hat | score 0.710408
+slice 04 |    563.81 ->    756.10 ms | dur    192.29 ms | hybrid_snap_auto | score 0.170956
+slice 05 |    756.10 ->    951.29 ms | dur    195.19 ms | hat_rescue | score 0.705438
+slice 06 |    951.29 ->   1156.64 ms | dur    205.35 ms | hybrid_snap_auto | score 0.215884
+slice 07 |   1156.64 ->   1303.95 ms | dur    147.30 ms | hybrid_snap_hat | score 0.962164
+slice 08 |   1303.95 ->   1545.58 ms | dur    241.63 ms | hybrid_snap_auto | score 0.135415
+slice 09 |   1545.58 ->   1732.72 ms | dur    187.14 ms | hybrid_snap_auto | score 0.503912
+slice 10 |   1732.72 ->   1920.00 ms | dur    187.28 ms | grid | score 1.0
+slice 11 |   1920.00 ->   1955.01 ms | dur     35.01 ms | hybrid_snap_hat | score 0.929994
+slice 12 |   1934.51 ->   2109.39 ms | dur    174.88 ms | hat_rescue | score 0.738352
+slice 13 |   2109.39 ->   2303.13 ms | dur    193.74 ms | hybrid_snap_auto | score 0.172586
+slice 14 |   2303.13 ->   2496.87 ms | dur    193.74 ms | hat_rescue | score 0.708146
+slice 15 |   2496.87 ->   2690.61 ms | dur    193.74 ms | hybrid_snap_auto | score 0.199667
+slice 16 |   2690.61 ->   2725.62 ms | dur     35.01 ms | hybrid_snap_auto | score 0.651298
+slice 17 |   2703.67 ->   2849.52 ms | dur    145.85 ms | hat_rescue | score 0.969931
+slice 18 |   2849.52 ->   3080.39 ms | dur    230.86 ms | hybrid_snap_auto | score 0.184357

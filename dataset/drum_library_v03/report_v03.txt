@@ -1,0 +1,126 @@
+DRUM LIBRARY v03
+================
+
+ghost supprimé comme classe audio : les ghost notes utiliseront des snares faibles ou baissées en volume.
+
+Slices analysées : 3936
+Fichiers manquants : 0
+
+Répartition labels :
+  kick       225    5.7%
+  snare      937   23.8%
+  hat       2767   70.3%
+  perc         7    0.2%
+
+Répartition rôles :
+  hat             2767   70.3%
+  snare_main       937   23.8%
+  kick             225    5.7%
+  perc               7    0.2%
+
+Exemples par label :
+
+[kick]
+  kick_00001_hard_medium_tiny.wav role=kick conf=0.760 rms=0.4118 peak=0.950 centroid=3272 low=0.47 lowmid=0.10 mid=0.07 high=0.29 tags=hard/medium/tiny/thick scores=K0.76 S0.61 H0.09 p0.54
+  kick_00002_hard_medium_tiny.wav role=kick conf=0.760 rms=0.4397 peak=0.950 centroid=3221 low=0.43 lowmid=0.13 mid=0.07 high=0.28 tags=hard/medium/tiny/thick scores=K0.76 S0.61 H0.09 p0.54
+  kick_00003_hard_bright_tiny.wav role=kick conf=0.760 rms=0.3723 peak=0.950 centroid=4026 low=0.40 lowmid=0.09 mid=0.06 high=0.37 tags=hard/bright/tiny/body scores=K0.76 S0.61 H0.62 p0.54
+  kick_00004_hard_bright_short.wav role=kick conf=0.760 rms=0.3514 peak=0.950 centroid=6447 low=0.19 lowmid=0.23 mid=0.09 high=0.29 tags=hard/bright/short/body scores=K0.76 S0.72 H0.70 p0.67
+  kick_00005_hard_medium_short.wav role=kick conf=0.700 rms=0.4355 peak=0.950 centroid=3248 low=0.39 lowmid=0.13 mid=0.06 high=0.36 tags=hard/medium/short/body scores=K0.70 S0.61 H0.34 p0.54
+  kick_00006_hard_medium_short.wav role=kick conf=0.760 rms=0.3003 peak=0.950 centroid=2897 low=0.37 lowmid=0.13 mid=0.10 high=0.30 tags=hard/medium/short/body scores=K0.76 S0.61 H0.09 p0.67
+  kick_00007_hard_bright_short.wav role=kick conf=0.700 rms=0.2504 peak=0.950 centroid=3803 low=0.33 lowmid=0.11 mid=0.10 high=0.37 tags=hard/bright/short/body scores=K0.70 S0.61 H0.62 p0.67
+  kick_00008_hard_medium_short.wav role=kick conf=0.700 rms=0.2836 peak=0.950 centroid=2866 low=0.35 lowmid=0.13 mid=0.12 high=0.31 tags=hard/medium/short/body scores=K0.70 S0.61 H0.09 p0.67
+  kick_00009_hard_bright_short.wav role=kick conf=0.700 rms=0.2486 peak=0.950 centroid=3730 low=0.33 lowmid=0.11 mid=0.10 high=0.37 tags=hard/bright/short/body scores=K0.70 S0.61 H0.62 p0.67
+  kick_00010_hard_medium_short.wav role=kick conf=0.760 rms=0.2731 peak=0.950 centroid=2343 low=0.50 lowmid=0.20 mid=0.15 high=0.13 tags=hard/medium/short/thick scores=K0.76 S0.88 H0.09 p0.67
+  kick_00011_hard_medium_short.wav role=kick conf=0.760 rms=0.3363 peak=0.950 centroid=2488 low=0.32 lowmid=0.13 mid=0.08 high=0.42 tags=hard/medium/short/body scores=K0.76 S0.61 H0.39 p0.67
+  kick_00012_hard_medium_medium.wav role=kick conf=0.720 rms=0.2533 peak=0.950 centroid=2468 low=0.42 lowmid=0.18 mid=0.12 high=0.26 tags=hard/medium/medium/thick scores=K0.70 S0.84 H0.09 p0.67
+  kick_00013_hard_bright_medium.wav role=kick conf=0.760 rms=0.1909 peak=0.950 centroid=6058 low=0.36 lowmid=0.22 mid=0.13 high=0.24 tags=hard/bright/medium/thick scores=K0.76 S0.72 H0.60 p0.67
+  kick_00014_hard_medium_short.wav role=kick conf=0.760 rms=0.2906 peak=0.950 centroid=3257 low=0.27 lowmid=0.19 mid=0.06 high=0.44 tags=hard/medium/short/thin scores=K0.76 S0.61 H0.39 p0.67
+  kick_00015_hard_medium_short.wav role=kick conf=0.760 rms=0.1731 peak=0.950 centroid=2428 low=0.22 lowmid=0.25 mid=0.18 high=0.30 tags=hard/medium/short/thick scores=K0.76 S0.84 H0.09 p0.67
+  kick_00016_hard_medium_medium.wav role=kick conf=0.720 rms=0.2064 peak=0.950 centroid=2386 low=0.22 lowmid=0.27 mid=0.22 high=0.23 tags=hard/medium/medium/thick scores=K0.70 S0.84 H0.09 p0.67
+
+[snare]
+  snare_00001_hard_bright_short.wav role=snare_main conf=0.690 rms=0.2156 peak=0.950 centroid=3645 low=0.22 lowmid=0.10 mid=0.16 high=0.39 tags=hard/bright/short/body scores=K0.54 S0.69 H0.39 p0.67
+  snare_00002_hard_medium_short.wav role=snare_main conf=0.690 rms=0.3218 peak=0.950 centroid=3372 low=0.25 lowmid=0.06 mid=0.18 high=0.48 tags=hard/medium/short/thin scores=K0.36 S0.69 H0.39 p0.67
+  snare_00003_hard_bright_medium.wav role=snare_main conf=0.960 rms=0.1699 peak=0.950 centroid=4908 low=0.02 lowmid=0.12 mid=0.22 high=0.58 tags=hard/bright/medium/thin scores=K0.07 S0.96 H0.93 p0.67
+  snare_00004_hard_bright_short.wav role=snare_main conf=0.960 rms=0.1222 peak=0.950 centroid=4998 low=0.01 lowmid=0.10 mid=0.25 high=0.60 tags=hard/bright/short/thin scores=K0.07 S0.96 H0.93 p0.67
+  snare_00005_hard_bright_short.wav role=snare_main conf=0.960 rms=0.1566 peak=0.950 centroid=5176 low=0.01 lowmid=0.13 mid=0.22 high=0.59 tags=hard/bright/short/thin scores=K0.07 S0.96 H0.93 p0.67
+  snare_00006_hard_bright_medium.wav role=snare_main conf=0.960 rms=0.1909 peak=0.950 centroid=4239 low=0.01 lowmid=0.12 mid=0.25 high=0.59 tags=hard/bright/medium/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00007_hard_bright_short.wav role=snare_main conf=0.960 rms=0.2077 peak=0.950 centroid=4305 low=0.01 lowmid=0.11 mid=0.25 high=0.60 tags=hard/bright/short/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00008_hard_bright_medium.wav role=snare_main conf=0.920 rms=0.2487 peak=0.950 centroid=3882 low=0.07 lowmid=0.06 mid=0.40 high=0.42 tags=hard/bright/medium/body scores=K0.24 S0.92 H0.84 p0.67
+  snare_00009_hard_bright_short.wav role=snare_main conf=0.960 rms=0.1933 peak=0.950 centroid=4099 low=0.01 lowmid=0.12 mid=0.28 high=0.56 tags=hard/bright/short/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00010_hard_bright_short.wav role=snare_main conf=0.960 rms=0.2243 peak=0.950 centroid=4166 low=0.01 lowmid=0.13 mid=0.26 high=0.57 tags=hard/bright/short/thin scores=K0.07 S0.96 H0.93 p0.67
+  snare_00011_hard_bright_short.wav role=snare_main conf=0.960 rms=0.2173 peak=0.950 centroid=4022 low=0.01 lowmid=0.13 mid=0.26 high=0.57 tags=hard/bright/short/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00012_hard_bright_medium.wav role=snare_main conf=0.960 rms=0.2103 peak=0.950 centroid=4002 low=0.01 lowmid=0.13 mid=0.26 high=0.56 tags=hard/bright/medium/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00013_hard_bright_short.wav role=snare_main conf=0.960 rms=0.2510 peak=0.950 centroid=4221 low=0.01 lowmid=0.11 mid=0.25 high=0.59 tags=hard/bright/short/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00014_hard_bright_short.wav role=snare_main conf=0.960 rms=0.2331 peak=0.950 centroid=4063 low=0.01 lowmid=0.12 mid=0.26 high=0.57 tags=hard/bright/short/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00015_hard_bright_medium.wav role=snare_main conf=0.960 rms=0.2104 peak=0.950 centroid=3995 low=0.01 lowmid=0.14 mid=0.26 high=0.56 tags=hard/bright/medium/thin scores=K0.13 S0.96 H0.93 p0.67
+  snare_00016_hard_bright_tiny.wav role=snare_main conf=0.960 rms=0.2769 peak=0.950 centroid=4125 low=0.01 lowmid=0.12 mid=0.25 high=0.59 tags=hard/bright/tiny/thin scores=K0.13 S0.96 H0.93 p0.67
+
+[hat]
+  hat_00001_hard_bright_medium.wav role=hat conf=1.000 rms=0.1801 peak=0.950 centroid=5584 low=0.14 lowmid=0.08 mid=0.11 high=0.55 tags=hard/bright/medium/thin scores=K0.37 S0.73 H1.00 p0.54
+  hat_00002_hard_bright_long.wav role=hat conf=0.910 rms=0.1302 peak=0.950 centroid=5972 low=0.04 lowmid=0.11 mid=0.09 high=0.64 tags=hard/bright/long/thin scores=K0.13 S0.49 H0.91 p0.67
+  hat_00003_hard_bright_short.wav role=hat conf=1.000 rms=0.2016 peak=0.950 centroid=5799 low=0.03 lowmid=0.16 mid=0.09 high=0.62 tags=hard/bright/short/thin scores=K0.13 S0.73 H1.00 p0.67
+  hat_00004_hard_bright_long.wav role=hat conf=0.910 rms=0.1563 peak=0.950 centroid=6227 low=0.04 lowmid=0.07 mid=0.09 high=0.66 tags=hard/bright/long/thin scores=K0.13 S0.49 H0.91 p0.54
+  hat_00005_hard_bright_short.wav role=hat conf=0.930 rms=0.2249 peak=0.950 centroid=5208 low=0.19 lowmid=0.10 mid=0.10 high=0.49 tags=hard/bright/short/thin scores=K0.42 S0.73 H0.93 p0.54
+  hat_00006_hard_bright_short.wav role=hat conf=0.930 rms=0.2307 peak=0.950 centroid=5535 low=0.17 lowmid=0.08 mid=0.10 high=0.53 tags=hard/bright/short/thin scores=K0.37 S0.73 H0.93 p0.54
+  hat_00007_hard_bright_long.wav role=hat conf=0.910 rms=0.1314 peak=0.950 centroid=5849 low=0.04 lowmid=0.10 mid=0.12 high=0.63 tags=hard/bright/long/thin scores=K0.07 S0.39 H0.91 p0.56
+  hat_00008_hard_bright_tiny.wav role=hat conf=1.000 rms=0.0961 peak=0.950 centroid=6187 low=0.07 lowmid=0.06 mid=0.11 high=0.62 tags=hard/bright/tiny/thin scores=K0.13 S0.49 H1.00 p0.54
+  hat_00009_hard_bright_medium.wav role=hat conf=1.000 rms=0.1750 peak=0.950 centroid=5837 low=0.02 lowmid=0.06 mid=0.12 high=0.67 tags=hard/bright/medium/thin scores=K0.13 S0.49 H1.00 p0.54
+  hat_00010_hard_bright_short.wav role=hat conf=1.000 rms=0.1738 peak=0.950 centroid=5688 low=0.03 lowmid=0.11 mid=0.10 high=0.65 tags=hard/bright/short/thin scores=K0.13 S0.73 H1.00 p0.67
+  hat_00011_hard_bright_short.wav role=hat conf=0.930 rms=0.1798 peak=0.950 centroid=6215 low=0.03 lowmid=0.01 mid=0.08 high=0.74 tags=hard/bright/short/thin scores=K0.13 S0.49 H0.93 p0.54
+  hat_00012_hard_bright_short.wav role=hat conf=0.930 rms=0.0926 peak=0.950 centroid=5204 low=0.04 lowmid=0.07 mid=0.16 high=0.60 tags=hard/bright/short/thin scores=K0.13 S0.73 H0.93 p0.67
+  hat_00013_hard_very_bright_short.wav role=hat conf=1.000 rms=0.1737 peak=0.950 centroid=6949 low=0.01 lowmid=0.02 mid=0.12 high=0.62 tags=hard/very_bright/short/thin scores=K0.07 S0.49 H1.00 p0.54
+  hat_00014_hard_bright_short.wav role=hat conf=0.930 rms=0.1506 peak=0.950 centroid=4227 low=0.11 lowmid=0.05 mid=0.18 high=0.58 tags=hard/bright/short/thin scores=K0.13 S0.73 H0.93 p0.67
+  hat_00015_hard_bright_short.wav role=hat conf=1.000 rms=0.1590 peak=0.950 centroid=5242 low=0.01 lowmid=0.15 mid=0.19 high=0.57 tags=hard/bright/short/thin scores=K0.13 S0.96 H1.00 p0.67
+  hat_00016_hard_very_bright_short.wav role=hat conf=1.000 rms=0.1504 peak=0.950 centroid=8660 low=0.09 lowmid=0.05 mid=0.10 high=0.47 tags=hard/very_bright/short/thin scores=K0.18 S0.49 H1.00 p0.46
+
+[perc]
+  perc_00001_hard_medium_short.wav role=perc conf=0.670 rms=0.3668 peak=0.950 centroid=2662 low=0.26 lowmid=0.11 mid=0.10 high=0.43 tags=hard/medium/short/thin scores=K0.64 S0.61 H0.39 p0.67
+  perc_00002_hard_medium_short.wav role=perc conf=0.670 rms=0.3628 peak=0.950 centroid=2733 low=0.25 lowmid=0.11 mid=0.10 high=0.43 tags=hard/medium/short/thin scores=K0.64 S0.61 H0.39 p0.67
+  perc_00003_hard_medium_short.wav role=perc conf=0.670 rms=0.2109 peak=0.950 centroid=3251 low=0.17 lowmid=0.08 mid=0.16 high=0.51 tags=hard/medium/short/thin scores=K0.42 S0.61 H0.49 p0.67
+  perc_00004_hard_medium_medium.wav role=perc conf=0.670 rms=0.2824 peak=0.950 centroid=2277 low=0.27 lowmid=0.11 mid=0.13 high=0.48 tags=hard/medium/medium/thin scores=K0.58 S0.61 H0.39 p0.67
+  perc_00005_hard_bright_short.wav role=perc conf=0.540 rms=0.1986 peak=0.950 centroid=5848 low=0.13 lowmid=0.09 mid=0.04 high=0.20 tags=hard/bright/short/body scores=K0.30 S0.49 H0.52 p0.54
+  perc_00006_hard_medium_short.wav role=perc conf=0.670 rms=0.2283 peak=0.950 centroid=2989 low=0.22 lowmid=0.16 mid=0.07 high=0.50 tags=hard/medium/short/thin scores=K0.58 S0.61 H0.39 p0.67
+  perc_00007_hard_medium_short.wav role=perc conf=0.670 rms=0.2993 peak=0.950 centroid=3273 low=0.20 lowmid=0.15 mid=0.10 high=0.45 tags=hard/medium/short/thin scores=K0.58 S0.61 H0.39 p0.67
+
+Top sources par quantité :
+  Enchanted Break - 5A.wav total=57 {'snare': 2, 'hat': 55}
+  Fairlight Break - 9A.wav total=47 {'snare': 30, 'hat': 11, 'kick': 6}
+  Futureproof Amen.wav total=46 {'hat': 44, 'snare': 2}
+  Control Stutter Break - 7A.wav total=45 {'kick': 12, 'hat': 26, 'snare': 7}
+  Pesh Break - 7A.wav total=44 {'snare': 2, 'hat': 42}
+  Beep Break.wav total=42 {'snare': 40, 'hat': 2}
+  Guess Break - 1A.wav total=42 {'hat': 42}
+  Prog Amen - 8A.wav total=42 {'hat': 39, 'snare': 3}
+  Imagine Break - 4A.wav total=39 {'hat': 32, 'snare': 7}
+  Effect Break - 7A.wav total=38 {'snare': 13, 'hat': 25}
+  My Sound Break 3 - 9A.wav total=38 {'kick': 4, 'snare': 7, 'hat': 27}
+  Bonanza Break.wav total=36 {'snare': 2, 'hat': 34}
+  Repetoire Break - 6A.wav total=36 {'kick': 15, 'hat': 11, 'snare': 10}
+  Fountain Break - 4A.wav total=35 {'kick': 5, 'hat': 24, 'snare': 6}
+  Jazz Thing Break.wav total=34 {'kick': 13, 'hat': 15, 'snare': 6}
+  Playboy Break - 6B.wav total=34 {'snare': 17, 'hat': 17}
+  Rise Amen - 2A.wav total=34 {'hat': 34}
+  Seatown Break - 6B.wav total=33 {'hat': 33}
+  Shock Filter Break.wav total=33 {'hat': 32, 'snare': 1}
+  Blaze Break 2.wav total=32 {'hat': 32}
+  Firin Line Break - 3B.wav total=32 {'snare': 21, 'hat': 11}
+  Control Break - 9A.wav total=31 {'hat': 19, 'kick': 8, 'snare': 4}
+  Moths Break - 4A.wav total=31 {'kick': 4, 'snare': 20, 'hat': 6, 'perc': 1}
+  Shoes Break - 4A.wav total=31 {'kick': 7, 'snare': 5, 'hat': 19}
+  Control Vocal Break - 1A.wav total=30 {'kick': 5, 'hat': 20, 'snare': 5}
+  Cool Amen - 7A.wav total=30 {'kick': 1, 'snare': 7, 'hat': 22}
+  Right Break - 6A.wav total=29 {'kick': 2, 'snare': 24, 'hat': 3}
+  Boo Worm Break - 9A.wav total=27 {'snare': 14, 'hat': 13}
+  Bouncer Break - 6A.wav total=26 {'kick': 4, 'perc': 2, 'hat': 14, 'snare': 6}
+  Control Kick Break - 2A.wav total=26 {'kick': 10, 'hat': 15, 'snare': 1}
+  Take You Break.wav total=26 {'hat': 19, 'snare': 5, 'perc': 1, 'kick': 1}
+  Your Amen - 4A.wav total=26 {'hat': 22, 'kick': 1, 'snare': 3}
+  Control Break 2.wav total=25 {'snare': 10, 'hat': 15}
+  Blue Break - 4A.wav total=24 {'snare': 18, 'hat': 6}
+  Control Amen.wav total=24 {'snare': 7, 'hat': 17}
+  Drumz Amen.wav total=24 {'hat': 20, 'snare': 4}
+  Friday Break - 9A.wav total=24 {'snare': 4, 'hat': 20}
+  Jazzy Break - 9A.wav total=24 {'kick': 7, 'hat': 15, 'snare': 2}
+  Prog Break.wav total=24 {'hat': 24}
+  Resolution Break - 5A.wav total=24 {'hat': 24}

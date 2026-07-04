@@ -1,0 +1,30 @@
+M8-style slicer v10: Stone_Break
+Source: breaks/Stone Break.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 21
+JSON: dataset/pair_blocks_v02/Stone_Break_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Stone_Break/Stone_Break_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    152.38 ms | dur    145.85 ms | hybrid_snap_auto | score 0.333128
+slice 01 |    152.38 ->    355.56 ms | dur    203.17 ms | hybrid_snap_auto | score 0.184132
+slice 02 |    355.56 ->    390.57 ms | dur     35.01 ms | hat_rescue | score 0.985411
+slice 03 |    374.42 ->    409.43 ms | dur     35.01 ms | hybrid_snap_hat | score 0.917345
+slice 04 |    399.09 ->    542.04 ms | dur    142.95 ms | hat_rescue | score 0.813621
+slice 05 |    542.04 ->    732.63 ms | dur    190.59 ms | hybrid_snap_auto | score 0.577374
+slice 06 |    732.63 ->    902.68 ms | dur    170.05 ms | grid | score 1.0
+slice 07 |    902.68 ->    937.69 ms | dur     35.01 ms | hat_rescue | score 0.87665
+slice 08 |    931.70 ->   1098.93 ms | dur    167.23 ms | hat_rescue | score 0.858724
+slice 09 |   1098.93 ->   1295.24 ms | dur    196.30 ms | grid | score 1.0
+slice 10 |   1295.24 ->   1330.25 ms | dur     35.01 ms | hybrid_snap_auto | score 0.410756
+slice 11 |   1317.73 ->   1454.15 ms | dur    136.42 ms | hat_rescue | score 0.72289
+slice 12 |   1454.15 ->   1489.16 ms | dur     35.01 ms | hat_rescue | score 0.780819
+slice 13 |   1481.72 ->   1648.41 ms | dur    166.69 ms | hat_rescue | score 0.864221
+slice 14 |   1648.41 ->   1824.22 ms | dur    175.81 ms | grid | score 1.0
+slice 15 |   1824.22 ->   2014.72 ms | dur    190.50 ms | hybrid_snap_auto | score 0.505775
+slice 16 |   2014.72 ->   2187.76 ms | dur    173.04 ms | grid | score 1.0
+slice 17 |   2187.76 ->   2372.79 ms | dur    185.03 ms | hybrid_snap_auto | score 0.308036
+slice 18 |   2372.79 ->   2551.29 ms | dur    178.50 ms | hybrid_snap_auto | score 0.556096
+slice 19 |   2551.29 ->   2747.35 ms | dur    196.05 ms | hybrid_snap_auto | score 0.828357
+slice 20 |   2747.35 ->   2930.50 ms | dur    183.15 ms | grid | score 1.0

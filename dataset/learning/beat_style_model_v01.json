@@ -1,0 +1,7850 @@
+{
+  "version": "beat_style_model_v02",
+  "created_at": "2026-07-02T13:50:07",
+  "slots": 16,
+  "hit_spacing_steps": 2,
+  "patterns_count": 2389,
+  "examples": [
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Tear_Apache_-_4A",
+      "source_file": "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "atlantis_amen",
+      "source_file": "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl",
+      "key": "correction_after",
+      "notes": 1,
+      "weight": 1.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 7.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 7.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Alzir_Break_-_4A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Alzir_Break_-_4A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 18,
+      "weight": 4.0
+    },
+    {
+      "safe": "Alzir_Break_-_4A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 17,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Adrift_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Pin_Up_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Centuries_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Centuries_Break",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 14,
+      "weight": 4.0
+    },
+    {
+      "safe": "Sound_Murderer_Amen_-_9A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Camo_Break_-_3A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Your_Amen_-_4A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 16,
+      "weight": 4.0
+    },
+    {
+      "safe": "Alzir_Break_-_4A",
+      "source_file": "dataset/learning/role_feedback_v01.jsonl",
+      "key": "pattern",
+      "notes": 33,
+      "weight": 4.0
+    }
+  ],
+  "global": {
+    "slot_pair_counts": {
+      "0": {
+        "0": 267.0,
+        "1": 174.0,
+        "2": 74.0,
+        "3": 135.0,
+        "4": 136.0,
+        "5": 75.0,
+        "6": 68.0,
+        "7": 60.0,
+        "8": 76.0,
+        "9": 32.0,
+        "10": 49.0,
+        "11": 106.0,
+        "12": 64.0,
+        "13": 22.0,
+        "14": 13.0,
+        "15": 10.0,
+        "16": 9.0,
+        "17": 3.0,
+        "20": 4.0
+      },
+      "1": {
+        "0": 78.0,
+        "1": 65.0,
+        "2": 168.0,
+        "3": 180.0,
+        "4": 80.0,
+        "5": 42.0,
+        "6": 113.0,
+        "7": 83.0,
+        "8": 44.0,
+        "9": 71.0,
+        "10": 72.0,
+        "11": 37.0,
+        "12": 32.0,
+        "13": 78.0,
+        "14": 64.0,
+        "15": 21.0,
+        "16": 12.0,
+        "17": 6.0,
+        "18": 2.0,
+        "19": 2.0,
+        "20": 1.0
+      },
+      "2": {
+        "0": 67.0,
+        "1": 96.0,
+        "2": 124.0,
+        "3": 87.0,
+        "4": 135.0,
+        "5": 120.0,
+        "6": 175.0,
+        "7": 140.0,
+        "8": 34.0,
+        "9": 75.0,
+        "10": 46.0,
+        "11": 25.0,
+        "12": 47.0,
+        "13": 27.0,
+        "14": 59.0,
+        "15": 13.0,
+        "16": 19.0,
+        "17": 2.0,
+        "18": 1.0
+      },
+      "3": {
+        "0": 31.0,
+        "1": 67.0,
+        "2": 123.0,
+        "3": 107.0,
+        "4": 35.0,
+        "5": 107.0,
+        "6": 98.0,
+        "7": 62.0,
+        "8": 20.0,
+        "9": 62.0,
+        "10": 32.0,
+        "11": 69.0,
+        "12": 42.0,
+        "13": 69.0,
+        "14": 42.0,
+        "15": 5.0,
+        "16": 16.0,
+        "17": 4.0,
+        "18": 8.0,
+        "21": 4.0
+      },
+      "4": {
+        "0": 42.0,
+        "1": 120.0,
+        "2": 131.0,
+        "3": 138.0,
+        "4": 79.0,
+        "5": 36.0,
+        "6": 150.0,
+        "7": 97.0,
+        "8": 17.0,
+        "9": 24.0,
+        "10": 16.0,
+        "11": 31.0,
+        "12": 49.0,
+        "13": 74.0,
+        "14": 54.0,
+        "15": 9.0,
+        "16": 12.0,
+        "17": 8.0,
+        "19": 4.0
+      },
+      "5": {
+        "0": 144.0,
+        "1": 81.0,
+        "2": 61.0,
+        "3": 115.0,
+        "4": 68.0,
+        "5": 102.0,
+        "6": 32.0,
+        "7": 87.0,
+        "8": 24.0,
+        "9": 26.0,
+        "10": 18.0,
+        "11": 93.0,
+        "12": 58.0,
+        "13": 5.0,
+        "14": 5.0,
+        "15": 17.0,
+        "16": 8.0,
+        "20": 4.0
+      },
+      "6": {
+        "0": 62.0,
+        "1": 60.0,
+        "2": 98.0,
+        "3": 53.0,
+        "4": 115.0,
+        "5": 83.0,
+        "6": 208.0,
+        "7": 130.0,
+        "8": 24.0,
+        "9": 29.0,
+        "10": 33.0,
+        "11": 16.0,
+        "12": 62.0,
+        "13": 5.0,
+        "14": 61.0,
+        "15": 7.0,
+        "16": 46.0,
+        "17": 6.0,
+        "18": 13.0,
+        "20": 3.0
+      },
+      "7": {
+        "0": 19.0,
+        "1": 36.0,
+        "2": 80.0,
+        "3": 126.0,
+        "4": 49.0,
+        "5": 78.0,
+        "6": 115.0,
+        "7": 48.0,
+        "8": 20.0,
+        "9": 32.0,
+        "10": 61.0,
+        "11": 34.0,
+        "12": 29.0,
+        "13": 63.0,
+        "14": 61.0,
+        "15": 7.0,
+        "16": 60.0,
+        "17": 26.0
+      },
+      "8": {
+        "0": 151.0,
+        "1": 113.0,
+        "2": 38.0,
+        "3": 140.0,
+        "4": 95.0,
+        "5": 56.0,
+        "6": 49.0,
+        "7": 37.0,
+        "8": 130.0,
+        "9": 18.0,
+        "10": 65.0,
+        "11": 114.0,
+        "12": 48.0,
+        "13": 20.0,
+        "14": 15.0,
+        "15": 5.0,
+        "16": 8.0,
+        "20": 7.0,
+        "22": 4.0
+      },
+      "9": {
+        "0": 13.0,
+        "1": 25.0,
+        "2": 121.0,
+        "3": 156.0,
+        "4": 35.0,
+        "5": 83.0,
+        "6": 105.0,
+        "7": 110.0,
+        "8": 23.0,
+        "9": 31.0,
+        "10": 71.0,
+        "11": 42.0,
+        "12": 16.0,
+        "13": 67.0,
+        "14": 40.0,
+        "15": 8.0,
+        "16": 4.0,
+        "18": 8.0
+      },
+      "10": {
+        "0": 42.0,
+        "1": 99.0,
+        "2": 82.0,
+        "3": 73.0,
+        "4": 108.0,
+        "5": 98.0,
+        "6": 138.0,
+        "7": 126.0,
+        "8": 5.0,
+        "9": 67.0,
+        "10": 37.0,
+        "11": 29.0,
+        "12": 39.0,
+        "13": 20.0,
+        "14": 79.0,
+        "15": 3.0,
+        "16": 14.0,
+        "17": 46.0,
+        "18": 1.0,
+        "23": 3.0
+      },
+      "11": {
+        "0": 38.0,
+        "1": 40.0,
+        "2": 89.0,
+        "3": 96.0,
+        "4": 51.0,
+        "5": 67.0,
+        "6": 122.0,
+        "7": 81.0,
+        "8": 13.0,
+        "9": 59.0,
+        "10": 29.0,
+        "11": 53.0,
+        "12": 42.0,
+        "13": 61.0,
+        "14": 50.0,
+        "15": 16.0,
+        "16": 12.0,
+        "17": 44.0,
+        "18": 8.0
+      },
+      "12": {
+        "0": 68.0,
+        "1": 76.0,
+        "2": 109.0,
+        "3": 150.0,
+        "4": 58.0,
+        "5": 30.0,
+        "6": 119.0,
+        "7": 69.0,
+        "8": 39.0,
+        "9": 20.0,
+        "10": 46.0,
+        "11": 105.0,
+        "12": 23.0,
+        "13": 88.0,
+        "14": 49.0,
+        "15": 4.0,
+        "16": 8.0,
+        "17": 12.0,
+        "21": 3.0
+      },
+      "13": {
+        "0": 132.0,
+        "1": 103.0,
+        "2": 87.0,
+        "3": 88.0,
+        "4": 65.0,
+        "5": 49.0,
+        "6": 29.0,
+        "7": 68.0,
+        "8": 9.0,
+        "9": 25.0,
+        "10": 28.0,
+        "11": 126.0,
+        "12": 47.0,
+        "13": 21.0,
+        "14": 48.0,
+        "15": 13.0,
+        "16": 8.0,
+        "17": 8.0,
+        "20": 4.0
+      },
+      "14": {
+        "0": 70.0,
+        "1": 50.0,
+        "2": 96.0,
+        "3": 57.0,
+        "4": 134.0,
+        "5": 111.0,
+        "6": 157.0,
+        "7": 94.0,
+        "8": 23.0,
+        "9": 31.0,
+        "10": 23.0,
+        "11": 16.0,
+        "12": 52.0,
+        "13": 36.0,
+        "14": 54.0,
+        "15": 7.0,
+        "16": 14.0,
+        "17": 10.0,
+        "18": 41.0,
+        "19": 4.0
+      },
+      "15": {
+        "0": 27.0,
+        "1": 25.0,
+        "2": 100.0,
+        "3": 100.0,
+        "4": 57.0,
+        "5": 44.0,
+        "6": 79.0,
+        "7": 82.0,
+        "8": 20.0,
+        "9": 21.0,
+        "10": 42.0,
+        "11": 39.0,
+        "12": 19.0,
+        "13": 106.0,
+        "14": 58.0,
+        "15": 39.0,
+        "16": 8.0,
+        "17": 8.0,
+        "18": 68.0
+      }
+    },
+    "pair_counts": {
+      "0": 1251.0,
+      "1": 1230.0,
+      "2": 1581.0,
+      "3": 1801.0,
+      "4": 1300.0,
+      "5": 1181.0,
+      "6": 1757.0,
+      "7": 1374.0,
+      "8": 521.0,
+      "9": 623.0,
+      "10": 668.0,
+      "11": 935.0,
+      "12": 669.0,
+      "13": 762.0,
+      "14": 752.0,
+      "15": 184.0,
+      "16": 258.0,
+      "17": 183.0,
+      "18": 150.0,
+      "19": 10.0,
+      "20": 23.0,
+      "21": 7.0,
+      "22": 4.0,
+      "23": 3.0
+    },
+    "transition_counts": {
+      "0": {
+        "0": 149.0,
+        "1": 153.0,
+        "2": 175.0,
+        "3": 334.0,
+        "4": 76.0,
+        "5": 71.0,
+        "6": 112.0,
+        "7": 36.0,
+        "8": 8.0,
+        "10": 31.0,
+        "11": 8.0,
+        "12": 20.0,
+        "14": 15.0,
+        "15": 4.0,
+        "16": 4.0,
+        "18": 8.0,
+        "21": 3.0
+      },
+      "3": {
+        "0": 252.0,
+        "1": 123.0,
+        "2": 285.0,
+        "3": 195.0,
+        "4": 124.0,
+        "5": 93.0,
+        "6": 194.0,
+        "7": 53.0,
+        "8": 29.0,
+        "9": 51.0,
+        "10": 56.0,
+        "11": 27.0,
+        "12": 24.0,
+        "13": 7.0,
+        "14": 68.0,
+        "16": 12.0,
+        "17": 4.0
+      },
+      "9": {
+        "0": 19.0,
+        "1": 60.0,
+        "2": 24.0,
+        "3": 10.0,
+        "4": 16.0,
+        "5": 24.0,
+        "6": 20.0,
+        "7": 8.0,
+        "8": 36.0,
+        "9": 79.0,
+        "10": 24.0,
+        "11": 58.0,
+        "12": 20.0,
+        "13": 8.0,
+        "15": 4.0,
+        "16": 16.0,
+        "17": 8.0,
+        "18": 16.0,
+        "20": 8.0
+      },
+      "1": {
+        "0": 135.0,
+        "1": 67.0,
+        "2": 166.0,
+        "3": 143.0,
+        "4": 35.0,
+        "5": 164.0,
+        "6": 114.0,
+        "7": 148.0,
+        "8": 8.0,
+        "9": 36.0,
+        "10": 16.0,
+        "11": 7.0,
+        "12": 36.0,
+        "13": 8.0,
+        "14": 36.0,
+        "15": 16.0,
+        "16": 8.0,
+        "17": 8.0
+      },
+      "5": {
+        "0": 66.0,
+        "1": 51.0,
+        "2": 240.0,
+        "3": 55.0,
+        "4": 30.0,
+        "5": 26.0,
+        "6": 140.0,
+        "7": 49.0,
+        "8": 40.0,
+        "9": 70.0,
+        "10": 32.0,
+        "11": 42.0,
+        "12": 20.0,
+        "13": 16.0,
+        "14": 48.0,
+        "15": 4.0,
+        "16": 60.0,
+        "18": 4.0,
+        "20": 3.0
+      },
+      "16": {
+        "0": 4.0,
+        "1": 32.0,
+        "3": 4.0,
+        "4": 12.0,
+        "5": 16.0,
+        "7": 4.0,
+        "9": 20.0,
+        "10": 56.0,
+        "11": 12.0,
+        "12": 8.0,
+        "16": 40.0,
+        "17": 8.0,
+        "18": 4.0,
+        "19": 4.0
+      },
+      "10": {
+        "0": 4.0,
+        "1": 44.0,
+        "2": 32.0,
+        "3": 59.0,
+        "4": 54.0,
+        "5": 16.0,
+        "6": 23.0,
+        "7": 44.0,
+        "8": 24.0,
+        "9": 23.0,
+        "11": 70.0,
+        "12": 16.0,
+        "13": 28.0,
+        "14": 8.0,
+        "15": 4.0,
+        "16": 16.0,
+        "17": 4.0
+      },
+      "7": {
+        "0": 15.0,
+        "1": 31.0,
+        "2": 37.0,
+        "3": 132.0,
+        "4": 47.0,
+        "5": 58.0,
+        "6": 178.0,
+        "7": 155.0,
+        "8": 28.0,
+        "9": 36.0,
+        "10": 3.0,
+        "11": 7.0,
+        "12": 36.0,
+        "13": 219.0,
+        "14": 38.0,
+        "15": 12.0,
+        "16": 16.0,
+        "17": 40.0,
+        "18": 8.0
+      },
+      "17": {
+        "1": 12.0,
+        "3": 4.0,
+        "5": 4.0,
+        "6": 12.0,
+        "11": 52.0,
+        "14": 4.0,
+        "15": 8.0,
+        "16": 12.0,
+        "17": 40.0,
+        "18": 8.0
+      },
+      "11": {
+        "0": 30.0,
+        "1": 32.0,
+        "2": 7.0,
+        "3": 8.0,
+        "4": 102.0,
+        "5": 32.0,
+        "6": 90.0,
+        "7": 136.0,
+        "9": 20.0,
+        "10": 66.0,
+        "11": 13.0,
+        "12": 39.0,
+        "13": 62.0,
+        "14": 67.0,
+        "16": 4.0,
+        "18": 8.0,
+        "23": 3.0
+      },
+      "14": {
+        "0": 19.0,
+        "1": 20.0,
+        "2": 10.0,
+        "3": 94.0,
+        "4": 4.0,
+        "5": 83.0,
+        "6": 96.0,
+        "7": 44.0,
+        "8": 20.0,
+        "9": 8.0,
+        "10": 15.0,
+        "11": 4.0,
+        "12": 44.0,
+        "13": 7.0,
+        "14": 73.0,
+        "15": 12.0,
+        "17": 4.0,
+        "18": 40.0
+      },
+      "18": {
+        "1": 8.0,
+        "4": 4.0,
+        "5": 4.0,
+        "7": 8.0,
+        "17": 8.0,
+        "18": 40.0,
+        "19": 4.0
+      },
+      "6": {
+        "0": 46.0,
+        "1": 125.0,
+        "2": 43.0,
+        "3": 176.0,
+        "4": 116.0,
+        "5": 52.0,
+        "6": 167.0,
+        "7": 175.0,
+        "8": 63.0,
+        "9": 20.0,
+        "10": 31.0,
+        "11": 194.0,
+        "12": 67.0,
+        "14": 134.0,
+        "15": 35.0,
+        "16": 12.0,
+        "17": 4.0
+      },
+      "4": {
+        "0": 59.0,
+        "1": 38.0,
+        "2": 156.0,
+        "3": 94.0,
+        "4": 44.0,
+        "5": 87.0,
+        "6": 199.0,
+        "7": 135.0,
+        "8": 28.0,
+        "9": 36.0,
+        "10": 58.0,
+        "11": 55.0,
+        "12": 24.0,
+        "13": 84.0,
+        "14": 4.0,
+        "15": 12.0,
+        "18": 4.0,
+        "22": 4.0
+      },
+      "12": {
+        "0": 20.0,
+        "1": 12.0,
+        "2": 32.0,
+        "3": 50.0,
+        "4": 28.0,
+        "5": 40.0,
+        "6": 52.0,
+        "7": 31.0,
+        "8": 8.0,
+        "9": 24.0,
+        "10": 4.0,
+        "11": 20.0,
+        "12": 8.0,
+        "13": 12.0,
+        "14": 116.0,
+        "15": 4.0,
+        "16": 4.0,
+        "17": 16.0,
+        "20": 4.0
+      },
+      "2": {
+        "0": 138.0,
+        "1": 168.0,
+        "2": 178.0,
+        "3": 257.0,
+        "4": 274.0,
+        "5": 136.0,
+        "6": 56.0,
+        "7": 20.0,
+        "8": 12.0,
+        "9": 12.0,
+        "10": 16.0,
+        "11": 19.0,
+        "12": 75.0,
+        "13": 12.0,
+        "14": 8.0,
+        "20": 3.0,
+        "21": 4.0
+      },
+      "8": {
+        "0": 20.0,
+        "1": 4.0,
+        "2": 36.0,
+        "3": 15.0,
+        "4": 20.0,
+        "5": 99.0,
+        "6": 16.0,
+        "7": 15.0,
+        "8": 16.0,
+        "9": 15.0,
+        "10": 60.0,
+        "11": 8.0,
+        "12": 4.0,
+        "13": 4.0,
+        "14": 12.0,
+        "15": 12.0,
+        "16": 8.0,
+        "17": 4.0
+      },
+      "13": {
+        "1": 20.0,
+        "2": 12.0,
+        "3": 19.0,
+        "4": 100.0,
+        "5": 8.0,
+        "6": 12.0,
+        "7": 98.0,
+        "8": 4.0,
+        "9": 8.0,
+        "10": 16.0,
+        "11": 63.0,
+        "12": 8.0,
+        "13": 133.0,
+        "14": 11.0,
+        "15": 4.0,
+        "16": 4.0,
+        "17": 4.0
+      },
+      "15": {
+        "0": 4.0,
+        "1": 24.0,
+        "4": 12.0,
+        "5": 4.0,
+        "6": 4.0,
+        "8": 12.0,
+        "13": 12.0,
+        "14": 4.0,
+        "15": 8.0,
+        "16": 12.0,
+        "17": 12.0
+      },
+      "19": {
+        "10": 4.0,
+        "18": 4.0
+      },
+      "20": {
+        "4": 8.0,
+        "5": 3.0,
+        "9": 4.0,
+        "11": 3.0,
+        "12": 4.0
+      },
+      "23": {
+        "0": 3.0
+      },
+      "21": {
+        "1": 4.0,
+        "6": 3.0
+      },
+      "22": {
+        "3": 4.0
+      }
+    },
+    "length_counts": {
+      "1": 1876.0,
+      "2": 15349.0,
+      "4": 2.0
+    }
+  },
+  "breaks": {
+    "Adrift_Break": {
+      "examples_count": 231,
+      "notes_count": 516,
+      "slot_pair_counts": {
+        "0": {
+          "0": 48.0,
+          "1": 14.0,
+          "2": 1.0,
+          "10": 8.0,
+          "11": 8.0
+        },
+        "1": {
+          "3": 52.0,
+          "4": 1.0,
+          "5": 2.0,
+          "6": 3.0,
+          "7": 3.0,
+          "8": 3.0,
+          "9": 20.0,
+          "10": 4.0,
+          "11": 3.0,
+          "12": 2.0,
+          "13": 2.0,
+          "14": 9.0
+        },
+        "2": {
+          "1": 9.0,
+          "2": 2.0,
+          "3": 2.0,
+          "4": 3.0,
+          "5": 13.0,
+          "6": 6.0,
+          "7": 5.0,
+          "8": 4.0,
+          "9": 51.0,
+          "10": 3.0,
+          "11": 4.0,
+          "12": 15.0,
+          "13": 6.0,
+          "14": 5.0,
+          "15": 5.0,
+          "16": 7.0,
+          "17": 2.0,
+          "18": 1.0
+        },
+        "3": {
+          "5": 9.0,
+          "6": 4.0,
+          "7": 4.0,
+          "8": 1.0,
+          "9": 48.0,
+          "16": 16.0,
+          "18": 4.0
+        },
+        "4": {
+          "1": 56.0,
+          "5": 4.0,
+          "6": 1.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 9.0,
+          "17": 8.0
+        },
+        "5": {
+          "1": 9.0,
+          "5": 40.0,
+          "7": 9.0,
+          "8": 1.0,
+          "9": 8.0,
+          "12": 1.0,
+          "15": 8.0,
+          "16": 4.0
+        },
+        "6": {
+          "1": 8.0,
+          "7": 8.0,
+          "12": 10.0,
+          "13": 2.0,
+          "14": 2.0,
+          "15": 2.0,
+          "16": 42.0,
+          "17": 6.0,
+          "18": 9.0
+        },
+        "7": {
+          "6": 1.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 9.0,
+          "16": 52.0,
+          "17": 16.0
+        },
+        "8": {
+          "0": 4.0,
+          "1": 25.0,
+          "4": 1.0,
+          "7": 1.0,
+          "10": 41.0,
+          "11": 9.0,
+          "12": 2.0,
+          "15": 1.0
+        },
+        "9": {
+          "6": 1.0,
+          "7": 62.0,
+          "8": 2.0,
+          "9": 10.0,
+          "10": 2.0,
+          "11": 1.0,
+          "18": 8.0
+        },
+        "10": {
+          "7": 8.0,
+          "9": 8.0,
+          "11": 4.0,
+          "12": 10.0,
+          "13": 2.0,
+          "14": 2.0,
+          "15": 2.0,
+          "16": 10.0,
+          "17": 42.0,
+          "18": 1.0
+        },
+        "11": {
+          "5": 9.0,
+          "6": 1.0,
+          "7": 1.0,
+          "9": 16.0,
+          "16": 4.0,
+          "17": 40.0,
+          "18": 8.0
+        },
+        "12": {
+          "1": 16.0,
+          "5": 8.0,
+          "6": 1.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 2.0,
+          "10": 2.0,
+          "11": 50.0,
+          "12": 1.0,
+          "13": 1.0,
+          "17": 4.0
+        },
+        "13": {
+          "1": 9.0,
+          "3": 4.0,
+          "5": 16.0,
+          "10": 8.0,
+          "14": 40.0
+        },
+        "14": {
+          "0": 12.0,
+          "9": 8.0,
+          "12": 11.0,
+          "13": 3.0,
+          "14": 2.0,
+          "15": 2.0,
+          "16": 10.0,
+          "17": 2.0,
+          "18": 41.0
+        },
+        "15": {
+          "6": 1.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 9.0,
+          "10": 1.0,
+          "11": 9.0,
+          "16": 4.0,
+          "18": 56.0
+        }
+      },
+      "pair_counts": {
+        "0": 64.0,
+        "1": 146.0,
+        "2": 3.0,
+        "3": 58.0,
+        "4": 5.0,
+        "5": 101.0,
+        "6": 19.0,
+        "7": 109.0,
+        "8": 19.0,
+        "9": 182.0,
+        "10": 71.0,
+        "11": 106.0,
+        "12": 52.0,
+        "13": 16.0,
+        "14": 60.0,
+        "15": 20.0,
+        "16": 149.0,
+        "17": 120.0,
+        "18": 128.0
+      },
+      "transition_counts": {
+        "0": {
+          "3": 48.0,
+          "7": 4.0,
+          "16": 4.0,
+          "18": 8.0
+        },
+        "3": {
+          "0": 4.0,
+          "1": 8.0,
+          "9": 40.0,
+          "16": 4.0
+        },
+        "9": {
+          "1": 48.0,
+          "5": 16.0,
+          "7": 8.0,
+          "9": 40.0,
+          "12": 16.0,
+          "16": 8.0,
+          "17": 8.0,
+          "18": 16.0
+        },
+        "1": {
+          "3": 4.0,
+          "5": 56.0,
+          "7": 24.0,
+          "9": 32.0,
+          "12": 16.0,
+          "17": 8.0
+        },
+        "5": {
+          "0": 8.0,
+          "9": 8.0,
+          "10": 8.0,
+          "11": 16.0,
+          "16": 52.0
+        },
+        "16": {
+          "0": 4.0,
+          "1": 24.0,
+          "9": 16.0,
+          "10": 40.0,
+          "16": 40.0,
+          "17": 8.0,
+          "18": 4.0
+        },
+        "10": {
+          "7": 40.0,
+          "9": 8.0,
+          "16": 8.0
+        },
+        "7": {
+          "9": 16.0,
+          "11": 4.0,
+          "16": 16.0,
+          "17": 40.0,
+          "18": 8.0
+        },
+        "17": {
+          "1": 8.0,
+          "3": 4.0,
+          "11": 48.0,
+          "15": 8.0,
+          "16": 4.0,
+          "17": 40.0
+        },
+        "11": {
+          "1": 24.0,
+          "14": 48.0,
+          "16": 4.0,
+          "18": 8.0
+        },
+        "14": {
+          "9": 8.0,
+          "18": 40.0
+        },
+        "18": {
+          "1": 8.0,
+          "5": 4.0,
+          "7": 8.0,
+          "17": 8.0,
+          "18": 40.0
+        },
+        "15": {
+          "1": 8.0
+        },
+        "12": {
+          "5": 16.0,
+          "11": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 1428.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Adrift_Break_slice_index_corrections_v44.jsonl": 212.0,
+        "dataset/learning/latest/Adrift_Break_latest_slice_index_v77.json": 1.0,
+        "dataset/learning/latest/Adrift_Break_latest_slice_index_v81.json": 1.0,
+        "dataset/learning/latest/Adrift_Break_latest_slice_index_v82.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_094938_Adrift_Break_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_094944_Adrift_Break_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_094946_Adrift_Break_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_094948_Adrift_Break_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_095854_Adrift_Break_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_095901_Adrift_Break_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_095909_Adrift_Break_reject_bad.json": 1.0,
+        "dataset/learning/role_feedback_v01.jsonl": 8.0,
+        "dataset/learning/validated_patterns/20260702_094921_Adrift_Break_good_train.json": 1.0
+      }
+    },
+    "Alzir_Break_-_4A": {
+      "examples_count": 152,
+      "notes_count": 423,
+      "slot_pair_counts": {
+        "0": {
+          "0": 51.0,
+          "2": 17.0,
+          "7": 23.0
+        },
+        "1": {
+          "1": 25.0,
+          "2": 4.0,
+          "3": 23.0,
+          "4": 23.0
+        },
+        "2": {
+          "1": 4.0,
+          "2": 27.0,
+          "3": 2.0,
+          "4": 2.0,
+          "5": 2.0,
+          "6": 48.0
+        },
+        "3": {
+          "1": 28.0,
+          "3": 23.0,
+          "11": 23.0
+        },
+        "4": {
+          "3": 23.0,
+          "7": 28.0,
+          "12": 23.0
+        },
+        "5": {
+          "0": 23.0,
+          "3": 52.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0
+        },
+        "6": {
+          "2": 27.0,
+          "3": 2.0,
+          "4": 6.0,
+          "5": 2.0,
+          "6": 48.0
+        },
+        "7": {
+          "3": 47.0,
+          "4": 28.0
+        },
+        "8": {
+          "0": 23.0,
+          "2": 11.0,
+          "3": 25.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 28.0
+        },
+        "9": {
+          "0": 1.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 24.0,
+          "4": 1.0,
+          "5": 27.0,
+          "6": 30.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 2.0,
+          "10": 2.0,
+          "11": 1.0
+        },
+        "10": {
+          "1": 23.0,
+          "2": 27.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 24.0,
+          "12": 4.0
+        },
+        "11": {
+          "3": 23.0,
+          "4": 25.0,
+          "5": 1.0,
+          "6": 25.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 24.0,
+          "12": 4.0
+        },
+        "12": {
+          "0": 24.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 24.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 2.0,
+          "7": 26.0,
+          "8": 2.0,
+          "9": 2.0,
+          "10": 2.0,
+          "11": 3.0,
+          "12": 5.0,
+          "13": 5.0
+        },
+        "13": {
+          "0": 23.0,
+          "1": 25.0,
+          "2": 2.0,
+          "3": 26.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 3.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 2.0,
+          "10": 5.0,
+          "11": 1.0,
+          "12": 1.0
+        },
+        "14": {
+          "2": 26.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 48.0,
+          "15": 4.0
+        },
+        "15": {
+          "2": 2.0,
+          "3": 23.0,
+          "4": 25.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 1.0,
+          "15": 27.0
+        }
+      },
+      "pair_counts": {
+        "0": 145.0,
+        "1": 107.0,
+        "2": 145.0,
+        "3": 319.0,
+        "4": 116.0,
+        "5": 39.0,
+        "6": 231.0,
+        "7": 85.0,
+        "8": 36.0,
+        "9": 8.0,
+        "10": 11.0,
+        "11": 53.0,
+        "12": 38.0,
+        "13": 6.0,
+        "14": 1.0,
+        "15": 31.0
+      },
+      "transition_counts": {
+        "0": {
+          "1": 47.0,
+          "2": 4.0,
+          "3": 46.0,
+          "6": 46.0
+        },
+        "3": {
+          "0": 69.0,
+          "2": 48.0,
+          "3": 69.0,
+          "4": 4.0,
+          "6": 92.0,
+          "7": 23.0
+        },
+        "6": {
+          "1": 23.0,
+          "3": 115.0,
+          "11": 46.0,
+          "12": 4.0,
+          "15": 23.0
+        },
+        "7": {
+          "3": 52.0,
+          "4": 23.0
+        },
+        "4": {
+          "2": 24.0,
+          "4": 4.0,
+          "6": 23.0,
+          "7": 24.0,
+          "8": 20.0
+        },
+        "11": {
+          "0": 23.0,
+          "12": 23.0
+        },
+        "12": {
+          "3": 23.0,
+          "12": 4.0,
+          "13": 4.0
+        },
+        "1": {
+          "1": 4.0,
+          "2": 24.0,
+          "6": 46.0,
+          "7": 28.0
+        },
+        "2": {
+          "1": 28.0,
+          "4": 72.0,
+          "8": 8.0
+        },
+        "8": {
+          "5": 24.0,
+          "6": 4.0
+        },
+        "13": {
+          "10": 4.0
+        },
+        "10": {
+          "15": 4.0
+        },
+        "15": {
+          "15": 4.0
+        },
+        "5": {
+          "2": 24.0
+        }
+      },
+      "length_counts": {
+        "1": 27.0,
+        "2": 1344.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Alzir_Break_-_4A_slice_index_corrections_v44.jsonl": 140.0,
+        "dataset/learning/latest/Alzir_Break_-_4A_latest_slice_index_v102.json": 1.0,
+        "dataset/learning/latest/Alzir_Break_-_4A_latest_slice_index_v81.json": 1.0,
+        "dataset/learning/role_feedback_v01.jsonl": 4.0,
+        "dataset/learning/validated_patterns/20260702_095143_Alzir_Break_-_4A_good_train.json": 1.0,
+        "dataset/learning/validated_patterns/20260702_095402_Alzir_Break_-_4A_good_train.json": 1.0,
+        "dataset/learning/validated_patterns/20260702_095417_Alzir_Break_-_4A_good_train.json": 1.0,
+        "dataset/learning/validated_patterns/20260702_135002_Alzir_Break_-_4A_good_train.json": 1.0,
+        "dataset/tracker_edits/Alzir_Break_-_4A_tracker_app_edit_v102.json": 1.0,
+        "dataset/validated_patterns/Alzir_Break_-_4A_validated_slice_index_loop64_v102_20260702_135007.json": 1.0
+      }
+    },
+    "Angles_Break": {
+      "examples_count": 1,
+      "notes_count": 32,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0,
+          "1": 4.0
+        },
+        "1": {
+          "3": 4.0,
+          "5": 4.0
+        },
+        "2": {
+          "6": 8.0
+        },
+        "3": {
+          "3": 4.0,
+          "11": 4.0
+        },
+        "4": {
+          "3": 4.0,
+          "13": 4.0
+        },
+        "5": {
+          "0": 4.0,
+          "4": 4.0
+        },
+        "6": {
+          "6": 8.0
+        },
+        "7": {
+          "3": 4.0,
+          "14": 4.0
+        },
+        "8": {
+          "0": 4.0,
+          "8": 4.0
+        },
+        "9": {
+          "3": 4.0,
+          "5": 4.0
+        },
+        "10": {
+          "6": 8.0
+        },
+        "11": {
+          "3": 4.0,
+          "11": 4.0
+        },
+        "12": {
+          "3": 4.0,
+          "13": 4.0
+        },
+        "13": {
+          "0": 4.0,
+          "1": 4.0
+        },
+        "14": {
+          "6": 8.0
+        },
+        "15": {
+          "3": 4.0,
+          "14": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "1": 8.0,
+        "3": 32.0,
+        "4": 4.0,
+        "5": 8.0,
+        "6": 32.0,
+        "8": 4.0,
+        "11": 8.0,
+        "13": 8.0,
+        "14": 8.0
+      },
+      "transition_counts": {
+        "0": {
+          "3": 8.0,
+          "6": 8.0
+        },
+        "3": {
+          "0": 12.0,
+          "1": 4.0,
+          "3": 8.0,
+          "6": 8.0
+        },
+        "6": {
+          "3": 16.0,
+          "11": 8.0,
+          "14": 8.0
+        },
+        "1": {
+          "5": 4.0,
+          "6": 4.0
+        },
+        "5": {
+          "6": 8.0
+        },
+        "11": {
+          "13": 8.0
+        },
+        "13": {
+          "1": 4.0,
+          "4": 4.0
+        },
+        "4": {
+          "6": 4.0
+        },
+        "14": {
+          "8": 4.0
+        },
+        "8": {
+          "5": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 128.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Angles_Break_latest_slice_index_v101.json": 1.0
+      }
+    },
+    "Arson_Fill_-_4A": {
+      "examples_count": 93,
+      "notes_count": 155,
+      "slot_pair_counts": {
+        "0": {
+          "0": 13.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 4.0
+        },
+        "1": {
+          "1": 9.0,
+          "2": 10.0,
+          "3": 2.0,
+          "4": 2.0,
+          "5": 2.0,
+          "6": 2.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 2.0,
+          "10": 2.0,
+          "11": 2.0,
+          "12": 2.0,
+          "13": 2.0,
+          "14": 2.0,
+          "15": 2.0,
+          "16": 2.0,
+          "17": 2.0,
+          "18": 2.0,
+          "19": 2.0,
+          "20": 1.0
+        },
+        "2": {
+          "9": 2.0,
+          "10": 22.0,
+          "11": 4.0
+        },
+        "3": {
+          "1": 8.0,
+          "6": 8.0
+        },
+        "4": {
+          "1": 8.0,
+          "7": 8.0
+        },
+        "5": {
+          "0": 8.0,
+          "5": 8.0
+        },
+        "6": {
+          "10": 20.0,
+          "11": 4.0
+        },
+        "7": {
+          "1": 8.0,
+          "8": 8.0
+        },
+        "8": {
+          "0": 8.0,
+          "9": 4.0,
+          "11": 4.0
+        },
+        "9": {
+          "1": 8.0,
+          "9": 4.0,
+          "11": 4.0
+        },
+        "10": {
+          "10": 16.0,
+          "11": 5.0,
+          "12": 2.0,
+          "13": 5.0
+        },
+        "11": {
+          "1": 13.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 5.0,
+          "11": 2.0,
+          "12": 1.0
+        },
+        "12": {
+          "1": 8.0,
+          "2": 8.0
+        },
+        "13": {
+          "0": 8.0,
+          "13": 8.0
+        },
+        "14": {
+          "10": 10.0,
+          "11": 2.0,
+          "12": 8.0
+        },
+        "15": {
+          "1": 8.0,
+          "6": 8.0
+        }
+      },
+      "pair_counts": {
+        "0": 37.0,
+        "1": 71.0,
+        "2": 20.0,
+        "3": 4.0,
+        "4": 7.0,
+        "5": 11.0,
+        "6": 19.0,
+        "7": 11.0,
+        "8": 11.0,
+        "9": 13.0,
+        "10": 75.0,
+        "11": 27.0,
+        "12": 13.0,
+        "13": 15.0,
+        "14": 2.0,
+        "15": 2.0,
+        "16": 2.0,
+        "17": 2.0,
+        "18": 2.0,
+        "19": 2.0,
+        "20": 1.0
+      },
+      "transition_counts": {
+        "0": {
+          "1": 16.0,
+          "2": 4.0,
+          "10": 16.0
+        },
+        "1": {
+          "0": 28.0,
+          "1": 16.0,
+          "2": 4.0,
+          "4": 4.0,
+          "10": 16.0
+        },
+        "10": {
+          "1": 36.0,
+          "2": 4.0,
+          "6": 8.0,
+          "8": 8.0
+        },
+        "2": {
+          "10": 8.0,
+          "13": 8.0
+        },
+        "6": {
+          "7": 8.0
+        },
+        "7": {
+          "5": 8.0
+        },
+        "5": {
+          "10": 8.0
+        },
+        "8": {
+          "9": 4.0,
+          "11": 4.0
+        },
+        "11": {
+          "9": 4.0,
+          "10": 4.0
+        },
+        "9": {
+          "11": 4.0,
+          "13": 4.0
+        },
+        "13": {
+          "10": 4.0,
+          "12": 8.0
+        },
+        "12": {
+          "6": 8.0
+        },
+        "4": {
+          "2": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 347.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Arson_Fill_-_4A_slice_index_corrections_v44.jsonl": 91.0,
+        "dataset/learning/latest/Arson_Fill_-_4A_latest_slice_index_v102.json": 1.0,
+        "dataset/learning/latest/Arson_Fill_-_4A_latest_slice_index_v96.json": 1.0
+      }
+    },
+    "Atlantis_Amen": {
+      "examples_count": 39,
+      "notes_count": 225,
+      "slot_pair_counts": {
+        "0": {
+          "0": 20.0,
+          "2": 4.0,
+          "3": 33.0,
+          "5": 4.0,
+          "6": 6.0,
+          "7": 4.0
+        },
+        "1": {
+          "2": 20.0,
+          "3": 3.0
+        },
+        "2": {
+          "0": 8.0,
+          "1": 12.0,
+          "2": 7.0,
+          "3": 14.0,
+          "4": 24.0,
+          "5": 7.0,
+          "6": 8.0
+        },
+        "3": {
+          "2": 6.0,
+          "3": 3.0,
+          "4": 3.0,
+          "5": 3.0,
+          "6": 3.0,
+          "7": 21.0
+        },
+        "4": {
+          "0": 19.0,
+          "1": 8.0,
+          "3": 29.0,
+          "4": 5.0,
+          "5": 4.0,
+          "6": 8.0
+        },
+        "5": {
+          "2": 16.0,
+          "5": 3.0,
+          "7": 4.0
+        },
+        "6": {
+          "0": 12.0,
+          "1": 7.0,
+          "3": 12.0,
+          "4": 19.0,
+          "5": 8.0,
+          "6": 11.0
+        },
+        "7": {
+          "2": 8.0,
+          "3": 3.0,
+          "6": 4.0,
+          "7": 8.0
+        },
+        "8": {
+          "0": 20.0,
+          "1": 4.0,
+          "3": 28.0,
+          "5": 10.0,
+          "6": 3.0,
+          "7": 4.0
+        },
+        "9": {
+          "2": 20.0,
+          "7": 3.0
+        },
+        "10": {
+          "1": 19.0,
+          "3": 16.0,
+          "4": 19.0,
+          "5": 7.0,
+          "6": 8.0
+        },
+        "11": {
+          "2": 4.0,
+          "6": 4.0,
+          "7": 15.0
+        },
+        "12": {
+          "0": 19.0,
+          "1": 8.0,
+          "3": 24.0,
+          "4": 4.0,
+          "5": 3.0,
+          "6": 7.0,
+          "7": 4.0
+        },
+        "13": {
+          "2": 16.0,
+          "6": 3.0,
+          "7": 4.0
+        },
+        "14": {
+          "0": 15.0,
+          "1": 4.0,
+          "2": 3.0,
+          "3": 16.0,
+          "4": 23.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "15": {
+          "2": 8.0,
+          "3": 3.0,
+          "6": 4.0,
+          "7": 8.0
+        }
+      },
+      "pair_counts": {
+        "0": 113.0,
+        "1": 62.0,
+        "2": 112.0,
+        "3": 184.0,
+        "4": 97.0,
+        "5": 53.0,
+        "6": 73.0,
+        "7": 75.0
+      },
+      "transition_counts": {
+        "0": {
+          "1": 12.0,
+          "2": 8.0,
+          "3": 59.0,
+          "5": 7.0,
+          "6": 3.0,
+          "7": 24.0
+        },
+        "3": {
+          "0": 44.0,
+          "1": 4.0,
+          "2": 59.0,
+          "4": 52.0,
+          "5": 6.0
+        },
+        "2": {
+          "3": 68.0,
+          "4": 23.0,
+          "5": 4.0,
+          "6": 4.0,
+          "7": 4.0
+        },
+        "4": {
+          "0": 31.0,
+          "1": 18.0,
+          "2": 4.0,
+          "3": 3.0,
+          "5": 16.0,
+          "6": 16.0,
+          "7": 4.0
+        },
+        "5": {
+          "0": 3.0,
+          "1": 4.0,
+          "2": 4.0,
+          "4": 6.0,
+          "5": 3.0,
+          "6": 22.0,
+          "7": 3.0
+        },
+        "1": {
+          "2": 28.0,
+          "4": 7.0,
+          "6": 4.0,
+          "7": 22.0
+        },
+        "7": {
+          "0": 8.0,
+          "3": 40.0,
+          "4": 4.0,
+          "5": 10.0,
+          "6": 7.0
+        },
+        "6": {
+          "0": 7.0,
+          "1": 23.0,
+          "2": 3.0,
+          "3": 7.0,
+          "5": 3.0,
+          "6": 6.0,
+          "7": 16.0
+        }
+      },
+      "length_counts": {
+        "1": 769.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Atlantis_Amen_plain_corrections_v32.jsonl": 33.0,
+        "dataset/learning/latest/Atlantis_Amen_latest_pattern_v31.json": 1.0,
+        "dataset/learning/latest/Atlantis_Amen_latest_plain_v32.json": 1.0,
+        "dataset/learning/latest/Atlantis_Amen_latest_plain_v33.json": 1.0,
+        "dataset/learning/latest/Atlantis_Amen_latest_slice_index_v35.json": 1.0,
+        "dataset/tracker_edits/Atlantis_Amen_tracker_app_edit_v29.json": 1.0,
+        "dataset/validated_patterns/Atlantis_Amen_validated_loop32_20260702_052537.json": 1.0
+      }
+    },
+    "Boo_Worm_Break_-_9A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "4": 4.0
+        },
+        "2": {
+          "1": 4.0
+        },
+        "3": {
+          "1": 4.0
+        },
+        "4": {
+          "2": 4.0
+        },
+        "5": {
+          "11": 4.0
+        },
+        "6": {
+          "5": 4.0
+        },
+        "7": {
+          "5": 4.0
+        },
+        "8": {
+          "6": 4.0
+        },
+        "9": {
+          "12": 4.0
+        },
+        "10": {
+          "7": 4.0
+        },
+        "11": {
+          "7": 4.0
+        },
+        "12": {
+          "15": 4.0
+        },
+        "13": {
+          "16": 4.0
+        },
+        "14": {
+          "19": 4.0
+        },
+        "15": {
+          "18": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 4.0,
+        "1": 8.0,
+        "2": 4.0,
+        "4": 4.0,
+        "5": 8.0,
+        "6": 4.0,
+        "7": 8.0,
+        "11": 4.0,
+        "12": 4.0,
+        "15": 4.0,
+        "16": 4.0,
+        "18": 4.0,
+        "19": 4.0
+      },
+      "transition_counts": {
+        "0": {
+          "4": 4.0
+        },
+        "4": {
+          "1": 4.0
+        },
+        "1": {
+          "1": 4.0,
+          "2": 4.0
+        },
+        "2": {
+          "11": 4.0
+        },
+        "11": {
+          "5": 4.0
+        },
+        "5": {
+          "5": 4.0,
+          "6": 4.0
+        },
+        "6": {
+          "12": 4.0
+        },
+        "12": {
+          "7": 4.0
+        },
+        "7": {
+          "7": 4.0,
+          "15": 4.0
+        },
+        "15": {
+          "16": 4.0
+        },
+        "16": {
+          "19": 4.0
+        },
+        "19": {
+          "18": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Boo_Worm_Break_-_9A_latest_slice_index_v81.json": 1.0
+      }
+    },
+    "Camo_Break_-_3A": {
+      "examples_count": 1374,
+      "notes_count": 2910,
+      "slot_pair_counts": {
+        "0": {
+          "0": 26.0,
+          "1": 118.0,
+          "2": 43.0,
+          "3": 68.0,
+          "4": 119.0,
+          "5": 53.0,
+          "6": 28.0,
+          "7": 30.0,
+          "8": 57.0,
+          "9": 21.0,
+          "10": 33.0,
+          "11": 71.0,
+          "12": 41.0,
+          "13": 10.0,
+          "14": 9.0,
+          "15": 5.0,
+          "16": 5.0,
+          "17": 3.0
+        },
+        "1": {
+          "0": 62.0,
+          "1": 8.0,
+          "2": 74.0,
+          "3": 62.0,
+          "4": 17.0,
+          "5": 18.0,
+          "6": 87.0,
+          "7": 32.0,
+          "8": 24.0,
+          "9": 30.0,
+          "10": 36.0,
+          "11": 20.0,
+          "12": 27.0,
+          "13": 69.0,
+          "14": 53.0,
+          "15": 7.0,
+          "16": 6.0,
+          "17": 4.0
+        },
+        "2": {
+          "0": 44.0,
+          "1": 34.0,
+          "2": 47.0,
+          "3": 46.0,
+          "4": 23.0,
+          "5": 75.0,
+          "6": 83.0,
+          "7": 127.0,
+          "8": 21.0,
+          "9": 21.0,
+          "10": 15.0,
+          "11": 15.0,
+          "12": 26.0,
+          "13": 11.0,
+          "14": 11.0,
+          "15": 1.0
+        },
+        "3": {
+          "0": 23.0,
+          "1": 7.0,
+          "2": 90.0,
+          "3": 33.0,
+          "4": 7.0,
+          "5": 62.0,
+          "6": 66.0,
+          "7": 11.0,
+          "8": 1.0,
+          "9": 8.0,
+          "10": 17.0,
+          "11": 13.0,
+          "12": 32.0,
+          "13": 60.0,
+          "14": 38.0,
+          "15": 1.0
+        },
+        "4": {
+          "0": 15.0,
+          "1": 12.0,
+          "2": 75.0,
+          "3": 59.0,
+          "4": 38.0,
+          "5": 11.0,
+          "6": 77.0,
+          "7": 50.0,
+          "8": 5.0,
+          "9": 5.0,
+          "10": 8.0,
+          "11": 20.0,
+          "12": 25.0,
+          "13": 57.0,
+          "14": 51.0,
+          "15": 1.0
+        },
+        "5": {
+          "0": 30.0,
+          "1": 40.0,
+          "2": 41.0,
+          "3": 32.0,
+          "4": 58.0,
+          "5": 45.0,
+          "6": 23.0,
+          "7": 41.0,
+          "8": 10.0,
+          "9": 13.0,
+          "10": 9.0,
+          "11": 60.0,
+          "12": 35.0,
+          "14": 4.0,
+          "15": 1.0
+        },
+        "6": {
+          "0": 27.0,
+          "1": 29.0,
+          "2": 43.0,
+          "3": 18.0,
+          "4": 23.0,
+          "5": 47.0,
+          "6": 100.0,
+          "7": 112.0,
+          "8": 9.0,
+          "9": 22.0,
+          "10": 3.0,
+          "11": 10.0,
+          "12": 46.0,
+          "13": 1.0,
+          "14": 7.0,
+          "20": 3.0
+        },
+        "7": {
+          "0": 11.0,
+          "2": 44.0,
+          "3": 40.0,
+          "5": 47.0,
+          "6": 94.0,
+          "7": 17.0,
+          "9": 21.0,
+          "10": 5.0,
+          "11": 17.0,
+          "12": 22.0,
+          "13": 53.0,
+          "14": 47.0
+        },
+        "8": {
+          "0": 12.0,
+          "1": 51.0,
+          "2": 24.0,
+          "3": 53.0,
+          "4": 90.0,
+          "5": 30.0,
+          "6": 19.0,
+          "7": 22.0,
+          "8": 78.0,
+          "9": 5.0,
+          "10": 15.0,
+          "11": 65.0,
+          "12": 22.0,
+          "13": 7.0,
+          "14": 13.0,
+          "20": 3.0
+        },
+        "9": {
+          "0": 4.0,
+          "2": 68.0,
+          "3": 69.0,
+          "4": 5.0,
+          "5": 32.0,
+          "6": 57.0,
+          "7": 30.0,
+          "8": 5.0,
+          "9": 14.0,
+          "10": 30.0,
+          "11": 23.0,
+          "12": 3.0,
+          "13": 54.0,
+          "14": 40.0
+        },
+        "10": {
+          "0": 23.0,
+          "1": 33.0,
+          "2": 19.0,
+          "3": 26.0,
+          "4": 26.0,
+          "5": 77.0,
+          "6": 73.0,
+          "7": 113.0,
+          "8": 3.0,
+          "9": 41.0,
+          "10": 10.0,
+          "11": 11.0,
+          "12": 21.0,
+          "13": 11.0,
+          "14": 12.0,
+          "23": 3.0
+        },
+        "11": {
+          "0": 30.0,
+          "1": 7.0,
+          "2": 56.0,
+          "3": 48.0,
+          "5": 27.0,
+          "6": 58.0,
+          "7": 22.0,
+          "8": 1.0,
+          "9": 29.0,
+          "10": 14.0,
+          "11": 10.0,
+          "12": 28.0,
+          "13": 52.0,
+          "14": 42.0
+        },
+        "12": {
+          "0": 13.0,
+          "1": 15.0,
+          "2": 58.0,
+          "3": 70.0,
+          "4": 28.0,
+          "5": 5.0,
+          "6": 74.0,
+          "7": 24.0,
+          "9": 14.0,
+          "10": 16.0,
+          "11": 44.0,
+          "12": 11.0,
+          "13": 49.0,
+          "14": 45.0,
+          "21": 3.0
+        },
+        "13": {
+          "0": 29.0,
+          "1": 37.0,
+          "2": 53.0,
+          "3": 18.0,
+          "4": 59.0,
+          "5": 27.0,
+          "6": 22.0,
+          "7": 43.0,
+          "8": 6.0,
+          "9": 18.0,
+          "10": 6.0,
+          "11": 96.0,
+          "12": 13.0,
+          "13": 8.0,
+          "14": 7.0
+        },
+        "14": {
+          "0": 23.0,
+          "1": 26.0,
+          "2": 35.0,
+          "3": 16.0,
+          "4": 37.0,
+          "5": 85.0,
+          "6": 71.0,
+          "7": 89.0,
+          "8": 12.0,
+          "9": 15.0,
+          "10": 6.0,
+          "11": 12.0,
+          "12": 22.0,
+          "13": 24.0,
+          "14": 7.0
+        },
+        "15": {
+          "0": 19.0,
+          "1": 1.0,
+          "2": 54.0,
+          "3": 30.0,
+          "4": 2.0,
+          "5": 29.0,
+          "6": 56.0,
+          "7": 57.0,
+          "8": 2.0,
+          "9": 1.0,
+          "10": 5.0,
+          "11": 10.0,
+          "12": 10.0,
+          "13": 90.0,
+          "14": 42.0,
+          "15": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 391.0,
+        "1": 418.0,
+        "2": 824.0,
+        "3": 688.0,
+        "4": 532.0,
+        "5": 670.0,
+        "6": 988.0,
+        "7": 820.0,
+        "8": 234.0,
+        "9": 278.0,
+        "10": 228.0,
+        "11": 497.0,
+        "12": 384.0,
+        "13": 556.0,
+        "14": 428.0,
+        "15": 20.0,
+        "16": 11.0,
+        "17": 7.0,
+        "20": 6.0,
+        "21": 3.0,
+        "23": 3.0
+      },
+      "transition_counts": {
+        "0": {
+          "0": 18.0,
+          "1": 34.0,
+          "2": 64.0,
+          "3": 125.0,
+          "4": 20.0,
+          "5": 33.0,
+          "6": 20.0,
+          "10": 11.0,
+          "11": 4.0,
+          "12": 20.0,
+          "14": 11.0,
+          "21": 3.0
+        },
+        "4": {
+          "0": 4.0,
+          "2": 44.0,
+          "3": 48.0,
+          "4": 4.0,
+          "5": 51.0,
+          "6": 85.0,
+          "7": 79.0,
+          "9": 24.0,
+          "10": 4.0,
+          "11": 32.0,
+          "12": 16.0,
+          "13": 56.0
+        },
+        "2": {
+          "0": 90.0,
+          "1": 96.0,
+          "2": 115.0,
+          "3": 134.0,
+          "4": 84.0,
+          "5": 104.0,
+          "6": 32.0,
+          "7": 12.0,
+          "9": 4.0,
+          "10": 8.0,
+          "11": 11.0,
+          "12": 27.0,
+          "13": 4.0,
+          "20": 3.0
+        },
+        "7": {
+          "0": 3.0,
+          "1": 23.0,
+          "2": 9.0,
+          "3": 20.0,
+          "5": 16.0,
+          "6": 156.0,
+          "7": 148.0,
+          "8": 16.0,
+          "9": 12.0,
+          "10": 3.0,
+          "12": 8.0,
+          "13": 204.0,
+          "14": 4.0
+        },
+        "1": {
+          "0": 64.0,
+          "1": 3.0,
+          "2": 90.0,
+          "3": 52.0,
+          "5": 84.0,
+          "6": 28.0,
+          "7": 18.0,
+          "8": 4.0,
+          "11": 3.0,
+          "12": 20.0,
+          "14": 16.0
+        },
+        "5": {
+          "0": 32.0,
+          "1": 12.0,
+          "2": 180.0,
+          "3": 43.0,
+          "4": 16.0,
+          "5": 3.0,
+          "6": 78.0,
+          "7": 42.0,
+          "8": 12.0,
+          "9": 55.0,
+          "11": 15.0,
+          "12": 20.0,
+          "13": 12.0,
+          "14": 48.0,
+          "20": 3.0
+        },
+        "3": {
+          "0": 77.0,
+          "1": 23.0,
+          "2": 106.0,
+          "3": 63.0,
+          "4": 36.0,
+          "5": 47.0,
+          "6": 80.0,
+          "7": 23.0,
+          "8": 13.0,
+          "9": 7.0,
+          "10": 52.0,
+          "11": 8.0,
+          "12": 24.0,
+          "13": 3.0,
+          "14": 12.0
+        },
+        "6": {
+          "0": 11.0,
+          "1": 47.0,
+          "2": 20.0,
+          "3": 8.0,
+          "4": 72.0,
+          "5": 46.0,
+          "6": 134.0,
+          "7": 128.0,
+          "8": 44.0,
+          "11": 110.0,
+          "12": 52.0,
+          "14": 116.0
+        },
+        "12": {
+          "0": 16.0,
+          "1": 12.0,
+          "2": 32.0,
+          "3": 7.0,
+          "4": 20.0,
+          "5": 24.0,
+          "6": 40.0,
+          "7": 4.0,
+          "8": 8.0,
+          "9": 16.0,
+          "10": 4.0,
+          "11": 4.0,
+          "13": 4.0,
+          "14": 76.0
+        },
+        "8": {
+          "0": 8.0,
+          "2": 16.0,
+          "3": 11.0,
+          "4": 8.0,
+          "5": 44.0,
+          "6": 8.0,
+          "7": 11.0,
+          "9": 7.0,
+          "10": 36.0,
+          "12": 4.0,
+          "14": 4.0
+        },
+        "9": {
+          "0": 7.0,
+          "1": 4.0,
+          "2": 16.0,
+          "3": 6.0,
+          "4": 8.0,
+          "5": 4.0,
+          "6": 20.0,
+          "8": 24.0,
+          "9": 28.0,
+          "10": 20.0,
+          "11": 47.0,
+          "12": 4.0,
+          "13": 4.0
+        },
+        "10": {
+          "1": 8.0,
+          "2": 12.0,
+          "3": 55.0,
+          "4": 4.0,
+          "5": 12.0,
+          "8": 4.0,
+          "9": 11.0,
+          "11": 24.0,
+          "12": 8.0,
+          "13": 12.0
+        },
+        "11": {
+          "0": 7.0,
+          "1": 4.0,
+          "2": 7.0,
+          "3": 8.0,
+          "4": 52.0,
+          "5": 28.0,
+          "6": 65.0,
+          "7": 118.0,
+          "9": 16.0,
+          "10": 4.0,
+          "11": 10.0,
+          "12": 16.0,
+          "13": 46.0,
+          "23": 3.0
+        },
+        "13": {
+          "2": 8.0,
+          "3": 4.0,
+          "4": 76.0,
+          "7": 90.0,
+          "9": 8.0,
+          "10": 4.0,
+          "11": 63.0,
+          "13": 114.0,
+          "14": 7.0
+        },
+        "14": {
+          "0": 19.0,
+          "1": 16.0,
+          "2": 10.0,
+          "3": 14.0,
+          "5": 72.0,
+          "6": 85.0,
+          "12": 36.0,
+          "14": 66.0,
+          "15": 4.0
+        },
+        "20": {
+          "5": 3.0,
+          "11": 3.0
+        },
+        "23": {
+          "0": 3.0
+        },
+        "21": {
+          "6": 3.0
+        }
+      },
+      "length_counts": {
+        "1": 693.0,
+        "2": 7291.0,
+        "4": 2.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Camo_Break_-_3A_plain_corrections_v33.jsonl": 13.0,
+        "dataset/learning/corrections/Camo_Break_-_3A_plain_corrections_v34.jsonl": 17.0,
+        "dataset/learning/corrections/Camo_Break_-_3A_slice_index_corrections_v40.jsonl": 2.0,
+        "dataset/learning/corrections/Camo_Break_-_3A_slice_index_corrections_v44.jsonl": 1252.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_pattern_v31.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_plain_v33.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_plain_v34.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v100.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v102.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v35.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v37.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v38.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v39.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v40.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v44.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v45.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v46.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v48.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v49.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v51.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v52.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v53.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v54.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v55.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v59.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v61.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v62.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v63.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v67.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v71.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v74.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v76.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v79.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v81.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v82.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v83.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v84.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v85.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v86.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v87.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v88.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v90.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v91.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v92.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v93.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v94.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v95.json": 1.0,
+        "dataset/learning/latest/Camo_Break_-_3A_latest_slice_index_v99.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_095519_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_101509_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_101514_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_101520_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_101527_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_101531_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_102140_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_102152_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_102208_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_102452_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_102648_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_104501_Camo_Break_-_3A_reject_bad.json": 1.0,
+        "dataset/learning/role_feedback_v01.jsonl": 16.0,
+        "dataset/learning/validated_patterns/20260702_101358_Camo_Break_-_3A_good_train.json": 1.0,
+        "dataset/learning/validated_patterns/20260702_103232_Camo_Break_-_3A_good_train.json": 1.0,
+        "dataset/learning/validated_patterns/Camo_Break_-_3A_human_validated_v67_20260702_085834.json": 1.0,
+        "dataset/learning/validated_patterns/Camo_Break_-_3A_human_validated_v67_20260702_090208.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v49.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v55.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v62.json": 1.0,
+        "dataset/tracker_edits/Camo_Break_-_3A_tracker_app_edit_v63.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v49_20260702_065040.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v49_20260702_065221.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v49_20260702_065235.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v55_20260702_070512.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v55_20260702_070614.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v55_20260702_070824.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v55_20260702_071335.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v62_20260702_073105.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v62_20260702_073501.json": 1.0,
+        "dataset/validated_patterns/Camo_Break_-_3A_validated_slice_index_loop32_v63_20260702_074715.json": 1.0
+      }
+    },
+    "Careless_Break_-_4A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "1": 7.0
+        },
+        "1": {
+          "0": 7.0
+        },
+        "2": {
+          "2": 7.0
+        },
+        "3": {
+          "2": 7.0
+        },
+        "4": {
+          "4": 7.0
+        },
+        "5": {
+          "3": 7.0
+        },
+        "6": {
+          "6": 7.0
+        },
+        "7": {
+          "6": 7.0
+        },
+        "8": {
+          "8": 7.0
+        },
+        "9": {
+          "5": 7.0
+        },
+        "10": {
+          "9": 7.0
+        },
+        "11": {
+          "9": 7.0
+        },
+        "12": {
+          "11": 7.0
+        },
+        "13": {
+          "7": 7.0
+        },
+        "14": {
+          "13": 7.0
+        },
+        "15": {
+          "13": 7.0
+        }
+      },
+      "pair_counts": {
+        "0": 7.0,
+        "1": 7.0,
+        "2": 14.0,
+        "3": 7.0,
+        "4": 7.0,
+        "5": 7.0,
+        "6": 14.0,
+        "7": 7.0,
+        "8": 7.0,
+        "9": 14.0,
+        "11": 7.0,
+        "13": 14.0
+      },
+      "transition_counts": {
+        "1": {
+          "0": 7.0
+        },
+        "0": {
+          "2": 7.0
+        },
+        "2": {
+          "2": 7.0,
+          "4": 7.0
+        },
+        "4": {
+          "3": 7.0
+        },
+        "3": {
+          "6": 7.0
+        },
+        "6": {
+          "6": 7.0,
+          "8": 7.0
+        },
+        "8": {
+          "5": 7.0
+        },
+        "5": {
+          "9": 7.0
+        },
+        "9": {
+          "9": 7.0,
+          "11": 7.0
+        },
+        "11": {
+          "7": 7.0
+        },
+        "7": {
+          "13": 7.0
+        },
+        "13": {
+          "13": 7.0
+        }
+      },
+      "length_counts": {
+        "2": 112.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Careless_Break_-_4A_latest_slice_index_v76.json": 1.0
+      }
+    },
+    "Centuries_Break": {
+      "examples_count": 9,
+      "notes_count": 159,
+      "slot_pair_counts": {
+        "0": {
+          "0": 8.0,
+          "6": 24.0,
+          "8": 4.0
+        },
+        "1": {
+          "2": 16.0,
+          "3": 4.0,
+          "7": 8.0,
+          "9": 8.0,
+          "16": 4.0
+        },
+        "2": {
+          "4": 16.0,
+          "5": 4.0,
+          "8": 4.0,
+          "13": 8.0,
+          "16": 8.0
+        },
+        "3": {
+          "2": 8.0,
+          "4": 4.0,
+          "5": 12.0,
+          "7": 4.0,
+          "10": 8.0,
+          "17": 4.0
+        },
+        "4": {
+          "2": 20.0,
+          "6": 4.0,
+          "9": 4.0,
+          "13": 8.0,
+          "16": 4.0
+        },
+        "5": {
+          "0": 8.0,
+          "3": 8.0,
+          "6": 4.0,
+          "7": 12.0,
+          "8": 4.0,
+          "16": 4.0
+        },
+        "6": {
+          "3": 8.0,
+          "4": 12.0,
+          "8": 8.0,
+          "9": 4.0,
+          "10": 4.0,
+          "15": 4.0
+        },
+        "7": {
+          "2": 8.0,
+          "3": 4.0,
+          "5": 8.0,
+          "10": 16.0,
+          "17": 4.0
+        },
+        "8": {
+          "0": 20.0,
+          "6": 12.0,
+          "8": 4.0,
+          "13": 4.0
+        },
+        "9": {
+          "2": 8.0,
+          "3": 4.0,
+          "4": 8.0,
+          "7": 4.0,
+          "10": 8.0,
+          "11": 4.0,
+          "16": 4.0
+        },
+        "10": {
+          "2": 8.0,
+          "3": 8.0,
+          "4": 12.0,
+          "5": 4.0,
+          "10": 4.0,
+          "17": 4.0
+        },
+        "11": {
+          "2": 12.0,
+          "3": 4.0,
+          "5": 12.0,
+          "11": 8.0,
+          "17": 4.0
+        },
+        "12": {
+          "2": 8.0,
+          "3": 4.0,
+          "6": 4.0,
+          "7": 4.0,
+          "8": 12.0,
+          "13": 8.0
+        },
+        "13": {
+          "0": 12.0,
+          "2": 8.0,
+          "3": 16.0,
+          "15": 4.0
+        },
+        "14": {
+          "2": 4.0,
+          "4": 12.0,
+          "5": 16.0,
+          "12": 8.0
+        },
+        "15": {
+          "2": 12.0,
+          "9": 4.0,
+          "10": 8.0,
+          "11": 8.0,
+          "17": 8.0
+        }
+      },
+      "pair_counts": {
+        "0": 48.0,
+        "2": 112.0,
+        "3": 60.0,
+        "4": 64.0,
+        "5": 56.0,
+        "6": 48.0,
+        "7": 32.0,
+        "8": 36.0,
+        "9": 20.0,
+        "10": 48.0,
+        "11": 20.0,
+        "12": 8.0,
+        "13": 28.0,
+        "15": 8.0,
+        "16": 24.0,
+        "17": 24.0
+      },
+      "transition_counts": {
+        "0": {
+          "2": 16.0,
+          "3": 4.0,
+          "4": 24.0,
+          "5": 4.0
+        },
+        "2": {
+          "0": 24.0,
+          "2": 16.0,
+          "3": 12.0,
+          "4": 16.0,
+          "5": 12.0,
+          "6": 8.0,
+          "8": 4.0,
+          "11": 4.0,
+          "12": 8.0
+        },
+        "4": {
+          "2": 36.0,
+          "3": 12.0,
+          "5": 4.0,
+          "7": 4.0,
+          "9": 4.0,
+          "10": 4.0
+        },
+        "6": {
+          "2": 4.0,
+          "3": 8.0,
+          "7": 8.0,
+          "9": 8.0,
+          "10": 12.0,
+          "11": 4.0,
+          "16": 4.0
+        },
+        "3": {
+          "0": 4.0,
+          "2": 4.0,
+          "4": 4.0,
+          "5": 20.0,
+          "7": 4.0,
+          "8": 12.0,
+          "11": 8.0,
+          "17": 4.0
+        },
+        "7": {
+          "3": 8.0,
+          "5": 4.0,
+          "9": 4.0,
+          "13": 8.0,
+          "15": 8.0
+        },
+        "9": {
+          "8": 4.0,
+          "10": 4.0,
+          "16": 8.0
+        },
+        "8": {
+          "2": 12.0,
+          "3": 4.0,
+          "4": 4.0,
+          "7": 4.0,
+          "10": 8.0,
+          "17": 4.0
+        },
+        "10": {
+          "0": 4.0,
+          "2": 8.0,
+          "3": 4.0,
+          "6": 8.0,
+          "13": 12.0,
+          "17": 4.0
+        },
+        "13": {
+          "3": 8.0,
+          "5": 8.0,
+          "7": 8.0,
+          "16": 4.0
+        },
+        "16": {
+          "4": 8.0,
+          "7": 4.0,
+          "9": 4.0,
+          "10": 8.0
+        },
+        "15": {
+          "4": 4.0,
+          "17": 4.0
+        },
+        "5": {
+          "0": 8.0,
+          "2": 16.0,
+          "4": 4.0,
+          "6": 4.0,
+          "8": 12.0,
+          "10": 8.0,
+          "11": 4.0
+        },
+        "17": {
+          "5": 4.0,
+          "6": 8.0,
+          "16": 4.0
+        },
+        "11": {
+          "10": 4.0,
+          "13": 8.0
+        },
+        "12": {
+          "17": 8.0
+        }
+      },
+      "length_counts": {
+        "2": 636.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Centuries_Break_latest_slice_index_v102.json": 1.0,
+        "dataset/learning/latest/Centuries_Break_latest_slice_index_v70.json": 1.0,
+        "dataset/learning/latest/Centuries_Break_latest_slice_index_v82.json": 1.0,
+        "dataset/learning/latest/Centuries_Break_latest_slice_index_v83.json": 1.0,
+        "dataset/learning/latest/Centuries_Break_latest_slice_index_v90.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_100730_Centuries_Break_reject_bad.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_100739_Centuries_Break_reject_bad.json": 1.0,
+        "dataset/learning/role_feedback_v01.jsonl": 2.0
+      }
+    },
+    "Champion_Break_-_7A": {
+      "examples_count": 43,
+      "notes_count": 120,
+      "slot_pair_counts": {
+        "0": {
+          "0": 8.0,
+          "1": 4.0,
+          "10": 4.0,
+          "16": 4.0
+        },
+        "1": {
+          "6": 8.0,
+          "7": 5.0,
+          "8": 6.0,
+          "11": 4.0
+        },
+        "2": {
+          "4": 8.0,
+          "6": 4.0,
+          "14": 8.0
+        },
+        "3": {
+          "4": 4.0,
+          "6": 4.0,
+          "8": 9.0,
+          "12": 4.0
+        },
+        "4": {
+          "2": 4.0,
+          "6": 8.0,
+          "8": 5.0,
+          "15": 4.0
+        },
+        "5": {
+          "0": 12.0,
+          "9": 4.0,
+          "10": 4.0
+        },
+        "6": {
+          "4": 8.0,
+          "6": 4.0,
+          "14": 8.0
+        },
+        "7": {
+          "4": 4.0,
+          "6": 4.0,
+          "8": 5.0,
+          "10": 1.0,
+          "11": 6.0,
+          "12": 2.0,
+          "13": 2.0,
+          "14": 2.0,
+          "15": 3.0,
+          "16": 4.0,
+          "17": 6.0
+        },
+        "8": {
+          "0": 8.0,
+          "1": 6.0,
+          "2": 3.0,
+          "3": 2.0,
+          "4": 2.0,
+          "5": 2.0,
+          "6": 1.0,
+          "10": 8.0
+        },
+        "9": {
+          "6": 12.0,
+          "8": 5.0,
+          "12": 4.0
+        },
+        "10": {
+          "4": 8.0,
+          "6": 4.0,
+          "14": 8.0
+        },
+        "11": {
+          "4": 4.0,
+          "6": 4.0,
+          "7": 4.0,
+          "8": 5.0,
+          "15": 4.0
+        },
+        "12": {
+          "6": 8.0,
+          "8": 9.0,
+          "17": 4.0
+        },
+        "13": {
+          "0": 8.0,
+          "2": 4.0,
+          "10": 4.0,
+          "16": 4.0
+        },
+        "14": {
+          "4": 8.0,
+          "6": 4.0,
+          "14": 8.0
+        },
+        "15": {
+          "4": 4.0,
+          "6": 4.0,
+          "7": 4.0,
+          "8": 5.0,
+          "11": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 36.0,
+        "1": 10.0,
+        "2": 11.0,
+        "3": 2.0,
+        "4": 50.0,
+        "5": 2.0,
+        "6": 69.0,
+        "7": 13.0,
+        "8": 49.0,
+        "9": 4.0,
+        "10": 21.0,
+        "11": 14.0,
+        "12": 10.0,
+        "13": 2.0,
+        "14": 34.0,
+        "15": 11.0,
+        "16": 12.0,
+        "17": 10.0
+      },
+      "transition_counts": {
+        "10": {
+          "8": 8.0,
+          "12": 4.0,
+          "14": 8.0
+        },
+        "8": {
+          "2": 8.0,
+          "8": 8.0,
+          "10": 12.0,
+          "14": 8.0,
+          "16": 4.0
+        },
+        "14": {
+          "7": 4.0,
+          "8": 16.0,
+          "11": 4.0,
+          "12": 4.0,
+          "17": 4.0
+        },
+        "16": {
+          "4": 4.0,
+          "11": 4.0
+        },
+        "11": {
+          "10": 4.0,
+          "14": 4.0
+        },
+        "12": {
+          "4": 4.0,
+          "15": 4.0
+        },
+        "15": {
+          "0": 4.0,
+          "17": 4.0
+        },
+        "0": {
+          "4": 8.0,
+          "6": 24.0,
+          "14": 4.0
+        },
+        "17": {
+          "1": 4.0,
+          "16": 4.0
+        },
+        "1": {
+          "6": 4.0,
+          "7": 4.0
+        },
+        "6": {
+          "0": 20.0,
+          "1": 4.0,
+          "4": 24.0,
+          "6": 16.0,
+          "14": 4.0
+        },
+        "7": {
+          "4": 4.0,
+          "8": 4.0
+        },
+        "2": {
+          "9": 4.0,
+          "14": 4.0
+        },
+        "4": {
+          "0": 4.0,
+          "6": 24.0,
+          "7": 4.0,
+          "8": 4.0,
+          "11": 4.0,
+          "15": 4.0
+        },
+        "9": {
+          "4": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 360.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Champion_Break_-_7A_slice_index_corrections_v44.jsonl": 40.0,
+        "dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v101.json": 1.0,
+        "dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v88.json": 1.0,
+        "dataset/learning/latest/Champion_Break_-_7A_latest_slice_index_v99.json": 1.0
+      }
+    },
+    "Change_Break_-_6A": {
+      "examples_count": 169,
+      "notes_count": 262,
+      "slot_pair_counts": {
+        "0": {
+          "1": 12.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 2.0,
+          "5": 3.0,
+          "6": 2.0,
+          "7": 1.0,
+          "8": 9.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 1.0,
+          "15": 5.0
+        },
+        "1": {
+          "3": 12.0,
+          "4": 9.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0
+        },
+        "2": {
+          "3": 4.0,
+          "4": 5.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 13.0,
+          "15": 6.0
+        },
+        "3": {
+          "3": 8.0,
+          "4": 1.0,
+          "5": 9.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0,
+          "14": 4.0
+        },
+        "4": {
+          "3": 12.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 9.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0
+        },
+        "5": {
+          "1": 16.0,
+          "14": 1.0,
+          "15": 8.0
+        },
+        "6": {
+          "3": 4.0,
+          "4": 10.0,
+          "5": 2.0,
+          "6": 2.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 13.0,
+          "15": 1.0
+        },
+        "7": {
+          "3": 8.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 9.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0,
+          "14": 4.0
+        },
+        "8": {
+          "1": 16.0,
+          "16": 8.0
+        },
+        "9": {
+          "3": 12.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 9.0,
+          "12": 1.0,
+          "13": 5.0
+        },
+        "10": {
+          "3": 5.0,
+          "4": 6.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 17.0,
+          "15": 1.0
+        },
+        "11": {
+          "3": 8.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 6.0,
+          "11": 2.0,
+          "12": 5.0,
+          "13": 5.0,
+          "14": 4.0
+        },
+        "12": {
+          "3": 12.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 13.0
+        },
+        "13": {
+          "1": 16.0,
+          "14": 1.0,
+          "15": 5.0,
+          "17": 8.0
+        },
+        "14": {
+          "3": 4.0,
+          "4": 5.0,
+          "5": 1.0,
+          "6": 6.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 2.0,
+          "10": 2.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 13.0,
+          "15": 1.0
+        },
+        "15": {
+          "3": 8.0,
+          "4": 9.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 2.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0,
+          "14": 4.0
+        }
+      },
+      "pair_counts": {
+        "1": 60.0,
+        "2": 1.0,
+        "3": 98.0,
+        "4": 52.0,
+        "5": 24.0,
+        "6": 28.0,
+        "7": 15.0,
+        "8": 23.0,
+        "9": 14.0,
+        "10": 28.0,
+        "11": 22.0,
+        "12": 17.0,
+        "13": 53.0,
+        "14": 75.0,
+        "15": 27.0,
+        "16": 8.0,
+        "17": 8.0
+      },
+      "transition_counts": {
+        "15": {
+          "4": 4.0,
+          "5": 4.0,
+          "13": 4.0,
+          "14": 4.0,
+          "17": 4.0
+        },
+        "13": {
+          "1": 12.0,
+          "4": 8.0,
+          "8": 4.0,
+          "13": 8.0,
+          "15": 4.0,
+          "17": 4.0
+        },
+        "4": {
+          "10": 4.0,
+          "13": 16.0,
+          "14": 4.0,
+          "15": 4.0
+        },
+        "1": {
+          "3": 32.0,
+          "4": 8.0,
+          "13": 4.0,
+          "14": 16.0
+        },
+        "8": {
+          "4": 8.0
+        },
+        "5": {
+          "6": 8.0
+        },
+        "6": {
+          "4": 4.0,
+          "15": 8.0
+        },
+        "10": {
+          "13": 4.0,
+          "16": 8.0
+        },
+        "16": {
+          "11": 8.0
+        },
+        "11": {
+          "14": 8.0
+        },
+        "14": {
+          "1": 4.0,
+          "3": 40.0,
+          "4": 4.0,
+          "5": 4.0,
+          "10": 8.0,
+          "12": 4.0
+        },
+        "17": {
+          "6": 4.0,
+          "14": 4.0
+        },
+        "3": {
+          "1": 32.0,
+          "3": 24.0,
+          "8": 4.0,
+          "14": 32.0
+        },
+        "12": {
+          "13": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 553.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Change_Break_-_6A_slice_index_corrections_v44.jsonl": 165.0,
+        "dataset/learning/latest/Change_Break_-_6A_latest_slice_index_v102.json": 1.0,
+        "dataset/learning/latest/Change_Break_-_6A_latest_slice_index_v88.json": 1.0,
+        "dataset/learning/latest/Change_Break_-_6A_latest_slice_index_v92.json": 1.0,
+        "dataset/learning/latest/Change_Break_-_6A_latest_slice_index_v93.json": 1.0
+      }
+    },
+    "Check_Break_-_11A": {
+      "examples_count": 2,
+      "notes_count": 32,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0,
+          "6": 3.0
+        },
+        "1": {
+          "3": 7.0
+        },
+        "2": {
+          "2": 4.0,
+          "7": 3.0
+        },
+        "3": {
+          "3": 4.0,
+          "11": 3.0
+        },
+        "4": {
+          "3": 4.0,
+          "6": 3.0
+        },
+        "5": {
+          "0": 4.0,
+          "7": 3.0
+        },
+        "6": {
+          "2": 4.0,
+          "14": 3.0
+        },
+        "7": {
+          "3": 4.0,
+          "13": 3.0
+        },
+        "8": {
+          "0": 4.0,
+          "3": 3.0
+        },
+        "9": {
+          "3": 7.0
+        },
+        "10": {
+          "2": 4.0,
+          "11": 3.0
+        },
+        "11": {
+          "3": 4.0,
+          "11": 3.0
+        },
+        "12": {
+          "3": 4.0,
+          "7": 3.0
+        },
+        "13": {
+          "0": 4.0,
+          "7": 3.0
+        },
+        "14": {
+          "2": 4.0,
+          "14": 3.0
+        },
+        "15": {
+          "3": 4.0,
+          "14": 3.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "2": 16.0,
+        "3": 41.0,
+        "6": 6.0,
+        "7": 12.0,
+        "11": 9.0,
+        "13": 3.0,
+        "14": 9.0
+      },
+      "transition_counts": {
+        "6": {
+          "3": 3.0,
+          "7": 3.0
+        },
+        "3": {
+          "0": 12.0,
+          "2": 8.0,
+          "3": 11.0,
+          "7": 3.0,
+          "11": 3.0
+        },
+        "7": {
+          "7": 3.0,
+          "11": 3.0,
+          "14": 6.0
+        },
+        "11": {
+          "6": 3.0,
+          "7": 3.0,
+          "11": 3.0
+        },
+        "14": {
+          "13": 3.0,
+          "14": 3.0
+        },
+        "13": {
+          "3": 3.0
+        },
+        "0": {
+          "2": 8.0,
+          "3": 8.0
+        },
+        "2": {
+          "3": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 112.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Check_Break_-_11A_latest_slice_index_v74.json": 1.0,
+        "dataset/learning/latest/Check_Break_-_11A_latest_slice_index_v90.json": 1.0
+      }
+    },
+    "Chopper_Break_-_6A": {
+      "examples_count": 50,
+      "notes_count": 112,
+      "slot_pair_counts": {
+        "0": {
+          "1": 1.0,
+          "2": 2.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 5.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 5.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 11.0,
+          "14": 2.0
+        },
+        "1": {
+          "1": 4.0,
+          "4": 4.0,
+          "15": 8.0
+        },
+        "2": {
+          "1": 8.0,
+          "6": 8.0
+        },
+        "3": {
+          "1": 4.0,
+          "4": 4.0,
+          "7": 4.0,
+          "15": 4.0
+        },
+        "4": {
+          "4": 4.0,
+          "7": 4.0,
+          "9": 4.0,
+          "15": 4.0
+        },
+        "5": {
+          "0": 4.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 9.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0
+        },
+        "6": {
+          "1": 8.0,
+          "6": 8.0
+        },
+        "7": {
+          "1": 4.0,
+          "4": 4.0,
+          "9": 4.0,
+          "15": 4.0
+        },
+        "8": {
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 5.0,
+          "8": 5.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0,
+          "15": 4.0
+        },
+        "9": {
+          "4": 8.0,
+          "13": 4.0,
+          "15": 4.0
+        },
+        "10": {
+          "1": 8.0,
+          "6": 8.0
+        },
+        "11": {
+          "1": 4.0,
+          "4": 4.0,
+          "9": 4.0,
+          "15": 4.0
+        },
+        "12": {
+          "1": 4.0,
+          "4": 4.0,
+          "7": 4.0,
+          "8": 4.0
+        },
+        "13": {
+          "0": 4.0,
+          "4": 1.0,
+          "5": 5.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 5.0,
+          "15": 4.0
+        },
+        "14": {
+          "1": 8.0,
+          "6": 8.0
+        },
+        "15": {
+          "4": 4.0,
+          "7": 4.0,
+          "9": 4.0,
+          "15": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 8.0,
+        "1": 53.0,
+        "2": 2.0,
+        "3": 1.0,
+        "4": 40.0,
+        "5": 12.0,
+        "6": 36.0,
+        "7": 24.0,
+        "8": 24.0,
+        "9": 20.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 4.0,
+        "13": 30.0,
+        "14": 2.0,
+        "15": 40.0
+      },
+      "transition_counts": {
+        "13": {
+          "1": 4.0,
+          "4": 8.0,
+          "6": 12.0
+        },
+        "4": {
+          "1": 4.0,
+          "4": 8.0,
+          "5": 4.0,
+          "6": 8.0,
+          "13": 12.0
+        },
+        "6": {
+          "1": 8.0,
+          "4": 16.0,
+          "9": 8.0
+        },
+        "5": {
+          "1": 4.0,
+          "15": 4.0
+        },
+        "15": {
+          "1": 12.0,
+          "6": 4.0,
+          "8": 12.0,
+          "13": 8.0,
+          "15": 4.0
+        },
+        "1": {
+          "1": 8.0,
+          "5": 4.0,
+          "7": 20.0,
+          "9": 4.0,
+          "15": 16.0
+        },
+        "7": {
+          "0": 4.0,
+          "4": 4.0,
+          "8": 4.0,
+          "9": 4.0
+        },
+        "8": {
+          "1": 4.0,
+          "6": 4.0,
+          "15": 12.0
+        },
+        "9": {
+          "0": 4.0,
+          "1": 4.0,
+          "15": 4.0
+        },
+        "0": {
+          "1": 4.0,
+          "6": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 304.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Chopper_Break_-_6A_slice_index_corrections_v44.jsonl": 48.0,
+        "dataset/learning/latest/Chopper_Break_-_6A_latest_slice_index_v101.json": 1.0,
+        "dataset/learning/latest/Chopper_Break_-_6A_latest_slice_index_v102.json": 1.0
+      }
+    },
+    "Connected_Break_-_7B": {
+      "examples_count": 1,
+      "notes_count": 32,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0,
+          "4": 4.0
+        },
+        "1": {
+          "3": 4.0,
+          "7": 4.0
+        },
+        "2": {
+          "1": 8.0
+        },
+        "3": {
+          "3": 4.0,
+          "8": 4.0
+        },
+        "4": {
+          "3": 4.0,
+          "5": 4.0
+        },
+        "5": {
+          "0": 4.0,
+          "11": 4.0
+        },
+        "6": {
+          "1": 8.0
+        },
+        "7": {
+          "3": 4.0,
+          "14": 4.0
+        },
+        "8": {
+          "0": 4.0,
+          "6": 4.0
+        },
+        "9": {
+          "3": 4.0,
+          "15": 4.0
+        },
+        "10": {
+          "1": 8.0
+        },
+        "11": {
+          "3": 4.0,
+          "7": 4.0
+        },
+        "12": {
+          "3": 4.0,
+          "8": 4.0
+        },
+        "13": {
+          "0": 4.0,
+          "9": 4.0
+        },
+        "14": {
+          "1": 8.0
+        },
+        "15": {
+          "3": 4.0,
+          "11": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "1": 32.0,
+        "3": 32.0,
+        "4": 4.0,
+        "5": 4.0,
+        "6": 4.0,
+        "7": 8.0,
+        "8": 8.0,
+        "9": 4.0,
+        "11": 8.0,
+        "14": 4.0,
+        "15": 4.0
+      },
+      "transition_counts": {
+        "0": {
+          "1": 8.0,
+          "3": 8.0
+        },
+        "3": {
+          "0": 12.0,
+          "1": 8.0,
+          "3": 8.0,
+          "4": 4.0
+        },
+        "1": {
+          "3": 16.0,
+          "7": 4.0,
+          "8": 4.0,
+          "11": 4.0,
+          "14": 4.0
+        },
+        "4": {
+          "7": 4.0
+        },
+        "7": {
+          "1": 4.0,
+          "8": 4.0
+        },
+        "8": {
+          "5": 4.0,
+          "9": 4.0
+        },
+        "5": {
+          "11": 4.0
+        },
+        "11": {
+          "1": 4.0
+        },
+        "14": {
+          "6": 4.0
+        },
+        "6": {
+          "15": 4.0
+        },
+        "15": {
+          "1": 4.0
+        },
+        "9": {
+          "1": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 128.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Connected_Break_-_7B_latest_slice_index_v97.json": 1.0
+      }
+    },
+    "Cool_Break_-_7A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "2": 4.0
+        },
+        "2": {
+          "4": 4.0
+        },
+        "3": {
+          "7": 4.0
+        },
+        "4": {
+          "5": 4.0
+        },
+        "5": {
+          "1": 4.0
+        },
+        "6": {
+          "7": 4.0
+        },
+        "7": {
+          "12": 4.0
+        },
+        "8": {
+          "9": 4.0
+        },
+        "9": {
+          "8": 4.0
+        },
+        "10": {
+          "11": 4.0
+        },
+        "11": {
+          "14": 4.0
+        },
+        "12": {
+          "14": 4.0
+        },
+        "13": {
+          "10": 4.0
+        },
+        "14": {
+          "8": 4.0
+        },
+        "15": {
+          "5": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "4": 4.0,
+        "5": 8.0,
+        "7": 8.0,
+        "8": 8.0,
+        "9": 4.0,
+        "10": 4.0,
+        "11": 4.0,
+        "12": 4.0,
+        "14": 8.0
+      },
+      "transition_counts": {
+        "0": {
+          "2": 4.0
+        },
+        "2": {
+          "4": 4.0
+        },
+        "4": {
+          "7": 4.0
+        },
+        "7": {
+          "5": 4.0,
+          "12": 4.0
+        },
+        "5": {
+          "1": 4.0
+        },
+        "1": {
+          "7": 4.0
+        },
+        "12": {
+          "9": 4.0
+        },
+        "9": {
+          "8": 4.0
+        },
+        "8": {
+          "5": 4.0,
+          "11": 4.0
+        },
+        "11": {
+          "14": 4.0
+        },
+        "14": {
+          "10": 4.0,
+          "14": 4.0
+        },
+        "10": {
+          "8": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Cool_Break_-_7A_latest_slice_index_v86.json": 1.0
+      }
+    },
+    "Dispatch_Break_2_-_2A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "1": 4.0
+        },
+        "2": {
+          "3": 4.0
+        },
+        "3": {
+          "1": 4.0
+        },
+        "4": {
+          "1": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "3": 4.0
+        },
+        "7": {
+          "1": 4.0
+        },
+        "8": {
+          "0": 4.0
+        },
+        "9": {
+          "1": 4.0
+        },
+        "10": {
+          "3": 4.0
+        },
+        "11": {
+          "1": 4.0
+        },
+        "12": {
+          "1": 4.0
+        },
+        "13": {
+          "0": 4.0
+        },
+        "14": {
+          "3": 4.0
+        },
+        "15": {
+          "1": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "1": 32.0,
+        "3": 16.0
+      },
+      "transition_counts": {
+        "0": {
+          "1": 8.0,
+          "3": 8.0
+        },
+        "1": {
+          "0": 12.0,
+          "1": 8.0,
+          "3": 8.0
+        },
+        "3": {
+          "1": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Dispatch_Break_2_-_2A_latest_slice_index_v90.json": 1.0
+      }
+    },
+    "Fairlight_Break_-_9A": {
+      "examples_count": 15,
+      "notes_count": 46,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0,
+          "20": 4.0
+        },
+        "1": {
+          "9": 5.0,
+          "10": 1.0,
+          "11": 1.0,
+          "15": 4.0
+        },
+        "2": {
+          "4": 8.0
+        },
+        "3": {
+          "9": 5.0,
+          "10": 1.0,
+          "11": 2.0,
+          "12": 1.0,
+          "18": 4.0
+        },
+        "4": {
+          "9": 5.0,
+          "10": 1.0,
+          "11": 1.0,
+          "19": 4.0
+        },
+        "5": {
+          "10": 4.0,
+          "20": 4.0
+        },
+        "6": {
+          "4": 8.0
+        },
+        "7": {
+          "1": 4.0,
+          "9": 5.0,
+          "10": 1.0,
+          "11": 1.0
+        },
+        "8": {
+          "13": 4.0,
+          "20": 4.0
+        },
+        "9": {
+          "2": 4.0,
+          "12": 4.0
+        },
+        "10": {
+          "4": 8.0
+        },
+        "11": {
+          "6": 4.0,
+          "12": 4.0
+        },
+        "12": {
+          "12": 4.0,
+          "17": 4.0
+        },
+        "13": {
+          "11": 4.0,
+          "20": 4.0
+        },
+        "14": {
+          "4": 8.0
+        },
+        "15": {
+          "12": 4.0,
+          "15": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 4.0,
+        "1": 4.0,
+        "2": 4.0,
+        "4": 32.0,
+        "6": 4.0,
+        "9": 20.0,
+        "10": 8.0,
+        "11": 9.0,
+        "12": 17.0,
+        "13": 4.0,
+        "15": 8.0,
+        "17": 4.0,
+        "18": 4.0,
+        "19": 4.0,
+        "20": 16.0
+      },
+      "transition_counts": {
+        "20": {
+          "4": 8.0,
+          "9": 4.0,
+          "12": 4.0
+        },
+        "9": {
+          "4": 4.0,
+          "9": 4.0,
+          "20": 8.0
+        },
+        "4": {
+          "1": 4.0,
+          "6": 4.0,
+          "9": 8.0,
+          "12": 8.0,
+          "15": 4.0,
+          "18": 4.0
+        },
+        "12": {
+          "0": 4.0,
+          "4": 4.0,
+          "12": 4.0,
+          "20": 4.0
+        },
+        "0": {
+          "15": 4.0
+        },
+        "15": {
+          "4": 4.0
+        },
+        "18": {
+          "19": 4.0
+        },
+        "19": {
+          "10": 4.0
+        },
+        "10": {
+          "4": 4.0
+        },
+        "1": {
+          "13": 4.0
+        },
+        "13": {
+          "2": 4.0
+        },
+        "2": {
+          "4": 4.0
+        },
+        "6": {
+          "17": 4.0
+        },
+        "17": {
+          "11": 4.0
+        },
+        "11": {
+          "4": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 142.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Fairlight_Break_-_9A_slice_index_corrections_v44.jsonl": 14.0,
+        "dataset/learning/latest/Fairlight_Break_-_9A_latest_slice_index_v101.json": 1.0
+      }
+    },
+    "Killa_Break_-_4A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "5": 4.0
+        },
+        "2": {
+          "3": 4.0
+        },
+        "3": {
+          "5": 4.0
+        },
+        "4": {
+          "5": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "3": 4.0
+        },
+        "7": {
+          "5": 4.0
+        },
+        "8": {
+          "0": 4.0
+        },
+        "9": {
+          "5": 4.0
+        },
+        "10": {
+          "3": 4.0
+        },
+        "11": {
+          "5": 4.0
+        },
+        "12": {
+          "5": 4.0
+        },
+        "13": {
+          "0": 4.0
+        },
+        "14": {
+          "3": 4.0
+        },
+        "15": {
+          "5": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "3": 16.0,
+        "5": 32.0
+      },
+      "transition_counts": {
+        "0": {
+          "3": 8.0,
+          "5": 8.0
+        },
+        "5": {
+          "0": 12.0,
+          "3": 8.0,
+          "5": 8.0
+        },
+        "3": {
+          "5": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Killa_Break_-_4A_latest_slice_index_v92.json": 1.0
+      }
+    },
+    "Little_Roller_Amen_-_7B": {
+      "examples_count": 1,
+      "notes_count": 8,
+      "slot_pair_counts": {
+        "0": {
+          "9": 4.0
+        },
+        "1": {
+          "2": 4.0
+        },
+        "2": {
+          "7": 4.0
+        },
+        "3": {
+          "2": 4.0
+        },
+        "4": {
+          "1": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "7": 4.0
+        },
+        "7": {
+          "1": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 4.0,
+        "1": 8.0,
+        "2": 8.0,
+        "7": 8.0,
+        "9": 4.0
+      },
+      "transition_counts": {
+        "9": {
+          "2": 4.0
+        },
+        "2": {
+          "1": 4.0,
+          "7": 4.0
+        },
+        "7": {
+          "1": 4.0,
+          "2": 4.0
+        },
+        "1": {
+          "0": 4.0
+        },
+        "0": {
+          "7": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 32.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Little_Roller_Amen_-_7B_latest_slice_index_v83.json": 1.0
+      }
+    },
+    "London_Break_-_8A": {
+      "examples_count": 2,
+      "notes_count": 48,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0,
+          "3": 8.0
+        },
+        "1": {
+          "0": 4.0,
+          "4": 8.0
+        },
+        "2": {
+          "0": 4.0,
+          "2": 8.0
+        },
+        "3": {
+          "0": 4.0,
+          "4": 8.0
+        },
+        "4": {
+          "0": 4.0,
+          "4": 8.0
+        },
+        "5": {
+          "0": 4.0,
+          "3": 4.0,
+          "4": 4.0
+        },
+        "6": {
+          "0": 4.0,
+          "2": 8.0
+        },
+        "7": {
+          "0": 4.0,
+          "3": 4.0,
+          "4": 4.0
+        },
+        "8": {
+          "0": 4.0,
+          "3": 8.0
+        },
+        "9": {
+          "0": 4.0,
+          "4": 8.0
+        },
+        "10": {
+          "0": 4.0,
+          "2": 8.0
+        },
+        "11": {
+          "0": 4.0,
+          "4": 8.0
+        },
+        "12": {
+          "0": 4.0,
+          "4": 8.0
+        },
+        "13": {
+          "0": 4.0,
+          "3": 8.0
+        },
+        "14": {
+          "0": 4.0,
+          "2": 8.0
+        },
+        "15": {
+          "0": 4.0,
+          "4": 8.0
+        }
+      },
+      "pair_counts": {
+        "0": 64.0,
+        "2": 32.0,
+        "3": 32.0,
+        "4": 64.0
+      },
+      "transition_counts": {
+        "3": {
+          "2": 12.0,
+          "3": 4.0,
+          "4": 16.0
+        },
+        "4": {
+          "2": 20.0,
+          "3": 20.0,
+          "4": 20.0
+        },
+        "2": {
+          "3": 4.0,
+          "4": 28.0
+        },
+        "0": {
+          "0": 60.0
+        }
+      },
+      "length_counts": {
+        "2": 192.0
+      },
+      "source_files": {
+        "dataset/learning/latest/London_Break_-_8A_latest_slice_index_v101.json": 1.0,
+        "dataset/learning/latest/London_Break_-_8A_latest_slice_index_v83.json": 1.0
+      }
+    },
+    "Mach_Break_-_11A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "11": 4.0
+        },
+        "2": {
+          "10": 4.0
+        },
+        "3": {
+          "12": 4.0
+        },
+        "4": {
+          "9": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "10": 4.0
+        },
+        "7": {
+          "5": 4.0
+        },
+        "8": {
+          "7": 4.0
+        },
+        "9": {
+          "5": 4.0
+        },
+        "10": {
+          "10": 4.0
+        },
+        "11": {
+          "2": 4.0
+        },
+        "12": {
+          "5": 4.0
+        },
+        "13": {
+          "3": 4.0
+        },
+        "14": {
+          "10": 4.0
+        },
+        "15": {
+          "2": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 8.0,
+        "2": 8.0,
+        "3": 4.0,
+        "5": 12.0,
+        "7": 4.0,
+        "9": 4.0,
+        "10": 16.0,
+        "11": 4.0,
+        "12": 4.0
+      },
+      "transition_counts": {
+        "0": {
+          "10": 4.0,
+          "11": 4.0
+        },
+        "11": {
+          "10": 4.0
+        },
+        "10": {
+          "2": 8.0,
+          "5": 4.0,
+          "12": 4.0
+        },
+        "12": {
+          "9": 4.0
+        },
+        "9": {
+          "0": 4.0
+        },
+        "5": {
+          "3": 4.0,
+          "7": 4.0,
+          "10": 4.0
+        },
+        "7": {
+          "5": 4.0
+        },
+        "2": {
+          "5": 4.0
+        },
+        "3": {
+          "10": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Mach_Break_-_11A_latest_slice_index_v83.json": 1.0
+      }
+    },
+    "Maintain_Break_-_7A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "2": 4.0
+        },
+        "2": {
+          "4": 4.0
+        },
+        "3": {
+          "2": 4.0
+        },
+        "4": {
+          "2": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "4": 4.0
+        },
+        "7": {
+          "2": 4.0
+        },
+        "8": {
+          "0": 4.0
+        },
+        "9": {
+          "2": 4.0
+        },
+        "10": {
+          "4": 4.0
+        },
+        "11": {
+          "2": 4.0
+        },
+        "12": {
+          "2": 4.0
+        },
+        "13": {
+          "0": 4.0
+        },
+        "14": {
+          "4": 4.0
+        },
+        "15": {
+          "2": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "2": 32.0,
+        "4": 16.0
+      },
+      "transition_counts": {
+        "0": {
+          "2": 8.0,
+          "4": 8.0
+        },
+        "2": {
+          "0": 12.0,
+          "2": 8.0,
+          "4": 8.0
+        },
+        "4": {
+          "2": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Maintain_Break_-_7A_latest_slice_index_v90.json": 1.0
+      }
+    },
+    "Massive_Amen_-_2A": {
+      "examples_count": 2,
+      "notes_count": 48,
+      "slot_pair_counts": {
+        "0": {
+          "0": 8.0,
+          "3": 4.0,
+          "5": 4.0
+        },
+        "1": {
+          "0": 4.0,
+          "2": 4.0
+        },
+        "2": {
+          "0": 4.0,
+          "1": 4.0,
+          "4": 4.0,
+          "5": 4.0
+        },
+        "3": {
+          "0": 4.0,
+          "7": 4.0
+        },
+        "4": {
+          "0": 4.0,
+          "1": 4.0,
+          "4": 4.0,
+          "6": 4.0
+        },
+        "5": {
+          "0": 4.0,
+          "7": 4.0
+        },
+        "6": {
+          "0": 8.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "7": {
+          "0": 4.0,
+          "2": 4.0
+        },
+        "8": {
+          "0": 8.0,
+          "3": 4.0,
+          "5": 4.0
+        },
+        "9": {
+          "0": 4.0,
+          "2": 4.0
+        },
+        "10": {
+          "0": 4.0,
+          "1": 4.0,
+          "3": 4.0,
+          "6": 4.0
+        },
+        "11": {
+          "0": 4.0,
+          "7": 4.0
+        },
+        "12": {
+          "0": 4.0,
+          "1": 4.0,
+          "4": 4.0,
+          "6": 4.0
+        },
+        "13": {
+          "0": 4.0,
+          "7": 4.0
+        },
+        "14": {
+          "0": 8.0,
+          "3": 4.0,
+          "4": 4.0
+        },
+        "15": {
+          "0": 4.0,
+          "2": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 80.0,
+        "1": 16.0,
+        "2": 16.0,
+        "3": 16.0,
+        "4": 16.0,
+        "5": 16.0,
+        "6": 16.0,
+        "7": 16.0
+      },
+      "transition_counts": {
+        "0": {
+          "0": 60.0,
+          "2": 8.0,
+          "3": 4.0,
+          "5": 4.0
+        },
+        "3": {
+          "0": 4.0,
+          "1": 4.0,
+          "2": 4.0,
+          "4": 4.0
+        },
+        "2": {
+          "3": 4.0,
+          "4": 4.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "4": {
+          "0": 4.0,
+          "1": 4.0,
+          "5": 4.0,
+          "7": 4.0
+        },
+        "5": {
+          "1": 4.0,
+          "2": 4.0,
+          "6": 4.0
+        },
+        "1": {
+          "4": 4.0,
+          "6": 4.0,
+          "7": 8.0
+        },
+        "7": {
+          "3": 4.0,
+          "4": 4.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "6": {
+          "0": 4.0,
+          "1": 4.0,
+          "3": 4.0,
+          "7": 4.0
+        }
+      },
+      "length_counts": {
+        "1": 128.0,
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Massive_Amen_-_2A_latest_pattern_v31.json": 1.0,
+        "dataset/learning/latest/Massive_Amen_-_2A_latest_slice_index_v90.json": 1.0
+      }
+    },
+    "My_Sound_Break_2_-_8A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "1": 4.0
+        },
+        "1": {
+          "6": 4.0
+        },
+        "2": {
+          "8": 4.0
+        },
+        "3": {
+          "13": 4.0
+        },
+        "4": {
+          "10": 4.0
+        },
+        "5": {
+          "7": 4.0
+        },
+        "6": {
+          "12": 4.0
+        },
+        "7": {
+          "16": 4.0
+        },
+        "8": {
+          "3": 4.0
+        },
+        "9": {
+          "13": 4.0
+        },
+        "10": {
+          "14": 4.0
+        },
+        "11": {
+          "13": 4.0
+        },
+        "12": {
+          "13": 4.0
+        },
+        "13": {
+          "4": 4.0
+        },
+        "14": {
+          "8": 4.0
+        },
+        "15": {
+          "16": 4.0
+        }
+      },
+      "pair_counts": {
+        "1": 4.0,
+        "3": 4.0,
+        "4": 4.0,
+        "6": 4.0,
+        "7": 4.0,
+        "8": 8.0,
+        "10": 4.0,
+        "12": 4.0,
+        "13": 16.0,
+        "14": 4.0,
+        "16": 8.0
+      },
+      "transition_counts": {
+        "1": {
+          "6": 4.0
+        },
+        "6": {
+          "8": 4.0
+        },
+        "8": {
+          "13": 4.0,
+          "16": 4.0
+        },
+        "13": {
+          "4": 4.0,
+          "10": 4.0,
+          "13": 4.0,
+          "14": 4.0
+        },
+        "10": {
+          "7": 4.0
+        },
+        "7": {
+          "12": 4.0
+        },
+        "12": {
+          "16": 4.0
+        },
+        "16": {
+          "3": 4.0
+        },
+        "3": {
+          "13": 4.0
+        },
+        "14": {
+          "13": 4.0
+        },
+        "4": {
+          "8": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/My_Sound_Break_2_-_8A_latest_slice_index_v86.json": 1.0
+      }
+    },
+    "Pin_Up_Break": {
+      "examples_count": 64,
+      "notes_count": 139,
+      "slot_pair_counts": {
+        "0": {
+          "2": 1.0,
+          "3": 2.0,
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 21.0,
+          "14": 1.0
+        },
+        "1": {
+          "7": 20.0
+        },
+        "2": {
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 22.0,
+          "15": 1.0
+        },
+        "3": {
+          "3": 20.0
+        },
+        "4": {
+          "2": 20.0
+        },
+        "5": {
+          "12": 21.0
+        },
+        "6": {
+          "9": 2.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 21.0
+        },
+        "7": {
+          "7": 20.0
+        },
+        "8": {
+          "3": 1.0,
+          "12": 23.0,
+          "14": 2.0
+        },
+        "9": {
+          "3": 21.0
+        },
+        "10": {
+          "3": 1.0,
+          "8": 1.0,
+          "9": 2.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 1.0,
+          "13": 1.0,
+          "14": 21.0
+        },
+        "11": {
+          "7": 20.0
+        },
+        "12": {
+          "2": 22.0,
+          "12": 1.0
+        },
+        "13": {
+          "12": 21.0
+        },
+        "14": {
+          "8": 1.0,
+          "9": 2.0,
+          "10": 1.0,
+          "11": 1.0,
+          "12": 2.0,
+          "13": 1.0,
+          "14": 21.0
+        },
+        "15": {
+          "3": 20.0,
+          "14": 2.0
+        }
+      },
+      "pair_counts": {
+        "2": 43.0,
+        "3": 65.0,
+        "4": 1.0,
+        "5": 1.0,
+        "6": 1.0,
+        "7": 61.0,
+        "8": 3.0,
+        "9": 7.0,
+        "10": 5.0,
+        "11": 5.0,
+        "12": 92.0,
+        "13": 4.0,
+        "14": 90.0,
+        "15": 1.0
+      },
+      "transition_counts": {
+        "12": {
+          "3": 20.0,
+          "7": 20.0,
+          "14": 40.0
+        },
+        "7": {
+          "2": 20.0,
+          "12": 20.0,
+          "14": 20.0
+        },
+        "14": {
+          "3": 40.0,
+          "7": 40.0
+        },
+        "3": {
+          "2": 20.0,
+          "14": 20.0
+        },
+        "2": {
+          "12": 40.0
+        }
+      },
+      "length_counts": {
+        "1": 3.0,
+        "2": 376.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Pin_Up_Break_slice_index_corrections_v44.jsonl": 59.0,
+        "dataset/learning/latest/Pin_Up_Break_latest_slice_index_v82.json": 1.0,
+        "dataset/learning/role_feedback_v01.jsonl": 2.0,
+        "dataset/learning/validated_patterns/20260702_100305_Pin_Up_Break_good_train.json": 1.0,
+        "dataset/learning/validated_patterns/20260702_100400_Pin_Up_Break_good_train.json": 1.0
+      }
+    },
+    "Reckon_Break_-_9A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "1": 4.0
+        },
+        "1": {
+          "6": 4.0
+        },
+        "2": {
+          "12": 4.0
+        },
+        "3": {
+          "6": 4.0
+        },
+        "4": {
+          "7": 4.0
+        },
+        "5": {
+          "3": 4.0
+        },
+        "6": {
+          "14": 4.0
+        },
+        "7": {
+          "6": 4.0
+        },
+        "8": {
+          "1": 4.0
+        },
+        "9": {
+          "3": 4.0
+        },
+        "10": {
+          "9": 4.0
+        },
+        "11": {
+          "5": 4.0
+        },
+        "12": {
+          "13": 4.0
+        },
+        "13": {
+          "3": 4.0
+        },
+        "14": {
+          "6": 4.0
+        },
+        "15": {
+          "8": 4.0
+        }
+      },
+      "pair_counts": {
+        "1": 8.0,
+        "3": 12.0,
+        "5": 4.0,
+        "6": 16.0,
+        "7": 4.0,
+        "8": 4.0,
+        "9": 4.0,
+        "12": 4.0,
+        "13": 4.0,
+        "14": 4.0
+      },
+      "transition_counts": {
+        "1": {
+          "3": 4.0,
+          "6": 4.0
+        },
+        "6": {
+          "1": 4.0,
+          "7": 4.0,
+          "8": 4.0,
+          "12": 4.0
+        },
+        "12": {
+          "6": 4.0
+        },
+        "7": {
+          "3": 4.0
+        },
+        "3": {
+          "6": 4.0,
+          "9": 4.0,
+          "14": 4.0
+        },
+        "14": {
+          "6": 4.0
+        },
+        "9": {
+          "5": 4.0
+        },
+        "5": {
+          "13": 4.0
+        },
+        "13": {
+          "3": 4.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Reckon_Break_-_9A_latest_slice_index_v82.json": 1.0
+      }
+    },
+    "Reel_Funk_Amen_-_2A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "2": 4.0
+        },
+        "2": {
+          "2": 4.0
+        },
+        "3": {
+          "2": 4.0
+        },
+        "4": {
+          "2": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "2": 4.0
+        },
+        "7": {
+          "2": 4.0
+        },
+        "8": {
+          "0": 4.0
+        },
+        "9": {
+          "2": 4.0
+        },
+        "10": {
+          "2": 4.0
+        },
+        "11": {
+          "2": 4.0
+        },
+        "12": {
+          "2": 4.0
+        },
+        "13": {
+          "0": 4.0
+        },
+        "14": {
+          "2": 4.0
+        },
+        "15": {
+          "2": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "2": 48.0
+      },
+      "transition_counts": {
+        "0": {
+          "2": 16.0
+        },
+        "2": {
+          "0": 12.0,
+          "2": 32.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Reel_Funk_Amen_-_2A_latest_slice_index_v90.json": 1.0
+      }
+    },
+    "Sonic_Amen_-_7A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "8": 4.0
+        },
+        "2": {
+          "5": 4.0
+        },
+        "3": {
+          "8": 4.0
+        },
+        "4": {
+          "8": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "5": 4.0
+        },
+        "7": {
+          "8": 4.0
+        },
+        "8": {
+          "0": 4.0
+        },
+        "9": {
+          "8": 4.0
+        },
+        "10": {
+          "5": 4.0
+        },
+        "11": {
+          "8": 4.0
+        },
+        "12": {
+          "8": 4.0
+        },
+        "13": {
+          "0": 4.0
+        },
+        "14": {
+          "5": 4.0
+        },
+        "15": {
+          "8": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "5": 16.0,
+        "8": 32.0
+      },
+      "transition_counts": {
+        "0": {
+          "5": 8.0,
+          "8": 8.0
+        },
+        "8": {
+          "0": 12.0,
+          "5": 8.0,
+          "8": 8.0
+        },
+        "5": {
+          "8": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Sonic_Amen_-_7A_latest_slice_index_v92.json": 1.0
+      }
+    },
+    "Sound_Murderer_Amen_-_9A": {
+      "examples_count": 3,
+      "notes_count": 48,
+      "slot_pair_counts": {
+        "0": {
+          "0": 12.0
+        },
+        "1": {
+          "2": 8.0,
+          "7": 4.0
+        },
+        "2": {
+          "2": 4.0,
+          "3": 8.0
+        },
+        "3": {
+          "3": 8.0,
+          "21": 4.0
+        },
+        "4": {
+          "1": 4.0,
+          "16": 8.0
+        },
+        "5": {
+          "1": 8.0,
+          "5": 4.0
+        },
+        "6": {
+          "6": 8.0,
+          "18": 4.0
+        },
+        "7": {
+          "3": 8.0,
+          "4": 4.0
+        },
+        "8": {
+          "11": 8.0,
+          "22": 4.0
+        },
+        "9": {
+          "3": 4.0,
+          "7": 8.0
+        },
+        "10": {
+          "5": 4.0,
+          "14": 8.0
+        },
+        "11": {
+          "4": 4.0,
+          "15": 8.0
+        },
+        "12": {
+          "6": 4.0,
+          "16": 8.0
+        },
+        "13": {
+          "1": 4.0,
+          "12": 8.0
+        },
+        "14": {
+          "4": 4.0,
+          "17": 8.0
+        },
+        "15": {
+          "3": 4.0,
+          "18": 8.0
+        }
+      },
+      "pair_counts": {
+        "0": 12.0,
+        "1": 16.0,
+        "2": 12.0,
+        "3": 32.0,
+        "4": 12.0,
+        "5": 8.0,
+        "6": 12.0,
+        "7": 12.0,
+        "11": 8.0,
+        "12": 8.0,
+        "14": 8.0,
+        "15": 8.0,
+        "16": 16.0,
+        "17": 8.0,
+        "18": 12.0,
+        "21": 4.0,
+        "22": 4.0
+      },
+      "transition_counts": {
+        "0": {
+          "2": 8.0,
+          "7": 4.0
+        },
+        "7": {
+          "2": 4.0,
+          "14": 8.0
+        },
+        "2": {
+          "3": 8.0,
+          "21": 4.0
+        },
+        "21": {
+          "1": 4.0
+        },
+        "1": {
+          "4": 4.0,
+          "5": 4.0,
+          "6": 8.0
+        },
+        "5": {
+          "4": 4.0,
+          "18": 4.0
+        },
+        "18": {
+          "4": 4.0
+        },
+        "4": {
+          "3": 4.0,
+          "6": 4.0,
+          "22": 4.0
+        },
+        "22": {
+          "3": 4.0
+        },
+        "3": {
+          "3": 8.0,
+          "5": 4.0,
+          "11": 8.0,
+          "16": 8.0
+        },
+        "6": {
+          "1": 4.0,
+          "3": 8.0
+        },
+        "16": {
+          "1": 8.0,
+          "12": 8.0
+        },
+        "11": {
+          "7": 8.0
+        },
+        "14": {
+          "15": 8.0
+        },
+        "15": {
+          "16": 8.0
+        },
+        "12": {
+          "17": 8.0
+        },
+        "17": {
+          "18": 8.0
+        }
+      },
+      "length_counts": {
+        "2": 192.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Sound_Murderer_Amen_-_9A_latest_slice_index_v86.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_102918_Sound_Murderer_Amen_-_9A_reject_bad.json": 1.0,
+        "dataset/learning/role_feedback_v01.jsonl": 1.0
+      }
+    },
+    "Stepper_Amen": {
+      "examples_count": 1,
+      "notes_count": 32,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0,
+          "3": 4.0,
+          "5": 4.0
+        },
+        "1": {
+          "2": 4.0
+        },
+        "2": {
+          "1": 4.0,
+          "4": 4.0,
+          "5": 4.0
+        },
+        "3": {
+          "7": 4.0
+        },
+        "4": {
+          "1": 4.0,
+          "4": 4.0,
+          "6": 4.0
+        },
+        "5": {
+          "7": 4.0
+        },
+        "6": {
+          "0": 4.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "7": {
+          "2": 4.0
+        },
+        "8": {
+          "0": 4.0,
+          "3": 4.0,
+          "5": 4.0
+        },
+        "9": {
+          "2": 4.0
+        },
+        "10": {
+          "1": 4.0,
+          "3": 4.0,
+          "6": 4.0
+        },
+        "11": {
+          "7": 4.0
+        },
+        "12": {
+          "1": 4.0,
+          "4": 4.0,
+          "6": 4.0
+        },
+        "13": {
+          "7": 4.0
+        },
+        "14": {
+          "0": 4.0,
+          "3": 4.0,
+          "4": 4.0
+        },
+        "15": {
+          "2": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "1": 16.0,
+        "2": 16.0,
+        "3": 16.0,
+        "4": 16.0,
+        "5": 16.0,
+        "6": 16.0,
+        "7": 16.0
+      },
+      "transition_counts": {
+        "0": {
+          "2": 8.0,
+          "3": 4.0,
+          "5": 4.0
+        },
+        "3": {
+          "0": 4.0,
+          "1": 4.0,
+          "2": 4.0,
+          "4": 4.0
+        },
+        "2": {
+          "3": 4.0,
+          "4": 4.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "4": {
+          "0": 4.0,
+          "1": 4.0,
+          "5": 4.0,
+          "7": 4.0
+        },
+        "5": {
+          "1": 4.0,
+          "2": 4.0,
+          "6": 4.0
+        },
+        "1": {
+          "4": 4.0,
+          "6": 4.0,
+          "7": 8.0
+        },
+        "7": {
+          "3": 4.0,
+          "4": 4.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "6": {
+          "0": 4.0,
+          "1": 4.0,
+          "3": 4.0,
+          "7": 4.0
+        }
+      },
+      "length_counts": {
+        "1": 128.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Stepper_Amen_latest_pattern_v31.json": 1.0
+      }
+    },
+    "Tear_Apache_-_4A": {
+      "examples_count": 80,
+      "notes_count": 157,
+      "slot_pair_counts": {
+        "0": {
+          "10": 1.0,
+          "11": 24.0
+        },
+        "1": {
+          "5": 1.0,
+          "6": 2.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 3.0,
+          "10": 27.0,
+          "11": 2.0
+        },
+        "2": {
+          "1": 1.0,
+          "2": 2.0,
+          "3": 3.0,
+          "4": 26.0,
+          "5": 2.0,
+          "6": 1.0
+        },
+        "3": {
+          "6": 5.0,
+          "7": 1.0,
+          "11": 20.0
+        },
+        "4": {
+          "6": 24.0,
+          "10": 1.0
+        },
+        "5": {
+          "11": 24.0
+        },
+        "6": {
+          "3": 1.0,
+          "4": 25.0,
+          "8": 1.0
+        },
+        "7": {
+          "10": 24.0
+        },
+        "8": {
+          "11": 24.0
+        },
+        "9": {
+          "6": 1.0,
+          "10": 24.0
+        },
+        "10": {
+          "4": 24.0,
+          "10": 1.0
+        },
+        "11": {
+          "6": 24.0,
+          "16": 8.0
+        },
+        "12": {
+          "6": 3.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 25.0
+        },
+        "13": {
+          "11": 24.0
+        },
+        "14": {
+          "4": 24.0
+        },
+        "15": {
+          "4": 1.0,
+          "5": 1.0,
+          "6": 1.0,
+          "7": 1.0,
+          "8": 1.0,
+          "9": 1.0,
+          "10": 25.0,
+          "11": 2.0,
+          "12": 3.0,
+          "13": 3.0,
+          "14": 2.0
+        }
+      },
+      "pair_counts": {
+        "1": 1.0,
+        "2": 2.0,
+        "3": 4.0,
+        "4": 100.0,
+        "5": 4.0,
+        "6": 61.0,
+        "7": 5.0,
+        "8": 5.0,
+        "9": 5.0,
+        "10": 128.0,
+        "11": 120.0,
+        "12": 3.0,
+        "13": 3.0,
+        "14": 2.0,
+        "16": 8.0
+      },
+      "transition_counts": {
+        "11": {
+          "4": 46.0,
+          "6": 19.0,
+          "10": 46.0
+        },
+        "10": {
+          "4": 46.0,
+          "11": 46.0
+        },
+        "4": {
+          "6": 27.0,
+          "10": 46.0,
+          "11": 19.0
+        },
+        "6": {
+          "6": 4.0,
+          "10": 15.0,
+          "11": 23.0,
+          "16": 8.0
+        },
+        "16": {
+          "10": 8.0
+        }
+      },
+      "length_counts": {
+        "2": 451.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/Tear_Apache_-_4A_slice_index_corrections_v44.jsonl": 75.0,
+        "dataset/learning/latest/Tear_Apache_-_4A_latest_slice_index_v65.json": 1.0,
+        "dataset/tracker_edits/Tear_Apache_-_4A_tracker_app_edit_v65.json": 1.0,
+        "dataset/validated_patterns/Tear_Apache_-_4A_validated_slice_index_loop32_v65_20260702_083852.json": 1.0,
+        "dataset/validated_patterns/Tear_Apache_-_4A_validated_slice_index_loop32_v65_20260702_083937.json": 1.0,
+        "dataset/validated_patterns/Tear_Apache_-_4A_validated_slice_index_loop32_v65_20260702_083953.json": 1.0
+      }
+    },
+    "Tear_Break_2": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "4": 4.0
+        },
+        "2": {
+          "2": 4.0
+        },
+        "3": {
+          "4": 4.0
+        },
+        "4": {
+          "4": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "2": 4.0
+        },
+        "7": {
+          "4": 4.0
+        },
+        "8": {
+          "0": 4.0
+        },
+        "9": {
+          "4": 4.0
+        },
+        "10": {
+          "2": 4.0
+        },
+        "11": {
+          "4": 4.0
+        },
+        "12": {
+          "4": 4.0
+        },
+        "13": {
+          "0": 4.0
+        },
+        "14": {
+          "2": 4.0
+        },
+        "15": {
+          "4": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 16.0,
+        "2": 16.0,
+        "4": 32.0
+      },
+      "transition_counts": {
+        "0": {
+          "2": 8.0,
+          "4": 8.0
+        },
+        "4": {
+          "0": 12.0,
+          "2": 8.0,
+          "4": 8.0
+        },
+        "2": {
+          "4": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Tear_Break_2_latest_slice_index_v90.json": 1.0
+      }
+    },
+    "Technology_Break_-_9A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "2": 3.0
+        },
+        "1": {
+          "3": 3.0
+        },
+        "2": {
+          "6": 3.0
+        },
+        "3": {
+          "11": 3.0
+        },
+        "4": {
+          "14": 3.0
+        },
+        "5": {
+          "6": 3.0
+        },
+        "6": {
+          "14": 3.0
+        },
+        "7": {
+          "5": 3.0
+        },
+        "8": {
+          "11": 3.0
+        },
+        "9": {
+          "6": 3.0
+        },
+        "10": {
+          "14": 3.0
+        },
+        "11": {
+          "10": 3.0
+        },
+        "12": {
+          "6": 3.0
+        },
+        "13": {
+          "12": 3.0
+        },
+        "14": {
+          "7": 3.0
+        },
+        "15": {
+          "6": 3.0
+        }
+      },
+      "pair_counts": {
+        "2": 3.0,
+        "3": 3.0,
+        "5": 3.0,
+        "6": 15.0,
+        "7": 3.0,
+        "10": 3.0,
+        "11": 6.0,
+        "12": 3.0,
+        "14": 9.0
+      },
+      "transition_counts": {
+        "2": {
+          "3": 3.0
+        },
+        "3": {
+          "6": 3.0
+        },
+        "6": {
+          "11": 3.0,
+          "12": 3.0,
+          "14": 6.0
+        },
+        "11": {
+          "6": 3.0,
+          "14": 3.0
+        },
+        "14": {
+          "5": 3.0,
+          "6": 3.0,
+          "10": 3.0
+        },
+        "5": {
+          "11": 3.0
+        },
+        "10": {
+          "6": 3.0
+        },
+        "12": {
+          "7": 3.0
+        },
+        "7": {
+          "6": 3.0
+        }
+      },
+      "length_counts": {
+        "2": 48.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Technology_Break_-_9A_latest_slice_index_v65.json": 1.0
+      }
+    },
+    "Walk_Break_3_-_9A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "1": 4.0
+        },
+        "1": {
+          "5": 4.0
+        },
+        "2": {
+          "16": 4.0
+        },
+        "3": {
+          "5": 4.0
+        },
+        "4": {
+          "5": 4.0
+        },
+        "5": {
+          "1": 4.0
+        },
+        "6": {
+          "16": 4.0
+        },
+        "7": {
+          "5": 4.0
+        },
+        "8": {
+          "1": 4.0
+        },
+        "9": {
+          "5": 4.0
+        },
+        "10": {
+          "16": 4.0
+        },
+        "11": {
+          "5": 4.0
+        },
+        "12": {
+          "5": 4.0
+        },
+        "13": {
+          "1": 4.0
+        },
+        "14": {
+          "16": 4.0
+        },
+        "15": {
+          "5": 4.0
+        }
+      },
+      "pair_counts": {
+        "1": 16.0,
+        "5": 32.0,
+        "16": 16.0
+      },
+      "transition_counts": {
+        "1": {
+          "5": 8.0,
+          "16": 8.0
+        },
+        "5": {
+          "1": 12.0,
+          "5": 8.0,
+          "16": 8.0
+        },
+        "16": {
+          "5": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Walk_Break_3_-_9A_latest_slice_index_v92.json": 1.0
+      }
+    },
+    "Your_Amen_-_4A": {
+      "examples_count": 3,
+      "notes_count": 48,
+      "slot_pair_counts": {
+        "0": {
+          "3": 8.0,
+          "9": 4.0
+        },
+        "1": {
+          "1": 8.0,
+          "2": 4.0
+        },
+        "2": {
+          "1": 4.0,
+          "2": 8.0
+        },
+        "3": {
+          "1": 8.0,
+          "5": 4.0
+        },
+        "4": {
+          "1": 8.0,
+          "6": 4.0
+        },
+        "5": {
+          "2": 4.0,
+          "3": 8.0
+        },
+        "6": {
+          "2": 8.0,
+          "5": 4.0
+        },
+        "7": {
+          "1": 8.0,
+          "2": 4.0
+        },
+        "8": {
+          "3": 8.0,
+          "6": 4.0
+        },
+        "9": {
+          "1": 8.0,
+          "2": 4.0
+        },
+        "10": {
+          "2": 8.0,
+          "14": 4.0
+        },
+        "11": {
+          "1": 8.0,
+          "5": 4.0
+        },
+        "12": {
+          "1": 8.0,
+          "2": 4.0
+        },
+        "13": {
+          "1": 4.0,
+          "3": 8.0
+        },
+        "14": {
+          "2": 8.0,
+          "6": 4.0
+        },
+        "15": {
+          "1": 8.0,
+          "2": 4.0
+        }
+      },
+      "pair_counts": {
+        "1": 72.0,
+        "2": 56.0,
+        "3": 32.0,
+        "5": 12.0,
+        "6": 12.0,
+        "9": 4.0,
+        "14": 4.0
+      },
+      "transition_counts": {
+        "9": {
+          "2": 4.0
+        },
+        "2": {
+          "1": 40.0,
+          "5": 4.0,
+          "6": 4.0,
+          "14": 4.0
+        },
+        "1": {
+          "1": 16.0,
+          "2": 16.0,
+          "3": 24.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "5": {
+          "2": 8.0,
+          "6": 4.0
+        },
+        "6": {
+          "2": 12.0
+        },
+        "14": {
+          "5": 4.0
+        },
+        "3": {
+          "1": 16.0,
+          "2": 16.0
+        }
+      },
+      "length_counts": {
+        "2": 192.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Your_Amen_-_4A_latest_slice_index_v92.json": 1.0,
+        "dataset/learning/rejected_patterns/20260702_104646_Your_Amen_-_4A_reject_bad.json": 1.0,
+        "dataset/learning/role_feedback_v01.jsonl": 1.0
+      }
+    },
+    "Your_Amen_2_-_9A": {
+      "examples_count": 1,
+      "notes_count": 16,
+      "slot_pair_counts": {
+        "0": {
+          "0": 4.0
+        },
+        "1": {
+          "1": 4.0
+        },
+        "2": {
+          "0": 4.0
+        },
+        "3": {
+          "1": 4.0
+        },
+        "4": {
+          "1": 4.0
+        },
+        "5": {
+          "0": 4.0
+        },
+        "6": {
+          "0": 4.0
+        },
+        "7": {
+          "1": 4.0
+        },
+        "8": {
+          "0": 4.0
+        },
+        "9": {
+          "1": 4.0
+        },
+        "10": {
+          "0": 4.0
+        },
+        "11": {
+          "1": 4.0
+        },
+        "12": {
+          "1": 4.0
+        },
+        "13": {
+          "0": 4.0
+        },
+        "14": {
+          "0": 4.0
+        },
+        "15": {
+          "1": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 32.0,
+        "1": 32.0
+      },
+      "transition_counts": {
+        "0": {
+          "0": 8.0,
+          "1": 24.0
+        },
+        "1": {
+          "0": 20.0,
+          "1": 8.0
+        }
+      },
+      "length_counts": {
+        "2": 64.0
+      },
+      "source_files": {
+        "dataset/learning/latest/Your_Amen_2_-_9A_latest_slice_index_v90.json": 1.0
+      }
+    },
+    "atlantis_amen": {
+      "examples_count": 39,
+      "notes_count": 83,
+      "slot_pair_counts": {
+        "0": {
+          "0": 9.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 5.0,
+          "4": 5.0,
+          "5": 1.0,
+          "6": 3.0
+        },
+        "1": {
+          "0": 1.0,
+          "1": 3.0,
+          "2": 8.0,
+          "3": 4.0,
+          "4": 8.0,
+          "5": 6.0,
+          "6": 2.0,
+          "7": 2.0,
+          "8": 2.0,
+          "9": 2.0,
+          "10": 1.0
+        },
+        "2": {
+          "0": 3.0,
+          "1": 4.0,
+          "4": 4.0,
+          "5": 4.0,
+          "6": 5.0
+        },
+        "3": {
+          "6": 3.0,
+          "7": 4.0,
+          "10": 5.0
+        },
+        "4": {
+          "1": 4.0,
+          "3": 3.0,
+          "4": 4.0,
+          "6": 4.0
+        },
+        "5": {
+          "0": 3.0,
+          "7": 4.0
+        },
+        "6": {
+          "0": 3.0,
+          "5": 4.0,
+          "6": 4.0,
+          "8": 4.0
+        },
+        "7": {
+          "5": 3.0,
+          "10": 4.0
+        },
+        "8": {
+          "1": 3.0,
+          "5": 4.0,
+          "8": 4.0,
+          "9": 4.0
+        },
+        "9": {
+          "3": 3.0,
+          "10": 4.0
+        },
+        "10": {
+          "0": 7.0,
+          "6": 4.0,
+          "9": 4.0
+        },
+        "11": {
+          "2": 4.0
+        },
+        "12": {
+          "0": 4.0,
+          "3": 4.0,
+          "6": 4.0
+        },
+        "13": {
+          "2": 4.0
+        },
+        "14": {
+          "1": 4.0,
+          "3": 4.0,
+          "9": 4.0
+        },
+        "15": {
+          "7": 4.0
+        }
+      },
+      "pair_counts": {
+        "0": 30.0,
+        "1": 19.0,
+        "2": 17.0,
+        "3": 23.0,
+        "4": 21.0,
+        "5": 22.0,
+        "6": 29.0,
+        "7": 14.0,
+        "8": 10.0,
+        "9": 14.0,
+        "10": 14.0
+      },
+      "transition_counts": {
+        "0": {
+          "0": 3.0,
+          "2": 4.0,
+          "3": 4.0,
+          "4": 4.0,
+          "5": 3.0,
+          "6": 7.0
+        },
+        "3": {
+          "0": 10.0,
+          "1": 4.0,
+          "2": 4.0
+        },
+        "2": {
+          "3": 4.0,
+          "4": 4.0,
+          "9": 4.0
+        },
+        "4": {
+          "5": 4.0,
+          "6": 4.0,
+          "7": 4.0
+        },
+        "5": {
+          "0": 3.0,
+          "1": 7.0,
+          "6": 4.0,
+          "10": 4.0
+        },
+        "1": {
+          "3": 3.0,
+          "4": 4.0,
+          "7": 8.0
+        },
+        "7": {
+          "4": 4.0,
+          "5": 4.0,
+          "6": 4.0
+        },
+        "6": {
+          "1": 4.0,
+          "2": 4.0,
+          "3": 3.0,
+          "5": 3.0,
+          "8": 4.0,
+          "9": 4.0,
+          "10": 4.0
+        },
+        "8": {
+          "5": 4.0,
+          "10": 4.0
+        },
+        "10": {
+          "6": 4.0,
+          "9": 4.0
+        },
+        "9": {
+          "0": 4.0,
+          "3": 4.0,
+          "8": 4.0
+        }
+      },
+      "length_counts": {
+        "1": 128.0,
+        "2": 85.0
+      },
+      "source_files": {
+        "dataset/learning/corrections/atlantis_amen_slice_index_corrections_v44.jsonl": 36.0,
+        "dataset/learning/latest/atlantis_amen_latest_pattern_v31.json": 1.0,
+        "dataset/learning/latest/atlantis_amen_latest_slice_index_v48.json": 1.0,
+        "dataset/learning/latest/atlantis_amen_latest_slice_index_v65.json": 1.0
+      }
+    }
+  }
+}

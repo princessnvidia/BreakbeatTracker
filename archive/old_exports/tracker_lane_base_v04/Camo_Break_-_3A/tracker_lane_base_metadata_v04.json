@@ -1,0 +1,229 @@
+{
+  "version": "tracker_lane_base_v04",
+  "source": "breaks/Camo Break - 3A.wav",
+  "source_only": true,
+  "logic": "tracker cells, no overlap, longer hats",
+  "base": "K..S|..KS|K..S|..KS",
+  "cell_ms": 200.0,
+  "steps": 16,
+  "mutation": 0.2,
+  "hat_density": 0.92,
+  "hat_boost": 0.48,
+  "base_wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_base.wav",
+  "kit": {
+    "kick": {
+      "cell_index": 10,
+      "start": 88200,
+      "end": 97020,
+      "features": {
+        "rms": 0.12371328473091125,
+        "peak": 0.9161065816879272,
+        "centroid": 4570.579646056902,
+        "low": 0.16920538246631622,
+        "mid": 0.19282981753349304,
+        "high": 0.6023727655410767
+      }
+    },
+    "snare": {
+      "cell_index": 14,
+      "start": 123480,
+      "end": 129699,
+      "features": {
+        "rms": 0.1194862350821495,
+        "peak": 0.949999988079071,
+        "centroid": 4984.336623115869,
+        "low": 0.006759397219866514,
+        "mid": 0.17431114614009857,
+        "high": 0.7648377418518066
+      }
+    },
+    "ghost": {
+      "cell_index": 8,
+      "start": 70560,
+      "end": 79380,
+      "features": {
+        "rms": 0.004362853243947029,
+        "peak": 0.010974028147757053,
+        "centroid": 2189.156154199996,
+        "low": 0.3024239242076874,
+        "mid": 0.35722628235816956,
+        "high": 0.19671973586082458
+      }
+    },
+    "hat": {
+      "cell_index": 13,
+      "start": 114660,
+      "end": 123480,
+      "features": {
+        "rms": 0.08040747046470642,
+        "peak": 0.7804316878318787,
+        "centroid": 6285.420289842356,
+        "low": 0.011552968062460423,
+        "mid": 0.08609004318714142,
+        "high": 0.859889030456543
+      }
+    }
+  },
+  "renders": [
+    {
+      "index": 1,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_001.wav",
+      "grid": "KHHSHHKSKKHSHHKS"
+    },
+    {
+      "index": 2,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_002.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 3,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_003.wav",
+      "grid": "KHHSH.KSKHHSHHKS"
+    },
+    {
+      "index": 4,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_004.wav",
+      "grid": "KH.S.HKSKHHSHKKS"
+    },
+    {
+      "index": 5,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_005.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 6,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_006.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 7,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_007.wav",
+      "grid": "KHHSHHKSKHgSHHKS"
+    },
+    {
+      "index": 8,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_008.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 9,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_009.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 10,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_010.wav",
+      "grid": "KHHSHHKSK.HSHHKS"
+    },
+    {
+      "index": 11,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_011.wav",
+      "grid": "KHHSHHKSKH.SgHKS"
+    },
+    {
+      "index": 12,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_012.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 13,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_013.wav",
+      "grid": "KHHSgHKSKHHSHHKS"
+    },
+    {
+      "index": 14,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_014.wav",
+      "grid": "KHHS.HKSKHHSHHKS"
+    },
+    {
+      "index": 15,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_015.wav",
+      "grid": "KHHSHHKSKKHSHHKS"
+    },
+    {
+      "index": 16,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_016.wav",
+      "grid": "KKHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 17,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_017.wav",
+      "grid": "KHHSHHKSKHHSgHKS"
+    },
+    {
+      "index": 18,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_018.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 19,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_019.wav",
+      "grid": "KH.SHHKSKHHSHHKS"
+    },
+    {
+      "index": 20,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_020.wav",
+      "grid": "KHHSHHKSK.HSHHKS"
+    },
+    {
+      "index": 21,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_021.wav",
+      "grid": "KHHSHHKSKHHSgHKS"
+    },
+    {
+      "index": 22,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_022.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 23,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_023.wav",
+      "grid": "KHHSHHKSKHHS.HKS"
+    },
+    {
+      "index": 24,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_024.wav",
+      "grid": "KHHSHHKSK.HSHHKS"
+    },
+    {
+      "index": 25,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_025.wav",
+      "grid": "KHHSH.KSKH.SHHKS"
+    },
+    {
+      "index": 26,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_026.wav",
+      "grid": "K.gSgHKSKHHSH.KS"
+    },
+    {
+      "index": 27,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_027.wav",
+      "grid": "K.HS.HKSKH.SHHKS"
+    },
+    {
+      "index": 28,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_028.wav",
+      "grid": "KHHSHHKSKHHSHHKS"
+    },
+    {
+      "index": 29,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_029.wav",
+      "grid": "KHHSH.KSKHHSHHKS"
+    },
+    {
+      "index": 30,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_030.wav",
+      "grid": "KH.SH.KSKHHSHHKS"
+    },
+    {
+      "index": 31,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_031.wav",
+      "grid": "KHHSHHKSK.HSHHKS"
+    },
+    {
+      "index": 32,
+      "wav": "exports/tracker_lane_base_v04/Camo_Break_-_3A/Camo_Break_-_3A_lane_base_v04_032.wav",
+      "grid": "KHHSH.KSKHHSHHKS"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+IDX | START_MS | END_MS | DUR | FILE
+-----------------------------------
+000 |      0.0 |    185.8 | 0.186s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_000_0ms.wav
+001 |    185.8 |    348.3 | 0.163s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_001_185ms.wav
+002 |    348.3 |    568.9 | 0.221s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_002_348ms.wav
+003 |    568.9 |    743.0 | 0.174s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_003_568ms.wav
+004 |    743.0 |    928.8 | 0.186s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_004_743ms.wav
+005 |    928.8 |   1102.9 | 0.174s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_005_928ms.wav
+006 |   1102.9 |   1277.1 | 0.174s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_006_1102ms.wav
+007 |   1277.1 |   1486.1 | 0.209s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_007_1277ms.wav
+008 |   1486.1 |   1683.4 | 0.197s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_008_1486ms.wav
+009 |   1683.4 |   1822.8 | 0.139s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_009_1683ms.wav
+010 |   1822.8 |   2031.7 | 0.209s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_010_1822ms.wav
+011 |   2031.7 |   2229.1 | 0.197s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_011_2031ms.wav
+012 |   2229.1 |   2414.9 | 0.186s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_012_2229ms.wav
+013 |   2414.9 |   2600.6 | 0.186s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_013_2414ms.wav
+014 |   2600.6 |   2786.4 | 0.186s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_014_2600ms.wav
+015 |   2786.4 |   2975.6 | 0.189s | exports/tracker_variations_good_cuts_v01/Stepper_Amen/hybrid_16cuts_pairmode/slices_preview/slice_015_2786ms.wav

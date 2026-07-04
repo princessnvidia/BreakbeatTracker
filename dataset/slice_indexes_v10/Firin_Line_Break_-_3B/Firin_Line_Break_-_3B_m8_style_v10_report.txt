@@ -1,0 +1,28 @@
+M8-style slicer v10: Firin_Line_Break_-_3B
+Source: breaks/Firin Line Break - 3B.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 19
+JSON: dataset/pair_blocks_v02/Firin_Line_Break_-_3B_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Firin_Line_Break_-_3B/Firin_Line_Break_-_3B_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    354.10 ms | dur    347.57 ms | hybrid_snap_auto | score 0.454514
+slice 01 |    354.10 ->    728.53 ms | dur    374.42 ms | hat_rescue | score 0.975584
+slice 02 |    728.53 ->   1103.67 ms | dur    375.15 ms | hybrid_snap_hat | score 0.867103
+slice 03 |   1103.67 ->   1467.21 ms | dur    363.54 ms | hybrid_snap_auto | score 0.541875
+slice 04 |   1467.21 ->   1652.97 ms | dur    185.76 ms | hat_rescue | score 0.920626
+slice 05 |   1652.97 ->   1853.42 ms | dur    200.45 ms | hat_rescue | score 0.918266
+slice 06 |   1853.42 ->   2216.05 ms | dur    362.63 ms | grid | score 1.0
+slice 07 |   2216.05 ->   2594.78 ms | dur    378.73 ms | hybrid_snap_auto | score 0.532366
+slice 08 |   2594.78 ->   2764.63 ms | dur    169.84 ms | grid | score 1.0
+slice 09 |   2764.63 ->   2956.19 ms | dur    191.56 ms | hat_rescue | score 0.929007
+slice 10 |   2956.19 ->   3320.45 ms | dur    364.26 ms | hybrid_snap_auto | score 0.538824
+slice 11 |   3320.45 ->   3706.85 ms | dur    386.39 ms | hat_rescue | score 0.936445
+slice 12 |   3706.85 ->   4068.57 ms | dur    361.72 ms | grid | score 1.0
+slice 13 |   4068.57 ->   4436.46 ms | dur    367.89 ms | hybrid_snap_auto | score 0.527508
+slice 14 |   4436.46 ->   4620.77 ms | dur    184.31 ms | hybrid_snap_hat | score 0.878518
+slice 15 |   4620.77 ->   4806.53 ms | dur    185.76 ms | hat_rescue | score 0.86691
+slice 16 |   4806.53 ->   5189.59 ms | dur    383.06 ms | hybrid_snap_auto | score 0.256834
+slice 17 |   5189.59 ->   5560.27 ms | dur    370.68 ms | grid | score 1.0
+slice 18 |   5560.27 ->   5930.95 ms | dur    370.68 ms | grid | score 1.0

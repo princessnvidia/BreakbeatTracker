@@ -1,0 +1,150 @@
+{
+  "version": "tracker_lane_base_v05",
+  "source": "breaks/Camo Break - 3A.wav",
+  "source_only": true,
+  "logic": "tracker cells with adjustable offset, no overlap",
+  "base": "K..S|..KS|K..S|..KS",
+  "cell_ms": 400.0,
+  "offset_ms": 0.0,
+  "steps": 4,
+  "mutation": 0.2,
+  "hat_density": 0.92,
+  "hat_boost": 0.55,
+  "base_wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_base.wav",
+  "kit": {
+    "kick": {
+      "cell_index": 1,
+      "start_ms": 400.0,
+      "end_ms": 800.0,
+      "features": {
+        "rms": 0.09267877042293549,
+        "peak": 0.9102499485015869,
+        "centroid": 5382.478097409679,
+        "low": 0.14380306005477905,
+        "mid": 0.17425309121608734,
+        "high": 0.640855073928833
+      }
+    },
+    "snare": {
+      "cell_index": 2,
+      "start_ms": 800.0,
+      "end_ms": 1200.0,
+      "features": {
+        "rms": 0.11227110773324966,
+        "peak": 0.949999988079071,
+        "centroid": 5840.642860480217,
+        "low": 0.06212398037314415,
+        "mid": 0.16281083226203918,
+        "high": 0.7222907543182373
+      }
+    },
+    "ghost": {
+      "cell_index": 0,
+      "start_ms": 0.0,
+      "end_ms": 400.0,
+      "features": {
+        "rms": 0.07199059426784515,
+        "peak": 0.949999988079071,
+        "centroid": 3382.6819077108657,
+        "low": 0.015236648730933666,
+        "mid": 0.1884388029575348,
+        "high": 0.73157799243927
+      }
+    },
+    "hat": {
+      "cell_index": 3,
+      "start_ms": 1200.0,
+      "end_ms": 1600.0,
+      "features": {
+        "rms": 0.05671955645084381,
+        "peak": 0.7122390866279602,
+        "centroid": 5670.878898480032,
+        "low": 0.012597712688148022,
+        "mid": 0.08920954912900925,
+        "high": 0.8561474084854126
+      }
+    }
+  },
+  "renders": [
+    {
+      "index": 1,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_001.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 2,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_002.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 3,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_003.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 4,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_004.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 5,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_005.wav",
+      "grid": "KHgS"
+    },
+    {
+      "index": 6,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_006.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 7,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_007.wav",
+      "grid": "KHgS"
+    },
+    {
+      "index": 8,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_008.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 9,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_009.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 10,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_010.wav",
+      "grid": "KH.S"
+    },
+    {
+      "index": 11,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_011.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 12,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_012.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 13,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_013.wav",
+      "grid": "K.HS"
+    },
+    {
+      "index": 14,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_014.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 15,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_015.wav",
+      "grid": "KHHS"
+    },
+    {
+      "index": 16,
+      "wav": "exports/tracker_lane_base_v05/Camo_Break_-_3A/offset_0ms_cell_400ms/Camo_Break_-_3A_lane_base_v05_016.wav",
+      "grid": "KHHS"
+    }
+  ]
+}

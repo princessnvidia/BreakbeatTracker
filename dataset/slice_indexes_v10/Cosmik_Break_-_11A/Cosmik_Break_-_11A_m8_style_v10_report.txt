@@ -1,0 +1,26 @@
+M8-style slicer v10: Cosmik_Break_-_11A
+Source: breaks/Cosmik Break - 11A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/Cosmik_Break_-_11A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Cosmik_Break_-_11A/Cosmik_Break_-_11A_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     35.01 ms | dur     35.01 ms | start | score 1.0
+slice 01 |     23.95 ->     87.07 ms | dur     63.13 ms | hybrid_snap_auto | score 0.282572
+slice 02 |     87.07 ->    171.97 ms | dur     84.90 ms | hybrid_snap_auto | score 0.132827
+slice 03 |    171.97 ->    259.77 ms | dur     87.80 ms | hybrid_snap_auto | score 0.209353
+slice 04 |    259.77 ->    349.75 ms | dur     89.98 ms | hat_rescue | score 0.640714
+slice 05 |    349.75 ->    446.26 ms | dur     96.51 ms | hybrid_snap_hat | score 0.984591
+slice 06 |    446.26 ->    536.96 ms | dur     90.70 ms | hybrid_snap_auto | score 0.171779
+slice 07 |    536.96 ->    628.39 ms | dur     91.43 ms | hat_rescue | score 0.68681
+slice 08 |    628.39 ->    714.01 ms | dur     85.62 ms | hat_rescue | score 0.679937
+slice 09 |    714.01 ->    809.80 ms | dur     95.78 ms | hat_rescue | score 0.79862
+slice 10 |    809.80 ->    893.97 ms | dur     84.17 ms | hybrid_snap_auto | score 0.1748
+slice 11 |    893.97 ->    990.48 ms | dur     96.51 ms | hybrid_snap_hat | score 0.93474
+slice 12 |    990.48 ->   1076.83 ms | dur     86.35 ms | hybrid_snap_auto | score 0.175283
+slice 13 |   1076.83 ->   1172.61 ms | dur     95.78 ms | hat_rescue | score 0.897875
+slice 14 |   1172.61 ->   1256.05 ms | dur     83.45 ms | hat_rescue | score 0.647936
+slice 15 |   1256.05 ->   1334.42 ms | dur     78.37 ms | hybrid_snap_auto | score 0.730852
+slice 16 |   1334.42 ->   1447.73 ms | dur    113.31 ms | hybrid_snap_auto | score 0.178506

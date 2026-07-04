@@ -1,0 +1,163 @@
+{
+  "version": "pair_blocks_v02_4_roles_index_only_v05",
+  "storage": "index_only_single_source_audio",
+  "source_audio": "breaks/Camo Break - 3A.wav",
+  "safe": "Camo_Break_-_3A",
+  "sample_rate": 44100,
+  "source_duration_ms": 2941.0204,
+  "loop_start_sample": 0,
+  "loop_end_sample": 129699,
+  "loop_start_ms": 0.0,
+  "loop_end_ms": 2941.0204,
+  "loop_duration_ms": 2941.0204,
+  "slice_count": 4,
+  "roles": [
+    "snare",
+    "hat",
+    "kick",
+    "crash"
+  ],
+  "step_ms": 103.43535,
+  "slice_method": "onset_spectral_role_classifier_v05",
+  "threshold": 0.18,
+  "min_sep_ms": 35.0,
+  "auto_trim": false,
+  "shift_ms": 0.0,
+  "old_pair_json": "dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json",
+  "backup_pair_json": "dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json.bak_20260702_060102",
+  "preview_wav": "dataset/slice_indexes_v05/Camo_Break_-_3A/Camo_Break_-_3A_source_loop_preview_v05.wav",
+  "blocks": [
+    {
+      "pair": 0,
+      "name": "snare",
+      "role": "snare",
+      "manual_role": "snare",
+      "formal_role": "snare",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 124800,
+      "source_end_sample": 129699,
+      "source_start_ms": 2829.932,
+      "source_end_ms": 2941.0204,
+      "duration_ms": 111.0884,
+      "slice_storage": "index_only",
+      "audio_path": null,
+      "onset_score": 0.664803,
+      "role_scores": {
+        "kick": -0.074114,
+        "snare": 1.583743,
+        "hat": 2.198597,
+        "crash": 1.502235
+      },
+      "features": {
+        "low_ratio": 0.000273,
+        "low2_ratio": 0.014319,
+        "mid_ratio": 0.177259,
+        "high_ratio": 0.808149,
+        "rms_attack": 0.197779,
+        "rms_full": 0.168512,
+        "tail_rms": 0.0,
+        "tail_ratio": 0.0,
+        "zcr": 0.261979
+      }
+    },
+    {
+      "pair": 1,
+      "name": "hat",
+      "role": "hat",
+      "manual_role": "hat",
+      "formal_role": "hat",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 100480,
+      "source_end_sample": 104704,
+      "source_start_ms": 2278.458,
+      "source_end_ms": 2374.2404,
+      "duration_ms": 95.7823,
+      "slice_storage": "index_only",
+      "audio_path": null,
+      "onset_score": 0.464804,
+      "role_scores": {
+        "kick": -0.348517,
+        "snare": 1.413768,
+        "hat": 2.506082,
+        "crash": 1.737697
+      },
+      "features": {
+        "low_ratio": 0.000434,
+        "low2_ratio": 0.006232,
+        "mid_ratio": 0.013852,
+        "high_ratio": 0.979482,
+        "rms_attack": 0.128753,
+        "rms_full": 0.11769,
+        "tail_rms": 0.0,
+        "tail_ratio": 0.0,
+        "zcr": 0.292883
+      }
+    },
+    {
+      "pair": 2,
+      "name": "kick",
+      "role": "kick",
+      "manual_role": "kick",
+      "formal_role": "kick",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 92672,
+      "source_end_sample": 96256,
+      "source_start_ms": 2101.4059,
+      "source_end_ms": 2182.6757,
+      "duration_ms": 81.2698,
+      "slice_storage": "index_only",
+      "audio_path": null,
+      "onset_score": 0.615128,
+      "role_scores": {
+        "kick": 2.551946,
+        "snare": -0.139082,
+        "hat": -0.220136,
+        "crash": -0.157524
+      },
+      "features": {
+        "low_ratio": 0.771429,
+        "low2_ratio": 0.170038,
+        "mid_ratio": 0.01326,
+        "high_ratio": 0.045273,
+        "rms_attack": 0.139529,
+        "rms_full": 0.138435,
+        "tail_rms": 0.0,
+        "tail_ratio": 0.0,
+        "zcr": 0.062092
+      }
+    },
+    {
+      "pair": 3,
+      "name": "crash",
+      "role": "crash",
+      "manual_role": "crash",
+      "formal_role": "crash",
+      "source_audio": "breaks/Camo Break - 3A.wav",
+      "source_start_sample": 59904,
+      "source_end_sample": 80128,
+      "source_start_ms": 1358.3673,
+      "source_end_ms": 1816.9615,
+      "duration_ms": 458.5941,
+      "slice_storage": "index_only",
+      "audio_path": null,
+      "onset_score": 0.221569,
+      "role_scores": {
+        "kick": -0.549179,
+        "snare": 1.250707,
+        "hat": 2.238063,
+        "crash": 1.834596
+      },
+      "features": {
+        "low_ratio": 0.000586,
+        "low2_ratio": 0.004027,
+        "mid_ratio": 0.043892,
+        "high_ratio": 0.951496,
+        "rms_attack": 0.056181,
+        "rms_full": 0.024208,
+        "tail_rms": 0.006137,
+        "tail_ratio": 0.109232,
+        "zcr": 0.277857
+      }
+    }
+  ]
+}

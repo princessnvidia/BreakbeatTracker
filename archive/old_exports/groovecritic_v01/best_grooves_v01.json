@@ -1,0 +1,6525 @@
+{
+  "version": "groovecritic_best_v01",
+  "input": "exports/self_improve_v01/generated_pool_v01.json",
+  "top": 120,
+  "count": 120,
+  "grooves": [
+    {
+      "index": 1,
+      "full": "K.SgHKg.K.SH.KS.K.Sg.KSgKgS..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S.......S...S...S...S...S...S.",
+        "ghost": "...g..g............g...g.g......",
+        "hat": "....H......H....................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.87845,
+        "backbeat": 0.7875,
+        "kicks": 0.9475,
+        "ghosts": 1.0,
+        "hats": 0.6375,
+        "syncopation": 0.94697,
+        "clutter": 0.75,
+        "base_structure": 0.94734,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.8
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4545,
+            "total_hits": 22
+          },
+          "clutter": {
+            "density": 0.6875,
+            "total_hits": 22,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.9375,
+            "base_role": 0.9656
+          }
+        }
+      }
+    },
+    {
+      "index": 2,
+      "full": "K.SgHKS.K.Sg.KS.KgS..KggKHS.HKS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S...S...S...S.......S...S.",
+        "ghost": "...g.......g.....g....gg........",
+        "hat": "....H....................H..H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.86727,
+        "backbeat": 0.7875,
+        "kicks": 0.9475,
+        "ghosts": 0.9,
+        "hats": 0.7375,
+        "syncopation": 0.9058,
+        "clutter": 0.75,
+        "base_structure": 0.94734,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.6
+          },
+          "hats": {
+            "hat_count": 3,
+            "even_hat_ratio": 0.6667,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4348,
+            "total_hits": 23
+          },
+          "clutter": {
+            "density": 0.7188,
+            "total_hits": 23,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.9375,
+            "base_role": 0.9656
+          }
+        }
+      }
+    },
+    {
+      "index": 3,
+      "full": "KHSg.Kg.K.S.HKS.K.ggHKSgKgS.HKS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S.......S...S.......S...S...S.",
+        "ghost": "...g..g...........gg...g.g......",
+        "hat": ".H..........H.......H.......H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.84923,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.825,
+        "hats": 0.9,
+        "syncopation": 0.95486,
+        "clutter": 0.75,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 6,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 4,
+            "even_hat_ratio": 0.75,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4583,
+            "total_hits": 24
+          },
+          "clutter": {
+            "density": 0.75,
+            "total_hits": 24,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 4,
+      "full": "K.SgHKS.K.g..KS.KgS.HKSHKgS..Kg.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S.......S...S...S...S.....",
+        "ghost": "...g......g......g.......g....g.",
+        "hat": "....H...............H..H........",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.84305,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.9,
+        "hats": 0.7375,
+        "syncopation": 0.94697,
+        "clutter": 0.75,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.6
+          },
+          "hats": {
+            "hat_count": 3,
+            "even_hat_ratio": 0.6667,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4545,
+            "total_hits": 22
+          },
+          "clutter": {
+            "density": 0.6875,
+            "total_hits": 22,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 5,
+      "full": "KHS.HKSgK.S.gKS.K.S..Hg.K.S.HKS.",
+      "layers": {
+        "kick": "K....K..K....K..K.......K....K..",
+        "snare": "..S...S...S...S...S.......S...S.",
+        "ghost": ".......g....g.........g.........",
+        "hat": ".H..H................H......H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.8339,
+        "backbeat": 0.7875,
+        "kicks": 0.8825,
+        "ghosts": 0.95,
+        "hats": 0.85,
+        "syncopation": 0.69444,
+        "clutter": 0.75,
+        "base_structure": 0.88922,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.4286
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 4,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 21
+          },
+          "clutter": {
+            "density": 0.6562,
+            "total_hits": 21,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9156
+          }
+        }
+      }
+    },
+    {
+      "index": 6,
+      "full": "KHS.HKSgK.S.gKgg.Sg.HKS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K.......K..K....K..",
+        "snare": "..S...S...S......S....S...S...S.",
+        "ghost": ".......g....g.gg..g.............",
+        "hat": ".H..H...............H...........",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.83267,
+        "backbeat": 0.675,
+        "kicks": 0.9375,
+        "ghosts": 1.0,
+        "hats": 0.7375,
+        "syncopation": 0.85227,
+        "clutter": 0.75,
+        "base_structure": 0.83219,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.5714
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.8
+          },
+          "hats": {
+            "hat_count": 3,
+            "even_hat_ratio": 0.6667,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4091,
+            "total_hits": 22
+          },
+          "clutter": {
+            "density": 0.6875,
+            "total_hits": 22,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8688
+          }
+        }
+      }
+    },
+    {
+      "index": 7,
+      "full": "K.S.gKS.K.S..KS.K.S.gKS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S...S...S...S...S...S...S.",
+        "ghost": "....g...............g...........",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.80999,
+        "backbeat": 0.9,
+        "kicks": 0.9475,
+        "ghosts": 0.9,
+        "hats": 0.35,
+        "syncopation": 0.46296,
+        "clutter": 1.0,
+        "base_structure": 1.0,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 1.0
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2222,
+            "total_hits": 18
+          },
+          "clutter": {
+            "density": 0.5625,
+            "total_hits": 18,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 1.0,
+            "base_role": 1.0
+          }
+        }
+      }
+    },
+    {
+      "index": 8,
+      "full": "K.ggHKS.K.Sg.KS.Kggg.KSgK.SHHKS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S...S...S.......S...S...S.",
+        "ghost": "..gg.......g.....ggg...g........",
+        "hat": "....H......................HH...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.8094,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.66429,
+        "hats": 0.7375,
+        "syncopation": 0.95833,
+        "clutter": 0.75,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 7,
+            "near_snare_ratio": 0.2857
+          },
+          "hats": {
+            "hat_count": 3,
+            "even_hat_ratio": 0.6667,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.5,
+            "total_hits": 24
+          },
+          "clutter": {
+            "density": 0.75,
+            "total_hits": 24,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 9,
+      "full": "K.S.gK..S.Sg.K..K...gK..S..g.K..",
+      "layers": {
+        "kick": "K....K.......K..K....K.......K..",
+        "snare": "..S.....S.S.............S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.80628,
+        "backbeat": 1.0,
+        "kicks": 0.93667,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.89286,
+        "clutter": 1.0,
+        "base_structure": 0.5,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.6667
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4286,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5
+          }
+        }
+      }
+    },
+    {
+      "index": 10,
+      "full": "K.ggH.S.K.Sg.KS..gSg.KS.K.Sg.KS.",
+      "layers": {
+        "kick": "K.......K....K.......K..K....K..",
+        "snare": "......S...S...S...S...S...S...S.",
+        "ghost": "..gg.......g.....g.g.......g....",
+        "hat": "....H...........................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.80278,
+        "backbeat": 0.7875,
+        "kicks": 0.8725,
+        "ghosts": 0.95,
+        "hats": 0.2925,
+        "syncopation": 0.9375,
+        "clutter": 0.75,
+        "base_structure": 0.82234,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 6,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 1,
+            "even_hat_ratio": 1.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.45,
+            "total_hits": 20
+          },
+          "clutter": {
+            "density": 0.625,
+            "total_hits": 20,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8406
+          }
+        }
+      }
+    },
+    {
+      "index": 11,
+      "full": "K.SgKK..S.g..K..K.g.K...S...gKS.",
+      "layers": {
+        "kick": "K...KK.......K..K...K........K..",
+        "snare": "..S.....S...............S.....S.",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.79393,
+        "backbeat": 1.0,
+        "kicks": 0.8075,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.83333,
+        "clutter": 1.0,
+        "base_structure": 0.45719,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.4286
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4938
+          }
+        }
+      }
+    },
+    {
+      "index": 12,
+      "full": "K.S.gKS.H.Sg.K..K.SgH.S...S..KS.",
+      "layers": {
+        "kick": "K....K.......K..K............K..",
+        "snare": "..S...S...S.......S...S...S...S.",
+        "ghost": "....g......g.......g............",
+        "hat": "........H...........H...........",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.78855,
+        "backbeat": 0.7875,
+        "kicks": 0.8735,
+        "ghosts": 1.0,
+        "hats": 0.4875,
+        "syncopation": 0.61275,
+        "clutter": 1.0,
+        "base_structure": 0.75438,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 1.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2941,
+            "total_hits": 17
+          },
+          "clutter": {
+            "density": 0.5312,
+            "total_hits": 17,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.75,
+            "base_role": 0.7625
+          }
+        }
+      }
+    },
+    {
+      "index": 13,
+      "full": ".HS...SgK.S..KS.KHS..KS.K.S..KS.",
+      "layers": {
+        "kick": "........K....K..K....K..K....K..",
+        "snare": "..S...S...S...S...S...S...S...S.",
+        "ghost": ".......g........................",
+        "hat": ".H...............H..............",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.78653,
+        "backbeat": 0.9,
+        "kicks": 0.743,
+        "ghosts": 0.9,
+        "hats": 0.2625,
+        "syncopation": 0.73529,
+        "clutter": 1.0,
+        "base_structure": 0.875,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 1.0
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 1,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 0.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3529,
+            "total_hits": 17
+          },
+          "clutter": {
+            "density": 0.5312,
+            "total_hits": 17,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.875
+          }
+        }
+      }
+    },
+    {
+      "index": 14,
+      "full": "K.gg.KS.K.S..KS.KgSHHKSS..SgKKg.",
+      "layers": {
+        "kick": "K....K..K....K..K....K......KK..",
+        "snare": "......S...S...S...S...SS..S.....",
+        "ghost": "..gg.............g.........g..g.",
+        "hat": "...................HH...........",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.7813,
+        "backbeat": 0.675,
+        "kicks": 0.91,
+        "ghosts": 0.75,
+        "hats": 0.6375,
+        "syncopation": 0.94697,
+        "clutter": 0.5625,
+        "base_structure": 0.83219,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.4
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4545,
+            "total_hits": 22
+          },
+          "clutter": {
+            "density": 0.6875,
+            "total_hits": 22,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8687
+          }
+        }
+      }
+    },
+    {
+      "index": 15,
+      "full": "K.S.gKS.S..g.K..K.S.g.S.S..g.K..",
+      "layers": {
+        "kick": "K....K.......K..K............K..",
+        "snare": "..S...S.S.........S...S.S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.77452,
+        "backbeat": 1.0,
+        "kicks": 0.8735,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.5625,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5625,
+            "base_role": 0.5625
+          }
+        }
+      }
+    },
+    {
+      "index": 16,
+      "full": "K...g...S.Sg.K..K...gKS.S..g.KS.",
+      "layers": {
+        "kick": "K............K..K....K.......K..",
+        "snare": "........S.S...........S.S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.77259,
+        "backbeat": 1.0,
+        "kicks": 0.8735,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.5,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5
+          }
+        }
+      }
+    },
+    {
+      "index": 17,
+      "full": "K.S.gK..S.Sg.K..K...gK..S..g..S.",
+      "layers": {
+        "kick": "K....K.......K..K....K..........",
+        "snare": "..S.....S.S.............S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.77259,
+        "backbeat": 1.0,
+        "kicks": 0.8735,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.5,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5
+          }
+        }
+      }
+    },
+    {
+      "index": 18,
+      "full": "K.S.gK..S..g.K..K.S.gK..S..g..S.",
+      "layers": {
+        "kick": "K....K.......K..K....K..........",
+        "snare": "..S.....S.........S.....S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.77259,
+        "backbeat": 1.0,
+        "kicks": 0.8735,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.5,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5
+          }
+        }
+      }
+    },
+    {
+      "index": 19,
+      "full": "K.S.gKS.S.Sg.K..K...g.S.S.Sg..S.",
+      "layers": {
+        "kick": "K....K.......K..K...............",
+        "snare": "..S...S.S.S...........S.S.S...S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.77043,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.52083,
+        "clutter": 1.0,
+        "base_structure": 0.625,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.25,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.625,
+            "base_role": 0.625
+          }
+        }
+      }
+    },
+    {
+      "index": 20,
+      "full": "K.SgKK..S.g.....K.g.KK..S...gK..",
+      "layers": {
+        "kick": "K...KK..........K...KK.......K..",
+        "snare": "..S.....S...............S.......",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.76723,
+        "backbeat": 1.0,
+        "kicks": 0.8075,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.89286,
+        "clutter": 1.0,
+        "base_structure": 0.39469,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.4286
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4286,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4313
+          }
+        }
+      }
+    },
+    {
+      "index": 21,
+      "full": "K.S..Kg.K.Sg.KgH..S.gKS.K.S..HS.",
+      "layers": {
+        "kick": "K....K..K....K.......K..K.......",
+        "snare": "..S.......S.......S...S...S...S.",
+        "ghost": "......g....g..g.....g...........",
+        "hat": "...............H.............H..",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.76705,
+        "backbeat": 0.675,
+        "kicks": 0.8725,
+        "ghosts": 0.825,
+        "hats": 0.2625,
+        "syncopation": 0.92593,
+        "clutter": 1.0,
+        "base_structure": 0.77406,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 0.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4444,
+            "total_hits": 18
+          },
+          "clutter": {
+            "density": 0.5625,
+            "total_hits": 18,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.75,
+            "base_role": 0.8187
+          }
+        }
+      }
+    },
+    {
+      "index": 22,
+      "full": "SHSSHKS.SH.gHKHSHgHSHK.HKSSHgK..",
+      "layers": {
+        "kick": ".....K.......K.......K..K....K..",
+        "snare": "S.SS..S.S......S...S.....SS.....",
+        "ghost": "...........g.....g..........g...",
+        "hat": ".H..H....H..H.H.H.H.H..H...H....",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.76667,
+        "backbeat": 0.75,
+        "kicks": 0.7979,
+        "ghosts": 0.95,
+        "hats": 0.95,
+        "syncopation": 0.92593,
+        "clutter": 0.3,
+        "base_structure": 0.50438,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.8
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 10,
+            "even_hat_ratio": 0.6,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4444,
+            "total_hits": 27
+          },
+          "clutter": {
+            "density": 0.8438,
+            "total_hits": 27,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5125
+          }
+        }
+      }
+    },
+    {
+      "index": 23,
+      "full": "K.S.g.S.S.Sg..S.K...gK..S.Sg.K..",
+      "layers": {
+        "kick": "K...............K....K.......K..",
+        "snare": "..S...S.S.S...S.........S.S.....",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.76626,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.55556,
+        "clutter": 1.0,
+        "base_structure": 0.5625,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2667,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.5625,
+            "base_role": 0.5625
+          }
+        }
+      }
+    },
+    {
+      "index": 24,
+      "full": "K.H.SKS.K.Sg.HSKKHSS.KSK.HS.H.S.",
+      "layers": {
+        "kick": "K....K..K......KK....K.K........",
+        "snare": "....S.S...S...S...SS..S...S...S.",
+        "ghost": "...........g....................",
+        "hat": "..H..........H...H.......H..H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.76375,
+        "backbeat": 0.59062,
+        "kicks": 0.8625,
+        "ghosts": 0.9,
+        "hats": 0.75,
+        "syncopation": 0.85227,
+        "clutter": 0.5625,
+        "base_structure": 0.75438,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.5714
+          },
+          "ghosts": {
+            "ghost_count": 1,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 5,
+            "even_hat_ratio": 0.4,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4091,
+            "total_hits": 22
+          },
+          "clutter": {
+            "density": 0.6875,
+            "total_hits": 22,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.75,
+            "base_role": 0.7625
+          }
+        }
+      }
+    },
+    {
+      "index": 25,
+      "full": "K.SgKK..S.g..K..K.g.K.S.S.S.g.S.",
+      "layers": {
+        "kick": "K...KK.......K..K...K...........",
+        "snare": "..S.....S.............S.S.S...S.",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.76261,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.65104,
+        "clutter": 1.0,
+        "base_structure": 0.51969,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3125,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5563
+          }
+        }
+      }
+    },
+    {
+      "index": 26,
+      "full": "KHS.HKggK.g..KS...S..KS.KgS.HKg.",
+      "layers": {
+        "kick": "K....K..K....K.......K..K....K..",
+        "snare": "..S...........S...S...S...S.....",
+        "ghost": "......gg..g..............g....g.",
+        "hat": ".H..H.......................H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.75818,
+        "backbeat": 0.5625,
+        "kicks": 0.9375,
+        "ghosts": 0.6,
+        "hats": 0.7375,
+        "syncopation": 0.95833,
+        "clutter": 0.75,
+        "base_structure": 0.77953,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.5714
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.2
+          },
+          "hats": {
+            "hat_count": 3,
+            "even_hat_ratio": 0.6667,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.5,
+            "total_hits": 20
+          },
+          "clutter": {
+            "density": 0.625,
+            "total_hits": 20,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.75,
+            "base_role": 0.8344
+          }
+        }
+      }
+    },
+    {
+      "index": 27,
+      "full": "K.SgK...S.g..K..K.g.K...S...gKS.",
+      "layers": {
+        "kick": "K...K........K..K...K........K..",
+        "snare": "..S.....S...............S.....S.",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.75781,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.39469,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4313
+          }
+        }
+      }
+    },
+    {
+      "index": 28,
+      "full": "K.Hgg.gHS.S.HgSg.gSg.KSSSS.H.KS.",
+      "layers": {
+        "kick": "K....................K.......K..",
+        "snare": "........S.S...S...S...SSSS....S.",
+        "ghost": "...gg.g......g.g.g.g............",
+        "hat": "..H....H....H..............H....",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.75399,
+        "backbeat": 0.75,
+        "kicks": 0.64625,
+        "ghosts": 0.98571,
+        "hats": 0.85,
+        "syncopation": 0.99638,
+        "clutter": 0.4125,
+        "base_structure": 0.50984,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.6667
+          },
+          "ghosts": {
+            "ghost_count": 7,
+            "near_snare_ratio": 0.7143
+          },
+          "hats": {
+            "hat_count": 4,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4783,
+            "total_hits": 23
+          },
+          "clutter": {
+            "density": 0.7188,
+            "total_hits": 23,
+            "longest_strong_run": 5
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5281
+          }
+        }
+      }
+    },
+    {
+      "index": 29,
+      "full": "H.S.g.S.K.S..KS.KgS.HKg.K...gKSg",
+      "layers": {
+        "kick": "........K....K..K....K..K....K..",
+        "snare": "..S...S...S...S...S...........S.",
+        "ghost": "....g............g....g.....g..g",
+        "hat": "H...................H...........",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.75081,
+        "backbeat": 0.675,
+        "kicks": 0.743,
+        "ghosts": 1.0,
+        "hats": 0.4875,
+        "syncopation": 0.65789,
+        "clutter": 1.0,
+        "base_structure": 0.76422,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.8
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 1.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3158,
+            "total_hits": 19
+          },
+          "clutter": {
+            "density": 0.5938,
+            "total_hits": 19,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.75,
+            "base_role": 0.7906
+          }
+        }
+      }
+    },
+    {
+      "index": 30,
+      "full": "K.S..Kg.K.Sg.KgHK.S.gKS.K.S...S.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K.......",
+        "snare": "..S.......S.......S...S...S...S.",
+        "ghost": "......g....g..g.....g...........",
+        "hat": "...............H................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.74971,
+        "backbeat": 0.675,
+        "kicks": 0.8825,
+        "ghosts": 0.825,
+        "hats": 0.1575,
+        "syncopation": 0.81019,
+        "clutter": 1.0,
+        "base_structure": 0.83219,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.4286
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 1,
+            "even_hat_ratio": 0.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3889,
+            "total_hits": 18
+          },
+          "clutter": {
+            "density": 0.5625,
+            "total_hits": 18,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8688
+          }
+        }
+      }
+    },
+    {
+      "index": 31,
+      "full": "K...gKS.S..g.KS.K...g...S..g.KS.",
+      "layers": {
+        "kick": "K....K.......K..K............K..",
+        "snare": "......S.S.....S.........S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.74446,
+        "backbeat": 1.0,
+        "kicks": 0.8735,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.5,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5
+          }
+        }
+      }
+    },
+    {
+      "index": 32,
+      "full": "K.SgK...S.g..K..K.S.K...S.S.gK..",
+      "layers": {
+        "kick": "K...K........K..K...K........K..",
+        "snare": "..S.....S.........S.....S.S.....",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.74339,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.59524,
+        "clutter": 1.0,
+        "base_structure": 0.44734,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2857,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4656
+          }
+        }
+      }
+    },
+    {
+      "index": 33,
+      "full": "K.S.gKS.H.Sg.K..K.S.HKS......K..",
+      "layers": {
+        "kick": "K....K.......K..K....K.......K..",
+        "snare": "..S...S...S.......S...S.........",
+        "ghost": "....g......g....................",
+        "hat": "........H...........H...........",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.7428,
+        "backbeat": 0.5625,
+        "kicks": 0.93667,
+        "ghosts": 0.9,
+        "hats": 0.4875,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.69188,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.6667
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 1.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.6875,
+            "base_role": 0.7
+          }
+        }
+      }
+    },
+    {
+      "index": 34,
+      "full": "K.Sg.KSgKg..SKS.K.Sg..SSK.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K.......K....K..",
+        "snare": "..S...S.....S.S...S...SS..S...S.",
+        "ghost": "...g...g.g.........g............",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.74197,
+        "backbeat": 0.59062,
+        "kicks": 0.8825,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.72917,
+        "clutter": 0.5625,
+        "base_structure": 0.875,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.4286
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.35,
+            "total_hits": 20
+          },
+          "clutter": {
+            "density": 0.625,
+            "total_hits": 20,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.875
+          }
+        }
+      }
+    },
+    {
+      "index": 35,
+      "full": "K.Sg.Kg.K.g..KS.KSS.HKS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...........S..SS...S...S...S.",
+        "ghost": "...g..g...g.....................",
+        "hat": "....................H...........",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.74163,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.7,
+        "hats": 0.2925,
+        "syncopation": 0.76754,
+        "clutter": 0.75,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.3333
+          },
+          "hats": {
+            "hat_count": 1,
+            "even_hat_ratio": 1.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3684,
+            "total_hits": 19
+          },
+          "clutter": {
+            "density": 0.5938,
+            "total_hits": 19,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9313
+          }
+        }
+      }
+    },
+    {
+      "index": 36,
+      "full": "K.S.HKHSK.SH.KSS.HSH..S..S.H.K..",
+      "layers": {
+        "kick": "K....K..K....K...............K..",
+        "snare": "..S....S..S...SS..S...S..S......",
+        "ghost": "................................",
+        "hat": "....H.H....H.....H.H.......H....",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.74089,
+        "backbeat": 1.0,
+        "kicks": 0.8735,
+        "ghosts": 0.25,
+        "hats": 0.68333,
+        "syncopation": 0.87719,
+        "clutter": 0.75,
+        "base_structure": 0.625,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 0,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 6,
+            "even_hat_ratio": 0.3333,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4211,
+            "total_hits": 19
+          },
+          "clutter": {
+            "density": 0.5938,
+            "total_hits": 19,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.625,
+            "base_role": 0.625
+          }
+        }
+      }
+    },
+    {
+      "index": 37,
+      "full": "K.S.gKg.K.S..KggK.g..KS.KgS.HKS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S.......S...........S...S...S.",
+        "ghost": "....g.g.......gg..g......g......",
+        "hat": "............................H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73673,
+        "backbeat": 0.5625,
+        "kicks": 0.9475,
+        "ghosts": 0.7,
+        "hats": 0.2925,
+        "syncopation": 0.9375,
+        "clutter": 0.75,
+        "base_structure": 0.84203,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 6,
+            "near_snare_ratio": 0.3333
+          },
+          "hats": {
+            "hat_count": 1,
+            "even_hat_ratio": 1.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.45,
+            "total_hits": 20
+          },
+          "clutter": {
+            "density": 0.625,
+            "total_hits": 20,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8969
+          }
+        }
+      }
+    },
+    {
+      "index": 38,
+      "full": "K.ggS.SSKSg.SKSg..Sg.gSggS.g.Kg.",
+      "layers": {
+        "kick": "K.......K....K...............K..",
+        "snare": "....S.SS.S..S.S...S...S..S......",
+        "ghost": "..gg......g....g...g.g.gg..g..g.",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73631,
+        "backbeat": 0.75,
+        "kicks": 0.7975,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.99638,
+        "clutter": 0.4125,
+        "base_structure": 0.52953,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 10,
+            "near_snare_ratio": 0.9
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4783,
+            "total_hits": 23
+          },
+          "clutter": {
+            "density": 0.7188,
+            "total_hits": 23,
+            "longest_strong_run": 4
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5844
+          }
+        }
+      }
+    },
+    {
+      "index": 39,
+      "full": "KgSgg.gSKS.g.KgS.gSg.S.gSg.S.KS.",
+      "layers": {
+        "kick": "K.......K....K...............K..",
+        "snare": "..S....S.S.....S..S..S..S..S..S.",
+        "ghost": ".g.gg.g....g..g..g.g...g.g......",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73596,
+        "backbeat": 0.75,
+        "kicks": 0.7975,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.99638,
+        "clutter": 0.5625,
+        "base_structure": 0.45719,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 10,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4783,
+            "total_hits": 23
+          },
+          "clutter": {
+            "density": 0.7188,
+            "total_hits": 23,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4938
+          }
+        }
+      }
+    },
+    {
+      "index": 40,
+      "full": "K..gKK..S.g.....K.S.K.S.S...gKS.",
+      "layers": {
+        "kick": "K...KK..........K...K........K..",
+        "snare": "........S.........S...S.S.....S.",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73589,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.59524,
+        "clutter": 1.0,
+        "base_structure": 0.44734,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2857,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4656
+          }
+        }
+      }
+    },
+    {
+      "index": 41,
+      "full": "K...gKS.S..g.K..K.S.g...S..g..S.",
+      "layers": {
+        "kick": "K....K.......K..K...............",
+        "snare": "......S.S.........S.....S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73408,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 42,
+      "full": "K.S.g...S..g..S.K...gK..S.Sg.K..",
+      "layers": {
+        "kick": "K...............K....K.......K..",
+        "snare": "..S.....S.....S.........S.S.....",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73408,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 43,
+      "full": "K..gKK..S.g.....K.S.K...S.S.gK..",
+      "layers": {
+        "kick": "K...KK..........K...K........K..",
+        "snare": "........S.........S.....S.S.....",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73338,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.38484,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4031
+          }
+        }
+      }
+    },
+    {
+      "index": 44,
+      "full": "K...gKS.S..g....K.S.gK..S..g....",
+      "layers": {
+        "kick": "K....K..........K....K..........",
+        "snare": "......S.S.........S.....S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73272,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 45,
+      "full": "K...g.S.S.Sg....K...gK..S..g.K..",
+      "layers": {
+        "kick": "K...............K....K.......K..",
+        "snare": "......S.S.S.............S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73272,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 46,
+      "full": "K.S.gK..S..g.K..K.S.g...S..g....",
+      "layers": {
+        "kick": "K....K.......K..K...............",
+        "snare": "..S.....S.........S.....S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73272,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 47,
+      "full": "K.SgK...S.g..KS.K.g.K...S...gK..",
+      "layers": {
+        "kick": "K...K........K..K...K........K..",
+        "snare": "..S.....S.....S.........S.......",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73156,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.39469,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4313
+          }
+        }
+      }
+    },
+    {
+      "index": 48,
+      "full": "KSgSSKggKS.S..Sg..gS.K.gKSgS.gg.",
+      "layers": {
+        "kick": "K....K..K............K..K.......",
+        "snare": ".S.SS....S.S..S....S.....S.S....",
+        "ghost": "..g...gg.......g..g....g..g..gg.",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.73083,
+        "backbeat": 0.75,
+        "kicks": 0.7965,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.99638,
+        "clutter": 0.5625,
+        "base_structure": 0.42422,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.4
+          },
+          "ghosts": {
+            "ghost_count": 9,
+            "near_snare_ratio": 0.8889
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4783,
+            "total_hits": 23
+          },
+          "clutter": {
+            "density": 0.7188,
+            "total_hits": 23,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.5156
+          }
+        }
+      }
+    },
+    {
+      "index": 49,
+      "full": "K.S..KS.K.S..KS.K.g..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S...S...S.......S...S...S.",
+        "ghost": "..................g.............",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.72343,
+        "backbeat": 0.7875,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.65104,
+        "clutter": 1.0,
+        "base_structure": 0.94734,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 1,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3125,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.9375,
+            "base_role": 0.9656
+          }
+        }
+      }
+    },
+    {
+      "index": 50,
+      "full": "K.g..KS.K.S..KS.K.S..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S...S...S...S...S...S...S.",
+        "ghost": "..g.............................",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.72343,
+        "backbeat": 0.7875,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.65104,
+        "clutter": 1.0,
+        "base_structure": 0.94734,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.875
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 1,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3125,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.9375,
+            "base_role": 0.9656
+          }
+        }
+      }
+    },
+    {
+      "index": 51,
+      "full": "K.S.S.S.S.S.HHgSK.SS.K.gKS..H.g.",
+      "layers": {
+        "kick": "K...............K....K..K.......",
+        "snare": "..S.S.S.S.S....S..SS.....S......",
+        "ghost": "..............g........g......g.",
+        "hat": "............HH..............H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.72332,
+        "backbeat": 0.75,
+        "kicks": 0.70125,
+        "ghosts": 0.95,
+        "hats": 0.7375,
+        "syncopation": 0.54825,
+        "clutter": 1.0,
+        "base_structure": 0.52406,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.25
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 3,
+            "even_hat_ratio": 0.6667,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2632,
+            "total_hits": 19
+          },
+          "clutter": {
+            "density": 0.5938,
+            "total_hits": 19,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5687
+          }
+        }
+      }
+    },
+    {
+      "index": 52,
+      "full": "K.S..KS.K.gg.KSHK.S.gKS.K.S...g.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K.......",
+        "snare": "..S...S.......S...S...S...S.....",
+        "ghost": "..........gg........g.........g.",
+        "hat": "...............H................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.72158,
+        "backbeat": 0.675,
+        "kicks": 0.8825,
+        "ghosts": 0.6375,
+        "hats": 0.1575,
+        "syncopation": 0.81019,
+        "clutter": 1.0,
+        "base_structure": 0.83219,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.4286
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 1,
+            "even_hat_ratio": 0.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3889,
+            "total_hits": 18
+          },
+          "clutter": {
+            "density": 0.5625,
+            "total_hits": 18,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8687
+          }
+        }
+      }
+    },
+    {
+      "index": 53,
+      "full": "K.S..KS.K.S..KS.K.S..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S...S...S...S...S...S...S.",
+        "ghost": "................................",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.72118,
+        "backbeat": 0.9,
+        "kicks": 0.9475,
+        "ghosts": 0.25,
+        "hats": 0.35,
+        "syncopation": 0.52083,
+        "clutter": 1.0,
+        "base_structure": 1.0,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 1.0
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 0,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.25,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 1.0,
+            "base_role": 1.0
+          }
+        }
+      }
+    },
+    {
+      "index": 54,
+      "full": "S.S.SKg.KSS..K..SSgg.g.SKS.g.K..",
+      "layers": {
+        "kick": ".....K..K....K..........K....K..",
+        "snare": "S.S.S....SS.....SS.....S.S......",
+        "ghost": "......g...........gg.g.....g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.72019,
+        "backbeat": 0.75,
+        "kicks": 0.7363,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.87719,
+        "clutter": 0.75,
+        "base_structure": 0.45719,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4211,
+            "total_hits": 19
+          },
+          "clutter": {
+            "density": 0.5938,
+            "total_hits": 19,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4938
+          }
+        }
+      }
+    },
+    {
+      "index": 55,
+      "full": "K.SgKK..S.g.....K.g.K...S.S.g.S.",
+      "layers": {
+        "kick": "K...KK..........K...K...........",
+        "snare": "..S.....S...............S.S...S.",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.7195,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.59524,
+        "clutter": 1.0,
+        "base_structure": 0.39469,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2857,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4313
+          }
+        }
+      }
+    },
+    {
+      "index": 56,
+      "full": "K..gK.S.S.g..KS.K.g.KKS.S.S.g...",
+      "layers": {
+        "kick": "K...K........K..K...KK..........",
+        "snare": "......S.S.....S.......S.S.S.....",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71886,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.65104,
+        "clutter": 0.75,
+        "base_structure": 0.51969,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3125,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5563
+          }
+        }
+      }
+    },
+    {
+      "index": 57,
+      "full": "K..gKKS.S.g...S.K.g.KK..S.S.g.S.",
+      "layers": {
+        "kick": "K...KK..........K...KK..........",
+        "snare": "......S.S.....S.........S.S...S.",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71886,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.65104,
+        "clutter": 0.75,
+        "base_structure": 0.51969,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3125,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5563
+          }
+        }
+      }
+    },
+    {
+      "index": 58,
+      "full": "K.g..KS.K.S..KS.K.g..KS.K.g..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S...S...S.......S.......S.",
+        "ghost": "..g...............g.......g.....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71857,
+        "backbeat": 0.5625,
+        "kicks": 0.9475,
+        "ghosts": 0.45,
+        "hats": 0.35,
+        "syncopation": 0.91146,
+        "clutter": 1.0,
+        "base_structure": 0.84203,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8969
+          }
+        }
+      }
+    },
+    {
+      "index": 59,
+      "full": "K.g..KS.K.g..KS.K.g..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S.......S.......S...S...S.",
+        "ghost": "..g.......g.......g.............",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71857,
+        "backbeat": 0.5625,
+        "kicks": 0.9475,
+        "ghosts": 0.45,
+        "hats": 0.35,
+        "syncopation": 0.91146,
+        "clutter": 1.0,
+        "base_structure": 0.84203,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8969
+          }
+        }
+      }
+    },
+    {
+      "index": 60,
+      "full": "K.g..KS.K.g..KS.K.S..KS.K.g..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S.......S...S...S.......S.",
+        "ghost": "..g.......g...............g.....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71857,
+        "backbeat": 0.5625,
+        "kicks": 0.9475,
+        "ghosts": 0.45,
+        "hats": 0.35,
+        "syncopation": 0.91146,
+        "clutter": 1.0,
+        "base_structure": 0.84203,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8969
+          }
+        }
+      }
+    },
+    {
+      "index": 61,
+      "full": "K.S..KS.K.g..KS.K.g..KS.K.g..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S.......S.......S.......S.",
+        "ghost": "..........g.......g.......g.....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71857,
+        "backbeat": 0.5625,
+        "kicks": 0.9475,
+        "ghosts": 0.45,
+        "hats": 0.35,
+        "syncopation": 0.91146,
+        "clutter": 1.0,
+        "base_structure": 0.84203,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.8125,
+            "base_role": 0.8969
+          }
+        }
+      }
+    },
+    {
+      "index": 62,
+      "full": "K.SgKK..S.g.....K.g.K...S.S.g...",
+      "layers": {
+        "kick": "K...KK..........K...K...........",
+        "snare": "..S.....S...............S.S.....",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71699,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.33219,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3688
+          }
+        }
+      }
+    },
+    {
+      "index": 63,
+      "full": "K.S.gK..S..g.K..K.S.gKS.K..g.K..",
+      "layers": {
+        "kick": "K....K.......K..K....K..K....K..",
+        "snare": "..S.....S.........S...S.........",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71625,
+        "backbeat": 0.5,
+        "kicks": 0.9375,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.83333,
+        "clutter": 1.0,
+        "base_structure": 0.625,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.5714
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.625,
+            "base_role": 0.625
+          }
+        }
+      }
+    },
+    {
+      "index": 64,
+      "full": "K...gK..S..g....K...gK..S..g.KS.",
+      "layers": {
+        "kick": "K....K..........K....K.......K..",
+        "snare": "........S...............S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71619,
+        "backbeat": 1.0,
+        "kicks": 0.8735,
+        "ghosts": 0.45,
+        "hats": 0.35,
+        "syncopation": 0.86806,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.6
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4167,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 65,
+      "full": "K.SgKKS.S.g...S.K.g.K...S...gK..",
+      "layers": {
+        "kick": "K...KK..........K...K........K..",
+        "snare": "..S...S.S.....S.........S.......",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71599,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 0.75,
+        "base_structure": 0.45719,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4938
+          }
+        }
+      }
+    },
+    {
+      "index": 66,
+      "full": "gHHgHS.SKgggHKggKgSSgKgSHSHHSSS.",
+      "layers": {
+        "kick": "........K....K..K....K..........",
+        "snare": ".....S.S..........SS...S.S..SSS.",
+        "ghost": "g..g.....ggg..gg.g..g.g.........",
+        "hat": ".HH.H.......H...........H.HH....",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71573,
+        "backbeat": 0.75,
+        "kicks": 0.668,
+        "ghosts": 0.825,
+        "hats": 0.93571,
+        "syncopation": 0.97222,
+        "clutter": 0.3,
+        "base_structure": 0.40891,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 10,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 7,
+            "even_hat_ratio": 0.7143,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4667,
+            "total_hits": 30
+          },
+          "clutter": {
+            "density": 0.9375,
+            "total_hits": 30,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4719
+          }
+        }
+      }
+    },
+    {
+      "index": 67,
+      "full": "K.S..KS.K.S..KS.KHS..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S...S...S...S...S...S...S.",
+        "ghost": "................................",
+        "hat": ".................H..............",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71571,
+        "backbeat": 0.9,
+        "kicks": 0.9475,
+        "ghosts": 0.25,
+        "hats": 0.1575,
+        "syncopation": 0.61275,
+        "clutter": 1.0,
+        "base_structure": 1.0,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 1.0
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 0,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 1,
+            "even_hat_ratio": 0.0,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2941,
+            "total_hits": 17
+          },
+          "clutter": {
+            "density": 0.5312,
+            "total_hits": 17,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 1.0,
+            "base_role": 1.0
+          }
+        }
+      }
+    },
+    {
+      "index": 68,
+      "full": "K.S..KS.K.S..KS.K.g..KS.K.g..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S...S...S.......S.......S.",
+        "ghost": "..................g.......g.....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71257,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.78125,
+        "clutter": 1.0,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 69,
+      "full": "K.S..KS.K.g..KS.K.S..KS.K.g..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S.......S...S...S.......S.",
+        "ghost": "..........g...............g.....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71257,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.78125,
+        "clutter": 1.0,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 70,
+      "full": "K.g..KS.K.S..KS.K.S..KS.K.g..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S...S...S...S...S.......S.",
+        "ghost": "..g.......................g.....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71257,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.78125,
+        "clutter": 1.0,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 71,
+      "full": "K.S..KS.K.g..KS.K.g..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "..S...S.......S.......S...S...S.",
+        "ghost": "..........g.......g.............",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71257,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.78125,
+        "clutter": 1.0,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 72,
+      "full": "K.g..KS.K.S..KS.K.g..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S...S...S.......S...S...S.",
+        "ghost": "..g...............g.............",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71257,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.78125,
+        "clutter": 1.0,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9312
+          }
+        }
+      }
+    },
+    {
+      "index": 73,
+      "full": "K.g..KS.K.g..KS.K.S..KS.K.S..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S.......S...S...S...S...S.",
+        "ghost": "..g.......g.....................",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71257,
+        "backbeat": 0.675,
+        "kicks": 0.9475,
+        "ghosts": 0.3375,
+        "hats": 0.35,
+        "syncopation": 0.78125,
+        "clutter": 1.0,
+        "base_structure": 0.89469,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.875,
+            "base_role": 0.9313
+          }
+        }
+      }
+    },
+    {
+      "index": 74,
+      "full": "K.S.S.S.S.S.HH.SK.Sg.K.S.gH.SH.H",
+      "layers": {
+        "kick": "K...............K....K..........",
+        "snare": "..S.S.S.S.S....S..S....S....S...",
+        "ghost": "...................g.....g......",
+        "hat": "............HH............H..H.H",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.71107,
+        "backbeat": 0.75,
+        "kicks": 0.55,
+        "ghosts": 0.9,
+        "hats": 0.75,
+        "syncopation": 0.76754,
+        "clutter": 1.0,
+        "base_structure": 0.44625,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 5,
+            "even_hat_ratio": 0.4,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3684,
+            "total_hits": 19
+          },
+          "clutter": {
+            "density": 0.5938,
+            "total_hits": 19,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4625
+          }
+        }
+      }
+    },
+    {
+      "index": 75,
+      "full": "K.HgSKSHS.HSH.SS..HS.H.HKS.g.HS.",
+      "layers": {
+        "kick": "K....K..................K.......",
+        "snare": "....S.S.S..S..SS...S.....S....S.",
+        "ghost": "...g.......................g....",
+        "hat": "..H....H..H.H.....H..H.H.....H..",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70798,
+        "backbeat": 0.75,
+        "kicks": 0.55,
+        "ghosts": 0.9,
+        "hats": 0.85,
+        "syncopation": 0.94697,
+        "clutter": 0.5625,
+        "base_structure": 0.38375,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 8,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4545,
+            "total_hits": 22
+          },
+          "clutter": {
+            "density": 0.6875,
+            "total_hits": 22,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4
+          }
+        }
+      }
+    },
+    {
+      "index": 76,
+      "full": "H.g.g.S.K.S..KS.KHS..KS.K.S..K..",
+      "layers": {
+        "kick": "........K....K..K....K..K....K..",
+        "snare": "......S...S...S...S...S...S.....",
+        "ghost": "..g.g...........................",
+        "hat": "H................H..............",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70759,
+        "backbeat": 0.675,
+        "kicks": 0.743,
+        "ghosts": 0.61875,
+        "hats": 0.6375,
+        "syncopation": 0.65104,
+        "clutter": 1.0,
+        "base_structure": 0.76422,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3125,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.75,
+            "base_role": 0.7906
+          }
+        }
+      }
+    },
+    {
+      "index": 77,
+      "full": "K.S.gKS.S..g..S.K...gK..S..g....",
+      "layers": {
+        "kick": "K....K..........K....K..........",
+        "snare": "..S...S.S.....S.........S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70595,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 78,
+      "full": "K.S.g...S..g..S.K...gK..S..g.KS.",
+      "layers": {
+        "kick": "K...............K....K.......K..",
+        "snare": "..S.....S.....S.........S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70595,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 79,
+      "full": "gHSSSKSSKHHSgHHSHSggHggSHHgHHKg.",
+      "layers": {
+        "kick": ".....K..K....................K..",
+        "snare": "..SSS.SS...S...S.S.....S........",
+        "ghost": "g...........g.....gg.gg...g...g.",
+        "hat": ".H.......HH..HH.H...H...HH.HH...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.7056,
+        "backbeat": 0.75,
+        "kicks": 0.5395,
+        "ghosts": 1.0,
+        "hats": 0.89545,
+        "syncopation": 0.99194,
+        "clutter": 0.22,
+        "base_structure": 0.365,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.6667
+          },
+          "ghosts": {
+            "ghost_count": 8,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 11,
+            "even_hat_ratio": 0.5455,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4839,
+            "total_hits": 31
+          },
+          "clutter": {
+            "density": 0.9688,
+            "total_hits": 31,
+            "longest_strong_run": 7
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.4625
+          }
+        }
+      }
+    },
+    {
+      "index": 80,
+      "full": "S.S.gKHggSg.SHSS..gS.ggSKSHgHKH.",
+      "layers": {
+        "kick": ".....K..................K....K..",
+        "snare": "S.S......S..S.SS...S...S.S......",
+        "ghost": "....g..gg.g.......g..gg....g....",
+        "hat": "......H......H............H.H.H.",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70507,
+        "backbeat": 0.75,
+        "kicks": 0.5395,
+        "ghosts": 1.0,
+        "hats": 0.85,
+        "syncopation": 1.0,
+        "clutter": 0.3,
+        "base_structure": 0.34641,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.6667
+          },
+          "ghosts": {
+            "ghost_count": 8,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 5,
+            "even_hat_ratio": 0.8,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.48,
+            "total_hits": 25
+          },
+          "clutter": {
+            "density": 0.7812,
+            "total_hits": 25,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.4094
+          }
+        }
+      }
+    },
+    {
+      "index": 81,
+      "full": "S.SgH.HHHSSH.KSHKHSHSK.H.SSHHH..",
+      "layers": {
+        "kick": ".............K..K....K..........",
+        "snare": "S.S......SS...S...S.S....SS.....",
+        "ghost": "...g............................",
+        "hat": "....H.HHH..H...H.H.H...H...HHH..",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70476,
+        "backbeat": 0.75,
+        "kicks": 0.5395,
+        "ghosts": 0.9,
+        "hats": 0.68333,
+        "syncopation": 1.0,
+        "clutter": 0.4,
+        "base_structure": 0.50875,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.6667
+          },
+          "ghosts": {
+            "ghost_count": 1,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 12,
+            "even_hat_ratio": 0.3333,
+            "longest_hat_run": 3
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.48,
+            "total_hits": 25
+          },
+          "clutter": {
+            "density": 0.7812,
+            "total_hits": 25,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.525
+          }
+        }
+      }
+    },
+    {
+      "index": 82,
+      "full": "K...g...S.Sg....K...gK..S..g.K..",
+      "layers": {
+        "kick": "K...............K....K.......K..",
+        "snare": "........S.S.............S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70469,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.75758,
+        "clutter": 1.0,
+        "base_structure": 0.3125,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3636,
+            "total_hits": 11
+          },
+          "clutter": {
+            "density": 0.3438,
+            "total_hits": 11,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3125
+          }
+        }
+      }
+    },
+    {
+      "index": 83,
+      "full": "K...g...S..g.K..K...gK..S.Sg..S.",
+      "layers": {
+        "kick": "K............K..K....K..........",
+        "snare": "........S...............S.S...S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70459,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 84,
+      "full": "K...g...S.Sg....K...gK..S..g.KS.",
+      "layers": {
+        "kick": "K...............K....K.......K..",
+        "snare": "........S.S.............S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70459,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 85,
+      "full": "K...g.S.S..g.K..K...g...S..g.KS.",
+      "layers": {
+        "kick": "K............K..K............K..",
+        "snare": "......S.S...............S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70459,
+        "backbeat": 1.0,
+        "kicks": 0.7975,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 86,
+      "full": "K..gK...S.g..K..K.g.KK..S...g...",
+      "layers": {
+        "kick": "K...K........K..K...KK..........",
+        "snare": "........S...............S.......",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70329,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.86806,
+        "clutter": 1.0,
+        "base_structure": 0.26969,
+        "info": {
+          "backbeat": {
+            "snare_count": 2,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.0
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4167,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.25,
+            "base_role": 0.3063
+          }
+        }
+      }
+    },
+    {
+      "index": 87,
+      "full": "K..gK.S.S.g..K..K.g.K...S...gK..",
+      "layers": {
+        "kick": "K...K........K..K...K........K..",
+        "snare": "......S.S...............S.......",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70265,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.80128,
+        "clutter": 1.0,
+        "base_structure": 0.33219,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3846,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3688
+          }
+        }
+      }
+    },
+    {
+      "index": 88,
+      "full": "K..gKK..S.g..KS.K.g.K...S...g...",
+      "layers": {
+        "kick": "K...KK.......K..K...K...........",
+        "snare": "........S.....S.........S.......",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70265,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.80128,
+        "clutter": 1.0,
+        "base_structure": 0.33219,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3846,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3688
+          }
+        }
+      }
+    },
+    {
+      "index": 89,
+      "full": "K..gKK..S.g..K..K.g.K.S.S...g...",
+      "layers": {
+        "kick": "K...KK.......K..K...K...........",
+        "snare": "........S.............S.S.......",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70265,
+        "backbeat": 1.0,
+        "kicks": 0.73333,
+        "ghosts": 0.6375,
+        "hats": 0.35,
+        "syncopation": 0.80128,
+        "clutter": 1.0,
+        "base_structure": 0.33219,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.25
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3846,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3688
+          }
+        }
+      }
+    },
+    {
+      "index": 90,
+      "full": "K.SgK...S.S..KS.K.g.K.S.S...g.S.",
+      "layers": {
+        "kick": "K...K........K..K...K...........",
+        "snare": "..S.....S.S...S.......S.S.....S.",
+        "ghost": "...g..............g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.70249,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.41667,
+        "clutter": 1.0,
+        "base_structure": 0.50984,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5281
+          }
+        }
+      }
+    },
+    {
+      "index": 91,
+      "full": "K.SgKK..S.g..K..K.S.KK..K...gKS.",
+      "layers": {
+        "kick": "K...KK.......K..K...KK..K....K..",
+        "snare": "..S.....S.........S...........S.",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69919,
+        "backbeat": 0.5,
+        "kicks": 0.73208,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.78125,
+        "clutter": 1.0,
+        "base_structure": 0.63484,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 9,
+            "base_kick_match": 0.875,
+            "off_kick_ratio": 0.4444
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.375,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.625,
+            "base_role": 0.6531
+          }
+        }
+      }
+    },
+    {
+      "index": 92,
+      "full": "K..gK...S.S..KS.K.g.KK..S...gK..",
+      "layers": {
+        "kick": "K...K........K..K...KK.......K..",
+        "snare": "........S.S...S.........S.......",
+        "ghost": "...g..............g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69656,
+        "backbeat": 1.0,
+        "kicks": 0.8075,
+        "ghosts": 0.45,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.44734,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 7,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.4286
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4656
+          }
+        }
+      }
+    },
+    {
+      "index": 93,
+      "full": "K.S.g.S.S..g..S.K.S.gK..S.Sg....",
+      "layers": {
+        "kick": "K...............K....K..........",
+        "snare": "..S...S.S.....S...S.....S.S.....",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69596,
+        "backbeat": 1.0,
+        "kicks": 0.55,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.44643,
+        "clutter": 1.0,
+        "base_structure": 0.5,
+        "info": {
+          "backbeat": {
+            "snare_count": 7,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2143,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5
+          }
+        }
+      }
+    },
+    {
+      "index": 94,
+      "full": "K.g..KS.K.g..KS.K.g..KS.K.g..KS.",
+      "layers": {
+        "kick": "K....K..K....K..K....K..K....K..",
+        "snare": "......S.......S.......S.......S.",
+        "ghost": "..g.......g.......g.......g.....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69521,
+        "backbeat": 0.45,
+        "kicks": 0.9475,
+        "ghosts": 0.45,
+        "hats": 0.35,
+        "syncopation": 0.95833,
+        "clutter": 1.0,
+        "base_structure": 0.78937,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 1.0,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.5,
+            "total_hits": 16
+          },
+          "clutter": {
+            "density": 0.5,
+            "total_hits": 16,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.75,
+            "base_role": 0.8625
+          }
+        }
+      }
+    },
+    {
+      "index": 95,
+      "full": "K.S.S.S.S.S.HH.SK.Sg.K.S.S..HKg.",
+      "layers": {
+        "kick": "K...............K....K.......K..",
+        "snare": "..S.S.S.S.S....S..S....S.S......",
+        "ghost": "...................g..........g.",
+        "hat": "............HH..............H...",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69405,
+        "backbeat": 0.75,
+        "kicks": 0.7975,
+        "ghosts": 0.61875,
+        "hats": 0.7375,
+        "syncopation": 0.5787,
+        "clutter": 1.0,
+        "base_structure": 0.51422,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 3,
+            "even_hat_ratio": 0.6667,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2778,
+            "total_hits": 18
+          },
+          "clutter": {
+            "density": 0.5625,
+            "total_hits": 18,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5406
+          }
+        }
+      }
+    },
+    {
+      "index": 96,
+      "full": "K.SgK...S.g...S.K.S.K...S...gK..",
+      "layers": {
+        "kick": "K...K...........K...K........K..",
+        "snare": "..S.....S.....S...S.....S.......",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69335,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.48077,
+        "clutter": 1.0,
+        "base_structure": 0.38484,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2308,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4031
+          }
+        }
+      }
+    },
+    {
+      "index": 97,
+      "full": "K..gK...S.g.....K.S.K...S.S.gKS.",
+      "layers": {
+        "kick": "K...K...........K...K........K..",
+        "snare": "........S.........S.....S.S...S.",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69335,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.48077,
+        "clutter": 1.0,
+        "base_structure": 0.38484,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2308,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4031
+          }
+        }
+      }
+    },
+    {
+      "index": 98,
+      "full": "K..gKK..S.g.....K.S.K.S.S.S.g...",
+      "layers": {
+        "kick": "K...KK..........K...K...........",
+        "snare": "........S.........S...S.S.S.....",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69335,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.48077,
+        "clutter": 1.0,
+        "base_structure": 0.38484,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2308,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4031
+          }
+        }
+      }
+    },
+    {
+      "index": 99,
+      "full": "K..gKK..S.g.....K.g.K.S.S.S.g.S.",
+      "layers": {
+        "kick": "K...KK..........K...K...........",
+        "snare": "........S.............S.S.S...S.",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69325,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.59524,
+        "clutter": 1.0,
+        "base_structure": 0.39469,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2857,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.4313
+          }
+        }
+      }
+    },
+    {
+      "index": 100,
+      "full": "K...g.S.S.Sg....K.S.g.S.S..g.K..",
+      "layers": {
+        "kick": "K...............K............K..",
+        "snare": "......S.S.S.......S...S.S.......",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69174,
+        "backbeat": 1.0,
+        "kicks": 0.55,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.48077,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2308,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 101,
+      "full": "K...g.S.S..g....K.S.g...S.Sg.KS.",
+      "layers": {
+        "kick": "K...............K............K..",
+        "snare": "......S.S.........S.....S.S...S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69174,
+        "backbeat": 1.0,
+        "kicks": 0.55,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.48077,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2308,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 102,
+      "full": "K.S.g...S..g....K.S.gKS.S.Sg....",
+      "layers": {
+        "kick": "K...............K....K..........",
+        "snare": "..S.....S.........S...S.S.S.....",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69174,
+        "backbeat": 1.0,
+        "kicks": 0.55,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.48077,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2308,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 103,
+      "full": "K.S.gK..S..g....K.S.g...S.Sg..S.",
+      "layers": {
+        "kick": "K....K..........K...............",
+        "snare": "..S.....S.........S.....S.S...S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69174,
+        "backbeat": 1.0,
+        "kicks": 0.55,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.48077,
+        "clutter": 1.0,
+        "base_structure": 0.4375,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2308,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.4375,
+            "base_role": 0.4375
+          }
+        }
+      }
+    },
+    {
+      "index": 104,
+      "full": "K..gK.S.S.g..K..K.g.K...S.S.g...",
+      "layers": {
+        "kick": "K...K........K..K...K...........",
+        "snare": "......S.S...............S.S.....",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69074,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.33219,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3688
+          }
+        }
+      }
+    },
+    {
+      "index": 105,
+      "full": "K..gK.S.S.g.....K.g.KK..S.S.g...",
+      "layers": {
+        "kick": "K...K...........K...KK..........",
+        "snare": "......S.S...............S.S.....",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.69074,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.64103,
+        "clutter": 1.0,
+        "base_structure": 0.33219,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3077,
+            "total_hits": 13
+          },
+          "clutter": {
+            "density": 0.4062,
+            "total_hits": 13,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3688
+          }
+        }
+      }
+    },
+    {
+      "index": 106,
+      "full": "K..gK...S.g.....K.g.KK..S...g.S.",
+      "layers": {
+        "kick": "K...K...........K...KK..........",
+        "snare": "........S...............S.....S.",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68938,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.26969,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.25,
+            "base_role": 0.3063
+          }
+        }
+      }
+    },
+    {
+      "index": 107,
+      "full": "K..gK...S.g.....K.g.KK..S.S.g...",
+      "layers": {
+        "kick": "K...K...........K...KK..........",
+        "snare": "........S...............S.S.....",
+        "ghost": "...g......g.......g.........g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68938,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.26969,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.125
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.25,
+            "base_role": 0.3063
+          }
+        }
+      }
+    },
+    {
+      "index": 108,
+      "full": "K...gK..S.Sg....K...g.S.S.Sg....",
+      "layers": {
+        "kick": "K....K..........K...............",
+        "snare": "........S.S...........S.S.S.....",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68838,
+        "backbeat": 1.0,
+        "kicks": 0.55,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.52083,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.25,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 109,
+      "full": "K...gKS.S..g....K.S.g...S.Sg....",
+      "layers": {
+        "kick": "K....K..........K...............",
+        "snare": "......S.S.........S.....S.S.....",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68838,
+        "backbeat": 1.0,
+        "kicks": 0.55,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.52083,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.3333
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.25,
+            "total_hits": 12
+          },
+          "clutter": {
+            "density": 0.375,
+            "total_hits": 12,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 110,
+      "full": "K...g.S.S.Sg..S.K.S.gKS.K..g.K..",
+      "layers": {
+        "kick": "K...............K....K..K....K..",
+        "snare": "......S.S.S...S...S...S.........",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68795,
+        "backbeat": 0.5625,
+        "kicks": 0.7965,
+        "ghosts": 1.0,
+        "hats": 0.35,
+        "syncopation": 0.55556,
+        "clutter": 1.0,
+        "base_structure": 0.625,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.625
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.4
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.75
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2667,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.625,
+            "base_role": 0.625
+          }
+        }
+      }
+    },
+    {
+      "index": 111,
+      "full": "K...HS.S..gH..gS.SSS.KgS..SS.K..",
+      "layers": {
+        "kick": "K....................K.......K..",
+        "snare": ".....S.S.......S.SSS...S..SS....",
+        "ghost": "..........g...g.......g.........",
+        "hat": "....H......H....................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68667,
+        "backbeat": 0.75,
+        "kicks": 0.64625,
+        "ghosts": 0.95,
+        "hats": 0.6375,
+        "syncopation": 0.73529,
+        "clutter": 0.75,
+        "base_structure": 0.34203,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 3,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.6667
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3529,
+            "total_hits": 17
+          },
+          "clutter": {
+            "density": 0.5312,
+            "total_hits": 17,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.3125,
+            "base_role": 0.3969
+          }
+        }
+      }
+    },
+    {
+      "index": 112,
+      "full": "K.S.S.gSK.Sg...SK..g..S.KS.S.KS.",
+      "layers": {
+        "kick": "K.......K.......K.......K....K..",
+        "snare": "..S.S..S..S....S......S..S.S..S.",
+        "ghost": "......g....g.......g............",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68639,
+        "backbeat": 0.75,
+        "kicks": 0.7195,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.4902,
+        "clutter": 1.0,
+        "base_structure": 0.57234,
+        "info": {
+          "backbeat": {
+            "snare_count": 9,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.625,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.2353,
+            "total_hits": 17
+          },
+          "clutter": {
+            "density": 0.5312,
+            "total_hits": 17,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5625,
+            "base_role": 0.5906
+          }
+        }
+      }
+    },
+    {
+      "index": 113,
+      "full": "H.H.H.S.HHS.HKSHKH.H.KSHHHSH.KS.",
+      "layers": {
+        "kick": ".............K..K....K.......K..",
+        "snare": "......S...S...S.......S...S...S.",
+        "ghost": "................................",
+        "hat": "H.H.H...HH..H..H.H.H...HHH.H....",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68543,
+        "backbeat": 0.675,
+        "kicks": 0.745,
+        "ghosts": 0.25,
+        "hats": 0.81154,
+        "syncopation": 0.99638,
+        "clutter": 0.75,
+        "base_structure": 0.63813,
+        "info": {
+          "backbeat": {
+            "snare_count": 6,
+            "classic_backbeat": 0.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.75
+          },
+          "ghosts": {
+            "ghost_count": 0,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 13,
+            "even_hat_ratio": 0.4615,
+            "longest_hat_run": 3
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.4783,
+            "total_hits": 23
+          },
+          "clutter": {
+            "density": 0.7188,
+            "total_hits": 23,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.625,
+            "base_role": 0.6625
+          }
+        }
+      }
+    },
+    {
+      "index": 114,
+      "full": "K..gKK..S.g.....K.S.KK..K...gKS.",
+      "layers": {
+        "kick": "K...KK..........K...KK..K....K..",
+        "snare": "........S.........S...........S.",
+        "ghost": "...g......g.................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68397,
+        "backbeat": 0.5,
+        "kicks": 0.82437,
+        "ghosts": 0.95,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.50984,
+        "info": {
+          "backbeat": {
+            "snare_count": 3,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.375
+          },
+          "ghosts": {
+            "ghost_count": 3,
+            "near_snare_ratio": 0.6667
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.5281
+          }
+        }
+      }
+    },
+    {
+      "index": 115,
+      "full": "K...gK..K.Sg..S.K...gKS.S..g.KS.",
+      "layers": {
+        "kick": "K....K..K.......K....K.......K..",
+        "snare": "..........S...S.......S.S.....S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68372,
+        "backbeat": 0.5,
+        "kicks": 0.8725,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.69444,
+        "clutter": 1.0,
+        "base_structure": 0.625,
+        "info": {
+          "backbeat": {
+            "snare_count": 5,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3333,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.625,
+            "base_role": 0.625
+          }
+        }
+      }
+    },
+    {
+      "index": 116,
+      "full": "K.SSH.HHKSSH.H.HSHSH.HSHKS.H.KH.",
+      "layers": {
+        "kick": "K.......K...............K....K..",
+        "snare": "..SS.....SS.....S.S...S..S......",
+        "ghost": "................................",
+        "hat": "....H.HH...H.H.H.H.H.H.H...H..H.",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68316,
+        "backbeat": 1.0,
+        "kicks": 0.70125,
+        "ghosts": 0.25,
+        "hats": 0.6,
+        "syncopation": 0.95833,
+        "clutter": 0.5625,
+        "base_structure": 0.50875,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.5
+          },
+          "kicks": {
+            "kick_count": 4,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.25
+          },
+          "ghosts": {
+            "ghost_count": 0,
+            "near_snare_ratio": 0.0
+          },
+          "hats": {
+            "hat_count": 12,
+            "even_hat_ratio": 0.25,
+            "longest_hat_run": 2
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.5,
+            "total_hits": 24
+          },
+          "clutter": {
+            "density": 0.75,
+            "total_hits": 24,
+            "longest_strong_run": 3
+          },
+          "base_structure": {
+            "base_exact": 0.5,
+            "base_role": 0.525
+          }
+        }
+      }
+    },
+    {
+      "index": 117,
+      "full": "KHSgH.Kg.K.SgKKgKK.g..SS.....K..",
+      "layers": {
+        "kick": "K.....K..K...KK.KK...........K..",
+        "snare": "..S........S..........SS........",
+        "ghost": "...g...g....g..g...g............",
+        "hat": ".H..H...........................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68245,
+        "backbeat": 0.5,
+        "kicks": 0.89375,
+        "ghosts": 0.75,
+        "hats": 0.6375,
+        "syncopation": 0.79386,
+        "clutter": 1.0,
+        "base_structure": 0.375,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.25
+          },
+          "kicks": {
+            "kick_count": 8,
+            "base_kick_match": 0.5,
+            "off_kick_ratio": 0.75
+          },
+          "ghosts": {
+            "ghost_count": 5,
+            "near_snare_ratio": 0.4
+          },
+          "hats": {
+            "hat_count": 2,
+            "even_hat_ratio": 0.5,
+            "longest_hat_run": 1
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.5789,
+            "total_hits": 19
+          },
+          "clutter": {
+            "density": 0.5938,
+            "total_hits": 19,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.375,
+            "base_role": 0.375
+          }
+        }
+      }
+    },
+    {
+      "index": 118,
+      "full": "K.SgK...S.S..KS.K.S.K.S.S...g.S.",
+      "layers": {
+        "kick": "K...K........K..K...K...........",
+        "snare": "..S.....S.S...S...S...S.S.....S.",
+        "ghost": "...g........................g...",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68205,
+        "backbeat": 1.0,
+        "kicks": 0.6445,
+        "ghosts": 0.9,
+        "hats": 0.35,
+        "syncopation": 0.27778,
+        "clutter": 1.0,
+        "base_structure": 0.5625,
+        "info": {
+          "backbeat": {
+            "snare_count": 8,
+            "classic_backbeat": 1.0,
+            "base_snare_match": 0.75
+          },
+          "kicks": {
+            "kick_count": 5,
+            "base_kick_match": 0.375,
+            "off_kick_ratio": 0.2
+          },
+          "ghosts": {
+            "ghost_count": 2,
+            "near_snare_ratio": 1.0
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.1333,
+            "total_hits": 15
+          },
+          "clutter": {
+            "density": 0.4688,
+            "total_hits": 15,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5625,
+            "base_role": 0.5625
+          }
+        }
+      }
+    },
+    {
+      "index": 119,
+      "full": "K.S.gK..S..g.K..K.S.gK..K..g..S.",
+      "layers": {
+        "kick": "K....K.......K..K....K..K.......",
+        "snare": "..S.....S.........S...........S.",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68178,
+        "backbeat": 0.5,
+        "kicks": 0.8725,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.5625,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 1
+          },
+          "base_structure": {
+            "base_exact": 0.5625,
+            "base_role": 0.5625
+          }
+        }
+      }
+    },
+    {
+      "index": 120,
+      "full": "K...g...K..g.K..K.S.gKS.S.Sg.K..",
+      "layers": {
+        "kick": "K.......K....K..K....K.......K..",
+        "snare": "..................S...S.S.S.....",
+        "ghost": "....g......g........g......g....",
+        "hat": "................................",
+        "perc": "................................"
+      },
+      "score": {
+        "final": 0.68178,
+        "backbeat": 0.5,
+        "kicks": 0.8725,
+        "ghosts": 0.825,
+        "hats": 0.35,
+        "syncopation": 0.74405,
+        "clutter": 1.0,
+        "base_structure": 0.5625,
+        "info": {
+          "backbeat": {
+            "snare_count": 4,
+            "classic_backbeat": 0.5,
+            "base_snare_match": 0.375
+          },
+          "kicks": {
+            "kick_count": 6,
+            "base_kick_match": 0.75,
+            "off_kick_ratio": 0.5
+          },
+          "ghosts": {
+            "ghost_count": 4,
+            "near_snare_ratio": 0.5
+          },
+          "hats": {
+            "hat_count": 0,
+            "even_hat_ratio": 0.0
+          },
+          "syncopation": {
+            "sync_hit_ratio": 0.3571,
+            "total_hits": 14
+          },
+          "clutter": {
+            "density": 0.4375,
+            "total_hits": 14,
+            "longest_strong_run": 2
+          },
+          "base_structure": {
+            "base_exact": 0.5625,
+            "base_role": 0.5625
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+IDX | START_MS | END_MS | DUR | FILE
+-----------------------------------
+000 |      0.0 |     83.4 | 0.083s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_000_0ms.wav
+001 |     83.4 |    185.8 | 0.102s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_001_83ms.wav
+002 |    185.8 |    250.2 | 0.064s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_002_185ms.wav
+003 |    250.2 |    333.6 | 0.083s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_003_250ms.wav
+004 |    333.6 |    394.7 | 0.061s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_004_333ms.wav
+005 |    394.7 |    500.4 | 0.106s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_005_394ms.wav
+006 |    500.4 |    580.5 | 0.080s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_006_500ms.wav
+007 |    580.5 |    638.5 | 0.058s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_007_580ms.wav
+008 |    638.5 |    766.3 | 0.128s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_008_638ms.wav
+009 |    766.3 |    835.9 | 0.070s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_009_766ms.wav
+010 |    835.9 |    940.4 | 0.104s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_010_835ms.wav
+011 |    940.4 |   1000.8 | 0.060s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_011_940ms.wav
+012 |   1000.8 |   1079.7 | 0.079s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_012_1000ms.wav
+013 |   1079.7 |   1149.4 | 0.070s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_013_1079ms.wav
+014 |   1149.4 |   1251.0 | 0.102s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_014_1149ms.wav
+015 |   1251.0 |   1334.4 | 0.083s | exports/tracker_variations_good_cuts_v01/Atlantis_Amen/hybrid_16cuts_pairmode/slices_preview/slice_015_1250ms.wav

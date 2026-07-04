@@ -1,0 +1,29 @@
+M8-style slicer v10: Rainfall_Lite_Break
+Source: breaks/Rainfall Lite Break.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Rainfall_Lite_Break_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Rainfall_Lite_Break/Rainfall_Lite_Break_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     93.65 ms | dur     87.12 ms | hybrid_snap_auto | score 0.332249
+slice 01 |     93.65 ->    174.15 ms | dur     80.50 ms | grid | score 1.0
+slice 02 |    174.15 ->    280.91 ms | dur    106.76 ms | hybrid_snap_auto | score 0.153239
+slice 03 |    280.91 ->    354.10 ms | dur     73.20 ms | grid | score 1.0
+slice 04 |    354.10 ->    389.12 ms | dur     35.01 ms | hat_rescue | score 0.880391
+slice 05 |    386.03 ->    421.04 ms | dur     35.01 ms | hat_rescue | score 0.369761
+slice 06 |    400.54 ->    468.21 ms | dur     67.66 ms | hat_rescue | score 0.329877
+slice 07 |    468.21 ->    561.84 ms | dur     93.63 ms | grid | score 1.0
+slice 08 |    561.84 ->    657.41 ms | dur     95.58 ms | grid | score 1.0
+slice 09 |    657.41 ->    751.75 ms | dur     94.33 ms | hybrid_snap_auto | score 0.187912
+slice 10 |    751.75 ->    842.77 ms | dur     91.02 ms | hybrid_snap_hat | score 0.958811
+slice 11 |    842.77 ->    936.39 ms | dur     93.63 ms | grid | score 1.0
+slice 12 |    936.39 ->   1030.02 ms | dur     93.63 ms | grid | score 1.0
+slice 13 |   1030.02 ->   1127.62 ms | dur     97.60 ms | grid | score 1.0
+slice 14 |   1127.62 ->   1217.32 ms | dur     89.71 ms | hybrid_snap_hat | score 0.685046
+slice 15 |   1217.32 ->   1303.22 ms | dur     85.90 ms | grid | score 1.0
+slice 16 |   1303.22 ->   1338.23 ms | dur     35.01 ms | hat_rescue | score 0.890272
+slice 17 |   1317.73 ->   1352.74 ms | dur     35.01 ms | hybrid_snap_hat | score 0.561689
+slice 18 |   1338.05 ->   1404.58 ms | dur     66.53 ms | hat_rescue | score 0.533841
+slice 19 |   1404.58 ->   1498.23 ms | dur     93.65 ms | grid | score 1.0

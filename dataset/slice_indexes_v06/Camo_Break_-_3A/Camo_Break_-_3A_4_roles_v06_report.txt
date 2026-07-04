@@ -1,0 +1,29 @@
+4-role index-only autoslice v06 rolecurves: Camo_Break_-_3A
+Source: breaks/Camo Break - 3A.wav
+pair 0 = snare
+pair 1 = hat
+pair 2 = kick
+pair 3 = crash
+JSON: dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v06/Camo_Break_-_3A/Camo_Break_-_3A_source_loop_preview_v06.wav
+Backup old JSON: dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json.bak_20260702_061714
+
+SELECTED:
+pair 0 snare  |   2827.76 ->   2941.02 ms | dur    113.27 ms | score   1.4179 | features {'sub_ratio': 2.7e-05, 'low_ratio': 0.000929, 'low2_ratio': 0.114074, 'mid_ratio': 0.103092, 'high_ratio': 0.752588, 'air_ratio': 0.02929, 'rms_attack': 0.197686, 'rms_full': 0.166886, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.261979}
+pair 1 hat    |   2277.01 ->   2372.02 ms | dur     95.01 ms | score   3.1036 | features {'sub_ratio': 0.000101, 'low_ratio': 0.000612, 'low2_ratio': 0.009203, 'mid_ratio': 0.010366, 'high_ratio': 0.860962, 'air_ratio': 0.118756, 'rms_attack': 0.128746, 'rms_full': 0.118168, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2926}
+pair 2 kick   |    552.93 ->    782.93 ms | dur    230.00 ms | score   2.1474 | features {'sub_ratio': 0.02472, 'low_ratio': 0.918723, 'low2_ratio': 0.01021, 'mid_ratio': 0.003601, 'high_ratio': 0.038253, 'air_ratio': 0.004493, 'rms_attack': 0.13156, 'rms_full': 0.117551, 'tail_rms': 0.056979, 'tail_ratio': 0.433104, 'zcr': 0.092146}
+pair 3 crash  |   1913.47 ->   2433.47 ms | dur    520.00 ms | score   7.4646 | features {'sub_ratio': 0.000241, 'low_ratio': 0.010224, 'low2_ratio': 0.02001, 'mid_ratio': 0.019987, 'high_ratio': 0.890568, 'air_ratio': 0.05897, 'rms_attack': 0.04145, 'rms_full': 0.112817, 'tail_rms': 0.118063, 'tail_ratio': 2.848338, 'zcr': 0.270485}
+
+TOP HAT CANDIDATES:
+hat #00 |   2277.01 ms | score   3.1036 | curve   0.8970 | features {'sub_ratio': 0.0001, 'low_ratio': 0.0006, 'low2_ratio': 0.0092, 'mid_ratio': 0.0104, 'high_ratio': 0.861, 'air_ratio': 0.1188, 'rms_attack': 0.1287, 'rms_full': 0.1182, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2926}
+hat #01 |   2738.50 ms | score   3.1009 | curve   0.8459 | features {'sub_ratio': 0.0003, 'low_ratio': 0.002, 'low2_ratio': 0.0002, 'mid_ratio': 0.0087, 'high_ratio': 0.944, 'air_ratio': 0.0449, 'rms_attack': 0.1184, 'rms_full': 0.1087, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2818}
+hat #02 |   1269.12 ms | score   3.0909 | curve   0.8347 | features {'sub_ratio': 0.0003, 'low_ratio': 0.0015, 'low2_ratio': 0.0002, 'mid_ratio': 0.0087, 'high_ratio': 0.9432, 'air_ratio': 0.0461, 'rms_attack': 0.1186, 'rms_full': 0.1089, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2784}
+hat #03 |    807.62 ms | score   3.0493 | curve   0.8850 | features {'sub_ratio': 0.0002, 'low_ratio': 0.0015, 'low2_ratio': 0.0186, 'mid_ratio': 0.0128, 'high_ratio': 0.8464, 'air_ratio': 0.1205, 'rms_attack': 0.1298, 'rms_full': 0.1191, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2773}
+hat #04 |   2183.40 ms | score   2.8789 | curve   0.5770 | features {'sub_ratio': 0.0001, 'low_ratio': 0.0002, 'low2_ratio': 0.0006, 'mid_ratio': 0.0166, 'high_ratio': 0.9243, 'air_ratio': 0.0581, 'rms_attack': 0.0559, 'rms_full': 0.0514, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2674}
+hat #05 |    714.01 ms | score   2.8558 | curve   0.5582 | features {'sub_ratio': 0.0002, 'low_ratio': 0.0009, 'low2_ratio': 0.0015, 'mid_ratio': 0.0184, 'high_ratio': 0.9175, 'air_ratio': 0.0614, 'rms_attack': 0.0561, 'rms_full': 0.0516, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2682}
+hat #06 |   1356.19 ms | score   2.8382 | curve   0.5964 | features {'sub_ratio': 0.0002, 'low_ratio': 0.001, 'low2_ratio': 0.0031, 'mid_ratio': 0.0366, 'high_ratio': 0.9036, 'air_ratio': 0.0554, 'rms_attack': 0.0562, 'rms_full': 0.0516, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.277}
+hat #07 |   2647.07 ms | score   2.7284 | curve   0.4551 | features {'sub_ratio': 0.0003, 'low_ratio': 0.0065, 'low2_ratio': 0.0167, 'mid_ratio': 0.0198, 'high_ratio': 0.8961, 'air_ratio': 0.0606, 'rms_attack': 0.0407, 'rms_full': 0.0374, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2694}
+hat #08 |    439.73 ms | score   2.7072 | curve   0.4582 | features {'sub_ratio': 0.0006, 'low_ratio': 0.0104, 'low2_ratio': 0.0161, 'mid_ratio': 0.0221, 'high_ratio': 0.8945, 'air_ratio': 0.0564, 'rms_attack': 0.043, 'rms_full': 0.0397, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2625}
+hat #09 |   1175.51 ms | score   2.7042 | curve   0.4558 | features {'sub_ratio': 0.0003, 'low_ratio': 0.0115, 'low2_ratio': 0.017, 'mid_ratio': 0.0212, 'high_ratio': 0.8889, 'air_ratio': 0.0611, 'rms_attack': 0.0414, 'rms_full': 0.0381, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2654}
+hat #10 |   2551.29 ms | score   2.6102 | curve   0.9201 | features {'sub_ratio': 0.0001, 'low_ratio': 0.0083, 'low2_ratio': 0.1028, 'mid_ratio': 0.1057, 'high_ratio': 0.7422, 'air_ratio': 0.0408, 'rms_attack': 0.1672, 'rms_full': 0.1538, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2583}
+hat #11 |   1079.73 ms | score   2.5771 | curve   0.9038 | features {'sub_ratio': 0.0002, 'low_ratio': 0.0091, 'low2_ratio': 0.099, 'mid_ratio': 0.1124, 'high_ratio': 0.7403, 'air_ratio': 0.0391, 'rms_attack': 0.1681, 'rms_full': 0.1548, 'tail_rms': 0.0, 'tail_ratio': 0.0, 'zcr': 0.2472}

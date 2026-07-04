@@ -1,0 +1,28 @@
+M8-style slicer v10: Rock_Amen_-_12A
+Source: breaks/Rock Amen - 12A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 19
+JSON: dataset/pair_blocks_v02/Rock_Amen_-_12A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Rock_Amen_-_12A/Rock_Amen_-_12A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     82.72 ms | dur     76.19 ms | hybrid_snap_auto | score 0.141994
+slice 01 |     82.72 ->    156.73 ms | dur     74.01 ms | hybrid_snap_auto | score 0.197226
+slice 02 |    156.73 ->    232.93 ms | dur     76.19 ms | hat_rescue | score 0.765906
+slice 03 |    232.93 ->    330.88 ms | dur     97.96 ms | hybrid_snap_auto | score 0.226853
+slice 04 |    330.88 ->    391.84 ms | dur     60.95 ms | hybrid_snap_auto | score 0.740036
+slice 05 |    391.84 ->    437.55 ms | dur     45.71 ms | hat_rescue | score 0.569426
+slice 06 |    437.55 ->    499.23 ms | dur     61.68 ms | hybrid_snap_auto | score 0.220764
+slice 07 |    499.23 ->    534.24 ms | dur     35.01 ms | hat_rescue | score 0.93899
+slice 08 |    509.39 ->    594.29 ms | dur     84.90 ms | hybrid_snap_auto | score 0.584904
+slice 09 |    594.29 ->    671.93 ms | dur     77.64 ms | hybrid_snap_auto | score 0.199974
+slice 10 |    671.93 ->    746.67 ms | dur     74.74 ms | hat_rescue | score 0.752716
+slice 11 |    746.67 ->    844.63 ms | dur     97.96 ms | hybrid_snap_auto | score 0.214334
+slice 12 |    844.63 ->    949.12 ms | dur    104.49 ms | hybrid_snap_auto | score 0.747537
+slice 13 |    949.12 ->   1014.42 ms | dur     65.31 ms | hybrid_snap_auto | score 0.209225
+slice 14 |   1014.42 ->   1049.43 ms | dur     35.01 ms | hat_rescue | score 0.960078
+slice 15 |   1025.31 ->   1110.20 ms | dur     84.90 ms | hybrid_snap_auto | score 0.586663
+slice 16 |   1110.20 ->   1188.57 ms | dur     78.37 ms | hybrid_snap_auto | score 0.207516
+slice 17 |   1188.57 ->   1262.59 ms | dur     74.01 ms | hat_rescue | score 0.801296
+slice 18 |   1262.59 ->   1370.93 ms | dur    108.34 ms | hybrid_snap_auto | score 0.215481

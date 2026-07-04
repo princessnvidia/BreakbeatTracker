@@ -1,0 +1,31 @@
+M8-style slicer v10: Rock_Amen_2_-_12A
+Source: breaks/Rock Amen 2 - 12A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 22
+JSON: dataset/pair_blocks_v02/Rock_Amen_2_-_12A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Rock_Amen_2_-_12A/Rock_Amen_2_-_12A_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     50.07 ms | dur     50.07 ms | start | score 1.0
+slice 01 |     50.07 ->    156.73 ms | dur    106.67 ms | hybrid_snap_auto | score 0.424717
+slice 02 |    156.73 ->    330.88 ms | dur    174.15 ms | hybrid_snap_auto | score 0.689216
+slice 03 |    330.88 ->    496.33 ms | dur    165.44 ms | hybrid_snap_auto | score 0.72678
+slice 04 |    496.33 ->    531.34 ms | dur     35.01 ms | hat_rescue | score 0.699396
+slice 05 |    509.39 ->    670.48 ms | dur    161.09 ms | hybrid_snap_auto | score 0.556343
+slice 06 |    670.48 ->    842.45 ms | dur    171.97 ms | hybrid_snap_auto | score 0.68404
+slice 07 |    842.45 ->   1012.97 ms | dur    170.52 ms | hybrid_snap_auto | score 0.752347
+slice 08 |   1012.97 ->   1184.22 ms | dur    171.25 ms | hat_rescue | score 0.814574
+slice 09 |   1184.22 ->   1356.92 ms | dur    172.70 ms | hybrid_snap_auto | score 0.717548
+slice 10 |   1356.92 ->   1528.16 ms | dur    171.25 ms | hat_rescue | score 0.957587
+slice 11 |   1528.16 ->   1702.31 ms | dur    174.15 ms | hybrid_snap_auto | score 0.734633
+slice 12 |   1702.31 ->   1867.76 ms | dur    165.44 ms | hybrid_snap_auto | score 0.743776
+slice 13 |   1867.76 ->   1902.77 ms | dur     35.01 ms | hat_rescue | score 0.81034
+slice 14 |   1878.64 ->   2041.90 ms | dur    163.27 ms | hybrid_snap_auto | score 0.611393
+slice 15 |   2041.90 ->   2127.53 ms | dur     85.62 ms | hat_rescue | score 0.732141
+slice 16 |   2127.53 ->   2211.70 ms | dur     84.17 ms | hat_rescue | score 0.852412
+slice 17 |   2211.70 ->   2246.71 ms | dur     35.01 ms | hat_rescue | score 0.763978
+slice 18 |   2222.59 ->   2383.67 ms | dur    161.09 ms | hybrid_snap_auto | score 0.648938
+slice 19 |   2383.67 ->   2468.57 ms | dur     84.90 ms | hybrid_snap_auto | score 0.599587
+slice 20 |   2468.57 ->   2583.95 ms | dur    115.37 ms | hat_rescue | score 0.761444
+slice 21 |   2583.95 ->   2742.18 ms | dur    158.23 ms | hybrid_snap_auto | score 0.424834

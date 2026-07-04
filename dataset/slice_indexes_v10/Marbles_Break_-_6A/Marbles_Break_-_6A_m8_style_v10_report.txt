@@ -1,0 +1,25 @@
+M8-style slicer v10: Marbles_Break_-_6A
+Source: breaks/Marbles Break - 6A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 16
+JSON: dataset/pair_blocks_v02/Marbles_Break_-_6A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Marbles_Break_-_6A/Marbles_Break_-_6A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    174.15 ms | dur    167.62 ms | hybrid_snap_auto | score 0.406917
+slice 01 |    174.15 ->    341.04 ms | dur    166.89 ms | hybrid_snap_auto | score 0.407299
+slice 02 |    341.04 ->    524.63 ms | dur    183.58 ms | hat_rescue | score 0.944872
+slice 03 |    524.63 ->    709.66 ms | dur    185.03 ms | hybrid_snap_auto | score 0.842286
+slice 04 |    709.66 ->    864.94 ms | dur    155.28 ms | hybrid_snap_auto | score 0.406073
+slice 05 |    864.94 ->   1062.31 ms | dur    197.37 ms | hat_rescue | score 0.946788
+slice 06 |   1062.31 ->   1219.05 ms | dur    156.73 ms | hybrid_snap_auto | score 0.394587
+slice 07 |   1219.05 ->   1401.90 ms | dur    182.86 ms | hat_rescue | score 0.942549
+slice 08 |   1401.90 ->   1597.82 ms | dur    195.92 ms | hat_rescue | score 0.914131
+slice 09 |   1597.82 ->   1757.46 ms | dur    159.64 ms | hybrid_snap_hat | score 0.72262
+slice 10 |   1757.46 ->   1925.81 ms | dur    168.34 ms | hat_rescue | score 0.972549
+slice 11 |   1925.81 ->   2121.72 ms | dur    195.92 ms | hat_rescue | score 0.949049
+slice 12 |   2121.72 ->   2283.54 ms | dur    161.81 ms | hybrid_snap_hat | score 0.722576
+slice 13 |   2283.54 ->   2466.39 ms | dur    182.86 ms | hybrid_snap_auto | score 0.807796
+slice 14 |   2466.39 ->   2636.19 ms | dur    169.80 ms | hybrid_snap_auto | score 0.403413
+slice 15 |   2636.19 ->   2820.25 ms | dur    184.06 ms | hybrid_snap_auto | score 0.835353

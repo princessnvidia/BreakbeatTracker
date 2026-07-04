@@ -1,0 +1,29 @@
+M8-style slicer v10: Stepper_Break
+Source: breaks/Stepper Break.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 20
+JSON: dataset/pair_blocks_v02/Stepper_Break_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Stepper_Break/Stepper_Break_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->    185.26 ms | dur    178.73 ms | hybrid_snap_auto | score 0.229065
+slice 01 |    185.26 ->    354.83 ms | dur    169.57 ms | grid | score 1.0
+slice 02 |    354.83 ->    570.34 ms | dur    215.51 ms | hybrid_snap_auto | score 0.693789
+slice 03 |    570.34 ->    725.62 ms | dur    155.28 ms | hybrid_snap_auto | score 0.197155
+slice 04 |    725.62 ->    918.64 ms | dur    193.02 ms | hybrid_snap_hat | score 0.813033
+slice 05 |    918.64 ->   1092.79 ms | dur    174.15 ms | hybrid_snap_auto | score 0.377077
+slice 06 |   1092.79 ->   1273.47 ms | dur    180.68 ms | hybrid_snap_auto | score 0.351256
+slice 07 |   1273.47 ->   1482.13 ms | dur    208.66 ms | hybrid_snap_auto | score 0.457496
+slice 08 |   1482.13 ->   1651.52 ms | dur    169.39 ms | grid | score 1.0
+slice 09 |   1651.52 ->   1686.53 ms | dur     35.01 ms | hat_rescue | score 0.905277
+slice 10 |   1670.39 ->   1705.40 ms | dur     35.01 ms | hybrid_snap_hat | score 0.987504
+slice 11 |   1686.35 ->   1852.65 ms | dur    166.30 ms | hat_rescue | score 0.845667
+slice 12 |   1852.65 ->   2037.94 ms | dur    185.28 ms | grid | score 1.0
+slice 13 |   2037.94 ->   2194.29 ms | dur    156.35 ms | grid | score 1.0
+slice 14 |   2194.29 ->   2398.91 ms | dur    204.63 ms | hat_rescue | score 0.760874
+slice 15 |   2398.91 ->   2593.74 ms | dur    194.83 ms | hybrid_snap_auto | score 0.423639
+slice 16 |   2593.74 ->   2767.53 ms | dur    173.79 ms | grid | score 1.0
+slice 17 |   2767.53 ->   2802.54 ms | dur     35.01 ms | hat_rescue | score 0.913335
+slice 18 |   2786.39 ->   2821.41 ms | dur     35.01 ms | hybrid_snap_hat | score 0.987559
+slice 19 |   2800.91 ->   2964.26 ms | dur    163.36 ms | hat_rescue | score 0.844662

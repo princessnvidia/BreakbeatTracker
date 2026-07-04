@@ -1,0 +1,109 @@
+{
+  "version": "formal_break8_roles_v01",
+  "source_pair_json": "dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json",
+  "backup_pair_json": "dataset/pair_blocks_v02/Atlantis_Amen_pair_blocks_v02.json.formal_break8_backup_20260702_045802",
+  "safe": "Atlantis_Amen",
+  "pattern": [
+    "kick",
+    "hat",
+    "snare",
+    "hat",
+    "hat",
+    "kick",
+    "snare",
+    "hat"
+  ],
+  "pattern_text": "kick hat snare hat hat kick snare hat",
+  "rule": "role = pattern[pair_order_index % len(pattern)]",
+  "write_role_guess": true,
+  "assignments": [
+    {
+      "order_index": 0,
+      "pair": 0,
+      "cycle_position": 0,
+      "role": "kick",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_00_0ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "kick",
+      "old_manual_role": "kick",
+      "old_role_confidence": 1.0
+    },
+    {
+      "order_index": 1,
+      "pair": 1,
+      "cycle_position": 1,
+      "role": "hat",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_01_166ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "hat",
+      "old_manual_role": "hat",
+      "old_role_confidence": 1.0
+    },
+    {
+      "order_index": 2,
+      "pair": 2,
+      "cycle_position": 2,
+      "role": "snare",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_02_333ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "snare",
+      "old_manual_role": "snare",
+      "old_role_confidence": 1.0
+    },
+    {
+      "order_index": 3,
+      "pair": 3,
+      "cycle_position": 3,
+      "role": "hat",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_03_500ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "hat",
+      "old_manual_role": "hat",
+      "old_role_confidence": 1.0
+    },
+    {
+      "order_index": 4,
+      "pair": 4,
+      "cycle_position": 4,
+      "role": "hat",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_04_667ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "hat",
+      "old_manual_role": "hat",
+      "old_role_confidence": 1.0
+    },
+    {
+      "order_index": 5,
+      "pair": 5,
+      "cycle_position": 5,
+      "role": "kick",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_05_833ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "kick",
+      "old_manual_role": "kick",
+      "old_role_confidence": 1.0
+    },
+    {
+      "order_index": 6,
+      "pair": 6,
+      "cycle_position": 6,
+      "role": "snare",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_06_1000ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "snare",
+      "old_manual_role": "snare",
+      "old_role_confidence": 1.0
+    },
+    {
+      "order_index": 7,
+      "pair": 7,
+      "cycle_position": 7,
+      "role": "hat",
+      "audio_path": "dataset/pair_blocks_v02/Atlantis_Amen/pair_blocks/pair_07_1167ms.wav",
+      "duration_ms": 166.78004535147392,
+      "old_role_guess": "hat",
+      "old_manual_role": "hat",
+      "old_role_confidence": 1.0
+    }
+  ]
+}

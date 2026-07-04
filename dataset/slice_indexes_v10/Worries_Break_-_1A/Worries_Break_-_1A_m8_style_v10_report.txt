@@ -1,0 +1,28 @@
+M8-style slicer v10: Worries_Break_-_1A
+Source: breaks/Worries Break - 1A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 19
+JSON: dataset/pair_blocks_v02/Worries_Break_-_1A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Worries_Break_-_1A/Worries_Break_-_1A_source_loop_preview_v10.wav
+
+slice 00 |      6.53 ->     87.07 ms | dur     80.54 ms | hybrid_snap_auto | score 0.527099
+slice 01 |     87.07 ->    169.80 ms | dur     82.72 ms | hybrid_snap_auto | score 0.208567
+slice 02 |    169.80 ->    267.76 ms | dur     97.96 ms | hybrid_snap_auto | score 0.44387
+slice 03 |    267.76 ->    362.81 ms | dur     95.06 ms | hybrid_snap_auto | score 0.19472
+slice 04 |    362.81 ->    397.82 ms | dur     35.01 ms | hybrid_snap_hat | score 0.906513
+slice 05 |    375.87 ->    410.88 ms | dur     35.01 ms | hat_rescue | score 0.920323
+slice 06 |    394.01 ->    552.93 ms | dur    158.91 ms | hybrid_snap_auto | score 0.540534
+slice 07 |    552.93 ->    655.96 ms | dur    103.04 ms | hat_rescue | score 0.805714
+slice 08 |    655.96 ->    718.37 ms | dur     62.40 ms | hat_rescue | score 0.816111
+slice 09 |    718.37 ->    842.45 ms | dur    124.08 ms | hybrid_snap_auto | score 0.442666
+slice 10 |    842.45 ->    909.93 ms | dur     67.48 ms | hybrid_snap_auto | score 0.24161
+slice 11 |    909.93 ->    997.01 ms | dur     87.07 ms | hybrid_snap_auto | score 0.475988
+slice 12 |    997.01 ->   1100.05 ms | dur    103.04 ms | hybrid_snap_auto | score 0.215002
+slice 13 |   1100.05 ->   1142.86 ms | dur     42.81 ms | hybrid_snap_hat | score 0.979514
+slice 14 |   1142.86 ->   1203.08 ms | dur     60.23 ms | hybrid_snap_auto | score 0.145845
+slice 15 |   1203.08 ->   1268.39 ms | dur     65.31 ms | hat_rescue | score 0.816267
+slice 16 |   1268.39 ->   1303.40 ms | dur     35.01 ms | hybrid_snap_hat | score 0.867623
+slice 17 |   1288.71 ->   1362.72 ms | dur     74.01 ms | hat_rescue | score 0.815283
+slice 18 |   1362.72 ->   1432.24 ms | dur     69.52 ms | hybrid_snap_auto | score 0.360261

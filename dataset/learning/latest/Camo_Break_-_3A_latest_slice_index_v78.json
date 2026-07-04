@@ -1,0 +1,23 @@
+{
+  "version": "breakbeatai_latest_slice_index_v78",
+  "reason": "switch_break",
+  "updated_at": "2026-07-02 09:33:31",
+  "safe": "Camo_Break_-_3A",
+  "source_pair_json": "dataset/pair_blocks_v02/Camo_Break_-_3A_pair_blocks_v02.json",
+  "source_audio": "breaks/Camo Break - 3A.wav",
+  "step_count": 32,
+  "locked_bpm": 155.0,
+  "locked_step_ms": 96.7741935483871,
+  "locked_grid_steps": 32,
+  "locked_hit_slots": 16,
+  "hit_length_steps": 2,
+  "hit_spacing_steps": 2,
+  "hit_slots": 16,
+  "step_ms": 96.7742,
+  "target_bpm": 155.0,
+  "target_step_ms": 96.7741935483871,
+  "storage": "index_only_preferred",
+  "warp_exact": true,
+  "warp_mode": "pitch_preserve_rubberband_or_ffmpeg_v44",
+  "pattern": []
+}

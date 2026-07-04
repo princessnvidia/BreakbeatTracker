@@ -1,0 +1,26 @@
+M8-style slicer v10: Your_Amen_-_4A
+Source: breaks/Your Amen - 4A.wav
+Mode: hybrid
+Target BPM: 155.0
+Target loop: 3096.774 ms
+Slices: 17
+JSON: dataset/pair_blocks_v02/Your_Amen_-_4A_pair_blocks_v02.json
+Preview: dataset/slice_indexes_v10/Your_Amen_-_4A/Your_Amen_-_4A_source_loop_preview_v10.wav
+
+slice 00 |      0.00 ->     35.01 ms | dur     35.01 ms | start | score 1.0
+slice 01 |     23.95 ->    178.50 ms | dur    154.56 ms | hybrid_snap_auto | score 0.348167
+slice 02 |    178.50 ->    355.56 ms | dur    177.05 ms | hat_rescue | score 0.89711
+slice 03 |    355.56 ->    539.86 ms | dur    184.31 ms | hat_rescue | score 0.839146
+slice 04 |    539.86 ->    724.17 ms | dur    184.31 ms | hybrid_snap_auto | score 0.633081
+slice 05 |    724.17 ->    899.77 ms | dur    175.60 ms | hat_rescue | score 0.961689
+slice 06 |    899.77 ->   1086.26 ms | dur    186.49 ms | hat_rescue | score 0.861203
+slice 07 |   1086.26 ->   1269.84 ms | dur    183.58 ms | hybrid_snap_auto | score 0.65298
+slice 08 |   1269.84 ->   1446.89 ms | dur    177.05 ms | hat_rescue | score 0.966476
+slice 09 |   1446.89 ->   1630.48 ms | dur    183.58 ms | hat_rescue | score 0.827169
+slice 10 |   1630.48 ->   1815.51 ms | dur    185.03 ms | hybrid_snap_auto | score 0.641234
+slice 11 |   1815.51 ->   1991.11 ms | dur    175.60 ms | hat_rescue | score 0.920052
+slice 12 |   1991.11 ->   2172.52 ms | dur    181.41 ms | hat_rescue | score 0.77469
+slice 13 |   2172.52 ->   2361.90 ms | dur    189.39 ms | hybrid_snap_auto | score 0.777717
+slice 14 |   2361.90 ->   2549.12 ms | dur    187.21 ms | hybrid_snap_auto | score 0.568068
+slice 15 |   2549.12 ->   2714.56 ms | dur    165.44 ms | hybrid_snap_auto | score 0.45735
+slice 16 |   2714.56 ->   2906.15 ms | dur    191.59 ms | hybrid_snap_auto | score 0.773435
