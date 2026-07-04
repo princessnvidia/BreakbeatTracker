@@ -1,4 +1,4 @@
-# BreakbeatBrain 🥁
+# BreakbeatTracker 🥁
 
 An open-source breakbeat workstation for creating, analyzing and remixing classic breakbeats.
 
