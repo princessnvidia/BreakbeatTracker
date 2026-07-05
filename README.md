@@ -1,87 +1,137 @@
 # BreakbeatTracker 🥁
 
-An open-source breakbeat workstation for creating, analyzing and remixing classic breakbeats.
+Open-source tracker for **analyzing, slicing and reinventing classic breakbeats**.
 
-BreakbeatTracker combines automatic drum slicing, intelligent sample recognition and tracker-style sequencing to help producers build authentic Jungle, Drum & Bass and Breakcore rhythms faster than ever.
+BreakbeatTracker combines automatic drum recognition, intelligent sample organization and tracker-style sequencing to accelerate Jungle, Drum & Bass and Breakcore production.
 
-## Demo
+---
 
 <p align="center">
-  <img src="docs/demo.gif" alt="BreakbeatAI Demo" width="100%">
+  <img src="docs/demo.gif" alt="BreakbeatTracker Demo" width="100%">
 </p>
 
 ---
 
-## Features
+# Features
 
-### 🥁 Automatic Break Analysis
+## 🥁 Break Analysis
 
-- Automatic break detection
-- Kick, snare, hi-hat and cymbal recognition
-- Slice classification
+- Automatic break slicing
+- Kick, snare, hat and cymbal recognition
+- Intelligent slice classification
 - Waveform visualization
-- Intelligent sample grouping
+- Automatic sample organization
 
-### 🎛 Tracker Editor
+## 🎛 Tracker Workflow
 
 - Classic tracker interface
 - Step sequencing
 - Pattern editing
 - Instant playback
-- Keyboard workflow
+- Keyboard-first workflow
 
-### 🎲 Pattern Generation
+## 🎲 Pattern Generation
 
-- Random pattern generation
-- Intelligent rhythm variations
-- Breakbeat mutations
-- Humanized grooves
+- Rhythm variations
+- Groove mutations
+- Humanized timing
 - Syncopated fills
+- Creative randomization
 
-### 🎧 Audio Engine
+## 🎧 Audio Engine
 
 - Real-time playback
 - Slice preview
-- Tempo adjustment
-- Pitch control
+- Tempo control
+- Pitch shifting
 - Volume control
 
-### ⚡ Sample Library
+## 📚 Sample Library
 
-- Automatic slice organization
-- Sample browser
-- Tagging system
-- Fast search
+- Automatic slice browser
 - Favorites
+- Search
+- Tags
+- Drum categorization
 
-### 🤖 AI Assisted
+## 🤖 Intelligent Assistance
 
-- Drum type recognition
+- Drum recognition
 - Automatic slice sorting
 - Pattern suggestions
-- Smart break reconstruction
+- Break reconstruction
 
 ---
 
-## Roadmap
+# Tech Stack
+
+- Python
+- PySide6
+- Qt6
+- NumPy
+- SciPy
+- Librosa
+
+---
+
+# Audio Pipeline
+
+```
+Audio Loop
+      │
+      ▼
+Slice Detection
+      │
+      ▼
+Kick / Snare / Hat Recognition
+      │
+      ▼
+Slice Library
+      │
+      ▼
+Tracker Editor
+      │
+      ▼
+Pattern Generator
+      │
+      ▼
+Playback
+```
+
+---
+
+# Roadmap
+
+## Tracker
+
+- [ ] Multi-track patterns
+- [ ] Song mode
+- [ ] Pattern chaining
+
+## Export
 
 - [ ] MIDI export
 - [ ] WAV export
-- [ ] Multi-track patterns
-- [ ] VST support
-- [ ] M8 Tracker compatibility
 - [ ] Renoise export
+- [ ] M8 Tracker export
+
+## Intelligence
+
 - [ ] AI groove generation
 - [ ] Batch break analysis
+- [ ] Smart sample recommendations
+
+## Performance
+
 - [ ] Live performance mode
+- [ ] VST support
 
 ---
 
-## Installation
+# Installation
 
 ```bash
 git clone https://github.com/princessnvidia/BreakbeatTracker.git
-
 cd BreakbeatTracker
 
 python -m venv .venv
@@ -94,32 +144,19 @@ python main.py
 
 ---
 
-## Technologies
+# Philosophy
 
-- Python
-- PySide6
-- NumPy
-- SciPy
-- Librosa
-- Qt6
+BreakbeatTracker is built around a simple idea:
 
----
+Creating breakbeats should feel fast, playful and musical.
 
-## Why BreakbeatTracker?
+Instead of spending hours manually slicing loops and organizing drum hits, producers should be able to focus on experimentation. The software handles repetitive analysis while preserving the creative workflow that made classic trackers so enjoyable.
 
-BreakbeatTracker is designed for producers who love classic sampled breaks such as the Amen Break, Funky Drummer, Think Break and Apache.
-
-Instead of manually slicing every loop, BreakbeatTracker automatically identifies drum hits and helps you build new rhythms with a fast tracker workflow.
+The long-term vision is to become an open-source tracker dedicated to sampled breakbeat music, inspired by decades of tracker culture while exploring modern intelligent audio tools.
 
 ---
 
-## Screenshots
-
-Coming soon.
-
----
-
-## Inspiration
+# Inspiration
 
 - Renoise
 - Dirtywave M8
@@ -129,6 +166,12 @@ Coming soon.
 
 ---
 
-## License
+# Status
+
+🚧 Active Development
+
+---
+
+# License
 
 MIT License
